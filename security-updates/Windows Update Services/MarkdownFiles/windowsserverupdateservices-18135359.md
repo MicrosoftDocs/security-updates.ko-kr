@@ -1,0 +1,381 @@
+---
+TOCTitle: Windows Server Update Services 추가 정보
+Title: Windows Server Update Services 추가 정보
+ms:assetid: '4244109a-395a-4ff8-9989-ea55ab0964a3'
+ms:contentKeyID: 18135359
+ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Cc720505(v=WS.10)'
+---
+
+Windows Server Update Services 추가 정보
+========================================
+
+이 문서는 WSUS(Windows Server Update Services)에 영향을 주는 알려진 문제점에 대해 설명합니다. WSUS 설치 시 권장 사항과 요구 사항도 포함되어 있습니다.
+
+| ![](images/Cc720505.note(WS.10).gif)참고                                                                                                  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 이 설명서의 복사본은 Microsoft 다운로드 센터([http://go.microsoft.com/fwlink/?LinkId=48126](http://go.microsoft.com/fwlink/?linkid=48126))에서 다운로드할 수 있습니다. |
+
+시작하기 전에
+-------------
+
+#### 문제 1: IIS를 설치해야 함
+
+Microsoft® Windows Server™ Update Services(WSUS)를 사용하려면 IIS(인터넷 정보 서비스)가 설치되어 있어야 합니다. 그러나 Microsoft Windows Server 2003 및 Microsoft Windows® 2000 Server에서는 IIS가 기본적으로 설치되어 있지 않으므로 Windows Server Update Services 설치 프로그램을 계속 진행할 수 없고 IIS가 설치되어 있지 않다는 오류 메시지가 표시됩니다.
+
+IIS를 설치하려면
+
+1.  제어판을 엽니다.
+2.  **프로그램 추가/제거**를 두 번 클릭합니다.
+3.  **Windows 구성 요소 추가/제거**를 클릭합니다.
+4.  **구성 요소** 목록에서 **응용 프로그램 서버**를 클릭합니다.
+5.  **자세히**를 클릭합니다.
+6.  **ASP.NET** 확인란을 선택합니다. **네트워크 COM+ 액세스**를 사용하도록 설정하면 IIS(인터넷 정보 서비스)가 자동으로 선택됩니다.
+7.  **IIS(인터넷 정보 서비스)**를 선택한 다음 **자세히**를 클릭하여 IIS 선택적 구성 요소의 목록을 봅니다.
+8.  설치할 모든 선택적 구성 요소를 선택합니다. World Wide Web 서비스의 선택적 구성 요소에는 Active Server Pages 구성 요소와 원격 관리(HTML) 같은 중요한 하위 구성 요소가 포함되어 있습니다. 이들 하위 구성 요소를 보고 선택하려면 World Wide Web 서비스를 클릭한 다음 자세히를 클릭합니다. Windows 구성 요소 마법사로 돌아올 때까지 계속 확인을 클릭합니다.
+9.  **다음**을 클릭하고 Windows 구성 요소 마법사를 완료합니다.
+10. IIS를 설치한 후에 Windows Server Update Services 설치 프로그램을 실행합니다.
+
+#### 문제 2: Windows 2000 Server를 실행하고 있는 서버의 경우 WSUS를 설치하기 전에 IIS에 웹 사이트가 적어도 하나 있어야 함
+
+설치 프로그램이 실행될 때 IIS에 아무런 사이트도 없는 경우 Windows Server Update Services 설치 프로그램이 웹 사이트를 만들지 못할 수 있습니다. 예를 들어 SUS(Software Update Services) 1.0 사이트가 IIS에 있는 유일한 사이트인데 WSUS를 설치하기 전에 이를 삭제한 경우 이러한 문제가 발생할 수 있습니다.
+
+이 경우에는 인터넷 정보 서비스(IIS) 관리자 스냅인을 사용하여 새 웹 사이트를 만들어야 합니다. 그런 다음에 이 사이트를 선택하거나 WSUS 설치 도중 새 사이트를 지정할 수 있습니다.
+
+이미 WSUS를 설치하려고 시도했는데 사이트가 없었기 때문에 설치가 실패한 경우에는 IIS 관리자 스냅인을 열고 사이트 "Web Site \#1"을 삭제하십시오. 그런 다음 앞에서 설명한 단계를 따르고 설치 프로그램을 다시 실행합니다.
+
+#### 문제 3: 필수 구성 요소 설치
+
+#### 소프트웨어 요구 사항
+
+다음 표에는 지원되는 각 운영 체제에 대한 필수 소프트웨어가 표시되어 있습니다. WSUS 설치 프로그램을 실행하기 전에 WSUS 서버가 이 요구 사항 목록을 충족하는지 확인하십시오. 설치가 완료될 때 컴퓨터를 다시 시작해야 하는 업데이트가 있는 경우 WSUS를 설치하기 전에 컴퓨터를 다시 시작해야 합니다.
+
+###  
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>운영 체제</th>
+<th>요구 사항</th>
+<th>다운로드</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">모든 운영 체제</td>
+<td style="border:1px solid black;">Microsoft Internet Information Services(IIS) 5.0</td>
+<td style="border:1px solid black;">운영 체제에서 설치합니다.
+&quot;문제 1: IIS를 설치해야 함&quot;을 참조하십시오.</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">모든 운영 체제</td>
+<td style="border:1px solid black;">BITS(Background Intelligent Transfer Service) 2.0</td>
+<td style="border:1px solid black;">Windows Server 2003 운영 체제의 경우 다운로드 센터(http://go.microsoft.com/fwlink/?LinkId=47251)에서 <a href="http://go.microsoft.com/fwlink/?linkid=47251">BITS(Background Intelligent Transfer Service) 2.0 및 WinHTTP 5.1 Windows Server 2003용 업데이트</a>(KB842773)를 참조하십시오.
+Windows Server 2000 운영 체제의 경우 다운로드 센터(http://go.microsoft.com/fwlink/?LinkId=46794)에서 <a href="http://go.microsoft.com/fwlink/?linkid=46794">BITS(Background Intelligent Transfer Service) 2.0 및 WinHTTP 5.1 Windows 2000용 업데이트</a>(KB842773)를 참조하십시오.</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">Windows Server 2003</td>
+<td style="border:1px solid black;">Windows Server 2003용 Microsoft .NET Framework 1.1 서비스 팩 1</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=47358">Windows Server 2003용 Microsoft .NET Framework 1.1 서비스 팩 1</a>
+또는 <a href="http://go.microsoft.com/fwlink/?linkid=47370">Windows Update</a>에서 중요 업데이트와 서비스 팩을 검색하여 Windows Server 2003용 Microsoft .NET Framework 1.1 서비스 팩 1을 설치하십시오.</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">Windows Server 2003</td>
+<td style="border:1px solid black;">Microsoft SQL과 100퍼센트 호환되는 데이터베이스 소프트웨어</td>
+<td style="border:1px solid black;">N/A</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">Windows 2000 Server</td>
+<td style="border:1px solid black;">Microsoft SQL과 100퍼센트 호환되는 데이터베이스 소프트웨어</td>
+<td style="border:1px solid black;">Microsoft SQL Server 2000을 사용하고 있지 않는 경우에는 Microsoft SQL Server 2000 Desktop Engine(MSDE 2000)을 설치할 수 있습니다. 이 작업을 위해서는 여러 단계를 수행해야 합니다. 자세한 내용은 아래의 Windows 2000에 MSDE 설치를 참조하십시오.</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">Windows 2000 Server</td>
+<td style="border:1px solid black;">Microsoft Internet Explorer 6.0 서비스 팩 1</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=47359">Internet Explorer 6 서비스 팩 1</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">Windows 2000 Server</td>
+<td style="border:1px solid black;">Microsoft .NET Framework 버전 1.1 재배포 가능 패키지</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=47369">Microsoft .NET Framework 버전 1.1 재배포 가능 패키지</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">Windows 2000 Server</td>
+<td style="border:1px solid black;">Microsoft .NET Framework 1.1 서비스 팩 1</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=47368">Microsoft .NET Framework 1.1 서비스 팩 1</a>
+또는 <a href="http://go.microsoft.com/fwlink/?linkid=47370">Windows Update</a>에서 중요 업데이트와 서비스 팩을 검색하여 Windows Server 2000용 Microsoft .NET Framework 1.1 서비스 팩 1을 설치합니다.</td>
+</tr>
+</tbody>
+</table>
+ 
+
+이러한 요구 사항 외에도 필요한 경우 WSUS가 서버에서 ASP .NET 버전 1.1을 설치하거나 구성할 수 있습니다. WSUS 설치 프로그램이 ASP .NET을 구성합니다.
+
+#### Windows 2000에 MSDE 2000 설치
+
+WSUS에 Windows 2000을 사용하고 있으며 Microsoft SQL Server 2000에 액세스할 수 없는 경우 WSUS 설치 프로그램을 실행하기 전에 Microsoft SQL Server 2000 Desktop Engine(MSDE)을 설치해야 합니다. WSUS 서버에 MSDE를 이미 설치한 경우에는 WSUS를 위해 특별 인스턴스를 설정할 필요가 없습니다. WSUS를 설치하는 중에 기존 인스턴스 이름을 가리키기만 하면 됩니다.
+
+Windows 2000 Server에 MSDE를 설치하는 과정은 네 단계로 구성됩니다. 먼저 WSUS 서버의 폴더에 MSDE 아카이브를 다운로드하고 확장해야 합니다. 그 다음에는 명령 프롬프트 및 명령줄 옵션을 사용하여 MSDE 설치 프로그램을 실행하고 sa 암호를 설정하고 WSUS를 인스턴스 이름으로 할당합니다. 그런 다음 MSDE 설치가 끝날 때 WSUS 인스턴스가 NT 서비스로 실행되고 있는지 확인해야 합니다. 마지막으로 WSUS 서버를 보호하기 위해 MSDE에 보안 업데이트를 추가해야 합니다.
+
+#### 1단계: MSDE 아카이브 다운로드 및 확장
+
+WSUS 서버의 폴더에 MSDE 아카이브를 다운로드하고 확장해야 합니다. [Microsoft SQL Server 2000 Desktop Engine(MSDE 2000) 릴리스 A](http://go.microsoft.com/fwlink/?linkid=47366)를 참조하십시오.
+
+#### 2단계: MSDE 설치
+
+명령 프롬프트 및 명령줄 옵션을 사용하여 MSDE 설치 프로그램을 실행하고 sa 암호를 설정하고 WSUS를 인스턴스 이름으로 할당합니다. MSDE 설치가 끝날 때 WSUS 인스턴스가 NT 서비스로 실행되고 있는지 확인해야 합니다.
+
+MSDE를 설치하려면 sa 암호를 설정하고 인스턴스 이름을 할당합니다.
+
+1.  명령 프롬프트에서 “1단계: MSDE 아카이브 다운로드 및 확장”에 지정된 MSDE 설치 폴더로 이동합니다.
+2.  다음을 입력합니다. **setup sapwd="***password***" instancename=WSUS**
+    여기서 *password*는 이 MSDE 인스턴스에 대한 sa 계정의 강력한 암호이고 **instancename**은 데이터베이스 인스턴스의 이름입니다. 또한 "WSUS" 대신 기본 인스턴스 이름을 WSUS 데이터베이스에 사용할 수도 있습니다. 이렇게 할 경우 명령줄 매개 변수에 **instancename=WSUS**를 입력할 필요가 없습니다. 이 명령은 MSDE 설치 프로그램을 시작하고 sa 암호를 설정하고 지정되는 값에 따라 이 MSDE 인스턴스를 명명합니다.
+
+#### 3단계: MSDE의 WSUS 인스턴스가 설치되어 있는지 확인
+
+MSDE의 WSUS 인스턴스가 있는지 확인해야 합니다.
+
+1.  **시작**을 클릭한 다음 **실행**을 클릭합니다.
+2.  **열기** 입력란에 **services.msc**를 입력한 다음 **확인**을 클릭합니다.
+
+서비스 목록을 아래로 스크롤하여 MSSQL$WSUS(instancename으로 "WSUS"를 사용한 경우) 또는 MSSQLSERVER(기본 instancename을 사용한 경우)라는 서비스 이름이 있는지 확인합니다.
+
+#### 4단계: MSDE 인스턴스 시작
+
+MSDE 설치가 끝나면 인스턴스를 시작해야 합니다. instancename으로 "WSUS"를 사용한 경우에는 "MSSQL$WSUS"를 시작하고, 기본 instancename을 사용한 경우에는 MSSQLSERVER를 시작하면 됩니다. 이 서비스를 시작하지 않으면 WSUS는 데이터베이스 인스턴스를 사용할 수 없게 됩니다.
+
+#### 5단계: MSDE 업데이트
+
+게시판 [MS03-031: SQL Server용 누적 보안 패치](http://go.microsoft.com/fwlink/?linkid=47364)에 설명된 보안 업데이트를 다운로드하여 설치해야 합니다.
+
+보안 업데이트를 다운로드하려면 [SQL Server 2000(32비트) 보안 패치 MS03-031](http://go.microsoft.com/fwlink/?linkid=47363)을 참조하십시오.
+
+#### 문제 4: 최소 디스크 공간 요구 사항
+
+다음은 Windows Server Update Services를 설치하기 위한 최소 디스크 공간 요구 사항입니다.
+
+-   시스템 파티션 1GB
+-   데이터베이스 파일을 저장하기 위한 2GB
+-   6GB(콘텐츠 프로젝션 횟수 기준)
+
+#### 문제 5: 최신 버전의 WSUS를 설치하기 전에 프로그램 추가/제거를 사용하여 이전 버전을 제거해야 함
+
+Windows Update Services 베타 1 또는 베타 2가 설치되어 있는 서버에 Windows Server Update Services를 설치할 계획이면 먼저 제어판의 프로그램 추가/제거를 사용하여 이전 버전을 제거해야 합니다.
+
+#### 문제 6: WSUS를 사용하려면 SQL Server에서 중첩 트리거 옵션을 켜야 함
+
+이 옵션은 기본적으로 켜져 있습니다. 그러나 SQL Server 관리자가 끌 수 있습니다.
+
+SQL Server 데이터베이스를 Windows Server Update Services 데이터 저장소로 사용할 계획이면 WSUS 관리자가 WSUS를 설치하고 설치 중에 데이터베이스를 지정하기 전에 SQL Server 관리자가 서버에 중첩 트리거 옵션이 켜져 있는지 확인해야 합니다.
+
+WSUS 설치 프로그램은 데이터베이스 고유 옵션인 RECURSIVE\_TRIGGERS 옵션을 켭니다. 하지만 서버 전역 옵션인 중첩 트리거 옵션은 켜지 않습니다.
+
+중첩 트리거가 켜져 있는지 확인하려면 다음을 사용하십시오.
+
+**sp\_configure 'nested triggers'**
+
+SQL Server에서 중첩 트리거 옵션을 설정하려면 SQL Server를 실행하는 컴퓨터의 배치 파일에서 다음을 실행하십시오.
+
+**sp\_configure 'nested triggers', 1**
+
+**GO**
+
+**RECONFIGURE**
+
+**GO**
+
+#### 문제 7: WSUS 설치 프로그램 명령줄 매개 변수
+
+WSUS를 무인 설치할 수 있습니다. 자세한 내용 및 명령줄 매개 변수는 [Microsoft Windows Server Update Services 배포](http://go.microsoft.com/fwlink/?linkid=41777)에서 "부록 A: 무인 설치"를 참조하십시오.
+
+알려진 문제
+-----------
+
+#### 문제 1: IIS 잠금 마법사
+
+Windows 2000 Server를 실행 중인 컴퓨터에 IIS(인터넷 정보 서비스)를 실행하고 있다면 Microsoft TechNet의 IIS 잠금 도구 페이지에서 URLScan이 포함된 최신 버전의 IIS 잠금 마법사를 설치합니다. IIS 서버를 안전하게 보호하기 위해 이 도구를 설치해야 합니다. IIS 잠금 마법사는 IIS의 취약한 기능을 끔으로써 보안 위험에 노출되는 것을 줄입니다.
+
+| ![](images/Cc720505.note(WS.10).gif)참고                                                                                                                                         |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| WSUS 설치 프로그램은 이러한 구성 요소를 설치하지 않습니다. 따라서 수동으로 설치해야 합니다. Windows Server 2003를 실행하는 컴퓨터에서는 이 기능이 기본으로 제공되기 때문에 IIS 잠금을 설치할 필요가 없습니다. |
+
+#### 문제 2: 데이터베이스에서 WSUS 구성을 직접 변경하는 작업이 지원되지 않음
+
+Windows Server Update Services는 구성 데이터를 데이터베이스(MSDE 또는 SQL Server)에 저장합니다. 그러나 데이터베이스에 직접 액세스하여 구성 데이터를 변경하는 것은 지원되지 않습니다. 관리자는 이러한 방법으로 WSUS 구성을 수정하려고 해서는 안 됩니다. 지원되는 WSUS 구성 변경 방법은 WSUS 콘솔을 사용하거나 WSUS API를 호출하는 것입니다.
+
+#### 문제 3: WSUS 관리 사이트에 액세스하려면 액티브 스크립팅을 사용해야 함
+
+관리자의 워크스테이션에서 Internet Explorer가 액티브 스크립팅을 허용하도록 구성해야 Internet Explorer가 WSUS 관리 사이트에 액세스할 수 있습니다.
+
+#### 문제 4: IIS가 WSUS 설치 중에 다시 시작됨
+
+Windows Server Update Services 설치 프로그램은 아무런 예고 없이 IIS를 다시 시작합니다. 따라서 조직 내 기존 웹 사이트에 영향을 미칠 수 있습니다.
+
+#### 문제 5: WSUS 또는 SMS MP(관리 지점) 가상 디렉터리 액세스 변경
+
+기본적으로 Windows Server Update Services의 콘텐츠 가상 디렉터리는 익명 액세스로 설정되어 있습니다. 인증을 요구하도록 이 설정을 변경하면 클라이언트에서 인증 오류를 수신하고 업데이트 다운로드를 위한 액세스가 거부됩니다. 이는 암시적 인증이 필요할 때 Winhttp.dll이 잘못된 인증 컨텍스트를 사용하기 때문에 인증이 실패하는 알려진 문제입니다. 이 문제를 방지하려면 WSUS 서버 및 SMS MP가 IIS 가상 디렉터리에 익명으로 액세스하도록 설정되어야 합니다.
+
+#### 문제 6: Windows Small Business Server 2003에 WSUS를 설치할 때 기본 웹 사이트 WSUS vroot의 액세스 설정을 수정해야 WSUS 클라이언트가 서버로부터 자동 업데이트할 수 있음
+
+WSUS 서버는 SelfUpdate와 ClientWebService라는 두 개의 vroot, 그리고 일부 파일을 기본 웹 사이트(포트 80)의 홈 디렉터리에 설치합니다. 그렇기 때문에 클라이언트가 기본 웹 사이트를 통해 자동 업데이트할 수 있습니다. 기본적으로 Windows Small Business Server 2003에서 기본 웹 사이트는 서버의 IP나 localhost가 아닌 다른 IP 또는 localhost에 대해서는 액세스를 거부하도록 구성되어 있습니다. 즉, SelfUpdate 및 ClientWebService vroot는 액세스가 거부되고 클라이언트는 자동 업데이트하지 않습니다. 클라이언트가 액세스하여 자동 업데이트할 수 있도록 하려면 기본 웹 사이트의 SelfUpdate 및 ClientWebService vroot에 다음 단계를 수행하십시오.
+
+1.  vroot **속성**, **디렉터리 보안**, **IP 주소 및 도메인 이름 제한**, **편집**을 차례로 클릭합니다.
+2.  **액세스 허가**를 클릭한 다음 **확인**을 클릭합니다. 모든 속성 페이지를 닫습니다.
+
+#### 문제 7: Small Business Server에 WSUS 설치 - 통합 문제
+
+-   Windows Small Business Server 2003에서 ISA 프록시를 사용하여 인터넷에 액세스하는 경우 **설정** 사용자 인터페이스에서 프록시 서버 설정, 프록시 서버 이름 및 포트를 수동으로 입력해야 합니다.
+-   ISA에서 Windows 인증을 사용하는 경우 프록시 서버 자격 증명을 "DOMAIN\\user"(user는 "인터넷 사용자" 그룹에 속함) 형식으로 입력해야 합니다.
+
+#### 문제 8: 컴퓨터를 한 컴퓨터 그룹에서 다른 컴퓨터 그룹으로 이동할 때 관리 콘솔에 표시되는 새 그룹에 해당 컴퓨터가 나타날 때까지 최대 한 시간 정도 걸림
+
+컴퓨터를 대상 그룹에 처음으로 할당할 때는 컴퓨터의 데이터가 그룹 정보로 수정됩니다. 이 데이터는 주기적으로 또는 매 시간마다 새로 고쳐집니다. 따라서 컴퓨터를 한 컴퓨터 그룹에서 다른 컴퓨터 그룹으로 이동하는 경우 클라이언트에서 해당 정보가 새로 고쳐지고 WSUS 관리 콘솔에 변경되어 표시되기까지 최대 한 시간 정도 걸릴 수 있습니다.
+
+#### 문제 9: WSUS를 구성원 서버에 설치한 다음 구성원 서버를 도메인 컨트롤러로 승격하려면 먼저 WSUS를 제거해야 함
+
+WSUS를 구성원 서버에 설치한 다음 구성원 서버를 도메인 컨트롤러로 승격하려면 다음 단계를 수행해야 합니다.
+
+1.  WSUS를 제거합니다.
+2.  구성원 서버를 도메인 컨트롤러로 승격합니다.
+3.  WSUS를 다시 설치합니다.
+
+#### 문제 10: WSUS 서버를 도메인 컨트롤러에서 구성원 서버로 강등하려면 먼저 WSUS를 제거해야 함
+
+도메인 컨트롤러에서 WSUS 서버를 실행 중일 때 도메인 컨트롤러를 구성원 서버로 강등하려면 다음 단계를 수행해야 합니다.
+
+1.  WSUS를 제거하고 데이터베이스는 유지합니다.
+2.  ASPNET이라는 사용자 계정을 만듭니다.
+3.  명령 프롬프트에서 **aspnet\_regiis -i**를 입력합니다.
+4.  WSUS를 다시 설치하고 유지한 데이터베이스를 사용합니다.
+
+#### 문제 11: WSUS를 설치한 후에 .NET Framework 1.0 또는 2.0을 설치하면 WSUS 관리 콘솔이 나타나지 않음
+
+.NET Framework 1.0이 IIS에 등록되고 WSUS 서버는 .NET Framework 1.1을 필요로 하기 때문에 이러한 문제가 발생합니다. 이 문제를 해결하려면 aspnet\_regiis.exe를 열고 다음 명령을 실행하십시오. 여기에서 *website id*는 다음 레지스트리 키에 포함된 값입니다.
+
+HKLM\\Software\\Microsoft\\WindowsUpdateServices\\Server\\Setup\\IISTargetWebsiteIndex
+
+-   %windir%\\Microsoft.NET\\Framework\\v1.1.4322\\\\aspnet\_regiis.exe -s W3SVC\\&lt;*website id*&gt;\\ROOT\\ReportingWebService
+-   %windir%\\Microsoft.NET\\Framework\\v1.1.4322\\\\aspnet\_regiis.exe -s W3SVC\\&lt;*website id*&gt;\\ROOT\\ClientWebService
+-   %windir%\\Microsoft.NET\\Framework\\v1.1.4322\\\\aspnet\_regiis.exe -s W3SVC\\&lt;*website id*&gt;\\ROOT\\SimpleAuthWebService
+-   %windir%\\Microsoft.NET\\Framework\\v1.1.4322\\\\aspnet\_regiis.exe -s W3SVC\\&lt;*website id*&gt;\\ROOT\\WSUSAdmin
+-   %windir%\\Microsoft.NET\\Framework\\v1.1.4322\\\\aspnet\_regiis.exe -s W3SVC\\&lt;*website id*&gt;\\ROOT\\AdministrationWebService
+-   %windir%\\Microsoft.NET\\Framework\\v1.1.4322\\\\aspnet\_regiis.exe -s W3SVC\\&lt;*website id*&gt;\\ROOT\\ServrSyncWebService
+-   %windir%\\Microsoft.NET\\Framework\\v1.1.4322\\\\aspnet\_regiis.exe -s W3SVC\\&lt;*website id*&gt;\\ROOT\\DssAuthWebService
+-   %windir%\\Microsoft.NET\\Framework\\v1.1.4322\\\\aspnet\_regiis.exe -s W3SVC\\&lt;*website id*&gt;\\ROOT\\Content
+
+#### 문제 12: 원격 SQL 제한
+
+WSUS는 나머지 WSUS 응용 프로그램이 있는 컴퓨터와 분리된 컴퓨터에서 데이터베이스 소프트웨어를 실행하는 작업을 제한적으로 지원합니다.
+
+-   원격 SQL 쌍에서 Windows 2000 Server를 프런트 엔드 컴퓨터로 사용할 수 없습니다.
+-   원격 SQL 쌍의 프런트 엔드 또는 백 엔드에 대해 도메인 컨트롤러로 구성된 서버를 사용할 수 없습니다.
+-   백 엔드 컴퓨터에 있는 데이터베이스 소프트웨어에 대해 WMSDE 또는 MSDE를 사용할 수 없습니다.
+-   원격 SQL Server에 터미널 서비스가 설치되어 있고 응용 프로그램 모드로 실행 중일 경우 이 원격 서버를 WSUS 데이터베이스로 사용하기 위해 설정할 수 없습니다. SQL Server를 터미널 서비스 서버에 설치할 때 다음을 수행해야 합니다.
+    1.  설치 프로그램을 실행하기 전에 명령 프롬프트를 열고 다음을 입력합니다. **change user /install**
+    2.  SQL Server 설치 프로그램을 실행합니다.
+    3.  설치 프로그램을 실행한 후 명령 프롬프트에서 다음을 입력합니다. **change user /execute**
+-   원격 SQL Server WSUS 데이터베이스를 설정하려면 프런트 엔드와 백 엔드 컴퓨터 모두에서 로컬 Administrators 보안 그룹의 구성원이어야 합니다.
+-   원격 SQL 문제에 대한 자세한 내용은 [Microsoft Windows Server Update Services 배포](http://go.microsoft.com/fwlink/?linkid=41777)에서 "부록 C: 원격 SQL"을 참조하십시오.
+
+#### 문제 13: 복제 다운스트림 서버의 승인이 부모 업스트림 서버보다 적을 수 있음
+
+복제 다운스트림 서버의 승인이 부모 업스트림 서버보다 적을 수 있습니다. 이런 경우는 업스트림 서버에 콘텐츠 다운로드가 완료되어야만 다운스트림 서버에 설치가 승인되기 때문입니다.
+
+#### 문제 14: 동기화에 실패할 경우 다시 시도
+
+동기화에 실패할 경우 오류 메시지가 나타날 수 있습니다. 이러한 경우 먼저 동기화를 시도해야 합니다.
+
+#### 문제 15: WSUS 관리 콘솔에 액세스하려고 시도할 경우 System.IO.FileNotFoundException 오류 메시지가 표시됨
+
+다음 오류 메시지를 받을 경우 Network Service 또는 ASP.NET 계정의 사용 권한을 조정해야 할 수 있습니다.
+
+System.IO.FileNotFoundException: 파일 또는 어셈블리 이름 *xxxxxx*.dll, 또는 그의 종속성을 찾을 수 없습니다.
+
+여기에서 *xxxx*는 임의의 이름입니다.
+
+Windows Server 2003 운영 체제에서 이 문제를 해결하려면 Network Service 계정에 %systemroot%\\Temp에 대한 읽기/쓰기 액세스 권한을 부여해야 합니다. Windows 2000 Server에서는 ASP.NET 계정에 %systemroot%\\Temp에 대한 읽기/쓰기 액세스 권한을 부여해야 합니다.
+
+#### 문제 16: SQL 보안 업데이트 MS03-031(KB815495)
+
+이 업데이트는 실제로 클라이언트에서 설치가 실패했더라도 WSUS 서버에는 설치된 것처럼 표시될 수도 있습니다. 따라서 패키지가 클라이언트에게 다시 제공될 수 있습니다. 이 문제는 해당 업데이트를 승인하지 않음으로써 해결할 수 있습니다.
+
+#### 문제 17: RTM 업그레이드 동안 IIS 설정이 손실됨
+
+서버에 이전 버전의 WSUS(예: RC)와 함께 WSUS RTM을 설치한 경우 WSUS RTM은 이전 버전을 제거한 다음 새로운 버전을 설치합니다. 이것은 IIS에 있는 WSUS와 관련된 vroots 및 파일이 삭제된다는 것을 의미합니다.
+
+기본 웹 사이트에 WSUS를 설치했다면 WSUS vroots에 지정한 WSUS 관련 설정이 모두 손실됩니다. 예를 들어 WUS를 보호하기 위해 SSL에 대해 WSUS vroots를 구성했다면 WSUS의 RTM 버전을 설치한 다음 이런 사항을 다시 구성해야 합니다. 참고: SSL을 사용할 수 없는 WSUS 콘솔에서 알림을 받습니다.
+
+기본 웹 사이트가 아닌 다른 웹 사이트에 WSUS를 설치했다면 WSUS 웹 사이트 수준의 추가 설정이 모두 손실됩니다.
+
+#### 문제 18: 호스트 헤더 사용
+
+IIS의 기본 웹 사이트인 WSUS 웹 사이트에 호스트 헤더 값을 지정할 경우 “지정하지 않은 모든 IP” 또는 지정한 IP 주소를 IP 주소 목록에 기본 웹 사이트에 대한 호스트 헤더 값 없이 추가해야 합니다. 이런 경우에는 비기본 웹 사이트에 대해서도 추가되어야 합니다.
+
+**경고**: 이 작업으로 인해 Windows® SharePoint® Services 및 Exchange 기능이 손상될 수 있습니다.
+
+#### 문제 19: WSUS 콘솔 URL은 Internet Explorer 보안 강화를 사용할 수 있는 컴퓨터에 있는 신뢰할 수 있는 사이트 및 로컬 인트라넷 웹 콘텐츠 영역의 목록에 추가되어야 함
+
+Microsoft Windows Server 2003 Internet Explorer 보안 강화 구성 요소라고 알려진 Internet Explorer 보안 강화를 사용할 수 있다면 WSUS 콘솔을 신뢰할 수 있는 사이트 및 로컬 인트라넷 웹 콘텐츠 영역에 추가하지 않을 경우 WSUS 콘솔에서 페이지를 열 때마다 사용자 자격 증명을 입력해야 합니다.
+
+**로컬 인트라넷** 및 **신뢰할 수 있는 사이트** 웹 콘텐츠 영역에 WSUS 콘솔을 추가하려면
+
+1.  **인터넷 옵션**을 엽니다(예를 들면 **시작**, **제어판**을 차례로 가리킨 다음 **인터넷 옵션**을 클릭).
+2.  **보안** 탭에서 **로컬 인트라넷**, **사이트**, **고급**을 차례로 클릭하고 URL(http://*WSUSServername*/WSUSAdmin)을 추가한 다음 **확인**을 클릭합니다.
+3.  **신뢰할 수 있는 사이트**, **사이트**를 차례로 클릭하고 WSUS 콘솔 URL을 추가한 다음 **확인**을 클릭합니다. 그런 다음 **확인**을 다시 클릭하면 **인터넷 옵션**을 끝낼 수 있습니다.
+
+#### 문제 20: WSUS 릴리스 후보에서의 업그레이드 실패
+
+WSUS 릴리스 후보에서의 업그레이드는 자동 업데이트 트리 문제로 인해 실패할 수 있습니다. 이 현상은 업그레이드를 시도하는 동시에 여러 클라이언트를 자동 업데이트하는 경우 발생할 수 있습니다.
+
+문제 해결 방법:
+
+1.  네트워크에서 WSUS 서버의 연결을 끊어 클라이언트가 해당 서버에 연결되지 않도록 합니다.
+2.  명령 프롬프트에서 **iisrestart /reset**을 입력한 다음 Enter 키를 누릅니다.
+3.  업그레이드를 실행합니다.
+
+#### 문제 21: SUS 1.0에서 일부 승인이 WSUS로 마이그레이션되지 않음
+
+SUS 1.0에서 WSUS로 마이그레이션하는 경우 SUS 1.0 서버의 일부 승인은 WSUS 서버로 마이그레이션되지 않습니다. 이는 SUS 1.0에 사용하던 다수의 업데이트를 더 이상 WSUS에는 사용할 수 없기 때문입니다. 또한 WSUS는 SUS보다 더 많은 업데이트를 지원하므로 마이그레이션 과정이 완료되면 승인되지 않은 중요한 업데이트가 WSUS 서버에 있을 수 있습니다.
+
+SUS 1.0에서 마이그레이션한 후 WSUS 서버에서 승인되지 않은 업데이트 내용을 검토해야 합니다.
+
+SUS 1.0에서 WSUS로의 마이그레이션에 대한 자세한 내용은 [Software Update Services에서 Windows Server Update Services로 마이그레이션하기 위한 단계별 가이드](http://go.microsoft.com/fwlink/?linkid=48042)(http://go.microsoft.com/fwlink/?LinkId=48042)(영문)를 참조하십시오.
+
+#### 문제 22: WMSDE를 SQL Server로 마이그레이션한 경우 WSUS 2.0 서비스 팩 1로 업그레이드하기 전에 레지스트리 항목 수정
+
+WSUS 2.0을 서비스 팩 1로 업그레이드하려는 경우 WMSDE 설치를 SQL Server(원격 또는 로컬)로 마이그레이션했다면 다음 레지스트리 항목을 변경하십시오.
+
+HKLM\\Software\\Microsoft\\Update Services\\Server\\Setup\\WmsdeInstalled
+
+값을 1에서 0으로 변경해야 합니다.
+
+#### 문제 23: WSUS 2.0 서비스 팩 1로 원격 SQL 설치 마이그레이션
+
+원격 SQL 구성을 통해 WSUS 2.0 서비스 팩 1로 마이그레이션하는 경우 다음 단계를 수행합니다.
+
+1) 스위치 없는 프런트 엔드에 설치 패키지를 실행하고 업그레이드를 선택합니다.
+
+2) 스위치 없는 백 엔드에 설치 패키지를 실행하고 업그레이드를 선택합니다.
+
+#### 저작권
+
+이 문서에 포함된 정보는 문서 발행 시에 논의된 문제들에 대한 Microsoft Corporation의 당시 관점을 나타냅니다. Microsoft는 변화하는 시장 상황에 부응해야 하므로 이를 Microsoft측의 공약으로 해석해서는 안 되며 발행일 이후 소개된 어떠한 정보에 대해서도 Microsoft는 그 정확성을 보증하지 않습니다.
+
+이 설명서는 오직 정보를 제공하기 위한 것입니다. MICROSOFT는 이 문서의 정보에 대해 명시적, 묵시적 또는 법률에 의해 규정된 보증을 하지 않습니다.
+
+해당 저작권법을 준수하는 것은 사용자의 책임입니다. 저작권에서의 권리와는 별도로, 이 설명서의 어떠한 부분도 Microsoft Corporation의 명시적인 서면 승인 없이는 어떠한 형식이나 수단(전기적, 기계적, 복사기에 의한 복사, 디스크 복사 또는 다른 방법) 또는 목적으로도 복제되거나, 검색 시스템에 저장 또는 도입되거나, 전송될 수 없습니다.
+
+Microsoft가 이 설명서 본안에 관련된 특허권, 상표권, 저작권 또는 기타 지적 재산권 등을 보유할 수도 있습니다. 서면 사용권 계약에 따라 Microsoft로부터 귀하에게 명시적으로 제공된 권리 이외에, 이 설명서의 제공은 귀하에게 이러한 특허권, 상표권, 저작권 또는 기타 지적 재산권 등에 대한 어떠한 사용권도 허여하지 않습니다.
+
+다른 설명이 없는 한 용례에 사용된 회사, 기관, 제품, 도메인 이름, 전자 메일 주소, 로고, 사람, 장소 및 이벤트 등은 실제 데이터가 아닙니다. 실제 회사, 기관, 제품, 도메인 이름, 전자 메일 주소, 로고, 사람, 장소 또는 이벤트 등과 연관시킬 의도가 없으며 그렇게 유추해서도 안 됩니다.
+
+© 2005 Microsoft Corporation. All rights reserved.
+
+Microsoft, SQL Server, Windows 및 Windows Server는 미국, 대한민국 및/또는 기타 국가에서의 Microsoft Corporation 등록 상표 또는 상표입니다.
+
+여기에 인용된 실제 회사와 제품 이름은 해당 소유자의 상표일 수 있습니다.

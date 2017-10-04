@@ -1,0 +1,225 @@
+---
+TOCTitle: 'Windows Vista 보안 가이드, 4장: 응용 프로그램 호환성'
+Title: 'Windows Vista 보안 가이드, 4장: 응용 프로그램 호환성'
+ms:assetid: 'd11f3fd0-b74e-4e77-bff9-4e1b8e5d1d68'
+ms:contentKeyID: 20212544
+ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Bb629463(v=MSDN.10)'
+---
+
+Windows Vista 보안 가이드
+=========================
+
+### 4장: 응용 프로그램 호환성
+
+게시 날짜: 2006년 11월 8일
+
+응용 프로그램 호환성 문제는 조직에서 새 운영 체제를 배포할 때마다 처리해야 하는 중요하고 긴급한 과제입니다. Windows Vista™ 개발 과정에서 운영 체제의 새 기능과 서비스가 기존 프로그램과 높은 수준의 상관성 및 호환성을 유지할 수 있도록 많은 노력을 기울였습니다. 개발 과정 내내 Microsoft Application Experience Team에서 광범위한 타사 공급업체의 수많은 응용 프로그램을 테스트했습니다.
+
+이 가이드에 지정된 보안 설정을 적용하여 Windows Vista를 강화한 경우에도 핵심 운영 체제 및 Microsoft® Office 응용 프로그램 제품군의 작동에 문제가 없는지 광범위하게 테스트했습니다. Windows Vista에서 실행되는 응용 프로그램은 이 가이드에서 제안하는 설정이 적용된 클라이언트 컴퓨터에서도 올바르게 작동해야 합니다.
+
+그러나 Windows Vista에 새로 추가된 일부 보안 기술로 인해 이전 응용 프로그램이 제대로 작동하지 않을 수 있습니다. UAC(사용자 계정 제어) 및 Windows 리소스 보호 같은 기술은 이전 응용 프로그램과 충돌을 일으킬 수 있습니다.
+
+Microsoft Solution Accelerator for BDD(Business Desktop Deployment) 2007에는 IT 전문가가 Windows Vista와 응용 프로그램의 호환성을 테스트하고 그 과정에서 발견된 호환성 문제를 완화하는 데 참조할 수 있는 포괄적인 응용 프로그램 호환성 지침이 포함됩니다. 자세한 내용은 Microsoft TechNet®에서 [*Application Compatibility Feature Team Guide (영문)*](http://go.microsoft.com/fwlink/?linkid=74194)를 참조하십시오.
+
+이 장에서는 Windows Vista와 응용 프로그램의 호환성 수준을 테스트하는 데 사용할 수 있는 간단한 절차를 소개하고, 응용 프로그램 호환성 문제를 일으키는 몇 가지 일반적인 원인에 대해 설명하고, 이러한 문제의 해결에 도움이 되는 사용 가능한 리소스에 대한 포인터를 제공합니다.
+
+##### 이 페이지에서
+
+[](#edaa)[30분 호환성 검사](#edaa)
+[](#ecaa)[알려진 응용 프로그램 호환성 문제](#ecaa)
+[](#ebaa)[도구 및 리소스](#ebaa)
+[](#eaaa)[추가 정보](#eaaa)
+
+### 30분 호환성 검사
+
+이 섹션에서는 Windows Vista와 응용 프로그램의 호환성을 테스트하고 평가하는 방법에 대해 설명합니다. 여기서는 운영 체제와 응용 프로그램의 호환성을 테스트하는 데 사용할 수 있는 두 가지 시나리오를 소개합니다. 이러한 시나리오를 통해 다음과 같은 작업을 할 수 있습니다.
+
+-   새로 설치한 Windows Vista에서 응용 프로그램 테스트
+
+-   Microsoft Windows® XP SP2(서비스 팩 2)에서 업그레이드한 Windows Vista에서 응용 프로그램 테스트
+
+**새로 설치한 Windows Vista에서 응용 프로그램을 테스트하려면**
+
+1.  테스트 컴퓨터에 Windows Vista를 설치합니다.
+
+2.  Windows Vista가 실행되는 테스트 컴퓨터에 관리자로 로그온합니다.
+
+3.  Windows Vista에서 테스트할 응용 프로그램을 설치합니다. 응용 프로그램을 설치하려면 해당 권한이 필요하다는 메시지가 표시되는 경우 **허용**을 클릭하여 설치를 계속합니다. 설치가 완료되면 6단계를 진행합니다.
+
+4.  응용 프로그램이 설치되지 않고 설치 권한에 대한 메시지도 나타나지 않으면 설치 프로그램 .exe 파일을 마우스 오른쪽 단추로 클릭한 후 **관리자 계정으로 이 프로그램 실행** 옵션을 클릭하고 응용 프로그램을 다시 설치합니다. 설치가 완료되면 7단계를 진행합니다.
+
+    **참고**   Microsoft Installer 파일(.msi)을 사용하여 응용 프로그램을 설치하는 경우에는 이 단계를 수행할 필요가 없습니다.
+
+5.  운영 체제 버전, 응용 프로그램 등록 또는 파일 복사본과 관련된 오류 메시지가 나타나면 설치 프로그램 .exe 파일을 마우스 오른쪽 단추로 클릭한 후 **호환성**을 클릭하고 Windows XP SP2 호환성 모드를 선택합니다.
+
+6.  2단계를 반복합니다. 여전히 응용 프로그램을 설치할 수 없으면 8단계를 진행합니다.
+
+7.  Window Vista가 실행되는 테스트 컴퓨터에 관리자 권한이 없는 사용자로 로그온합니다.
+
+8.  응용 프로그램을 시작합니다. 응용 프로그램이 제대로 시작되지 않거나 오류가 표시되면 응용 프로그램 .exe 파일에 대해 Windows XP SP2 호환성 모드를 활성화한 후 응용 프로그램을 운영 체제에 다시 설치해 보십시오.
+
+9.  응용 프로그램이 올바르게 시작되면 Windows XP가 실행되는 컴퓨터에서 해당 응용 프로그램을 테스트할 때 일반적으로 사용되는 모든 테스트 방법을 적용하여 테스트합니다. 응용 프로그램 기능이 올바르게 작동하는지 확인합니다. 주요 기능 테스트를 모두 통과한 응용 프로그램은 Windows Vista에서 올바르게 작동합니다.
+
+10. 제대로 설치 및 시작되지 않거나, 응답을 멈추거나, 오류가 발생하거나, 주요 기능 테스트 중 하나라도 통과하지 못한 응용 프로그램은 Windows Vista와의 호환성 문제를 일으키는 몇 안 되는 응용 프로그램 중 하나일 수 있습니다. 이 장의 다른 참조 자료를 활용하여 응용 프로그램을 더 자세히 조사하고 테스트해 보십시오.
+
+**Windows XP SP2에서 업그레이드한 Windows Vista에서 응용 프로그램을 테스트하려면**
+
+1.  테스트 컴퓨터에 Windows XP SP2를 설치한 후 테스트할 응용 프로그램을 설치합니다. 다음 단계를 진행하기에 앞서 응용 프로그램의 모든 기능을 확인합니다.
+
+2.  테스트 컴퓨터를 Windows Vista로 업그레이드합니다. Windows Vista 설치 및 업그레이드 지침을 따릅니다. 업그레이드가 완료되면 Windows XP가 실행되는 컴퓨터에 로그온할 때와 같은 방식으로 테스트 컴퓨터에 로그온합니다.
+
+3.  응용 프로그램을 시작합니다. 응용 프로그램이 제대로 시작되지 않거나 오류가 표시되면 응용 프로그램 .exe 파일에 대해 Windows XP SP2 호환성 모드를 활성화한 후 응용 프로그램을 다시 설치해 보십시오.
+
+4.  응용 프로그램이 올바르게 시작되면 Windows XP가 실행되는 컴퓨터에서 해당 응용 프로그램을 테스트할 때 일반적으로 사용되는 모든 테스트 방법을 적용하여 테스트합니다. 응용 프로그램 기능이 올바르게 작동하는지 확인합니다. 주요 기능 테스트를 모두 통과한 응용 프로그램은 Windows Vista에서 올바르게 작동합니다.
+
+5.  제대로 설치 및 시작되지 않거나, 응답을 멈추거나, 오류가 발생하거나, 주요 기능 테스트 중 하나라도 통과하지 못한 응용 프로그램은 Windows Vista 변경에 따른 호환성 문제를 일으키는 몇 안 되는 응용 프로그램 중 하나일 수 있습니다. 이 장의 다른 참조 자료를 활용하여 응용 프로그램을 더 자세히 조사하고 테스트해 보십시오.
+
+두 시나리오에 따른 테스트 모두에서 제대로 실행되는 것으로 확인된 응용 프로그램은 Windows Vista에서 올바르게 작동하는 것으로 볼 수 있습니다.
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+### 알려진 응용 프로그램 호환성 문제
+
+이 섹션에서는 응용 프로그램 호환성 문제를 일으키는 것으로 알려진 Windows Vista의 가장 일반적인 새 기술, 향상된 기능 및 변경 사항 몇 가지를 설명합니다. 가능한 경우 해당 문제를 완화할 수 있는 방법도 이 섹션에서 함께 설명합니다.
+
+**중요**   사용자의 환경에서 사용하려는 타사 응용 프로그램 모두를 Windows Vista에서 테스트하여 올바르게 작동하는지 확인해야 합니다.
+
+#### 보안 강화
+
+Windows Vista에 새로 도입된 다음과 같은 보안 강화 기능으로 인해 타사 응용 프로그램과의 호환성 문제가 발생할 수 있습니다.
+
+-   **사용자 계정 제어** 이 새 기능을 사용하면 관리자로 액세스해야 하는 권한 및 작업 중 일부를 표준 사용자 권한 및 작업으로 분리할 수 있습니다. UAC를 통해 표준 사용자 계정 사용자의 컴퓨터 사용 환경을 개선하여 보안을 강화할 수 있습니다. 사용자는 이제 관리자 수준의 사용 권한으로 클라이언트 컴퓨터에 로그온하지 않더라도 더 많은 작업을 수행할 수 있고 더 높은 응용 프로그램 호환성의 혜택을 누릴 수 있습니다. 이렇게 하면 악성 소프트웨어로 인한 영향, 허가되지 않은 소프트웨어의 설치 및 승인되지 않은 시스템 변경을 감소시키는 데 도움이 됩니다.
+
+    그러나 이 향상된 기술과 호환되지 않는 응용 프로그램에서는 UAC로 인해 문제가 발생할 수 있습니다. 따라서 응용 프로그램을 배포하기 전에 UAC를 활성화한 상태로 응용 프로그램을 테스트하는 것이 중요합니다. 응용 프로그램 호환성 테스트에 대한 자세한 내용은 TechNet에서 BDD [*Application Compatibility Feature Team Guide (영문)*](http://go.microsoft.com/fwlink/?linkid=74194)를 참조하십시오.
+
+-   **Windows 리소스 보호** Windows Vista에 새로 도입된 이 기능은 시스템 파일 및 보호되는 레지스트리 위치를 안전하게 보호하여 운영 체제의 전반적인 보안과 안정성을 향상시키는 데 도움을 주기 위한 것입니다. 이전에 이러한 위치에 액세스하거나 이를 수정하던 대부분의 응용 프로그램은 이제 자동으로 임시 위치로 리디렉션됩니다. 그런 다음 응용 프로그램에서 이 임시 위치를 사용하여 아무런 문제 없이 계속 작업을 수행할 수 있습니다.
+
+    그러나 보호되는 영역에 대한 모든 권한이 필요하고 자동 리디렉션 프로세스를 처리할 수 없는 응용 프로그램은 Windows Vista에서 제대로 작동하지 않을 수 있습니다. 이러한 경우에는 의도한 대로 작동하도록 응용 프로그램을 수정해야 합니다. 이 새 기능과 이 기능이 응용 프로그램 호환성에 미치는 영향에 대한 자세한 내용은 Microsoft MSDN®에서 [About Windows Resource Protection (영문)](http://msdn2.microsoft.com/en-us/library/aa382503.aspx)을 참조하십시오.
+
+-   **보호 모드** Microsoft Internet Explorer® 7의 이 새 기능을 사용하면 이전보다 낮고 보안이 강화된 권한으로 Windows Vista를 실행하여 컴퓨터에 악성 소프트웨어와 기타 유해한 소프트웨어가 설치되는 것을 막을 수 있습니다. 보호 모드로 실행되는 Internet Explorer에서는 파일 시스템 및 레지스트리의 매우 한정된 영역에 대해서만 상호 작용할 수 있습니다.
+
+    보호 모드를 사용하면 Windows Vista가 실행되는 클라이언트 컴퓨터의 무결성을 유지하는 데 도움이 되지만, 이전의 인터넷 및 인트라넷 웹 응용 프로그램이 제대로 실행되지 않는 문제가 발생할 수 있습니다. 이러한 경우 더 제한적인 환경에서도 실행되도록 해당 웹 응용 프로그램을 수정해야 할 수도 있습니다.
+
+#### 운영 체제 변경 및 혁신
+
+Windows Vista에서 운영 체제와 관련하여 새롭게 변경되거나 혁신된 다음과 같은 내용으로 인해 타사 응용 프로그램과의 호환성 문제가 발생할 수 있습니다.
+
+-   **새 시스템 API** API(응용 프로그래밍 인터페이스)에서 Windows Vista 운영 체제의 계층을 노출하는 방식이 이전 버전 Windows의 API와 다릅니다. Windows Vista를 제대로 모니터링하고 안전하게 보호하기 위해 이러한 새 API에 의존하는 응용 프로그램에는 바이러스 백신 및 방화벽 소프트웨어가 있습니다. 이러한 기능을 수행하는 응용 프로그램을 Windows Vista와 호환되는 버전으로 업그레이드해야 합니다.
+
+-   **Windows** **Vista 64비트** 16비트 응용 프로그램과 32비트 드라이버는 Windows Vista 64비트 환경에서 지원되지 않습니다. 64비트 환경에서는 자동 레지스트리 및 시스템 파일 리디렉션 기능을 사용할 수 없습니다. 따라서 새로운 64비트 응용 프로그램은 모든 Windows Vista 응용 프로그램 표준을 준수해야 합니다.
+
+-   **운영 체제 버전** 대부분의 이전 응용 프로그램에서는 Windows의 특정 버전을 확인합니다. 타사 응용 프로그램에서 특정 운영 체제 버전을 확인할 수 없으면 응답을 멈추는 경우가 많습니다.
+
+    호환성 문제를 일으키는 운영 체제 버전 요구 사항의 대부분은 Windows Vista에 새로 추가된 기능을 통해 해결되었습니다. 일반적으로 프로그램 호환성 관리자 같은 기능을 통해 이러한 유형의 문제를 자동으로 해결할 수 있습니다. 프로그램 호환성 관리자 및 기타 도구와 리소스에 대한 자세한 내용은 이 장의 다음 섹션을 참조하십시오.
+
+[The Windows Vista Developer Story: Application Compatibility Cookbook (영문)](http://msdn2.microsoft.com/en-us/library/aa480152.aspx)에서는 Windows Vista의 이러한 보안 강화 부분을 비롯하여 운영 체제 변경 및 혁신 내용에 대한 추가 정보를 제공합니다. 이 설명서에서는 이와 같은 대부분의 호환성 문제를 테스트하는 방법과 문제 해결에 도움이 되는 여러 가지 방법도 제공합니다.
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+### 도구 및 리소스
+
+이 섹션에서는 Windows Vista에서 응용 프로그램 호환성 문제를 처리하는 데 사용할 수 있도록 설계된 여러 가지 기능과 기술에 대해 간략하게 설명하고 더 자세한 내용을 볼 수 있는 자료를 소개합니다.
+
+#### 프로그램 호환성 관리자
+
+이 기능을 사용하면 이전 버전의 Windows에서 실행하도록 설계된 응용 프로그램에 대한 적절한 "호환성 모드"가 자동으로 지정됩니다. Windows XP, Windows 2000 또는 이후 버전의 Windows에 대한 호환성 모드로 실행해야 할 응용 프로그램을 Windows Vista에서 발견하면 사용자가 별도로 지시하지 않더라도 Windows Vista에서 실행될 수 있도록 응용 프로그램이 자동으로 업데이트됩니다.
+
+자세한 내용은 Windows Vista 도움말 및 지원 웹 사이트의 [Program Compatibility Assistant: frequently asked questions](http://windowshelp.microsoft.com/windows/ko-kr/help/82c0440d-553e-47e9-b4bd-6c2d10df4de71042.mspx) 페이지를 참조하십시오.
+
+#### 프로그램 호환성 마법사
+
+이전 버전의 Windows용으로 작성된 프로그램이 Windows Vista에서 제대로 실행되지 않는 경우 Windows Vista의 프로그램 호환성 마법사를 사용하여 문제를 해결할 수 있습니다. 이 마법사를 통해 프로그램의 호환성 설정을 지정하면 이전의 여러 프로그램에 대한 응용 프로그램 호환성 문제가 해결됩니다.
+
+프로그램 호환성 마법사를 실행하려면 바탕 화면에서 **프로그램 호환성 마법사** 아이콘을 두 번 클릭합니다.
+
+자세한 내용은 Windows Vista 도움말 및 지원 웹 사이트의 [Make older programs run in this version of Windows](http://windowshelp.microsoft.com/windows/ko-kr/help/bf416877-c83f-4476-a3da-8ec98dcf5f101042.mspx) 페이지를 참조하십시오.
+
+![](images/Bb629463.warning(ko-kr,MSDN.10).gif) **경고:**
+
+이전의 바이러스 백신 프로그램, 디스크 유틸리티 또는 기타 시스템 프로그램에 대해서는 프로그램 호환성 마법사를 실행하지 마십시오. 이로 인해 데이터가 손실되거나 보안이 취약해질 수 있습니다. 대신 Windows Vista용으로 특별히 설계된 버전의 프로그램 및 유틸리티만 사용하십시오.
+
+#### Microsoft Standard User Analyzer
+
+이 응용 프로그램 호환성 도구를 사용하면 관리자 권한이 있어야만 프로그램이 제대로 실행되는 문제를 개발자와 IT 전문가가 손쉽게 진단할 수 있습니다. Standard User Analyzer를 사용하여 응용 프로그램을 테스트하면 파일 액세스, 레지스트리 액세스, 토큰, 운영 체제의 기타 보호되는 영역 등과 관련된 문제를 확인할 수 있습니다.
+
+Windows Vista에서는 관리자조차 대부분의 프로그램을 실행할 때 기본적으로 표준 사용자 권한이 적용됩니다. 이 도구를 사용하면 응용 프로그램에서 관리자 액세스를 필요로 하지 않는지 쉽게 확인할 수 있습니다. 그 결과는 간단한 그래픽 인터페이스에 표시됩니다.
+
+이 도구는 Microsoft 다운로드 센터의 [Microsoft Standard User Analyzer (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=df59b474-c0b7-4422-8c70-b0d9d3d2f575&displaylang=en)에서 다운로드할 수 있습니다.
+
+#### 응용 프로그램 호환성 도구 키트
+
+Microsoft에서는 사용자가 조직의 응용 프로그램 포트폴리오를 확인하고 관리할 수 있도록 도구 세트와 설명서를 제공합니다. Windows ACT(응용 프로그램 호환성 도구 키트)는 사용자가 응용 프로그램 호환성 문제를 해결하는 데 드는 비용과 시간을 줄여 Windows Vista를 신속하게 배포하는 데 도움을 주도록 설계되었습니다.
+
+ACT에서는 기존의 응용 프로그램 인벤토리를 상세히 표시하고, 중요한 응용 프로그램을 관리하고, Windows** **Vista 준비 과정에서 특히 주의해야 할 응용 프로그램 환경의 범위를 결정하여 사용자가 Windows Vista 사용을 준비할 수 있도록 합니다.
+
+현재 ACT 4.1을 사용할 수 있으며 이 버전은 Windows** **XP SP2 배포 환경의 고객을 지원하기 위해 제공됩니다. ACT 4.1에서는 DCOM 인터페이스, 방화벽 설정 및 Internet Explorer 문제를 조사합니다. ACT는 자세한 테스트가 필요한 응용 프로그램과 오래된 버전의 응용 프로그램을 식별하고 SP2와 이미 호환되는 응용 프로그램이 어느 것인지 확인하도록 설계되었으므로 사용자는 ACT를 사용하여 작업의 우선 순위를 정할 수 있습니다.
+
+ACT 5.0은 Windows Vista의 보안 기능을 지원하도록 특별히 업데이트되었습니다.
+
+이 도구 키트에서 향상된 기능은 다음과 같습니다.
+
+-   Windows Vista용 호환성 평가 기능이 새로 추가되었습니다.
+
+-   평가 기능 설정을 중앙 집중식으로 관리할 수 있도록 사용자 인터페이스가 업데이트되었습니다.
+
+-   응용 프로그램을 범주화하고 우선 순위를 부여하는 데 사용할 수 있는 데이터 구성 기능이 새로 추가되었습니다.
+
+-   포괄적인 호환성 보고서를 볼 수 있도록 데이터 분석 기능이 향상되었습니다.
+
+-   고객과 ISV(독립 소프트웨어 공급업체)가 자신들의 응용 프로그램 호환성 테스트 결과에 대한 정보를 공유할 수 있도록 온라인 응용 프로그램 커뮤니티를 운영합니다.
+
+이 도구 키트에 대한 자세한 내용은 TechNet의 [Windows Application Compatibility (영문)](http://www.microsoft.com/technet/prodtechnol/windows/appcompatibility/default.mspx) 페이지를 참조하십시오.
+
+##### 임시 해결 방법
+
+특정 응용 프로그램 호환성 도구 및 리소스 이외에, 완전한 해법을 찾기까지 시간이 걸릴지 모르는 응용 프로그램 호환성 문제를 해결하는 데 사용할 수 있는 다른 Microsoft 기술도 있습니다. 이러한 기술은 Windows Vista로 마이그레이션하는 데 도움을 주고 Windows Vista와 호환되지 않지만 업무상 중요한 응용 프로그램을 계속 실행하는 데 도움을 주도록 설계되었습니다. 이러한 기술에는 다음이 포함됩니다.
+
+-   **Virtual PC** Virtual PC를 사용하면 이전 버전의 Windows에서만 제대로 작동하는 응용 프로그램을 Windows Vista에서 실행할 수 있습니다. Virtual PC를 사용하면 호환되지 않는 응용 프로그램의 업그레이드 버전이 개발될 때까지 Windows Vista 환경에서 이전 버전의 Windows를 계속 사용하여 호환되지 않는 응용 프로그램을 실행할 수 있습니다. 자세한 내용은 Microsoft.com에서 [Microsoft Virtual PC (영문)](http://www.microsoft.com/windows/virtualpc/default.mspx) 웹 사이트를 참조하십시오.
+
+-   **응용 프로그램 호스팅을 위한 터미널 서비스** 터미널 서비스에 이전 응용 프로그램을 호스팅하면 네트워크의 거의 모든 컴퓨터 장치에 Windows 기반 응용 프로그램이나 Windows 바탕 화면 자체를 제공할 수 있습니다. Windows Vista 클라이언트에서 원격 데스크톱을 통해 이러한 응용 프로그램 호스팅 환경에 연결하여 이전 응용 프로그램을 실행할 수 있습니다. 자세한 내용은 Microsoft Windows Server 2003 R2 웹 사이트에서 [Technical Overview of Windows Server 2003 Terminal Services](http://www.microsoft.com/korea/windowsserver2003/techinfo/overview/termserv.mspx)를 참조하십시오.
+
+-   **응용 프로그램 호스팅을 위한 가상 서버** 가상 서버 환경을 사용하면 레거시 응용 프로그램을 호스팅하고 이러한 응용 프로그램에 액세스해야 하는 최종 사용자의 원격 연결을 허용할 수 있습니다. Virtual Server 2005 R2를 Windows Server 2003과 함께 사용하면 게스트 환경에서 대부분의 주요 *x*86 운영 체제가 실행되는 가상 플랫폼을 제공할 수 있습니다. Microsoft에서는 이 플랫폼을 Windows Server 운영 체제 및 Microsoft Windows Server System™ 응용 프로그램에 대한 호스트로 지원합니다. 자세한 내용은 Microsoft Virtual Server 웹 사이트에서 [Virtual Server 2005 R2 Product Overview](http://www.microsoft.com/korea/windowsserversystem/virtualserver/evaluation/vsoverview.mspx)를 참조하십시오.
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+### 추가 정보
+
+다음 링크에서는 Windows Vista 응용 프로그램 호환성 관련 항목에 대한 추가 정보를 제공합니다.
+
+-   [About Windows Resource Protection (영문)](http://msdn2.microsoft.com/en-us/library/aa382503.aspx) (Microsoft MSDN®)
+
+-   [*Application Compatibility Feature Team Guide (영문)*](http://go.microsoft.com/fwlink/?linkid=74194) (TechNet)
+
+-   [Introduction to the Protected Mode API (영문)](http://msdn.microsoft.com/library/default.asp?url=/workshop/security/protmode/overviews/pmie_intro.asp) (MSDN)
+
+-   [Make older programs run in this version of Windows](http://windowshelp.microsoft.com/windows/ko-kr/help/bf416877-c83f-4476-a3da-8ec98dcf5f101042.mspx) (Windows Vista 도움말 및 지원 웹 사이트)
+
+-   [Microsoft Application Compatibility Toolkit 5.0 (영문)](http://www.microsoft.com/technet/windowsvista/appcompat/act5feat.mspx) (TechNet)
+
+-   [Microsoft Standard User Analyzer (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=df59b474-c0b7-4422-8c70-b0d9d3d2f575&displaylang=en) (Microsoft 다운로드 센터)
+
+-   [Microsoft Virtualization Solutions (영문)](http://www.microsoft.com/windowsserversystem/virtualization/default.mspx) (Microsoft.com)
+
+-   [Program Compatibility Assistant: frequently asked questions](http://windowshelp.microsoft.com/windows/ko-kr/help/82c0440d-553e-47e9-b4bd-6c2d10df4de71042.mspx) (Windows Vista 도움말 및 지원 웹 사이트)
+
+-   [Technical Overview of Windows Server 2003 Terminal Services](http://www.microsoft.com/korea/windowsserver2003/techinfo/overview/termserv.mspx) (Microsoft.com)
+
+-   [The Windows Vista Developer Story: Application Compatibility Cookbook (영문)](http://msdn2.microsoft.com/en-us/library/aa480152.aspx) (MSDN)
+
+-   [Windows Application Compatibility (영문)](http://www.microsoft.com/technet/prodtechnol/windows/appcompatibility/default.mspx) (TechNet)
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+**다운로드**
+
+[Windows Vista 보안 가이드 받기 (영문)](http://go.microsoft.com/fwlink/?linkid=74028)
+
+**업데이트 알림**
+
+[업데이트 및 최신 릴리스 정보 수신 등록 (영문)](http://go.microsoft.com/fwlink/?linkid=54982)
+
+**사용자 의견**
+
+[의견 및 제안 보내기](mailto:secwish@microsoft.com?subject=windows%20vista%20security%20guide)
+
+[](#mainsection)[페이지 위쪽](#mainsection)

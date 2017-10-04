@@ -1,0 +1,56 @@
+---
+TOCTitle: 'Microsoft TechNet: Common Criteria Certification: Microsoft Windows 플랫폼 제품'
+Title: 'Microsoft TechNet: Common Criteria Certification: Microsoft Windows 플랫폼 제품'
+ms:assetid: '20594b26-c37a-4fb3-9d4c-9b71464c714c'
+ms:contentKeyID: 20213907
+ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Cc700818(v=TechNet.10)'
+---
+
+Common Criteria Certification: Microsoft Windows 플랫폼 제품
+============================================================
+
+게시 날짜: 2005년 12월 14일
+
+### 요약
+
+이 백서에서는 CC(공통 기준) 프로그램에 대한 개요, 인증 혜택 및 인증된 Windows 플랫폼 시나리오를 제공하고, 고객이 CC에 따라서 보호된 Microsoft Windows 플랫폼 환경을 구성 및 관리하는 데 도움이 되는 리소스를 제공합니다.
+
+1999년 국제 표준으로 인가된, 공통 기준은 미국 TCSEC(Class C2 등급 지정) 및 유럽 ITSEC(유럽 정보 기술 보안 평가 기준)를 비롯해 기존의 몇몇 평가 체계를 대체했습니다. 공통 기준을 수용한 20개국 이상의 국가에서는 이 기준을 수용함으로써 보안이 강화된 IT 제품의 가용성을 증대하고, 고객의 소프트웨어 구매 결정 시 IT 제품 평가를 돕고, IT 제품 보안 측면에서 고객에게 보다 높은 수준의 신뢰를 가져다 줄 것이라고 확신하고 있습니다.
+
+2005년 12월부로, 다음 Microsoft Windows 플랫폼 제품은 Common Criteria Evaluation Assurance Level (EAL) 4 + Augmented 인증을 획득했습니다.
+
+-   Microsoft Windows Server 2003 Standard Edition 서비스 팩 1 (32비트)
+
+-   Microsoft Windows Server 2003 Enterprise Edition 서비스 팩 1 (32비트 및 64비트 버전)
+
+-   Microsoft Windows Server 2003 Datacenter Edition 서비스 팩 1 (32비트 및 64비트 버전)
+
+-   Microsoft Windows Server 2003 Certificate Server, Certificate Issuing and Management Components (CIMC) (보안 수준 3 보호 프로필, 버전 1.0)
+
+-   Microsoft Windows XP Professional 서비스 팩 2
+
+-   Microsoft Windows XP Embedded 서비스 팩 2
+
+#### 이 문서에서 다루는 내용
+
+-   공통 기준 보안 평가 프로세스란 무엇입니까?
+
+-   공통 기준이 의미하는 바
+
+-   공통 기준의 혜택
+
+-   Microsoft Windows 플랫폼 제품 인증
+
+-   Common Criteria Certification 적용하기
+
+-   추가 리소스
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+##### 다운로드
+
+[WppCCC.doc (영문)](http://download.microsoft.com/download/8/a/d/8ad9c652-4a8d-4283-9b50-a09f329e84c2/wppccc.doc)
+72 KB
+Microsoft Word file
+
+[](#mainsection)[페이지 위쪽](#mainsection)

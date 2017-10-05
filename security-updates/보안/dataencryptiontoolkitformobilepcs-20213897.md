@@ -199,8 +199,8 @@ BitLocker를 사용할 경우 얻을 수 있는 가장 큰 장점은 시스템 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>시스템 유형</th>
-<th>BitLocker 정책 및 구성</th>
+<th style="border:1px solid black;" >시스템 유형</th>
+<th style="border:1px solid black;" >BitLocker 정책 및 구성</th>
 </tr>
 </thead>
 <tbody>

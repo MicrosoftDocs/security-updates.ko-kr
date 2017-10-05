@@ -30,8 +30,8 @@ RMS SP2를 실행하기 위한 하드웨어 요구 사항이 다음 표에 나�
 </colgroup>
 <thead>
 <tr class="header">
-<th>요구 사항</th>
-<th>권장 사항</th>
+<th style="border:1px solid black;" >요구 사항</th>
+<th style="border:1px solid black;" >권장 사항</th>
 </tr>
 </thead>
 <tbody>
@@ -66,8 +66,8 @@ RMS SP2를 실행하는 서버에 대한 소프트웨어 요구 사항이 다음
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성 요소</th>
-<th>요구 사항</th>
+<th style="border:1px solid black;" >구성 요소</th>
+<th style="border:1px solid black;" >요구 사항</th>
 </tr>
 </thead>
 <tbody>
@@ -117,8 +117,8 @@ RMS SP2를 실행하는 서버에 대한 인프라 요구 사항이 다음 표�
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성 요소</th>
-<th>요구 사항</th>
+<th style="border:1px solid black;" >구성 요소</th>
+<th style="border:1px solid black;" >요구 사항</th>
 </tr>
 </thead>
 <tbody>
@@ -156,8 +156,8 @@ RMS는 Microsoft SQL Server 2000 및 Microsoft SQL Server 2005를 실행하는
 </colgroup>
 <thead>
 <tr class="header">
-<th>작업</th>
-<th>계정 요구 사항</th>
+<th style="border:1px solid black;" >작업</th>
+<th style="border:1px solid black;" >계정 요구 사항</th>
 </tr>
 </thead>
 <tbody>
@@ -204,8 +204,8 @@ RMS는 Microsoft SQL Server 2000 및 Microsoft SQL Server 2005를 실행하는
 </colgroup>
 <thead>
 <tr class="header">
-<th>조건</th>
-<th>권장 사항</th>
+<th style="border:1px solid black;" >조건</th>
+<th style="border:1px solid black;" >권장 사항</th>
 </tr>
 </thead>
 <tbody>

@@ -62,7 +62,7 @@ WSUS 3.0 SP2 서버 설치를 위한 시스템 요구 사항
         </colgroup>
         <thead>
         <tr class="header">
-        <th><img src="images/Dd939886.Warning(WS.10).gif" />경고</th>
+        <th style="border:1px solid black;" ><img src="images/Dd939886.Warning(WS.10).gif" />경고</th>
         </tr>
         </thead>
         <tbody>
@@ -97,7 +97,7 @@ WSUS 3.0 SP2 서버 설치를 위한 시스템 요구 사항
 </colgroup>
 <thead>
 <tr class="header">
-<th><img src="images/Dd939886.Important(WS.10).gif" />중요</th>
+<th style="border:1px solid black;" ><img src="images/Dd939886.Important(WS.10).gif" />중요</th>
 </tr>
 </thead>
 <tbody>
@@ -134,7 +134,7 @@ WSUS 3.0 SP2는 원격 SQL 구성의 프런트 엔드 서버에서 터미널 �
 </colgroup>
 <thead>
 <tr class="header">
-<th><img src="images/Dd939886.Important(WS.10).gif" />중요</th>
+<th style="border:1px solid black;" ><img src="images/Dd939886.Important(WS.10).gif" />중요</th>
 </tr>
 </thead>
 <tbody>
@@ -176,7 +176,7 @@ WSUS 3.0 SP2를 설치할 때 성공적으로 설치를 완료하려면 바이�
 </colgroup>
 <thead>
 <tr class="header">
-<th><img src="images/Dd939886.Caution(WS.10).gif" />주의</th>
+<th style="border:1px solid black;" ><img src="images/Dd939886.Caution(WS.10).gif" />주의</th>
 </tr>
 </thead>
 <tbody>
@@ -326,8 +326,8 @@ WSUS 명령줄 설치 프로그램을 사용하여 WSUS 3.0 SP2를 무인 설치
 </colgroup>
 <thead>
 <tr class="header">
-<th>옵션</th>
-<th>설명</th>
+<th style="border:1px solid black;" >옵션</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>
@@ -366,8 +366,8 @@ WSUS 명령줄 설치 프로그램을 사용하여 WSUS 3.0 SP2를 무인 설치
 </colgroup>
 <thead>
 <tr class="header">
-<th>속성</th>
-<th>설명</th>
+<th style="border:1px solid black;" >속성</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>
@@ -446,7 +446,7 @@ WSUSSetup.exe /q DEFAULT\_WEBSITE=0(포트 8530을 사용하여 자동 모드에
 </colgroup>
 <thead>
 <tr class="header">
-<th><img src="images/Dd939886.Important(WS.10).gif" />중요</th>
+<th style="border:1px solid black;" ><img src="images/Dd939886.Important(WS.10).gif" />중요</th>
 </tr>
 </thead>
 <tbody>

@@ -130,11 +130,11 @@ Windows Server 2003 인프라 서버 강화
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -171,11 +171,11 @@ IP 주소 구성을 클라이언트에 할당하려면 DHCP 서버에서 DHCP �
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -296,14 +296,14 @@ IPSec 필터 사용에 대한 자세한 내용은 모듈 "추가 구성원 서�
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스</th>
-<th>프로토콜</th>
-<th>원본 포트</th>
-<th>대상 포트</th>
-<th>원본 주소</th>
-<th>대상 주소</th>
-<th>동작</th>
-<th>미러링</th>
+<th style="border:1px solid black;" >서비스</th>
+<th style="border:1px solid black;" >프로토콜</th>
+<th style="border:1px solid black;" >원본 포트</th>
+<th style="border:1px solid black;" >대상 포트</th>
+<th style="border:1px solid black;" >원본 주소</th>
+<th style="border:1px solid black;" >대상 주소</th>
+<th style="border:1px solid black;" >동작</th>
+<th style="border:1px solid black;" >미러링</th>
 </tr>
 </thead>
 <tbody>
@@ -436,14 +436,14 @@ ME</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스</th>
-<th>프로토콜</th>
-<th>원본 포트</th>
-<th>대상 포트</th>
-<th>원본 주소</th>
-<th>대상 주소</th>
-<th>동작</th>
-<th>미러링</th>
+<th style="border:1px solid black;" >서비스</th>
+<th style="border:1px solid black;" >프로토콜</th>
+<th style="border:1px solid black;" >원본 포트</th>
+<th style="border:1px solid black;" >대상 포트</th>
+<th style="border:1px solid black;" >원본 주소</th>
+<th style="border:1px solid black;" >대상 주소</th>
+<th style="border:1px solid black;" >동작</th>
+<th style="border:1px solid black;" >미러링</th>
 </tr>
 </thead>
 <tbody>

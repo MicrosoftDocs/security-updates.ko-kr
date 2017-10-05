@@ -241,8 +241,8 @@ GPMC(그룹 정책 관리 콘솔)를 사용하면 이 가이드에 정의되어 
 </colgroup>
 <thead>
 <tr class="header">
-<th>요소</th>
-<th>의미</th>
+<th style="border:1px solid black;" >요소</th>
+<th style="border:1px solid black;" >의미</th>
 </tr>
 </thead>
 <tbody>

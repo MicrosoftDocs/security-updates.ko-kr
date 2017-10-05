@@ -37,8 +37,8 @@ VPN(가상 사설망) 차단 스크립트에 대한 자세한 내용은 www.micr
 </colgroup>
 <thead>
 <tr class="header">
-<th>스크립트 이름</th>
-<th>설명</th>
+<th style="border:1px solid black;" >스크립트 이름</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>
@@ -110,8 +110,8 @@ rqc ConnName TunnelConnName Port Domain UserName String
 </colgroup>
 <thead>
 <tr class="header">
-<th>매개 변수</th>
-<th>설명</th>
+<th style="border:1px solid black;" >매개 변수</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>

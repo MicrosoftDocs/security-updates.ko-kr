@@ -122,10 +122,10 @@ IAS를 사용한 무선 액세스 관리 솔루션을 디자인하려면 먼저 
 </colgroup>
 <thead>
 <tr class="header">
-<th>기능</th>
-<th>Windows Server 2003 기본 모드</th>
-<th>Windows 2000 기본 모드</th>
-<th>혼합 모드-또는-Microsoft Windows NT® 4.0</th>
+<th style="border:1px solid black;" >기능</th>
+<th style="border:1px solid black;" >Windows Server 2003 기본 모드</th>
+<th style="border:1px solid black;" >Windows 2000 기본 모드</th>
+<th style="border:1px solid black;" >혼합 모드-또는-Microsoft Windows NT® 4.0</th>
 </tr>
 </thead>
 <tbody>
@@ -199,9 +199,9 @@ IAS 서버는 세 가지 개념적인 RADIUS 역할 중 하나로 동작하도�
 </colgroup>
 <thead>
 <tr class="header">
-<th>IAS RADIUS 역할</th>
-<th>기능</th>
-<th>시나리오</th>
+<th style="border:1px solid black;" >IAS RADIUS 역할</th>
+<th style="border:1px solid black;" >기능</th>
+<th style="border:1px solid black;" >시나리오</th>
 </tr>
 </thead>
 <tbody>
@@ -253,9 +253,9 @@ RADIUS는 모든 802.1X 기반 WLAN 액세스 관리 솔루션의 중요한 구�
 </colgroup>
 <thead>
 <tr class="header">
-<th>장애 조치 및 로드 균형 조정 방법</th>
-<th>장점</th>
-<th>단점</th>
+<th style="border:1px solid black;" >장애 조치 및 로드 균형 조정 방법</th>
+<th style="border:1px solid black;" >장점</th>
+<th style="border:1px solid black;" >단점</th>
 </tr>
 </thead>
 <tbody>
@@ -366,8 +366,8 @@ SQL Server 2000이 없는 조직 또는 RADIUS 요청 로그의 정기적인 쿼
 </colgroup>
 <thead>
 <tr class="header">
-<th>IAS 로깅 디자인 결정</th>
-<th>설명</th>
+<th style="border:1px solid black;" >IAS 로깅 디자인 결정</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>
@@ -458,9 +458,9 @@ IAS와 Active Directory 도메인 컨트롤러 간에 통신이 과다한 경우
 </colgroup>
 <thead>
 <tr class="header">
-<th>IAS 위치</th>
-<th>장점</th>
-<th>단점</th>
+<th style="border:1px solid black;" >IAS 위치</th>
+<th style="border:1px solid black;" >장점</th>
+<th style="border:1px solid black;" >단점</th>
 </tr>
 </thead>
 <tbody>
@@ -497,9 +497,9 @@ Active Directory 도메인 컨트롤러는 매우 신중히 다루어야 하는 
 </colgroup>
 <thead>
 <tr class="header">
-<th>문제</th>
-<th>전제 조건</th>
-<th>설명</th>
+<th style="border:1px solid black;" >문제</th>
+<th style="border:1px solid black;" >전제 조건</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>
@@ -555,8 +555,8 @@ WLAN 인증 옵션 선택이 IAS 서버 부하에 큰 영향을 줍니다. EAP-T
 </colgroup>
 <thead>
 <tr class="header">
-<th>인증 유형</th>
-<th>설명</th>
+<th style="border:1px solid black;" >인증 유형</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>
@@ -601,8 +601,8 @@ IAS가 서비스할 수 있는 인증 수에 대한 예상은 초당 인증으�
 </colgroup>
 <thead>
 <tr class="header">
-<th>인증 유형</th>
-<th>초당 인증 수</th>
+<th style="border:1px solid black;" >인증 유형</th>
+<th style="border:1px solid black;" >초당 인증 수</th>
 </tr>
 </thead>
 <tbody>
@@ -655,8 +655,8 @@ IAS 서버가 Windows Server 2003 권장 하드웨어 요구 사항을 만족�
 </colgroup>
 <thead>
 <tr class="header">
-<th>리소스</th>
-<th>구성</th>
+<th style="border:1px solid black;" >리소스</th>
+<th style="border:1px solid black;" >구성</th>
 </tr>
 </thead>
 <tbody>
@@ -734,9 +734,9 @@ IAS는 Windows Server 2003 운영 체제의 옵션 구성 요소이므로 로�
 </colgroup>
 <thead>
 <tr class="header">
-<th>담당자 역할</th>
-<th>역할 설명</th>
-<th>작업</th>
+<th style="border:1px solid black;" >담당자 역할</th>
+<th style="border:1px solid black;" >역할 설명</th>
+<th style="border:1px solid black;" >작업</th>
 </tr>
 </thead>
 <tbody>
@@ -777,9 +777,9 @@ RADIUS 인증 요청 로그를 사용할 수 없는 경우 IAS 보안 감사자�
 </colgroup>
 <thead>
 <tr class="header">
-<th>작업</th>
-<th>그룹 구성원</th>
-<th>필요한 사용 권한 또는 권한</th>
+<th style="border:1px solid black;" >작업</th>
+<th style="border:1px solid black;" >그룹 구성원</th>
+<th style="border:1px solid black;" >필요한 사용 권한 또는 권한</th>
 </tr>
 </thead>
 <tbody>
@@ -837,9 +837,9 @@ IAS는 보안 인프라의 구성 요소이며 사전에 모니터링해야 합�
 </colgroup>
 <thead>
 <tr class="header">
-<th>위협/취약점</th>
-<th>증상</th>
-<th>모니터링 도구</th>
+<th style="border:1px solid black;" >위협/취약점</th>
+<th style="border:1px solid black;" >증상</th>
+<th style="border:1px solid black;" >모니터링 도구</th>
 </tr>
 </thead>
 <tbody>
@@ -890,9 +890,9 @@ IAS는 보안 인프라의 구성 요소이며 사전에 모니터링해야 합�
 </colgroup>
 <thead>
 <tr class="header">
-<th>위협/취약점</th>
-<th>증상</th>
-<th>감사 도구</th>
+<th style="border:1px solid black;" >위협/취약점</th>
+<th style="border:1px solid black;" >증상</th>
+<th style="border:1px solid black;" >감사 도구</th>
 </tr>
 </thead>
 <tbody>

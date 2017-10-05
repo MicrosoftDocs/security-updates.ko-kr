@@ -131,9 +131,9 @@ Windows Server 2003에서 제공하는 기본 설정값은 보안 상태로 설�
 </colgroup>
 <thead>
 <tr class="header">
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -193,10 +193,10 @@ Windows Server 2003 기준 정책
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -227,10 +227,10 @@ Windows Server 2003 기준 정책
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -270,10 +270,10 @@ Windows Server 2003 기준 정책
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -306,10 +306,10 @@ Windows Server 2003 기준 정책
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -344,10 +344,10 @@ Windows Server 2003 기준 정책
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -390,10 +390,10 @@ SACL은 ACE(액세스 제어 항목)로 구성되어 있습니다. 각 ACE에는
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -430,10 +430,10 @@ SACL은 ACE(액세스 제어 항목)로 구성되어 있습니다. 각 ACE에는
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -475,10 +475,10 @@ SACL은 ACE(액세스 제어 항목)로 구성되어 있습니다. 각 ACE에는
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -511,10 +511,10 @@ SACL은 ACE(액세스 제어 항목)로 구성되어 있습니다. 각 ACE에는
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -582,10 +582,10 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -616,10 +616,10 @@ Windows Server 2003에서 **Everyone** 보안 그룹에 부여되는 권한은 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -647,10 +647,10 @@ Windows Server 2003에서 **Everyone** 보안 그룹에 부여되는 권한은 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -679,10 +679,10 @@ Windows Server 2003에서 **Everyone** 보안 그룹에 부여되는 권한은 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -711,10 +711,10 @@ Windows Server 2003에서 **Everyone** 보안 그룹에 부여되는 권한은 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -743,10 +743,10 @@ Windows Server 2003에서 **Everyone** 보안 그룹에 부여되는 권한은 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -775,10 +775,10 @@ Windows Server 2003에서 **Everyone** 보안 그룹에 부여되는 권한은 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -807,10 +807,10 @@ Windows Server 2003에서 **Everyone** 보안 그룹에 부여되는 권한은 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -841,10 +841,10 @@ Windows Server 2003에서 **Everyone** 보안 그룹에 부여되는 권한은 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -875,10 +875,10 @@ Windows Server 2003에서 **Everyone** 보안 그룹에 부여되는 권한은 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -909,10 +909,10 @@ Windows Server 2003에서 **Everyone** 보안 그룹에 부여되는 권한은 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -942,10 +942,10 @@ Windows Server 2003에서 **Everyone** 보안 그룹에 부여되는 권한은 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -978,10 +978,10 @@ Windows Server 2003에서 **Everyone** 보안 그룹에 부여되는 권한은 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1014,10 +1014,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1050,10 +1050,10 @@ NETWORK SERVICE, LOCAL SERVICE</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1085,10 +1085,10 @@ Local Service; Network Service</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1120,10 +1120,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1155,10 +1155,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1190,10 +1190,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1225,10 +1225,10 @@ SUPPORT_388945a0, LOCAL SERVICE</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1260,10 +1260,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1295,10 +1295,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1330,10 +1330,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1365,10 +1365,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1400,10 +1400,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1435,10 +1435,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1470,10 +1470,10 @@ LOCAL SERVICE, NETWORK SERVICE</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1505,10 +1505,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1540,10 +1540,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1575,10 +1575,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1623,10 +1623,10 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1658,10 +1658,10 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1693,10 +1693,10 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1730,10 +1730,10 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1767,10 +1767,10 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1802,10 +1802,10 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1837,10 +1837,10 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1872,10 +1872,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1907,10 +1907,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1942,10 +1942,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1977,10 +1977,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2012,10 +2012,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2049,10 +2049,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2084,10 +2084,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2119,10 +2119,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2156,10 +2156,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2191,10 +2191,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2226,10 +2226,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2261,10 +2261,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2296,10 +2296,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2333,10 +2333,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2368,10 +2368,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2438,10 +2438,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2475,10 +2475,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2510,10 +2510,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2545,10 +2545,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2582,10 +2582,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2617,10 +2617,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2652,10 +2652,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2687,10 +2687,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2722,10 +2722,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2757,10 +2757,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2792,10 +2792,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2827,10 +2827,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2862,10 +2862,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2897,10 +2897,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2932,10 +2932,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2969,10 +2969,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -3006,10 +3006,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -3043,10 +3043,10 @@ Administrators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -3096,10 +3096,10 @@ Software\Microsoft\Windows NT\CurrentVersion</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -3283,10 +3283,10 @@ System\CurrentControlSet<br />
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -3327,10 +3327,10 @@ System\CurrentControlSet<br />
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -3364,10 +3364,10 @@ COMCFG,DFS$</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -3399,10 +3399,10 @@ COMCFG,DFS$</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -3436,10 +3436,10 @@ COMCFG,DFS$</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -3479,10 +3479,10 @@ Windows 9x 클라이언트가 있고 해당 클라이언트 모두에 DSClient�
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -3514,10 +3514,10 @@ Windows 9x 클라이언트가 있고 해당 클라이언트 모두에 DSClient�
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -3549,10 +3549,10 @@ Windows 9x 클라이언트가 있고 해당 클라이언트 모두에 DSClient�
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -3584,10 +3584,10 @@ Windows 9x 클라이언트가 있고 해당 클라이언트 모두에 DSClient�
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -3619,10 +3619,10 @@ Windows 9x 클라이언트가 있고 해당 클라이언트 모두에 DSClient�
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -3671,10 +3671,10 @@ Windows 9x 클라이언트가 있고 해당 클라이언트 모두에 DSClient�
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -3706,10 +3706,10 @@ Windows 9x 클라이언트가 있고 해당 클라이언트 모두에 DSClient�
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -3743,10 +3743,10 @@ Windows 9x 클라이언트가 있고 해당 클라이언트 모두에 DSClient�
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -3778,10 +3778,10 @@ Windows 9x 클라이언트가 있고 해당 클라이언트 모두에 DSClient�
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -3813,10 +3813,10 @@ Windows 9x 클라이언트가 있고 해당 클라이언트 모두에 DSClient�
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -3848,10 +3848,10 @@ Administrators 그룹</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -3883,10 +3883,10 @@ Administrators 그룹</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -3918,10 +3918,10 @@ Administrators 그룹</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -3966,10 +3966,10 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -4001,10 +4001,10 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -4036,10 +4036,10 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -4071,10 +4071,10 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -4108,10 +4108,10 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -4145,10 +4145,10 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -4182,10 +4182,10 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -4217,10 +4217,10 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -4252,10 +4252,10 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -4309,11 +4309,11 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -4350,11 +4350,11 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -4389,11 +4389,11 @@ ALG</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -4428,11 +4428,11 @@ AppMgmt</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -4467,11 +4467,11 @@ aspnet_state</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -4506,11 +4506,11 @@ wuauserv</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -4545,11 +4545,11 @@ BITS</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -4584,12 +4584,12 @@ CertSvc</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
-<th></th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+<th style="border:1px solid black;" ></th>
 </tr>
 </thead>
 <tbody>
@@ -4624,11 +4624,11 @@ SwPrv</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -4663,11 +4663,11 @@ NWCWorkstation</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -4704,11 +4704,11 @@ ClipSrv</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -4743,11 +4743,11 @@ ClusSvc</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -4782,11 +4782,11 @@ COMSysApp</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -4821,11 +4821,11 @@ EventSystem</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -4860,11 +4860,11 @@ EventSystem</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -4899,11 +4899,11 @@ CryptSvc</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -4938,11 +4938,11 @@ Dhcp</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -4977,11 +4977,11 @@ DHCPServer</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5016,11 +5016,11 @@ Dfs</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5055,11 +5055,11 @@ TrkWks</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5094,11 +5094,11 @@ TrkSvr</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5133,11 +5133,11 @@ MSDTC</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5172,11 +5172,11 @@ Dnscache</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5211,11 +5211,11 @@ DNS</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5250,11 +5250,11 @@ ERSvc</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5289,11 +5289,11 @@ Eventlog</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5328,11 +5328,11 @@ Fax</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5367,11 +5367,11 @@ NtFrs</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5406,11 +5406,11 @@ MacFile</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5445,11 +5445,11 @@ MSFtpsvc</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5484,11 +5484,11 @@ helpsvc</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5523,11 +5523,11 @@ HTTPFilter</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5562,11 +5562,11 @@ HidServ</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5601,11 +5601,11 @@ IASJet</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5640,11 +5640,11 @@ IISADMIN</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5679,11 +5679,11 @@ ImapiService</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5718,11 +5718,11 @@ cisvc</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5759,11 +5759,11 @@ Irmon</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5798,11 +5798,11 @@ IAS</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5837,11 +5837,11 @@ SharedAccess</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5876,11 +5876,11 @@ IsmServ</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5915,11 +5915,11 @@ IsmServ</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5954,11 +5954,11 @@ PolicyAgent</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -5993,11 +5993,11 @@ Kdc</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -6032,11 +6032,11 @@ LicenseService</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -6071,11 +6071,11 @@ dmserver</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -6110,11 +6110,11 @@ dmadmin</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -6149,11 +6149,11 @@ msmq</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -6188,11 +6188,11 @@ mqds</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -6227,11 +6227,11 @@ Mqtgsvc</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -6266,11 +6266,11 @@ Messenger</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -6305,11 +6305,11 @@ POP3SVC</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -6344,11 +6344,11 @@ MSSQL$UDDI</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -6383,11 +6383,11 @@ MSSQLServerADHelper</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -6422,11 +6422,11 @@ CORRTSvc</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -6461,11 +6461,11 @@ Netlogon</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -6500,11 +6500,11 @@ mnmsrvc</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -6539,11 +6539,11 @@ Netman</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -6578,11 +6578,11 @@ NetDDE</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -6617,11 +6617,11 @@ NetDDEdsdm</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -6656,11 +6656,11 @@ NLA</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -6695,11 +6695,11 @@ NntpSvc</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -6734,11 +6734,11 @@ NtLmSsp</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -6773,11 +6773,11 @@ SysmonLog</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -6812,11 +6812,11 @@ PlugPlay</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -6851,11 +6851,11 @@ WmdmPmSN</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -6890,11 +6890,11 @@ MacPrint</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -6929,11 +6929,11 @@ Spooler</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -6968,11 +6968,11 @@ ProtectedStorage</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -7007,11 +7007,11 @@ RasAuto</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -7046,11 +7046,11 @@ RasMan</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -7098,11 +7098,11 @@ SrvcSurg</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -7137,11 +7137,11 @@ RDSessMgr</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -7176,11 +7176,11 @@ BINLSVC</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -7215,11 +7215,11 @@ RpcSs</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -7254,11 +7254,11 @@ RpcLocator</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -7293,11 +7293,11 @@ RemoteRegistry</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -7332,11 +7332,11 @@ AppMgr</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -7371,11 +7371,11 @@ Appmon</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -7410,11 +7410,11 @@ Remote_Storage_User_Link</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -7449,11 +7449,11 @@ Remote_Storage_Server</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -7490,11 +7490,11 @@ NtmsSvc</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -7529,11 +7529,11 @@ RSoPProv</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -7568,11 +7568,11 @@ RemoteAccess</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -7607,11 +7607,11 @@ Nwsapagent</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -7646,11 +7646,11 @@ Seclogon</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -7685,11 +7685,11 @@ SamSs</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -7724,11 +7724,11 @@ lanmanserver</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -7763,11 +7763,11 @@ ShellHWDetection</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -7802,11 +7802,11 @@ SMTPSVC</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -7862,11 +7862,11 @@ SimpTcp</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -7901,11 +7901,11 @@ Groveler</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -7942,11 +7942,11 @@ SCardSvr</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -7981,11 +7981,11 @@ SNMP</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -8020,11 +8020,11 @@ SNMPTRAP</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -8059,11 +8059,11 @@ Sacsvr</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -8098,11 +8098,11 @@ SQLAgent$WEBDB</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -8137,11 +8137,11 @@ SENS</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -8178,11 +8178,11 @@ Schedule</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -8217,11 +8217,11 @@ LMHosts</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -8256,11 +8256,11 @@ LPDSVC</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -8295,11 +8295,11 @@ TapiSrv</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -8334,11 +8334,11 @@ Windows용 **Telnet** 시스템 서비스는 텔넷 클라이언트에 ASCII 터
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -8375,11 +8375,11 @@ TermService</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -8414,11 +8414,11 @@ TermServLicensing</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -8453,11 +8453,11 @@ Tssdis</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -8492,11 +8492,11 @@ Themes</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -8548,11 +8548,11 @@ tftpd</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -8587,11 +8587,11 @@ UPS</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -8626,11 +8626,11 @@ Uploadmgr</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -8665,11 +8665,11 @@ VDS</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -8704,11 +8704,11 @@ VSS</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -8743,11 +8743,11 @@ WebClient</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -8782,11 +8782,11 @@ elementmgr</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -8821,11 +8821,11 @@ AudioSrv</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -8860,11 +8860,11 @@ StiSvc</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -8899,11 +8899,11 @@ MSIServer</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -8938,11 +8938,11 @@ WINS</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -8977,11 +8977,11 @@ winmgmt</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -9016,11 +9016,11 @@ Wmi</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -9055,11 +9055,11 @@ WMServer</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -9094,11 +9094,11 @@ WindowsSystemResourceManager</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -9133,11 +9133,11 @@ W32Time</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -9172,11 +9172,11 @@ WinHttpAutoProxySvc</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -9211,11 +9211,11 @@ Standard, Enterprise 및 Datacenter Server의 경우 자동. Web Server의 경�
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -9250,11 +9250,11 @@ WmiApSrv</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -9289,11 +9289,11 @@ Lanmanworkstation</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -9341,11 +9341,11 @@ W3SVC</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>하위 키 레지스트리 값 항목</th>
-<th>형식</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >하위 키 레지스트리 값 항목</th>
+<th style="border:1px solid black;" >형식</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -9490,11 +9490,11 @@ DoS(서비스 거부) 공격은 컴퓨터 또는 컴퓨터의 특정 서비스�
 </colgroup>
 <thead>
 <tr class="header">
-<th>하위 키 레지스트리 값 항목</th>
-<th>형식</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >하위 키 레지스트리 값 항목</th>
+<th style="border:1px solid black;" >형식</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -9567,11 +9567,11 @@ FTP 서버 및 웹 서버와 같은 Windows 소켓 응용 프로그램의 연결
 </colgroup>
 <thead>
 <tr class="header">
-<th>하위 키 레지스트리 값 항목</th>
-<th>형식</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >하위 키 레지스트리 값 항목</th>
+<th style="border:1px solid black;" >형식</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -9608,11 +9608,11 @@ DWORD</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>하위 키 레지스트리 값 항목</th>
-<th>형식</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >하위 키 레지스트리 값 항목</th>
+<th style="border:1px solid black;" >형식</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -9649,11 +9649,11 @@ DWORD</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>하위 키 레지스트리 값 항목</th>
-<th>형식</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >하위 키 레지스트리 값 항목</th>
+<th style="border:1px solid black;" >형식</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -9690,11 +9690,11 @@ DWORD</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>하위 키 레지스트리 값 항목</th>
-<th>형식</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >하위 키 레지스트리 값 항목</th>
+<th style="border:1px solid black;" >형식</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -9731,11 +9731,11 @@ String</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>하위 키 레지스트리 값 항목</th>
-<th>형식</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >하위 키 레지스트리 값 항목</th>
+<th style="border:1px solid black;" >형식</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -9774,11 +9774,11 @@ DWORD</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>하위 키 레지스트리 값 항목</th>
-<th>형식</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >하위 키 레지스트리 값 항목</th>
+<th style="border:1px solid black;" >형식</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -9841,10 +9841,10 @@ DWORD</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>UI의 설정 이름</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >UI의 설정 이름</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -9951,10 +9951,10 @@ Windows 2003 Server - 기반 시스템의 경우에는 다음 보안 템플릿�
 </colgroup>
 <thead>
 <tr class="header">
-<th>UE의 설정 이름</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >UE의 설정 이름</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -9990,8 +9990,8 @@ Windows 2003 Server - 기반 시스템의 경우에는 다음 보안 템플릿�
 </colgroup>
 <thead>
 <tr class="header">
-<th>암호화 수준</th>
-<th>설명</th>
+<th style="border:1px solid black;" >암호화 수준</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>
@@ -10031,10 +10031,10 @@ Windows 2003 Server - 기반 시스템의 경우에는 다음 보안 템플릿�
 </colgroup>
 <thead>
 <tr class="header">
-<th>UE의 설정 이름</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >UE의 설정 이름</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>

@@ -138,8 +138,8 @@ Windows Server 2003 방호 호스트 강화
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>설정</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >설정</th>
 </tr>
 </thead>
 <tbody>
@@ -167,8 +167,8 @@ Windows Server 2003 방호 호스트 강화
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>설정</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >설정</th>
 </tr>
 </thead>
 <tbody>
@@ -223,8 +223,8 @@ ANONOYMOUS LOGON; 기본 제공 Administrator; Support_388945a0; Guest; 모든 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>설정</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
 </tr>
 </thead>
 <tbody>
@@ -254,8 +254,8 @@ Wuauserv</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>설정</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
 </tr>
 </thead>
 <tbody>
@@ -285,8 +285,8 @@ BITS</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>설정</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
 </tr>
 </thead>
 <tbody>
@@ -316,8 +316,8 @@ Disabling the **컴퓨터 브라우저** 서비스를 해제하면 브라우저 
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>설정</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
 </tr>
 </thead>
 <tbody>
@@ -347,8 +347,8 @@ Dhcp</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>설정</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
 </tr>
 </thead>
 <tbody>
@@ -376,8 +376,8 @@ NLA</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>설정</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
 </tr>
 </thead>
 <tbody>
@@ -407,8 +407,8 @@ NtLmSsp</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>설정</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
 </tr>
 </thead>
 <tbody>
@@ -438,8 +438,8 @@ SysmonLog</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>설정</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
 </tr>
 </thead>
 <tbody>
@@ -484,8 +484,8 @@ SrvcSurg</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>설정</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
 </tr>
 </thead>
 <tbody>
@@ -515,8 +515,8 @@ RemoteRegistry</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>설정</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
 </tr>
 </thead>
 <tbody>
@@ -546,8 +546,8 @@ lanmanserver</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>설정</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
 </tr>
 </thead>
 <tbody>
@@ -577,8 +577,8 @@ LMHosts</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>설정</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
 </tr>
 </thead>
 <tbody>
@@ -608,8 +608,8 @@ TermService</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>설정</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
 </tr>
 </thead>
 <tbody>
@@ -643,8 +643,8 @@ MSIServer</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>설정</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
 </tr>
 </thead>
 <tbody>
@@ -672,8 +672,8 @@ WMI</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>설정</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
 </tr>
 </thead>
 <tbody>
@@ -720,10 +720,10 @@ BHLP를 통해 적용된 보안 설정은 방호 호스트 서버용 보안을 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -840,10 +840,10 @@ Windows Server 2003에는 삭제할 수는 없지만 이름을 바꿀 수는 있
 </colgroup>
 <thead>
 <tr class="header">
-<th>기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -891,14 +891,14 @@ IPSec 필터 사용에 대한 자세한 내용은 모듈 "추가 구성원 서�
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스</th>
-<th>프로토콜</th>
-<th>원본 포트</th>
-<th>대상 포트</th>
-<th>원본 주소</th>
-<th>대상 주소</th>
-<th>동작</th>
-<th>미러링</th>
+<th style="border:1px solid black;" >서비스</th>
+<th style="border:1px solid black;" >프로토콜</th>
+<th style="border:1px solid black;" >원본 포트</th>
+<th style="border:1px solid black;" >대상 포트</th>
+<th style="border:1px solid black;" >원본 주소</th>
+<th style="border:1px solid black;" >대상 주소</th>
+<th style="border:1px solid black;" >동작</th>
+<th style="border:1px solid black;" >미러링</th>
 </tr>
 </thead>
 <tbody>

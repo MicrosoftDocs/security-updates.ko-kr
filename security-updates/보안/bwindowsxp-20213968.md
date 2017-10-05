@@ -361,9 +361,9 @@ Windows XP 보안 가이드
 </colgroup>
 <thead>
 <tr class="header">
-<th>심각도</th>
-<th>가장 일반적인 종류</th>
-<th>필요한 조건</th>
+<th style="border:1px solid black;" >심각도</th>
+<th style="border:1px solid black;" >가장 일반적인 종류</th>
+<th style="border:1px solid black;" >필요한 조건</th>
 </tr>
 </thead>
 <tbody>

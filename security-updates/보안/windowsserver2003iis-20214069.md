@@ -124,10 +124,10 @@ IIS 관리자는 IIS를 쉽게 관리할 수 있도록 설계된 GUI(그래픽 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -187,11 +187,11 @@ IIS가 웹 서버 기능을 Windows Server 2003에 추가하려면 다음의 세
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -228,11 +228,11 @@ If the HTTP SSL service is stopped, IIS will not perform SSL functions. 이 서�
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -269,11 +269,11 @@ FTP, NNTP 및 SMTP 등의 웹 서비스를 제공하려면 **IIS 관리 서비�
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -359,8 +359,8 @@ NTFS 권한은 웹 권한을 대신하는 것이 아니라 웹 권한과 연합�
 </colgroup>
 <thead>
 <tr class="header">
-<th>파일 형식</th>
-<th>권장되는 NTFS 권한</th>
+<th style="border:1px solid black;" >파일 형식</th>
+<th style="border:1px solid black;" >권장되는 NTFS 권한</th>
 </tr>
 </thead>
 <tbody>
@@ -417,8 +417,8 @@ IIS는 웹 사이트 권한을 조사하여 스크립트 소스 액세스나 디
 </colgroup>
 <thead>
 <tr class="header">
-<th>웹 사이트 권한:</th>
-<th>권한 부여:</th>
+<th style="border:1px solid black;" >웹 사이트 권한:</th>
+<th style="border:1px solid black;" >권한 부여:</th>
 </tr>
 </thead>
 <tbody>
@@ -508,10 +508,10 @@ IIS 로그가 IIS 서버에 저장되면 기본적으로 서버 관리자만 로
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -585,14 +585,14 @@ IPSec 필터 사용에 대한 자세한 내용은 모듈 "추가 구성원 서�
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스</th>
-<th>프로토콜</th>
-<th>원본 포트</th>
-<th>대상 포트</th>
-<th>원본 주소</th>
-<th>대상 주소</th>
-<th>동작</th>
-<th>미러링</th>
+<th style="border:1px solid black;" >서비스</th>
+<th style="border:1px solid black;" >프로토콜</th>
+<th style="border:1px solid black;" >원본 포트</th>
+<th style="border:1px solid black;" >대상 포트</th>
+<th style="border:1px solid black;" >원본 주소</th>
+<th style="border:1px solid black;" >대상 주소</th>
+<th style="border:1px solid black;" >동작</th>
+<th style="border:1px solid black;" >미러링</th>
 </tr>
 </thead>
 <tbody>

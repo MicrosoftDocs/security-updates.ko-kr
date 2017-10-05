@@ -119,9 +119,9 @@ Active Directory의 GPO를 관리하는 가장 좋은 방법은 Microsoft 웹 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>설정</th>
-<th>설명</th>
-<th>도메인 프로필</th>
+<th style="border:1px solid black;" >설정</th>
+<th style="border:1px solid black;" >설명</th>
+<th style="border:1px solid black;" >도메인 프로필</th>
 </tr>
 </thead>
 <tbody>
@@ -221,9 +221,9 @@ Internet Explorer는 웹 사이트를 인터넷, 로컬 인트라넷, 신뢰할 
 </colgroup>
 <thead>
 <tr class="header">
-<th>보안 영역</th>
-<th>기본 보안 수준</th>
-<th>설명</th>
+<th style="border:1px solid black;" >보안 영역</th>
+<th style="border:1px solid black;" >기본 보안 수준</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>
@@ -267,8 +267,8 @@ Internet Explorer는 웹 사이트를 인터넷, 로컬 인트라넷, 신뢰할 
 </colgroup>
 <thead>
 <tr class="header">
-<th>보안 영역</th>
-<th>정책 설정</th>
+<th style="border:1px solid black;" >보안 영역</th>
+<th style="border:1px solid black;" >정책 설정</th>
 </tr>
 </thead>
 <tbody>

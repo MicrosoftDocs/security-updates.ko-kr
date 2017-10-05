@@ -132,9 +132,9 @@ Active Directory GPO 템플릿을 사용하면 여러 가지 EFS 관련 설정�
 </colgroup>
 <thead>
 <tr class="header">
-<th>설정 이름</th>
-<th>가용성</th>
-<th>기본값</th>
+<th style="border:1px solid black;" >설정 이름</th>
+<th style="border:1px solid black;" >가용성</th>
+<th style="border:1px solid black;" >기본값</th>
 </tr>
 </thead>
 <tbody>

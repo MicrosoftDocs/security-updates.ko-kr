@@ -98,10 +98,10 @@ Windows XP SP 2의 관리 템플릿에는 광범위한 내용이 변경되었습
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -132,10 +132,10 @@ Internet Explorer 크래시 보고 정보에는 컴퓨터 메모리에서 가져
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -186,10 +186,10 @@ SP2에서는 작업 환경에서 Internet Explorer 영역 구성의 보안을 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -230,10 +230,10 @@ Microsoft ActiveX 컨트롤 및 파일 다운로드에는 파일의 무결성과
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -272,10 +272,10 @@ MK 프로토콜이 그리 폭넓게 사용되지는 않으므로 필요하지 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -316,10 +316,10 @@ MIME 파일 형식 스푸핑은 조직에 위협이 될 수 있습니다. 이러
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -358,10 +358,10 @@ MIME 파일 형식 스푸핑은 조직에 위협이 될 수 있습니다. 이러
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -400,10 +400,10 @@ Internet Explorer에서는 스크립트가 다양한 유형의 창을 프로그�
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -442,10 +442,10 @@ Internet Explorer에서 열리는 웹 페이지에는 제한 사항이 적용됩
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -488,10 +488,10 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -530,10 +530,10 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -566,10 +566,10 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -600,8 +600,8 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
     </colgroup>
     <thead>
     <tr class="header">
-    <th>값</th>
-    <th>설명</th>
+    <th style="border:1px solid black;" >값</th>
+    <th style="border:1px solid black;" >설명</th>
     </tr>
     </thead>
     <tbody>
@@ -644,10 +644,10 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -684,10 +684,10 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -718,10 +718,10 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -760,10 +760,10 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -806,10 +806,10 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -848,10 +848,10 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -888,10 +888,10 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -920,10 +920,10 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -952,10 +952,10 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -984,10 +984,10 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1018,10 +1018,10 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1054,10 +1054,10 @@ HTTP를 통해 전송되는 정보는 보호되지 않으므로 악의적인 사
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1088,10 +1088,10 @@ HTTP를 통해 전송되는 정보는 보호되지 않으므로 악의적인 사
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1134,10 +1134,10 @@ HTTP를 통해 전송되는 정보는 보호되지 않으므로 악의적인 사
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1170,10 +1170,10 @@ HTTP를 통해 전송되는 정보는 보호되지 않으므로 악의적인 사
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1206,10 +1206,10 @@ HTTP를 통해 전송되는 정보는 보호되지 않으므로 악의적인 사
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1244,10 +1244,10 @@ HTTP를 통해 전송되는 정보는 보호되지 않으므로 악의적인 사
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1278,10 +1278,10 @@ HTTP를 통해 전송되는 정보는 보호되지 않으므로 악의적인 사
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1318,10 +1318,10 @@ HTTP를 통해 전송되는 정보는 보호되지 않으므로 악의적인 사
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1356,10 +1356,10 @@ Windows XP를 실행하는 컴퓨터는 일반적으로 파일 및 프린터를 
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1394,10 +1394,10 @@ Windows XP를 실행하는 컴퓨터는 일반적으로 파일 및 프린터를 
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1432,10 +1432,10 @@ Windows XP를 실행하는 컴퓨터는 일반적으로 파일 및 프린터를 
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1468,10 +1468,10 @@ UPnP 네트워크 트래픽을 효과적으로 차단하면 작업 환경의 컴
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1504,10 +1504,10 @@ Windows 방화벽은 특정 프로그램이 예외 프로그램 목록에 프로
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1540,10 +1540,10 @@ Windows 방화벽은 특정 프로그램이 예외 프로그램 목록에 프로
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1580,10 +1580,10 @@ Windows 방화벽 예외 포트 목록은 그룹 정책을 통해 정의되며 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1628,10 +1628,10 @@ Windows XP에서 NLA(Network Location Awareness)를 사용하여 연결된 네�
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1664,10 +1664,10 @@ Windows XP에서 NLA(Network Location Awareness)를 사용하여 연결된 네�
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1698,10 +1698,10 @@ Windows XP에서 NLA(Network Location Awareness)를 사용하여 연결된 네�
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1736,10 +1736,10 @@ Windows XP에서 NLA(Network Location Awareness)를 사용하여 연결된 네�
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1768,10 +1768,10 @@ Windows XP에서 NLA(Network Location Awareness)를 사용하여 연결된 네�
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1808,10 +1808,10 @@ Windows XP에서 NLA(Network Location Awareness)를 사용하여 연결된 네�
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1846,10 +1846,10 @@ Windows XP를 실행하는 컴퓨터는 일반적으로 파일 및 프린터를 
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1884,10 +1884,10 @@ Windows XP를 실행하는 컴퓨터는 일반적으로 파일 및 프린터를 
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1922,10 +1922,10 @@ Windows XP를 실행하는 컴퓨터는 일반적으로 파일 및 프린터를 
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1958,10 +1958,10 @@ UPnP 네트워크 트래픽을 효과적으로 차단하면 컴퓨터가 공격�
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -1994,10 +1994,10 @@ Windows 방화벽은 특정 프로그램이 예외 프로그램 목록에 프로
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -2030,10 +2030,10 @@ Windows 방화벽은 특정 프로그램이 예외 프로그램 목록에 프로
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -2070,10 +2070,10 @@ Windows 방화벽 예외 포트 목록은 그룹 정책을 통해 정의되며 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트 데스크톱</th>
-<th>엔터프라이즈 클라이언트 랩톱</th>
-<th>고급 보안 데스크톱</th>
-<th>고급 보안 랩톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 데스크톱</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트 랩톱</th>
+<th style="border:1px solid black;" >고급 보안 데스크톱</th>
+<th style="border:1px solid black;" >고급 보안 랩톱</th>
 </tr>
 </thead>
 <tbody>
@@ -2118,8 +2118,8 @@ Windows 방화벽 예외 포트 목록은 그룹 정책을 통해 정의되며 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2146,8 +2146,8 @@ Windows 방화벽 예외 포트 목록은 그룹 정책을 통해 정의되며 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -2176,8 +2176,8 @@ Windows 방화벽 예외 포트 목록은 그룹 정책을 통해 정의되며 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>

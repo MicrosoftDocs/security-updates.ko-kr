@@ -116,8 +116,8 @@ Computer Configuration\\Windows Settings\\Security Settings\\Local Policies\\Sec
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
 </tr>
 </thead>
 <tbody>
@@ -144,8 +144,8 @@ Computer Configuration\\Windows Settings\\Security Settings\\Local Policies\\Sec
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
 </tr>
 </thead>
 <tbody>
@@ -172,8 +172,8 @@ Computer Configuration\\Windows Settings\\Security Settings\\Local Policies\\Sec
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
 </tr>
 </thead>
 <tbody>
@@ -233,9 +233,9 @@ Computer Configuration\\Windows Settings\\Security Settings\\System Services\\
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
 </tr>
 </thead>
 <tbody>
@@ -264,9 +264,9 @@ Computer Configuration\\Windows Settings\\Security Settings\\System Services\\
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스 이름</th>
-<th>구성원 서버 기본값</th>
-<th>엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
 </tr>
 </thead>
 <tbody>
@@ -310,8 +310,8 @@ MACHINE\\SYSTEM\\CurrentControlSet\\Services\\CertSvc\\Configuration
 </colgroup>
 <thead>
 <tr class="header">
-<th>UI의 감사 경로</th>
-<th>엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >UI의 감사 경로</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
 </tr>
 </thead>
 <tbody>
@@ -350,8 +350,8 @@ ACL(액세스 제어 목록)의 보호를 받지 않는 파일은 로컬로 또�
 </colgroup>
 <thead>
 <tr class="header">
-<th>UI의 ACL 경로</th>
-<th>엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >UI의 ACL 경로</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
 </tr>
 </thead>
 <tbody>
@@ -387,9 +387,9 @@ ACL(액세스 제어 목록)의 보호를 받지 않는 파일은 로컬로 또�
 </colgroup>
 <thead>
 <tr class="header">
-<th>파일 경로 또는 레지스트리 경로</th>
-<th>감사 유형</th>
-<th>감사 설정</th>
+<th style="border:1px solid black;" >파일 경로 또는 레지스트리 경로</th>
+<th style="border:1px solid black;" >감사 유형</th>
+<th style="border:1px solid black;" >감사 설정</th>
 </tr>
 </thead>
 <tbody>

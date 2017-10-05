@@ -20,9 +20,9 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Dd547928(v=TechNet.10)'
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th> </th>
-<th>단계</th>
-<th>참고:</th>
+<th style="border:1px solid black;" > </th>
+<th style="border:1px solid black;" >단계</th>
+<th style="border:1px solid black;" >참고:</th>
 </tr>
 </thead>
 <tbody>
@@ -68,9 +68,9 @@ GPO를 CA 서버 OU에 연결합니다.</td>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
-<th> </th>
-<th>단계</th>
-<th>참고:</th>
+<th style="border:1px solid black;" > </th>
+<th style="border:1px solid black;" >단계</th>
+<th style="border:1px solid black;" >참고:</th>
 </tr>
 </thead>
 <tbody>

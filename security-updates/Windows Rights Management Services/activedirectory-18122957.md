@@ -33,10 +33,10 @@ Active Directory 캐시 설정 변경
 </colgroup>
 <thead>
 <tr class="header">
-<th>이름</th>
-<th>형식</th>
-<th>기본값</th>
-<th>설명</th>
+<th style="border:1px solid black;" >이름</th>
+<th style="border:1px solid black;" >형식</th>
+<th style="border:1px solid black;" >기본값</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>

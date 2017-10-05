@@ -98,8 +98,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Dd547894(v=TechNet.10)'
 </colgroup>
 <thead>
 <tr class="header">
-<th>작업 이름</th>
-<th>서비스 관리 기능</th>
+<th style="border:1px solid black;" >작업 이름</th>
+<th style="border:1px solid black;" >서비스 관리 기능</th>
 </tr>
 </thead>
 <tbody>
@@ -184,8 +184,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Dd547894(v=TechNet.10)'
 </colgroup>
 <thead>
 <tr class="header">
-<th>작업 이름</th>
-<th>빈도</th>
+<th style="border:1px solid black;" >작업 이름</th>
+<th style="border:1px solid black;" >빈도</th>
 </tr>
 </thead>
 <tbody>
@@ -250,8 +250,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Dd547894(v=TechNet.10)'
 </colgroup>
 <thead>
 <tr class="header">
-<th>항목 이름</th>
-<th>소스</th>
+<th style="border:1px solid black;" >항목 이름</th>
+<th style="border:1px solid black;" >소스</th>
 </tr>
 </thead>
 <tbody>
@@ -330,8 +330,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Dd547894(v=TechNet.10)'
 </colgroup>
 <thead>
 <tr class="header">
-<th>항목 이름</th>
-<th>소스</th>
+<th style="border:1px solid black;" >항목 이름</th>
+<th style="border:1px solid black;" >소스</th>
 </tr>
 </thead>
 <tbody>
@@ -382,9 +382,9 @@ RADIUS 인프라 및 WLAN 보안 관리에는 수많은 역할이 관련되어 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>역할 이름</th>
-<th>범위</th>
-<th>설명</th>
+<th style="border:1px solid black;" >역할 이름</th>
+<th style="border:1px solid black;" >범위</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>
@@ -426,9 +426,9 @@ RADIUS 인프라 및 WLAN 보안 관리에는 수많은 역할이 관련되어 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>역할 이름</th>
-<th>범위</th>
-<th>설명</th>
+<th style="border:1px solid black;" >역할 이름</th>
+<th style="border:1px solid black;" >범위</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>
@@ -483,10 +483,10 @@ IAS 서버의 경우 각 역할에 적용할 수 있는 사용 권한을 적용�
 </colgroup>
 <thead>
 <tr class="header">
-<th>역할 이름</th>
-<th>도메인 보안 그룹</th>
-<th>로컬 보안 그룹</th>
-<th>권한</th>
+<th style="border:1px solid black;" >역할 이름</th>
+<th style="border:1px solid black;" >도메인 보안 그룹</th>
+<th style="border:1px solid black;" >로컬 보안 그룹</th>
+<th style="border:1px solid black;" >권한</th>
 </tr>
 </thead>
 <tbody>
@@ -765,8 +765,8 @@ WLAN을 액세스하려면 세 가지 작업을 별도로 수행해야 합니다
 </colgroup>
 <thead>
 <tr class="header">
-<th>경고 범주</th>
-<th>설명</th>
+<th style="border:1px solid black;" >경고 범주</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>
@@ -836,9 +836,9 @@ WLAN을 액세스하려면 세 가지 작업을 별도로 수행해야 합니다
 </colgroup>
 <thead>
 <tr class="header">
-<th>성능 개체</th>
-<th>성능 카운터</th>
-<th>Instance</th>
+<th style="border:1px solid black;" >성능 개체</th>
+<th style="border:1px solid black;" >성능 카운터</th>
+<th style="border:1px solid black;" >Instance</th>
 </tr>
 </thead>
 <tbody>
@@ -1534,8 +1534,8 @@ Microsoft의 내부 테스트 결과에 따르면 IAS는 일반 하드웨어에�
 </colgroup>
 <thead>
 <tr class="header">
-<th>인증 유형</th>
-<th>초당 인증 수</th>
+<th style="border:1px solid black;" >인증 유형</th>
+<th style="border:1px solid black;" >초당 인증 수</th>
 </tr>
 </thead>
 <tbody>
@@ -1638,8 +1638,8 @@ RADIUS 및 WLAN 소프트웨어 구성 요소의 보안 업데이트 관리는 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성 항목</th>
-<th>설정</th>
+<th style="border:1px solid black;" >구성 항목</th>
+<th style="border:1px solid black;" >설정</th>
 </tr>
 </thead>
 <tbody>
@@ -1674,8 +1674,8 @@ RADIUS 및 WLAN 소프트웨어 구성 요소의 보안 업데이트 관리는 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성 항목</th>
-<th>설정</th>
+<th style="border:1px solid black;" >구성 항목</th>
+<th style="border:1px solid black;" >설정</th>
 </tr>
 </thead>
 <tbody>

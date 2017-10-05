@@ -79,8 +79,8 @@ Windows 2000, Windows XP Professional, Windows Server® 2003 및 Windows Vista�
 </colgroup>
 <thead>
 <tr class="header">
-<th>요소</th>
-<th>의미</th>
+<th style="border:1px solid black;" >요소</th>
+<th style="border:1px solid black;" >의미</th>
 </tr>
 </thead>
 <tbody>

@@ -31,11 +31,11 @@ Microsoft는 현재 이 교육 과정에 대한 콘텐츠를 개발 중에 있�
 </colgroup>
 <thead>
 <tr class="header">
-<th>레벨 100</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<th style="border:1px solid black;" >레벨 100</th>
+<th style="border:1px solid black;" ></th>
+<th style="border:1px solid black;" ></th>
+<th style="border:1px solid black;" ></th>
+<th style="border:1px solid black;" ></th>
 </tr>
 </thead>
 <tbody>
@@ -74,11 +74,11 @@ Microsoft는 현재 이 교육 과정에 대한 콘텐츠를 개발 중에 있�
 </colgroup>
 <thead>
 <tr class="header">
-<th>레벨 200</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<th style="border:1px solid black;" >레벨 200</th>
+<th style="border:1px solid black;" ></th>
+<th style="border:1px solid black;" ></th>
+<th style="border:1px solid black;" ></th>
+<th style="border:1px solid black;" ></th>
 </tr>
 </thead>
 <tbody>
@@ -264,11 +264,11 @@ Microsoft는 현재 이 교육 과정에 대한 콘텐츠를 개발 중에 있�
 </colgroup>
 <thead>
 <tr class="header">
-<th>레벨 300</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<th style="border:1px solid black;" >레벨 300</th>
+<th style="border:1px solid black;" ></th>
+<th style="border:1px solid black;" ></th>
+<th style="border:1px solid black;" ></th>
+<th style="border:1px solid black;" ></th>
 </tr>
 </thead>
 <tbody>
@@ -468,11 +468,11 @@ Microsoft는 현재 이 교육 과정에 대한 콘텐츠를 개발 중에 있�
 </colgroup>
 <thead>
 <tr class="header">
-<th>레벨 400</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<th style="border:1px solid black;" >레벨 400</th>
+<th style="border:1px solid black;" ></th>
+<th style="border:1px solid black;" ></th>
+<th style="border:1px solid black;" ></th>
+<th style="border:1px solid black;" ></th>
 </tr>
 </thead>
 <tbody>

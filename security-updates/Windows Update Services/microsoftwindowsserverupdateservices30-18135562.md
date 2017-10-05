@@ -171,8 +171,8 @@ WSUS 3.0 설치 프로그램을 실행하기 전에 WSUS 3.0 서버가 이 요�
 </colgroup>
 <thead>
 <tr class="header">
-<th>요구 사항</th>
-<th>설명</th>
+<th style="border:1px solid black;" >요구 사항</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>
@@ -255,8 +255,8 @@ WSUS 명령줄 매개 변수를 사용하여 WSUS 3.0을 무인 설치할 수 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>옵션</th>
-<th>설명</th>
+<th style="border:1px solid black;" >옵션</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>
@@ -295,8 +295,8 @@ WSUS 명령줄 매개 변수를 사용하여 WSUS 3.0을 무인 설치할 수 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>속성</th>
-<th>설명</th>
+<th style="border:1px solid black;" >속성</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>
@@ -564,8 +564,8 @@ WSUS 3.0은 32비트 및 64비트 버전에서 Windows Server 2008을 지원합
 </colgroup>
 <thead>
 <tr class="header">
-<th>요구 사항</th>
-<th>설명</th>
+<th style="border:1px solid black;" >요구 사항</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>

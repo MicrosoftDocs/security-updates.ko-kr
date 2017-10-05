@@ -88,8 +88,8 @@ Microsoft는 랩톱 컴퓨터의 보안 문제를 해결할 수 있는 도구를
 </colgroup>
 <thead>
 <tr class="header">
-<th>요소</th>
-<th>의미</th>
+<th style="border:1px solid black;" >요소</th>
+<th style="border:1px solid black;" >의미</th>
 </tr>
 </thead>
 <tbody>

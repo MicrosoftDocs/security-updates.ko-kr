@@ -149,8 +149,8 @@ WSUS 3.0 SP1 설치를 실행하기 전에 WSUS 3.0 SP1 서버가 여기에 나�
 </colgroup>
 <thead>
 <tr class="header">
-<th>요구 사항</th>
-<th>세부 정보</th>
+<th style="border:1px solid black;" >요구 사항</th>
+<th style="border:1px solid black;" >세부 정보</th>
 </tr>
 </thead>
 <tbody>
@@ -237,8 +237,8 @@ WSUS 명령줄 설치 프로그램을 사용하여 WSUS 3.0 SP1의 무인 설치
 </colgroup>
 <thead>
 <tr class="header">
-<th>옵션</th>
-<th>설명</th>
+<th style="border:1px solid black;" >옵션</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>
@@ -277,8 +277,8 @@ WSUS 명령줄 설치 프로그램을 사용하여 WSUS 3.0 SP1의 무인 설치
 </colgroup>
 <thead>
 <tr class="header">
-<th>속성</th>
-<th>설명</th>
+<th style="border:1px solid black;" >속성</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>
@@ -529,8 +529,8 @@ WSUS 3.0 SP1은 32비트 버전과 64비트 버전 모두에서 Windows Server 
 </colgroup>
 <thead>
 <tr class="header">
-<th>요구 사항</th>
-<th>세부 정보</th>
+<th style="border:1px solid black;" >요구 사항</th>
+<th style="border:1px solid black;" >세부 정보</th>
 </tr>
 </thead>
 <tbody>

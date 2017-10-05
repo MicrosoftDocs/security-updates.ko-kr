@@ -60,9 +60,9 @@ IIS를 설치하려면
 </colgroup>
 <thead>
 <tr class="header">
-<th>운영 체제</th>
-<th>요구 사항</th>
-<th>다운로드</th>
+<th style="border:1px solid black;" >운영 체제</th>
+<th style="border:1px solid black;" >요구 사항</th>
+<th style="border:1px solid black;" >다운로드</th>
 </tr>
 </thead>
 <tbody>

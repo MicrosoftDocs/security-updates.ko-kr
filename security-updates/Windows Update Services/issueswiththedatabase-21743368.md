@@ -18,7 +18,7 @@ If you have problems with the SQL Server database or Windows 내부 데이터베
 </colgroup>
 <thead>
 <tr class="header">
-<th><img src="images/Dd939833.note(WS.10).gif" />참고</th>
+<th style="border:1px solid black;" ><img src="images/Dd939833.note(WS.10).gif" />참고</th>
 </tr>
 </thead>
 <tbody>

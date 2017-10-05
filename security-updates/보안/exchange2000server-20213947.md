@@ -37,8 +37,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Dd277368(v=TechNet.10)'
 </colgroup>
 <thead>
 <tr class="header">
-<th>선택</th>
-<th>설명</th>
+<th style="border:1px solid black;" >선택</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>
@@ -131,8 +131,8 @@ Exchange 설치 및 업데이트
 </colgroup>
 <thead>
 <tr class="header">
-<th>선택</th>
-<th>설명</th>
+<th style="border:1px solid black;" >선택</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>
@@ -172,8 +172,8 @@ Exchange 설치 및 업데이트
 </colgroup>
 <thead>
 <tr class="header">
-<th>선택</th>
-<th>설명</th>
+<th style="border:1px solid black;" >선택</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>
@@ -217,8 +217,8 @@ OWA 프런트 엔드 서버의 저장소
 </colgroup>
 <thead>
 <tr class="header">
-<th>선택</th>
-<th>설명</th>
+<th style="border:1px solid black;" >선택</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>
@@ -250,8 +250,8 @@ SMTP 배너
 </colgroup>
 <thead>
 <tr class="header">
-<th>선택</th>
-<th>설명</th>
+<th style="border:1px solid black;" >선택</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>
@@ -279,8 +279,8 @@ Exchange Server 그룹 잠금
 </colgroup>
 <thead>
 <tr class="header">
-<th>선택</th>
-<th>설명</th>
+<th style="border:1px solid black;" >선택</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>

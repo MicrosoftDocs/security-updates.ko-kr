@@ -418,9 +418,9 @@ net time \\\\&lt;timecomputer&gt; /set /yes
 </colgroup>
 <thead>
 <tr class="header">
-<th>서버 역할</th>
-<th>설명</th>
-<th>보안 템플릿</th>
+<th style="border:1px solid black;" >서버 역할</th>
+<th style="border:1px solid black;" >설명</th>
+<th style="border:1px solid black;" >보안 템플릿</th>
 </tr>
 </thead>
 <tbody>
@@ -523,8 +523,8 @@ OU 디자인 예
 </colgroup>
 <thead>
 <tr class="header">
-<th>OU 이름</th>
-<th>관리 그룹</th>
+<th style="border:1px solid black;" >OU 이름</th>
+<th style="border:1px solid black;" >관리 그룹</th>
 </tr>
 </thead>
 <tbody>
@@ -676,10 +676,10 @@ Domain Engineering은 해당 GPO를 사용하여 각 관리 그룹을 적절한 
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 구성원 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 구성원 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -713,10 +713,10 @@ Domain Engineering은 해당 GPO를 사용하여 각 관리 그룹을 적절한 
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 구성원 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 구성원 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -750,10 +750,10 @@ Domain Engineering은 해당 GPO를 사용하여 각 관리 그룹을 적절한 
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 구성원 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 구성원 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -793,10 +793,10 @@ Domain Engineering은 해당 GPO를 사용하여 각 관리 그룹을 적절한 
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 구성원 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 구성원 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -842,10 +842,10 @@ Domain Engineering은 해당 GPO를 사용하여 각 관리 그룹을 적절한 
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 구성원 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 구성원 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -883,10 +883,10 @@ Domain Engineering은 해당 GPO를 사용하여 각 관리 그룹을 적절한 
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 구성원 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 구성원 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -948,10 +948,10 @@ Windows Server 2003은 보안 정책의 값 설정 충돌을 피하기 위해 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 구성원 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 구성원 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -987,10 +987,10 @@ Windows Server 2003은 보안 정책의 값 설정 충돌을 피하기 위해 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 구성원 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 구성원 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1037,10 +1037,10 @@ Windows Server 2003은 보안 정책의 값 설정 충돌을 피하기 위해 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 구성원 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 구성원 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1096,10 +1096,10 @@ Kerberos 정책은 도메인 사용자 계정에 사용되며 티켓 수명 및 
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 구성원 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 구성원 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1135,10 +1135,10 @@ Kerberos 정책은 도메인 사용자 계정에 사용되며 티켓 수명 및 
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 구성원 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 구성원 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1176,10 +1176,10 @@ Kerberos 정책은 도메인 사용자 계정에 사용되며 티켓 수명 및 
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 구성원 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 구성원 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>

@@ -192,10 +192,10 @@ Windows XP와 함께 제공된 관리 템플릿 외에도 Office 2003 설정을
 </colgroup>
 <thead>
 <tr class="header">
-<th>설정</th>
-<th>도메인 컨트롤러 기본값</th>
-<th>EC</th>
-<th>SSLF</th>
+<th style="border:1px solid black;" >설정</th>
+<th style="border:1px solid black;" >도메인 컨트롤러 기본값</th>
+<th style="border:1px solid black;" >EC</th>
+<th style="border:1px solid black;" >SSLF</th>
 </tr>
 </thead>
 <tbody>
@@ -318,10 +318,10 @@ EC 환경에서는 **최소 암호 길이** 설정 값이 **8문자**로 구성�
 </colgroup>
 <thead>
 <tr class="header">
-<th>설정</th>
-<th>도메인 컨트롤러 기본값</th>
-<th>EC</th>
-<th>SSLF</th>
+<th style="border:1px solid black;" >설정</th>
+<th style="border:1px solid black;" >도메인 컨트롤러 기본값</th>
+<th style="border:1px solid black;" >EC</th>
+<th style="border:1px solid black;" >SSLF</th>
 </tr>
 </thead>
 <tbody>
@@ -402,10 +402,10 @@ EC 환경에서는 **최소 암호 길이** 설정 값이 **8문자**로 구성�
 </colgroup>
 <thead>
 <tr class="header">
-<th>설정</th>
-<th>도메인 컨트롤러 기본값</th>
-<th>EC</th>
-<th>SSLF</th>
+<th style="border:1px solid black;" >설정</th>
+<th style="border:1px solid black;" >도메인 컨트롤러 기본값</th>
+<th style="border:1px solid black;" >EC</th>
+<th style="border:1px solid black;" >SSLF</th>
 </tr>
 </thead>
 <tbody>
@@ -450,10 +450,10 @@ Active Directory 도메인에서 각 컴퓨터 계정은 도메인 리소스를
 </colgroup>
 <thead>
 <tr class="header">
-<th>설정</th>
-<th>도메인 구성원 기본값</th>
-<th>EC</th>
-<th>SSLF</th>
+<th style="border:1px solid black;" >설정</th>
+<th style="border:1px solid black;" >도메인 구성원 기본값</th>
+<th style="border:1px solid black;" >EC</th>
+<th style="border:1px solid black;" >SSLF</th>
 </tr>
 </thead>
 <tbody>

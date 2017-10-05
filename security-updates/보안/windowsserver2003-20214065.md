@@ -97,9 +97,9 @@ Windows Server 2003 도메인 컨트롤러 강화
 </colgroup>
 <thead>
 <tr class="header">
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -145,10 +145,10 @@ DCBP는 도메인 컨트롤러에 대한 여러 가지 사용자 권한 할당�
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 컨트롤러 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 컨트롤러 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -182,10 +182,10 @@ Administrators, Authenticated Users, ENTERPRISE DOMAIN CONTROLLERS</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 컨트롤러 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 컨트롤러 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -225,10 +225,10 @@ Active Directory 도메인에서는 각 컴퓨터 계정이 도메인 리소스�
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 컨트롤러 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 컨트롤러 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -266,10 +266,10 @@ Administrators, Account Operators, Backup Operators, Print Operators 및 Server 
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 컨트롤러 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 컨트롤러 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -307,10 +307,10 @@ Administrators, Account Operators, Backup Operators, Print Operators 및 Server 
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 컨트롤러 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 컨트롤러 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -350,10 +350,10 @@ Windows 시간 서비스에 대한 자세한 내용은 [http://support.microsoft
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 컨트롤러 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 컨트롤러 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -391,10 +391,10 @@ Windows 시간 서비스에 대한 자세한 내용은 [http://support.microsoft
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 컨트롤러 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 컨트롤러 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -430,10 +430,10 @@ Administrators, Print Operators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 컨트롤러 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 컨트롤러 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -469,10 +469,10 @@ Administrators, Backup Operators, Server Operators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 컨트롤러 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 컨트롤러 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -515,10 +515,10 @@ Administrators, Server Operators, Print Operators, Backup Operators</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>구성원 서버 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -573,11 +573,11 @@ DCBP는 엔터프라이즈 클라이언트와 고급 보안 환경의 도메인 
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 컨트롤러 기본값</th>
-<th>서비스 이름</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 컨트롤러 기본값</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -614,11 +614,11 @@ Dfs</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 컨트롤러 기본값</th>
-<th>서비스 이름</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 컨트롤러 기본값</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -657,11 +657,11 @@ Active Directory의 안정성과 가용성은 **DNS Server** 서비스의 올바
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 컨트롤러 기본값</th>
-<th>서비스 이름</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 컨트롤러 기본값</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -698,11 +698,11 @@ NtFrs</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 컨트롤러 기본값</th>
-<th>서비스 이름</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 컨트롤러 기본값</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -741,11 +741,11 @@ IsmServ</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 컨트롤러 기본값</th>
-<th>서비스 이름</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 컨트롤러 기본값</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -784,11 +784,11 @@ Kdc</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 컨트롤러 기본값</th>
-<th>서비스 이름</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 컨트롤러 기본값</th>
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -839,10 +839,10 @@ DCBP를 통해 적용되는 대부분의 사용자 권한 할당은 [http://go.m
 </colgroup>
 <thead>
 <tr class="header">
-<th>도메인 컨트롤러 기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >도메인 컨트롤러 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -914,9 +914,9 @@ Active Directory의 무결성, 안정성 및 가용성을 효과적으로 모니
 </colgroup>
 <thead>
 <tr class="header">
-<th>시스템 키 옵션</th>
-<th>보안 수준</th>
-<th>설명</th>
+<th style="border:1px solid black;" >시스템 키 옵션</th>
+<th style="border:1px solid black;" >보안 수준</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>
@@ -1071,10 +1071,10 @@ Windows Server 2003에는 삭제할 수 없지만 이름을 변경할 수는 있
 </colgroup>
 <thead>
 <tr class="header">
-<th>기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1109,8 +1109,8 @@ Computer Configuration\\Administrative Templates\\Windows Components\\Terminal S
 </colgroup>
 <thead>
 <tr class="header">
-<th>암호화 수준</th>
-<th>설명</th>
+<th style="border:1px solid black;" >암호화 수준</th>
+<th style="border:1px solid black;" >설명</th>
 </tr>
 </thead>
 <tbody>
@@ -1149,10 +1149,10 @@ Computer Configuration\\Administrative Templates\\Windows Components\\Terminal S
 </colgroup>
 <thead>
 <tr class="header">
-<th>기본값</th>
-<th>레거시 클라이언트</th>
-<th>엔터프라이즈 클라이언트</th>
-<th>고급 보안</th>
+<th style="border:1px solid black;" >기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
 </tr>
 </thead>
 <tbody>
@@ -1202,14 +1202,14 @@ IPSec 필터 사용에 대한 자세한 내용은 모듈 "추가 구성원 서�
 </colgroup>
 <thead>
 <tr class="header">
-<th>서비스</th>
-<th>프로토콜</th>
-<th>원본 포트</th>
-<th>대상 포트</th>
-<th>원본 주소</th>
-<th>대상 주소</th>
-<th>동작</th>
-<th>미러링</th>
+<th style="border:1px solid black;" >서비스</th>
+<th style="border:1px solid black;" >프로토콜</th>
+<th style="border:1px solid black;" >원본 포트</th>
+<th style="border:1px solid black;" >대상 포트</th>
+<th style="border:1px solid black;" >원본 주소</th>
+<th style="border:1px solid black;" >대상 주소</th>
+<th style="border:1px solid black;" >동작</th>
+<th style="border:1px solid black;" >미러링</th>
 </tr>
 </thead>
 <tbody>

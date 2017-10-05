@@ -52,9 +52,9 @@ RMS 서비스 및 클라이언트는 먼저 로컬 레지스트리를 검색하�
 </colgroup>
 <thead>
 <tr class="header">
-<th>이름</th>
-<th>유형</th>
-<th>값</th>
+<th style="border:1px solid black;" >이름</th>
+<th style="border:1px solid black;" >유형</th>
+<th style="border:1px solid black;" >값</th>
 </tr>
 </thead>
 <tbody>
@@ -107,9 +107,9 @@ RMS 서비스 및 클라이언트는 먼저 로컬 레지스트리를 검색하�
 </colgroup>
 <thead>
 <tr class="header">
-<th>이름</th>
-<th>유형</th>
-<th>값</th>
+<th style="border:1px solid black;" >이름</th>
+<th style="border:1px solid black;" >유형</th>
+<th style="border:1px solid black;" >값</th>
 </tr>
 </thead>
 <tbody>

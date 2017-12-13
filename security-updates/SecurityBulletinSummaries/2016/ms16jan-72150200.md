@@ -29,6 +29,7 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 
 영향받는 소프트웨어에 대한 자세한 내용은 **영향받는 소프트웨어**라는 다음 절을 참조하십시오.
 
+<p> </p>
 <table style="width:100%;">
 <colgroup>
 <col width="16%" />
@@ -158,7 +159,7 @@ Visual Basic</td>
   
 아래 열에서 "최신 소프트웨어 릴리스"는 관련 소프트웨어를 나타내며 "이전 소프트웨어 릴리스"는 공지의 "영향받는 소프트웨어" 및 "영향받지 않는 소프트웨어" 표에 나열된 지원 대상인 관련 소프트웨어의 모든 이전 릴리스를 나타냅니다.
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;">
@@ -806,7 +807,7 @@ Exchange 스푸핑 취약성
 
 ### Windows 운영 체제 및 구성 요소(표 1/2)
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="5">
@@ -816,7 +817,7 @@ Exchange 스푸핑 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -940,7 +941,7 @@ Windows Vista x64 Edition 서비스 팩 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -1095,7 +1096,7 @@ Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -1221,7 +1222,7 @@ Windows 7(x64 기반 시스템용) 서비스 팩 1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -1338,7 +1339,7 @@ Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -1492,7 +1493,7 @@ Windows 8.1(x64 기반 시스템용)
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -1594,7 +1595,7 @@ Windows Server 2012 R2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -1696,7 +1697,7 @@ Windows RT 8.1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -1858,7 +1859,7 @@ Windows 10 버전 1511(x64 기반 시스템용)
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -2054,7 +2055,7 @@ Windows Server 2012 R2
 
 ### Windows 운영 체제 및 구성 요소(표 2/2)
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="3">
@@ -2995,7 +2996,7 @@ Windows Server 2012 R2
 
 ### Microsoft Office 제품군 및 소프트웨어
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -3474,7 +3475,7 @@ Microsoft Word Viewer
 
 ### Microsoft 개발자 도구 및 소프트웨어
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -3535,7 +3536,7 @@ Mac에 설치된 Microsoft Silverlight 5 Developer 런타임
 
 ### Microsoft Server 소프트웨어
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="3">
@@ -3727,7 +3728,7 @@ Microsoft Exchange Server 2016
 
 ### Microsoft Visual Basic 소프트웨어
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">

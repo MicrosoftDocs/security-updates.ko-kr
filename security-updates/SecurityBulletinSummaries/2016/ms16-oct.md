@@ -6175,8 +6175,8 @@ Mac에 설치된 Microsoft Silverlight 5
 </td>
 <td style="border:1px solid black;">
 Mac에 설치된 Microsoft Silverlight 5  
-(3193713)**  
-(**중요)
+(3193713)  
+(중요)
 
 </td>
 </tr>
@@ -6187,8 +6187,8 @@ Mac에 설치된 Microsoft Silverlight 5 Developer 런타임
 </td>
 <td style="border:1px solid black;">
 Mac에 설치된 Microsoft Silverlight 5 Developer 런타임  
-(3193713)**  
-(**중요)
+(3193713)  
+(중요)
 
 </td>
 </tr>
@@ -6199,8 +6199,8 @@ Mac에 설치된 Microsoft Silverlight 5 Developer 런타임
 </td>
 <td style="border:1px solid black;">
 지원되는 모든 릴리스의 Microsoft Windows 클라이언트에 설치된 Microsoft Silverlight 5  
-(3193713)**  
-(**중요)
+(3193713)  
+(중요)
 
 </td>
 </tr>
@@ -6211,8 +6211,8 @@ Mac에 설치된 Microsoft Silverlight 5 Developer 런타임
 </td>
 <td style="border:1px solid black;">
 지원되는 모든 릴리스의 Microsoft Windows 클라이언트에 설치된 Microsoft Silverlight 5 Developer 런타임  
-(3193713)**  
-(**중요)
+(3193713)  
+(중요)
 
 </td>
 </tr>
@@ -6223,8 +6223,8 @@ Mac에 설치된 Microsoft Silverlight 5 Developer 런타임
 </td>
 <td style="border:1px solid black;">
 지원되는 모든 릴리스의 Microsoft Windows 서버에 설치된 Microsoft Silverlight 5  
-(3193713)**  
-(**중요)
+(3193713)  
+(중요)
 
 </td>
 </tr>
@@ -6235,8 +6235,8 @@ Mac에 설치된 Microsoft Silverlight 5 Developer 런타임
 </td>
 <td style="border:1px solid black;">
 지원되는 모든 릴리스의 Microsoft Windows 서버에 설치된 Microsoft Silverlight 5 Developer 런타임  
-(3193713)**  
-(**중요)
+(3193713)  
+(중요)
 
 </td>
 </tr>

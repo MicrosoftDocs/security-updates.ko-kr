@@ -21,10 +21,6 @@
       href: ./SecurityAdvisories/2017/4033453
     - name: 4038556
       href: ./SecurityAdvisories/2017/4038556
-    - name: 4022344
-      href: ./SecurityAdvisories/2017/4022344
-    - name: 4022345
-      href: ./SecurityAdvisories/2017/4022345
   - name: 2016
     href: 
     items:
@@ -41,11 +37,7 @@
     - name: 3155527
       href: ./SecurityAdvisories/2016/3155527
     - name: 3152550
-      href: ./SecurityAdvisories/2016/3152550    
-    - name: 2871997
-      href: ./SecurityAdvisories/2017/2871997
-    - name: 3123479
-      href: ./SecurityAdvisories/2017/3123479
+      href: ./SecurityAdvisories/2016/3152550
 - name: 보안 공지 요약
   href: ./SecurityBulletinSummaries/SecurityBulletinSummaries
   items:

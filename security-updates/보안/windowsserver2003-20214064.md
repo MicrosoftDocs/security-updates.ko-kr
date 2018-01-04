@@ -1,0 +1,10118 @@
+---
+TOCTitle: Windows Server 2003 서버의 구성원 서버 기준 만들기
+Title: Windows Server 2003 서버의 구성원 서버 기준 만들기
+ms:assetid: 'ed8a44fb-fdd2-49fb-8e68-be725c525f03'
+ms:contentKeyID: 20214064
+ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Dd547909(v=TechNet.10)'
+---
+
+Windows Server 2003 서버의 구성원 서버 기준 만들기
+==================================================
+
+##### 이 페이지에서
+
+[](#xsltsection121121120120)[모듈 정보](#xsltsection121121120120)
+[](#xsltsection122121120120)[목표](#xsltsection122121120120)
+[](#xsltsection123121120120)[적용 범위](#xsltsection123121120120)
+[](#xsltsection124121120120)[모듈 사용법](#xsltsection124121120120)
+[](#xsltsection125121120120)[개요](#xsltsection125121120120)
+[](#xsltsection126121120120)[Windows Server 2003 기준 정책](#xsltsection126121120120)
+[](#xsltsection127121120120)[감사 정책](#xsltsection127121120120)
+[](#xsltsection128121120120)[사용자 권한 할당](#xsltsection128121120120)
+[](#xsltsection129121120120)[보안 옵션](#xsltsection129121120120)
+[](#xsltsection130121120120)[이벤트 로그](#xsltsection130121120120)
+[](#xsltsection131121120120)[시스템 서비스](#xsltsection131121120120)
+[](#xsltsection132121120120)[추가 레지스트리 설정](#xsltsection132121120120)
+[](#xsltsection133121120120)[추가 보안 설정](#xsltsection133121120120)
+[](#xsltsection134121120120)[요약](#xsltsection134121120120)<span id="XSLTsection121121120120"></span>
+모듈 정보
+---------
+
+이 모듈에서는 Windows 2003 보안 소개가 작성된 배경 시나리오를 정의하고 적용된 여러 가지 보안 수준에 대해 깊이 있게 설명합니다. 이 모듈에서는 특히 구성원 서버 기준 보안 템플릿의 적용 범위를 다룹니다. 또한 조직 구성 단위 계층 구조와 그룹 정책을 사용하여 여러 서버에 기준을 적용하는 방법을 보여 줍니다. 마지막으로, 보안 템플릿과 함께 적용해야 하는 추가 보안 구성에 대해서도 살펴봅니다.
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+<span id="XSLTsection122121120120"></span>
+목표
+----
+
+이 모듈을 사용하여 다음을 할 수 있습니다.
+
+-   Microsoft Windows Server™ 2003 운영 체제를 실행하는 서버에 사용할 구성원 서버 기준 보안 템플릿을 만들 수 있습니다.
+-   조직 구성 단위와 그룹 정책을 사용하여 여러 서버에 구성원 서버 기준을 적용할 수 있습니다.
+-   Windows 2003 보안 소개에서 설명하는 세 가지 수준의 보안 템플릿을 이해할 수 있습니다. 이 템플릿은 다음 위치에서 Windows Server 2003 Security Guide와 함께 다운로드할 수 있습니다. [http://search.microsoft.com/search/search.aspx?st=b&View=ko-kr](http://search.microsoft.com/search/search.aspx?st=b&view=ko-kr).
+-   Windows 2003 보안 소개에서 사용하는 조직 구성 단위 계층 구조를 식별할 수 있습니다.
+-   보안 환경에서 구성원 서버 기준이 하는 역할을 이해할 수 있습니다.
+-   구성원 서버 기준에 적용된 설정을 조사할 수 있습니다.
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+<span id="XSLTsection123121120120"></span>
+적용 범위
+---------
+
+이 모듈은 다음과 같은 제품 및 기술에 적용됩니다.
+
+-   Windows Server 2003
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+<span id="XSLTsection124121120120"></span>
+모듈 사용법
+-----------
+
+이 모듈에서는 Windows 2003 보안 소개에서 설명하는 구성원 서버 기준 보안 템플릿의 디자인 및 구현과 관련된 광범위한 정보를 제공합니다. 이 모듈은 조직 구성 단위 계층 구조의 디자인 및 목적과 이 계층 구조에 그룹 정책을 적용하여 도메인 기반 구성원 서버 기준을 구현하는 방법을 설명하는 데 사용되어야 합니다. 또한 이 모듈을 사용하여 기준의 일부로 사용된 보안 템플릿 설정과 각 설정이 도메인 및 서버 환경에 미치는 영향을 확인할 수 있습니다.
+
+이 모듈을 최대한 활용하려면 다음을 수행합니다.
+
+-   **모듈 "Windows 2003 보안 소개"를 읽습니다.** 여기에서는Windows 2003 보안 소개의 목적과 내용을 설명합니다.
+-   **모듈 "Windows Server 2003 환경에서 도메인 인프라 구성"을 읽습니다.** 여기에서는 보안 도메인 인프라를 디자인하고 구현하기 위한 방법론을 제공합니다.
+-   **"Windows Server 2003 보안 이벤트" 모듈을 사용합니다.** 이 모듈은 이벤트 로그 메시지에 대한 유용한 참조 자료로, Windows Server 2003 보안 이벤트에 대한 이벤트 ID 및 설명 표가 포함되어 있습니다.
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+<span id="XSLTsection125121120120"></span>
+개요
+----
+
+이 모듈에서는 Windows Server 2003을 실행하는 모든 서버의 기준 보안 템플릿을 관리하기 위한 구성 요구 사항을 설명합니다. 또한 세 가지 엔터프라이즈 환경에서 Windows Server 2003 보안 시스템을 설정하고 구성하기 위한 관리 지침을 제공합니다. 이 모듈의 구성 요구 사항은 이 설명서의 이후 모듈에서 설명하는 특정 서버 역할에 적용되는 다른 모든 강화 절차의 기준을 이룹니다.
+
+이 모듈에서 권장하는 대로 설정하면 엔터프라이즈 환경에서 비즈니스 응용 프로그램 서버의 토대를 튼튼하게 할 수 있습니다. 그러나 프로덕션 환경에서 이러한 보안 구성을 구현하기 전에 보안 구성이 조직의 비즈니스 응용 프로그램과 잘 맞는지 포괄적으로 테스트해야 합니다.
+
+이 모듈에서 권장하는 설정은 대부분의 기업에 적합하며 Windows Server 2003을 실행하는 기존 시스템 또는 새 시스템에 배포할 수 있습니다. Windows Server 2003 내의 기본 보안 구성은 조사, 검토 및 테스트를 모두 거친 것입니다. 이 모듈에서 설명하는 모든 기본 설정과 각 설정에 대한 자세한 내용은 함께 제공되는 설명서인 Threats and Countermeasures: Security Settings in Windows Server 2003 and Windows XP( [http://go.microsoft.com/fwlink/?LinkId=15159](http://go.microsoft.com/fwlink/?linkid=15159) ![](images/Dd547909.tous(ko-kr,TechNet.10).gif))를 참조하십시오. 그러나 권장되는 다음 구성 중 대부분은 기본 설정보다 높은 보안 수준을 얻기 위한 것입니다.
+
+이 모듈에서 다루는 엔터프라이즈 환경의 모든 Windows Server 2003 시스템에 사용할 수 있는 다음의 기준 보안 설정은 아래에 정의된 세 가지 환경과 관련되어 있습니다. 이 세 가지 환경은 다음과 같습니다.
+
+-   **레거시 클라이언트** - 혼합 상태의 환경을 제한하지 않는 적절한 보안을 제공합니다. 레거시 클라이언트 수준은 레거시 클라이언트가 포함된 환경에서만 사용할 수 있습니다. 이 환경의 잠금 수준은 이 설명서에 정의된 잠금 수준 중 가장 낮습니다. 사용 환경의 보안을 강화하기 위해 조직에서는 다음 잠금 수준인 엔터프라이즈 클라이언트 수준으로 마이그레이션하거나, 보안을 설정할 레거시 클라이언트가 없는 경우 이 수준에서 시작할 수 있습니다. 이 비즈니스 환경에는 Microsoft Windows 98 운영 체제, Microsoft Windows NT 운영 체제 버전 4.0 Workstation, Window 2000 Professional 및 Windows XP Professional 워크스테이션이 포함됩니다. 이 환경에는 Windows 2000 이상의 도메인 컨트롤러만 포함됩니다. 이 환경에 Windows NT 4.0 도메인 컨트롤러는 포함되지 않지만 Windows NT 구성원 서버는 포함될 수 있습니다.
+-   **엔터프라이즈 클라이언트** - 새 시스템 환경을 위한 강력한 보안을 제공합니다. 이 비즈니스 환경에는 Windows 2000 Professional 및 Windows XP Professional을 실행하는 클라이언트가 포함됩니다. 레거시 환경에서 엔터프라이즈 환경으로 옮기는 데 필요한 작업에는 대부분 Windows 98이나 Windows NT 4.0 등의 레거시 클라이언트를 Windows 2000이나 Windows XP로 업그레이드하는 과정이 포함됩니다. 이 환경의 모든 도메인 컨트롤러는 Windows 2000 Server 이상입니다. 이 환경의 구성원 서버는 Windows 2000 Server 이상입니다.
+-   **고급 보안** - 이전의 엔터프라이즈 클라이언트 수준보다 향상된 보안 표준을 제공합니다. 엔터프라이즈 환경에서 고급 보안 환경으로 옮기려면 클라이언트와 서버 모두 엄격한 보안 정책을 따라야 합니다. 이 환경에는 Windows 2000 Professional 및 Windows XP Professional을 실행하는 클라이언트와 Windows 2000 서버 이상을 실행하는 도메인 컨트롤러가 포함됩니다. 고급 보안 환경에서는 보안이 매우 중요하므로 최고 수준의 보안을 위해 상당 부분의 기능을 사용할 수 없게 되거나 관리 효율이 낮아지는 손해를 감수할 수도 있습니다. 이 환경의 구성원 서버는 Windows 2000 Server 이상입니다.
+
+다음 그림에서는 세 개의 보안 계층과 각 계층에서 지원되는 클라이언트를 보여 줍니다.
+
+![](images/Dd547909.SGFG11901(ko-kr,TechNet.10).jpg)
+
+**그림 1**
+기존 및 계획된 수준의 잠금
+
+사용 환경의 단계적인 보안 방법을 제공하려는 조직에서는 우선 레거시 클라이언트 환경 수준에서 시작한 다음 응용 프로그램과 클라이언트 컴퓨터를 보다 강력한 보안 설정으로 업그레이드하고 테스트하면서 점진적으로 더 높은 보안 수준으로 옮겨 갈 수 있습니다.
+
+다음 그림에서는 보안 템플릿 파일(.inf)을 엔터프라이즈 클라이언트 - MSBP(구성원 서버 기준 정책)의 기초로 사용하는 방법을 보여 줍니다. 또한 이 정책을 조직의 모든 서버에 적용하기 위해 정책을 연결하는 한 가지 방법을 보여 줍니다.
+
+Windows Server 2003에서 제공하는 기본 설정값은 보안 상태로 설정되어 있습니다. 대부분의 경우 이 모듈에서는 기본값 이외의 설정을 지정하고 이 설명서에 정의된 세 가지 환경에 대해 특정 기본값을 적용합니다. 모든 기본 설정에 대한 자세한 내용은 함께 제공되는 설명서인 Threats and Countermeasures: Security Settings in Windows Server 2003 and Windows XP([http://go.microsoft.com/fwlink/?LinkId=15159](http://go.microsoft.com/fwlink/?linkid=15159) ![](images/Dd547909.tous(ko-kr,TechNet.10).gif))를 참조하십시오.
+
+![](images/Dd547909.SGFG11902(ko-kr,TechNet.10).jpg)
+
+**그림 2**
+보안 템플릿 Enterprise Client - Member Server Baseline.inf를 MSBP로 가져온 다음 구성원 서버 OU(조직 구성 단위)에 연결했습니다.
+
+특정 서버 역할의 강화 절차는 이 설명서의 나머지 모듈에서 설명합니다. 이 설명서의 기본 서버 역할에는 다음이 포함됩니다.
+
+-   DNS(Domain Name System) 서비스를 포함하는 도메인 컨트롤러
+-   다음을 포함하는 인프라 서버 역할
+    -   WINS(Windows Internet Name Service)
+    -   DHCP(Dynamic Host Configuration Protocol)
+-   파일
+-   인쇄
+-   IIS(인터넷 정보 서비스)
+-   Microsoft IAS(인터넷 인증 서버)
+-   CA(인증서 서비스 서버)
+-   방호 호스트
+
+다음에 설명할 엔터프라이즈 클라이언트 MSBP에 나타나는 대부분의 설정은 이 설명서에 정의된 세 가지 환경의 기본 서버 역할에도 적용됩니다. 각 보안 템플릿은 각 특정 환경의 보안 필요 사항을 처리할 수 있도록 디자인되어 있습니다. 다음 표에서는 기준 정책 템플릿과 세 가지 환경 사이의 관계를 보여 줍니다. 레거시 클라이언트, 엔터프라이즈 클라이언트 또는 고급 보안 수준에 맞는 설정을 사용해야 할 경우를 위해 권장되는 기준 정책과 관련된 보안 템플릿에는 해당 정책에 적절한 템플릿을 구별하기 위한 수준 ID가 포함되어 있습니다. 예를 들어, Enterprise Client - Member Server Baseline.inf 파일은 엔터프라이즈 클라이언트 환경에 권장되는 보안 템플릿입니다.
+
+**표 1: 세 가지 환경의 기준 보안 템플릿**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">Legacy Client - Member Server Baseline.inf</td>
+<td style="border:1px solid black;">Enterprise Client - Member Server Baseline.inf</td>
+<td style="border:1px solid black;">High Security - Member Server Baseline.inf</td>
+</tr>
+</tbody>
+</table>
+  
+Member Server Baseline.inf 보안 템플릿에서 모든 환경에 공통적인 보안 설정은 다음의 Windows Server 2003 기준 정책 섹션에서 설명합니다. 이러한 기준 보안 템플릿은 "Windows Server 2003 도메인 컨트롤러 강화" 모듈에 정의된 도메인 컨트롤러용 보안 템플릿의 기초로도 사용할 수 있습니다.
+  
+Enterprise Client - Domain Controllers Role.inf 템플릿은 도메인 컨트롤러 그룹 정책의 GPO(그룹 정책 개체)에 대한 기준을 제공하며 세 가지 환경 모두에서 도메인 컨트롤러 OU(조직 구성 단위)에 연결됩니다. OU와 그룹 정책을 만든 다음 적절한 보안 템플릿을 각 GPO로 가져오는 방법에 대한 단계별 설명은 "Windows Server 2003 환경에서 도메인 인프라 구성" 모듈에 포함되어 있습니다.
+  
+**참고:** 일부 강화 절차는 그룹 정책을 사용하여 자동화할 수 없습니다. 이러한 절차에 대해서는 이 모듈의 추가 서버 설정 섹션에서 설명합니다.
+  
+[](#mainsection)[페이지 위쪽](#mainsection)
+  
+<span id="XSLTsection126121120120"></span>
+Windows Server 2003 기준 정책  
+-----------------------------
+  
+구성원 서버 OU 수준의 설정은 도메인의 모든 구성원 서버에 공통적인 설정을 정의합니다. 구성원 서버 OU에 연결되는 GPO(기준 정책이라고 함)를 만들어 이러한 설정을 정의합니다. GPO는 각 서버의 특정 보안 설정을 구성하는 과정을 자동화합니다. 다음은 SCE(보안 구성 편집기) 스냅인의 UI(사용자 인터페이스)에 나타나는 순서대로 설정을 설명합니다.
+  
+[](#mainsection)[페이지 위쪽](#mainsection)
+  
+<span id="XSLTsection127121120120"></span>
+감사 정책  
+---------
+  
+감사 정책은 관리자가 설정해야 합니다. 감사 정책은 지정된 이벤트 범주 내의 사용자 또는 시스템 활동을 기록하기 위해 네트워크 관리자에게 보고할 보안 이벤트를 결정합니다. 관리자는 개체에 액세스한 사람, 사용자가 컴퓨터에 로그온했는지 로그오프했는지 여부, 감사 정책 설정의 변경 여부와 같은 보안 관련 활동을 모니터링할 수 있습니다.
+  
+감사 정책을 구현하기 전에 기업 환경에서 감사할 필요가 있는 이벤트 범주를 결정해야 합니다. 관리자가 이벤트 범주에 대해 선택하는 감사 설정은 기업 감사 정책을 정의합니다. 관리자는 특정 이벤트 범주에 대한 감사 설정을 정의하여 조직의 보안 요구에 적합한 감사 정책을 만들 수 있습니다.
+  
+감사를 구성하지 않으면 보안 사고 시 어떠한 문제가 발생했는지 파악하기가 어렵거나 불가능해집니다. 그러나 너무 많은 허가된 활동이 이벤트를 생성하도록 감사를 구성하면 보안 이벤트 로그가 불필요한 데이터로 꽉 차게 됩니다. 따라서 다음의 권장 설정을 사용하면 적정 수준의 데이터가 수집되도록 모니터링할 항목을 적절하게 결정할 수 있습니다.
+  
+아래 표에는 이 설명서에 정의된 세 가지 환경에 권장되는 감사 정책 설정이 포함되어 있습니다. 세 가지 환경에서 설정값은 대부분 비슷합니다.
+  
+다음 값은 다음 위치에 있는 Windows Server 2003의 도메인 그룹 정책 섹션에서 구성할 수 있습니다.
+  
+컴퓨터 구성\\Windows 설정\\보안 설정\\로컬 정책\\감사 정책
+  
+이 섹션의 지정된 설정에 대한 요약은 Microsoft Excel 스프레드시트로 제공되는 Windows Server 2003 Security Guide Settings를 참고하십시오. 이 섹션에서 설명하는 기본 설정과 각 설정에 대한 자세한 내용은 다음 위치에서 함께 제공되는 설명서인 Threats and Countermeasures: Security Settings in Windows Server 2003 and Windows XP를 참조하십시오. [http://go.microsoft.com/fwlink/?LinkId=15159](http://go.microsoft.com/fwlink/?linkid=15159) ![](images/Dd547909.tous(ko-kr,TechNet.10).gif).
+  
+### 계정 로그온 이벤트 감사
+  
+**표 2: 설정**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">성공</td>
+<td style="border:1px solid black;">성공/실패</td>
+<td style="border:1px solid black;">성공/실패</td>
+<td style="border:1px solid black;">성공/실패</td>
+</tr>
+</tbody>
+</table>
+  
+**계정 로그온 이벤트 감사** 설정은 사용자가 계정의 유효성을 검사하는 다른 컴퓨터에 로그온하거나 로그오프하는 각 이벤트를 감사할지 여부를 결정합니다. 도메인 컨트롤러에서 도메인 사용자 계정을 인증하면 계정 로그온 이벤트가 생성됩니다. 이 이벤트는 도메인 컨트롤러의 보안 로그에 기록됩니다. 로컬 컴퓨터에서 로컬 사용자를 인증하면 로그온 이벤트가 생성됩니다. 이 이벤트는 로컬 보안 로그에 기록됩니다. 계정 로그오프 이벤트는 기록되지 않습니다.
+  
+이 설정을 통해 기록되는 이벤트에 대한 자세한 내용은 "Windows Server 2003 보안 이벤트"를 참조하십시오.
+  
+### 계정 관리 감사
+  
+**표 3: 설정**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">감사 안 함</td>
+<td style="border:1px solid black;">성공/실패</td>
+<td style="border:1px solid black;">성공/실패</td>
+<td style="border:1px solid black;">성공/실패</td>
+</tr>
+</tbody>
+</table>
+  
+**계정 관리 감사** 설정은 컴퓨터의 각 계정 관리 이벤트를 감사할지 여부를 결정합니다. 다음은 계정 관리 이벤트의 예입니다.
+  
+-   사용자 계정 또는 그룹을 만들거나 변경하거나 삭제함  
+-   사용자 계정의 이름을 바꾸거나 사용자 계정을 비활성화 또는 활성화함  
+-   암호를 설정하거나 변경함
+  
+조직에서는 도메인 계정과 로컬 계정 모두에 대해 계정을 만들거나 수정하거나 삭제한 사람을 확인할 수 있어야 합니다. 무단으로 변경한 내용이 있으면 회사 정책을 따르는 방법이나 고의적인 공격에 대해 잘 알지 못하는 관리자가 실수로 변경한 것일 수 있습니다.
+  
+예를 들어, 계정 관리 오류 이벤트는 낮은 수준의 관리자나 낮은 수준의 관리자 계정을 가로채어 사용하는 공격자가 해당 계정의 권한을 높이려고 시도했음을 나타내는 경우가 있습니다. 로그에서는 공격자가 수정하거나 만든 계정을 확인할 수 있습니다.
+  
+따라서 보안 대책으로 이 설정을 사용할 때는 세 가지 환경 모두에서 **성공** 및 **실패** 값을 모두 포함하도록 구성하는 것이 좋습니다.  
+이 설정에서 기록되는 이벤트에 대한 자세한 내용은 "Windows Server 2003 보안 이벤트"를 참조하십시오.
+  
+### 디렉터리 서비스 액세스 감사
+  
+**표 4: 설정**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">감사 안 함</td>
+<td style="border:1px solid black;">성공/실패</td>
+<td style="border:1px solid black;">성공/실패</td>
+<td style="border:1px solid black;">성공/실패</td>
+</tr>
+</tbody>
+</table>
+  
+**디렉터리 서비스 액세스 감사** 설정은 사용자가 자체 SACL(시스템 액세스 제어 목록)이 지정된 Microsoft Active Directory 디렉터리 서비스 개체에 액세스하는 이벤트를 감사할지 여부를 결정합니다. **디렉터리 서비스 액세스 감사**를 **감사 안 함**으로 설정하면 보안 문제가 발생할 때 손상된 Active Directory 개체를 확인하기가 어려워지거나 불가능해집니다. 또한 이 설정값이 **성공** 및 **실패**로 설정되지 않은 경우에는 보안 문제가 발생한 후 분석에 사용할 수 있는 감사 레코드 증거가 없게 됩니다.
+  
+**디렉터리 서비스 액세스 감사**를 **성공**으로 구성하면 지정된 SACL이 있는 Active Directory 개체에 사용자가 성공적으로 액세스할 때마다 감사 항목이 생성됩니다. 이 설정을**실패**로 구성하면 지정된 SACL이 있는 Active Directory 개체에 사용자가 액세스하지 못할 때마다 감사 항목이 생성됩니다.
+  
+이 설정에서 기록하는 이벤트에 대한 자세한 내용은 "Windows Server 2003 보안 이벤트"를 참조하십시오.
+  
+### 로그온 이벤트 감사
+  
+**표 5: 설정**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">성공</td>
+<td style="border:1px solid black;">성공/실패</td>
+<td style="border:1px solid black;">성공/실패</td>
+<td style="border:1px solid black;">성공/실패</td>
+</tr>
+</tbody>
+</table>
+  
+**로그온 이벤트 감사** 설정은 사용자가 컴퓨터에 로그온하거나 로그오프하는 각 이벤트를 감사할지 여부를 결정합니다. **계정 로그온 이벤트** 설정에서 레코드가 생성되어 도메인 컨트롤러에서는 도메인 계정 활동이 모니터링되고 로컬 컴퓨터에서는 로컬 계정 활동이 모니터링됩니다.
+  
+**로그온 이벤트 감사** 설정을 **감사 안 함**으로 구성하면 회사 내의 컴퓨터에 로그온하거나 로그온하려고 시도한 사용자를 확인하기가 어려워지거나 불가능해집니다. 도메인 구성원에서 **로그온 이벤트 감사** 설정에 **성공** 값을 사용하면 시스템에서 계정이 포함된 위치에 관계 없이 시스템에 로그온하는 사용자가 있을 때마다 이벤트가 생성됩니다. **계정 로그온 이벤트 감사** 설정이 **사용**으로 설정되어 있을 때 사용자가 로컬 계정에 로그온하면 두 개의 이벤트가 생성됩니다.
+  
+이 설정값이 **성공** 및 **실패**로 구성되지 않은 경우에는 보안 문제가 발생한 후 분석에 사용할 수 있는 감사 레코드 증거가 없게 됩니다.
+  
+이 설정에서 기록하는 이벤트에 대한 자세한 내용은 "Windows Server 2003 보안 이벤트"를 참조하십시오.
+  
+### 개체 액세스 감사
+  
+**표 6: 설정**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">감사 안 함</td>
+<td style="border:1px solid black;">성공/실패</td>
+<td style="border:1px solid black;">성공/실패</td>
+<td style="border:1px solid black;">성공/실패</td>
+</tr>
+</tbody>
+</table>
+  
+이 설정을 사용할 경우 자체적으로 이벤트가 감사되지는 않습니다. **개체 액세스 감사** 설정은 지정된 SACL이 있는 파일, 폴더, 레지스트리 키, 프린터 등의 개체에 사용자가 액세스하는 이벤트를 감사할지 여부를 결정합니다.
+  
+SACL은 ACE(액세스 제어 항목)로 구성되어 있습니다. 각 ACE에는 다음 세 가지 정보가 포함되어 있습니다.
+  
+-   감사할 보안 사용자(사용자, 컴퓨터 또는 그룹)  
+-   감사할 특정 액세스 유형(액세스 마스크라고 함)  
+-   실패한 액세스 이벤트를 감사할지, 성공한 액세스 이벤트를 감사할지 또는 둘 모두를 감사할지 여부를 나타내는 플래그
+  
+이 설정을**성공**으로 구성하면 지정된 SACL이 있는 개체에 사용자가 성공적으로 액세스할 때마다 감사 항목이 생성됩니다. 이 설정을**실패**로 구성하면 지정된 SACL이 있는 개체에 사용자가 액세스하지 못할 때마다 감사 항목이 생성됩니다.
+  
+기업에서는 SACL을 구성할 때 사용할 동작만 정의해야 합니다. 예를 들어, 컴퓨터 바이러스, 웜 및 트로이 목마 프로그램이 있을 경우 일반적으로 발생하는 파일 내용 대체 또는 변경을 추적하기 위해 실행 파일에 대해 **데이터 쓰기 및 추가 감사** 설정을 사용할 수 있습니다. 마찬가지로 중요한 문서의 변경 내용이나 문서를 읽은 내역도 추적할 수 있습니다.
+  
+따라서 이 설명서에 정의된 세 가지 환경 모두에서 이 감사 설정값으로 **성공**과 **실패**를 모두 사용하는 것이 좋습니다.
+  
+이 설정에서 기록하는 이벤트에 대한 자세한 내용은 "Windows Server 2003 보안 이벤트"를 참조하십시오.
+  
+### 정책 변경 감사
+  
+**표 7: 설정**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">감사 안 함</td>
+<td style="border:1px solid black;">성공</td>
+<td style="border:1px solid black;">성공</td>
+<td style="border:1px solid black;">성공</td>
+</tr>
+</tbody>
+</table>
+  
+**정책 변경 감사** 설정은 사용자 권한 할당 정책, 감사 정책 또는 신뢰 정책이 변경되는 모든 이벤트를 감사할지 여부를 결정합니다. 여기에는 감사 정책 자체를 변경하는 것도 포함됩니다.
+  
+이 설정을 **성공**으로 구성하면 사용자 권한 할당 정책, 감사 정책 또는 신뢰 정책이 성공적으로 변경될 때마다 감사 항목이 생성됩니다. 이 설정을 **실패**로 구성하면 사용자 권한 할당 정책, 감사 정책 또는 신뢰 정책을 변경하려는 시도가 실패할 때마다 감사 항목이 생성됩니다.
+  
+권장 설정을 사용하면 공격자가 권한 수준을 높이려고 시도(예를 들어, **프로그램 디버깅** 권한이나 **파일 및 디렉터리 백업** 권한 추가)한 계정 권한을 확인할 수 있습니다. 정책 변경 감사에는 신뢰 관계뿐 아니라 감사 정책 자체의 변경 감사도 포함됩니다.
+  
+**참고:** 이 설명서에서는 이 설정값을 **성공**으로 구성할 것을 권장합니다. 이는 단지 **실패** 설정값을 포함할 경우 의미 있는 액세스 정보가 제공되지 않기 때문입니다. 현재는 이 값을 **실패**로 설정하면 의미 있는 이벤트가 캡처되지 않습니다.
+  
+이 설정에서 기록하는 이벤트에 대한 자세한 내용은 "Windows Server 2003 보안 이벤트"를 참조하십시오.
+  
+### 권한 사용 감사
+  
+**표 8: 설정**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">감사 안 함</td>
+<td style="border:1px solid black;">감사 안 함</td>
+<td style="border:1px solid black;">실패</td>
+<td style="border:1px solid black;">성공/실패</td>
+</tr>
+</tbody>
+</table>
+  
+**권한 사용 감사** 설정은 사용자가 사용자 권한을 사용하는 각 이벤트를 감사할지 여부를 결정합니다. 이 값을 **성공**으로 구성하면 사용자 권한이 성공적으로 사용될 때마다 감사 항목이 생성됩니다. 이 값을 **실패**로 구성하면 사용자 권한이 성공적으로 사용되지 않을 때마다 감사 항목이 생성됩니다.
+  
+다음 사용자 권한이 사용될 때는 **권한 사용 감사** 설정이 **성공** 또는 **실패**로 구성되어 있어도 감사가 수행되지 않습니다. 이러한 사용자 권한을 감사하면 보안 로그에 많은 이벤트가 생성되어 컴퓨터 성능이 제한될 수 있기 때문입니다. 감사에서 제외되는 다음 권한을 감사하려면 그룹 정책에서 **감사: 백업 및 복원 권한 사용을 감사** 보안 옵션을 설정해야 합니다.
+  
+-   **통과 확인 무시**  
+-   **프로그램 디버깅**  
+-   **토큰 개체 만들기**  
+-   **프로세스 수준 토큰 대체**  
+-   **보안 감사 생성**  
+-   **파일 및 디렉터리 백업**  
+-   **파일 및 디렉터리 복원**
+  
+권한 감사를 사용하면 매우 많은 양의 이벤트 레코드가 생성됩니다. 따라서 이 설명서에 정의된 각 보안 환경마다 고유하게 권장되는 설정이 있습니다. 사용자 권한을 사용하는 데 실패하면 일반적인 네트워크 문제가 발생했음을 나타내며 보안 위반이 시도되었음을 나타내는 경우도 있습니다. 기업에서는 업무상 특별히 필요한 경우에만 **권한 사용 감사** 설정을 **사용**으로 설정해야 합니다.
+  
+이 설정에서 기록하는 이벤트에 대한 자세한 내용은 "Windows Server 2003 보안 이벤트"를 참조하십시오.
+  
+### 프로세스 추적 감사
+  
+**표 9: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">감사 안 함</td>
+<td style="border:1px solid black;">감사 안 함</td>
+<td style="border:1px solid black;">감사 안 함</td>
+<td style="border:1px solid black;">감사 안 함</td>
+</tr>
+</tbody>
+</table>
+  
+**프로세스 추적 감사** 설정은 프로그램 활성화, 프로세스 종료, 핸들 복제 및 간접적 개체 액세스 등의 이벤트에 대한 자세한 추적 정보를 감사할지 여부를 결정합니다. 이 설정을 **성공**으로 구성하면 추적되는 프로세스가 성공할 때마다 감사 항목이 생성됩니다. 이 설정을 **실패**로 구성하면 추적되는 프로세스가 실패할 때마다 감사 항목이 생성됩니다.
+  
+**프로세스 추적 감사**를 사용하면 많은 양의 이벤트가 생성되므로 일반적으로 이 값은 **감사 안 함**으로 설정합니다. 그러나 이 설정을 사용하면 시작된 프로세스와 프로세스가 실행된 시간에 대한 세부 로그에서 문제 응답이 있을 때 매우 유용합니다.
+  
+이 설정에서 기록하는 이벤트에 대한 자세한 내용은 "Windows Server 2003 보안 이벤트"를 참조하십시오.
+  
+### 시스템 이벤트 감사
+  
+**표 10: 설정**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">감사 안 함</td>
+<td style="border:1px solid black;">성공</td>
+<td style="border:1px solid black;">성공</td>
+<td style="border:1px solid black;">성공</td>
+</tr>
+</tbody>
+</table>
+  
+**시스템 이벤트 감사** 설정은 사용자가 컴퓨터를 다시 시작하거나 종료할 경우 또는 시스템 보안이나 보안 로그에 영향을 주는 이벤트가 발생할 경우에 감사할지 여부를 결정합니다. 이 설정을 **성공**으로 구성하면 시스템 이벤트가 성공적으로 실행되었을 때 감사 항목이 생성됩니다. 이 설정을 **실패**로 구성하면 시스템 이벤트를 시도했지만 성공하지 못했을 때 감사 항목이 생성됩니다.
+  
+이 설정에서 기록하는 이벤트에 대한 자세한 내용은 "Windows Server 2003 보안 이벤트"를 참조하십시오.
+  
+[](#mainsection)[페이지 위쪽](#mainsection)
+  
+<span id="XSLTsection128121120120"></span>
+사용자 권한 할당  
+----------------
+  
+사용자 권한 할당은 조직의 컴퓨터에 대한 로그온 권한이나 사용 권한이 있는 사용자 또는 그룹을 결정합니다. 로그온 권한 및 사용 권한은 사용자가 대상 시스템에 대해 갖는 권한을 제어합니다. 이러한 권한은 네트워크 로그온 또는 로컬 로그온 등의 특정 작업과 새 로그온 토큰 생성 등의 관리 작업을 수행할 수 있는 권한을 부여하는 데 사용됩니다.  
+**참고:** 다음의 사용자 권한 할당 섹션에서 "정의되지 않음"은 정의되지 않은 모든 권한에 대해 관리자가 여전히 사용 권한을 갖고 있음을 의미합니다.  
+로컬 관리자가 이 설정을 변경할 수는 있지만 다음에 그룹 정책이 새로 고쳐지거나 다시 적용되면 도메인 기반 그룹 정책 설정이 이 설정보다 우선하게 됩니다.  
+Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치에서 사용자 권한 할당 설정을 구성할 수 있습니다.  
+컴퓨터 구성\\Windows 설정\\보안 설정\\로컬 정책\\사용자 권한 할당  
+기본 사용자 권한 할당은 기업의 다양한 서버 유형마다 다릅니다. 예를 들어, Windows Server 2003에서 기본 제공 그룹을 포함하는 사용자 권한 할당은 구성원 서버와 도메인 컨트롤러 사이에 다음과 같은 차이점이 있습니다. 구성원 서버와 도메인 컨트롤러 사이에 비슷한 기본 제공 그룹에 대해서는 아래 목록에서 설명하지 않습니다.
+  
+### 구성원 서버
+  
+-   **Power Users**  
+    Power Users 그룹은 대부분의 관리 권한을 가지며 제한 사항은 약간만 있습니다. 따라서 Power Users 그룹은 인증된 응용 프로그램뿐 아니라 레거시 응용 프로그램도 실행할 수 있습니다.  
+-   **HelpServicesGroup**  
+    도움말 및 지원 센터를 위한 그룹입니다. Support\_388945a0은 기본적으로 이 그룹의 구성원입니다.  
+-   **TelnetClients**  
+    이 그룹의 구성원은 시스템에서 텔넷 서버에 액세스할 수 있습니다.
+  
+### 도메인 컨트롤러
+  
+-   **Server Operators**  
+    이 그룹의 구성원은 도메인 서버를 관리할 수 있습니다.  
+-   **Terminal Server License Services**  
+    이 그룹의 구성원은 시스템에서 터미널 서버 라이센스 서버에 액세스할 수 있습니다.  
+-   **Windows Authorization Access Group**  
+    이 그룹의 구성원은 사용자 개체의 계산된 tokenGroupsGlobalAndUniversal 특성에 액세스할 수 있습니다.
+  
+**Guests** 그룹과 사용자 계정 Guest 및 Support\_388945a0은 각 도메인에서 고유한 SID를 갖습니다. 따라서 특정 대상 그룹만 있는 시스템에서는 사용자 권한 할당에 대한 이 그룹 정책을 수정해야 할 수 있습니다. 또는 .inf 파일 내에서 정책 템플릿을 개별적으로 편집하여 적절한 그룹을 포함할 수 있습니다. 예를 들어, 테스트 환경에서는 도메인 컨트롤러에 대해 도메인 컨트롤러 그룹 정책을 만들어야 합니다.
+  
+**참고:** Guests, Support\_388945a0 및 Guest 사이에는 고유한 SID가 있기 때문에 일부 강화 설정은 [http://go.microsoft.com/fwlink/?LinkId=14846](http://go.microsoft.com/fwlink/?linkid=14846) ![](images/Dd547909.tous(ko-kr,TechNet.10).gif)에서 제공하는 보안 템플릿을 사용하여 자동화할 수 없습니다. 이러한 설정에 대해서는 이 모듈의 뒷부분에 있는 추가 서버 설정 섹션에서 설명합니다.
+  
+여기에서는 이 MSBP용 설명서에 정의된 세 가지 환경에 대해 지정된 사용자 권한 할당을 자세히 설명합니다. 이 섹션의 지정된 설정에 대한 요약은 Excel 스프레드시트 형식으로 제공되는 Windows Server 2003 Security Guidance Settings를 참조하십시오. 이 섹션에서 설명하는 기본 설정과 각 설정에 대한 자세한 내용은 다음 위치에서 함께 제공되는 설명서인 Threats and Countermeasures: Security Settings in Windows Server 2003 and Windows XP를 참조하십시오. [http://go.microsoft.com/fwlink/?LinkId=15159](http://go.microsoft.com/fwlink/?linkid=15159) ![](images/Dd547909.tous(ko-kr,TechNet.10).gif).
+  
+### 네트워크에서 이 컴퓨터 액세스
+  
+**표 11: 설정**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">Administrators, Backup Operators, Everyone, Power Users 및 Users</td>
+<td style="border:1px solid black;">정의되지 않음</td>
+<td style="border:1px solid black;">정의되지 않음</td>
+<td style="border:1px solid black;">Administrators, Authenticated Users</td>
+</tr>
+</tbody>
+</table>
+  
+**네트워크에서 이 컴퓨터 액세스** 사용자 권한은 네트워크를 통해 컴퓨터에 연결할 수 있는 사용자 및 그룹을 결정합니다. 이 사용자 권한은 SMB(서버 메시지 블록) 기반 프로토콜, NetBIOS(네트워크 기본 입/출력 시스템), CIFS(일반 인터넷 파일 시스템), HTTP(Hypertext Transfer Protocol) 및 COM+(Component Object Model Plus)를 비롯한 여러 네트워크 프로토콜에 필요합니다.
+  
+Windows Server 2003에서 **Everyone** 보안 그룹에 부여되는 권한은 더 이상 익명 사용자에게 액세스 권한을 부여하지 않지만 게스트 그룹 및 계정은 여전히 **Everyone** 보안 그룹을 통해 액세스 권한을 부여받을 수 있습니다. 따라서 도메인에 대한 게스트 액세스를 대상으로 하는 공격으로부터 보호하려면 고급 보안 환경의 **네트워크에서 이 컴퓨터 액세스** 사용자 권한에서 **Everyone** 보안 그룹을 제거하는 것이 좋습니다.
+  
+### 운영 체제의 일부로 작동
+  
+**표 12: 설정**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">정의되지 않음</td>
+<td style="border:1px solid black;">정의되지 않음</td>
+<td style="border:1px solid black;">정의되지 않음</td>
+<td style="border:1px solid black;">모든 보안 그룹 및 계정 해지</td>
+</tr>
+</tbody>
+</table>
+  
+**운영 체제의 일부로 작동** 사용자 권한은 프로세스에서 사용자 ID를 가정하고 이에 따라 해당 사용자가 액세스할 수 있는 권한이 있는 리소스에 대해 액세스 권한을 얻을 수 있도록 합니다. 일반적으로 낮은 수준의 인증 서비스에서만 이 권한이 필요합니다. 기본적으로 정의된 보안 그룹이 없으므로 이 사용자 권한은 레거시 클라이언트 및 엔터프라이즈 클라이언트 환경에 충분합니다. 그러나 고급 보안 환경에서는 이 설정을 **모든 보안 그룹 및 계정 해지**로 구성합니다.
+  
+### 도메인에 워크스테이션 추가
+  
+**표 13: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">정의되지 않음</td>
+<td style="border:1px solid black;">정의되지 않음</td>
+<td style="border:1px solid black;">정의되지 않음</td>
+<td style="border:1px solid black;">Administrators</td>
+</tr>
+</tbody>
+</table>
+  
+**도메인에 워크스테이션 추가** 사용자 권한은 사용자가 특정 도메인에 컴퓨터를 추가할 수 있도록 합니다. 이 권한을 적용하려면 해당 도메인의 기본 도메인 컨트롤러 정책의 일부로 사용자에게 할당해야 합니다. 기본적으로 정의된 보안 그룹이 없으므로 이 사용자 권한은 레거시 클라이언트 및 엔터프라이즈 클라이언트 환경에 충분합니다. 그러나 고급 보안 환경에서는 **Administrators** 그룹에만 이 사용자 권한을 부여하도록 구성합니다.
+  
+### 프로세스의 메모리 할당량 조정
+  
+**표 14: 설정**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">Administrators, NETWORK SERVICE, LOCAL SERVICE</td>
+<td style="border:1px solid black;">정의되지 않음</td>
+<td style="border:1px solid black;">정의되지 않음</td>
+<td style="border:1px solid black;">Administrators, NETWORK SERVICE, LOCAL SERVICE</td>
+</tr>
+</tbody>
+</table>
+  
+**프로세스의 메모리 할당량 조정** 사용자 권한은 사용자가 프로세스에 사용할 수 있는 최대 메모리를 조정할 수 있도록 합니다. 이 권한은 시스템 조정에 유용하지만 악용될 경우에는 DoS 공격을 실행하는 데 사용될 수 있습니다. 이 사용자 권한에 대한 기본 보안 그룹은 **레거시 클라이언트** 및 **엔터프라이즈 클라이언트** 환경에 충분합니다. 그러나 **고급 보안** 환경에서는 **Administrators, NETWORK SERVICE, LOCAL SERVICE** 값만 적용하도록 이 사용자 권한을 구성합니다.
+  
+### 로컬 로그온 허용
+  
+**표 15: 설정**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">Administrators, Backup Operators, Power Users 및 Users</td>
+<td style="border:1px solid black;">Administrators, Backup Operators, Power Users</td>
+<td style="border:1px solid black;">Administrators, Backup Operators, Power Users</td>
+<td style="border:1px solid black;">Administrators, Backup Operators, Power Users</td>
+</tr>
+</tbody>
+</table>
+  
+**로컬 로그온 허용** 사용자 권한은 지정된 컴퓨터에 대화형으로 로그온할 수 있는 사용자를 결정합니다. 키보드에서 Ctrl+Alt+Del 키 조합을 눌러 로그온하려면 사용자에게 이 로그온 권한이 있어야 합니다. 이 사용자 권한이 있는 계정을 사용하여 컴퓨터의 로컬 콘솔에 로그온할 수 있습니다. 시스템에 로그온할 수 있어야 하는 합법적 사용자에게만 이 권한을 부여하면 권한이 없는 사용자가 자신의 권한 수준을 높이거나 컴퓨터 환경에 바이러스를 침투시키지 못하게 됩니다.
+  
+### 터미널 서비스를 통한 로그온 허용
+  
+**표 16: 설정**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">Administrators 및 Remote Desktop Users</td>
+<td style="border:1px solid black;">Administrators 및 Remote Desktop Users</td>
+<td style="border:1px solid black;">Administrators 및 Remote Desktop Users</td>
+<td style="border:1px solid black;">Administrators</td>
+</tr>
+</tbody>
+</table>
+  
+**터미널 서비스를 통한 로그온 허용** 사용자 권한은 터미널 서비스 클라이언트로 로그온할 수 있는 권한이 있는 사용자 또는 그룹을 결정합니다. 이 사용자 권한에 대한 기본 보안 그룹은 레거시 클라이언트 및 엔터프라이즈 클라이언트 환경에 충분합니다. 그러나 고급 보안 환경에서는 **Administrators** 만이 터미널 서비스 클라이언트로 로그온할 수 있어야 합니다.
+  
+### 시스템 시간 변경
+  
+**표 17: 설정**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">Administrators 및 Power Users</td>
+<td style="border:1px solid black;">정의되지 않음</td>
+<td style="border:1px solid black;">정의되지 않음</td>
+<td style="border:1px solid black;">Administrators</td>
+</tr>
+</tbody>
+</table>
+  
+**시스템 시간 변경** 사용자 권한은 컴퓨터 내부 시계의 시간과 날짜를 변경할 수 있는 사용자 및 그룹을 결정합니다. 이벤트 로그는 이벤트가 발생한 실제 시간이 아니라 변경된 새 시간을 반영하므로 이 사용자 권한이 있는 사용자는 이벤트 로그에 표시되는 정보에 영향을 줄 수 있습니다. **시스템 시간 변경** 권한은 IT 부서의 직원과 같이 시간 변경 권한이 필요한 합법적 사용자에게만 부여합니다. 로컬 컴퓨터와 도메인 컨트롤러의 시간이 일치하지 않으면 Kerberos 인증 프로토콜에 문제가 발생하여 사용자가 도메인에 로그온할 수 없게 되거나 로그온한 후 도메인 리소스에 대한 액세스 권한을 얻지 못하게 됩니다.
+  
+### 프로그램 디버깅
+  
+**표 18: 설정**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">모든 보안 그룹 및 계정 해지</td>
+<td style="border:1px solid black;">모든 보안 그룹 및 계정 해지</td>
+<td style="border:1px solid black;">모든 보안 그룹 및 계정 해지</td>
+</tr>
+</tbody>
+</table>
+  
+**프로그램 디버깅** 사용자 권한은 모든 프로세스 또는 커널에 디버거를 연결할 수 있는 사용자를 결정합니다. 이 사용자 권한은 주요 핵심 운영 체제 구성 요소에 대한 모든 액세스 권한을 제공합니다. 테스트 환경에서는 효과적으로 평가할 수 없는 업무상 중요한 응용 프로그램의 문제를 해결할 때와 같은 극단적인 몇몇 경우를 제외하고는 프로덕션 환경에서 프로그램 디버깅을 수행하면 안 됩니다.
+  
+**참고:** Windows Server 2003에서는 프로그램 디버깅 권한을 제거하면 Windows Update 서비스를 사용할 수 없게 됩니다. 그러나 다른 방법으로 패치를 수동으로 다운로드하여 설치하거나 적용할 수는 있습니다.
+  
+### 네트워크에서 이 컴퓨터 액세스 거부
+  
+**표 19: 설정**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">SUPPORT_388945a0</td>
+<td style="border:1px solid black;">ANONYMOUS LOGON; 기본 제공 Administrator 및 Guests; Support_388945a0; Guest; 모든 비 운영 체제 서비스 계정</td>
+<td style="border:1px solid black;">ANONYMOUS LOGON; 기본 제공 Administrator 및 Guests; Support_388945a0; Guest; 모든 비 운영 체제 서비스 계정</td>
+<td style="border:1px solid black;">ANONYMOUS LOGON; 기본 제공 Administrator 및 Guests; Support_388945a0; Guest; 모든 비 운영 체제 서비스 계정</td>
+</tr>
+</tbody>
+</table>
+  
+**참고:** ANONOYMOUS LOGON, 기본 제공 Administrator, Support\_388945a0, Guest 및 모든 비 운영 체제 서비스 계정은 .inf 보안 템플릿에 포함되어 있지 않습니다. 이러한 계정 및 그룹은 조직의 각 도메인에 대해 고유한 SID를 갖습니다. 따라서 수동으로 추가해야 합니다. 자세한 내용은 이 모듈 끝 부분의 수동 강화 절차를 참조하십시오.
+  
+**네트워크에서 이 컴퓨터 액세스 거부** 사용자 권한은 네트워크를 통해 컴퓨터에 연결할 수 없는 사용자를 결정합니다. 이 사용자 권한은 SMB 기반 프로토콜, NetBIOS, CIFS, HTTP, COM+를 비롯한 많은 네트워크 프로토콜을 거부합니다. 사용자 계정에 이 정책과 **네트워크에서 이 컴퓨터 액세스** 사용자 권한 정책이 모두 적용된 경우에는 이 정책 설정이 우선합니다. 다른 그룹에 대해 이 로그온 권한을 구성하면 현재 환경의 특정 관리 역할에 사용자가 할당되지 못할 수 있습니다. 따라서 위임 작업이 부정적인 영향을 받지 않는지 확인하십시오.
+  
+### 일괄 작업으로 로그온 거부
+  
+**표 20: 설정**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">정의되지 않음</td>
+<td style="border:1px solid black;">Guests; Support_388945a0; Guest</td>
+<td style="border:1px solid black;">Guests; Support_388945a0; Guest</td>
+<td style="border:1px solid black;">Guests; Support_388945a0; Guest</td>
+</tr>
+</tbody>
+</table>
+  
+**참고:** ANONOYMOUS LOGON, 기본 제공 Administrator, Support\_388945a0, Guest 및 모든 비 운영 체제 서비스 계정은 .inf 보안 템플릿에 포함되어 있지 않습니다. 이러한 계정 및 그룹은 조직의 각 도메인에 대해 고유한 SID를 갖습니다. 따라서 수동으로 추가해야 합니다. 자세한 내용은 이 모듈 끝 부분의 수동 강화 절차를 참조하십시오.
+  
+**일괄 작업으로 로그온 거부** 사용자 권한은 일괄 작업으로 시스템에 로그온할 수 없는 계정을 결정합니다. 일괄 작업은 배치 파일(bat)이 아니라 일괄 큐 기능입니다. 작업 스케줄러를 통한 일정 예약 작업에 사용되는 계정은 이 권한이 있어야 합니다. 이 **일괄 작업으로 로그온 거부** 사용자 권한 설정은 **일괄 작업으로 로그온** 사용자 권한 설정보다 우선합니다. 이 로그온 권한이 있는 계정을 사용하면 시스템 리소스를 과도하게 사용함으로써 DoS 상황을 초래할 수 있는 작업의 일정을 설정할 수 있습니다. 따라서 권장되는 계정에 **일괄 작업으로 로그온 거부** 사용자 권한을 할당하지 않으면 보안 위험이 발생할 수 있습니다.
+  
+### 터미널 서비스를 통한 로그온 거부
+  
+**표 21: 설정**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">정의되지 않음</td>
+<td style="border:1px solid black;">기본 제공 Administrator; Guests; Support_388945a0; Guest; 모든 비 운영 체제 서비스 계정</td>
+<td style="border:1px solid black;">기본 제공 Administrator; Guests; Support_388945a0; Guest; 모든 비 운영 체제 서비스 계정</td>
+<td style="border:1px solid black;">기본 제공 Administrator; Guests; Support_388945a0; Guest; 모든 비 운영 체제 서비스 계정</td>
+</tr>
+</tbody>
+</table>
+  
+**참고:** ANONOYMOUS LOGON, 기본 제공 Administrator, Support\_388945a0, Guest 및 모든 비 운영 체제 서비스 계정은 .inf 보안 템플릿에 포함되어 있지 않습니다. 이러한 계정 및 그룹은 조직의 각 도메인에 대해 고유한 SID를 갖습니다. 따라서 수동으로 추가해야 합니다. 자세한 내용은 이 모듈 끝 부분의 수동 강화 절차를 참조하십시오.
+  
+**터미널 서비스를 통한 로그온 거부** 사용자 권한은 터미널 서비스 클라이언트로 로그온하는 것이 금지된 사용자 및 그룹을 결정합니다. 기준 구성원 서버를 도메인 환경에 가입시킨 후에는 네트워크에서 로컬 계정을 사용하여 서버에 액세스할 필요가 없습니다. 도메인 계정은 관리 및 최종 사용자 처리를 위해 서버에 액세스할 수 있습니다. 서버가 도메인에 가입하고 두 번 다시 시작하기 전까지는 MSBP가 이 그룹 정책을 받지 않습니다. 따라서 로컬 Administrator 계정을 사용하는 것이 금지됩니다.
+  
+### 컴퓨터 및 사용자 계정을 위임용으로 트러스트할 수 있음
+  
+**표 22: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+모든 보안 그룹 및 계정 해지</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**컴퓨터 및 사용자 계정을 위임용으로 트러스트할 수 있음** 권한은 사용자가 Active Directory의 사용자 또는 컴퓨터 개체에 대해 **위임용으로 트러스트** 설정을 변경할 수 있도록 합니다. 이 권한을 부여받은 사용자 또는 컴퓨터는 개체의 계정 제어 플래그에 대한 쓰기 권한도 갖고 있어야 합니다. 이 권한을 잘못 사용하면 권한이 없는 사용자가 네트워크의 다른 사용자를 가장하게 될 수 있습니다.
+
+### 원격 시스템에서 강제 종료
+
+**표 23: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Administrators</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+Administrators</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**원격 시스템에서 강제 종료** 사용자 권한은 사용자가 네트워크의 원격 위치에서 컴퓨터를 종료할 수 있도록 합니다. 컴퓨터를 종료할 수 있는 모든 사용자가 DoS 상황을 초래할 수 있으므로 이 권한은 매우 제한적으로 사용해야 합니다.
+
+### 보안 감사 생성
+
+**표 24: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+NETWORK SERVICE, LOCAL SERVICE</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+NETWORK SERVICE, LOCAL SERVICE</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**보안 감사 생성** 사용자 권한은 프로세스에서 보안 로그에 감사 레코드를 생성할 수 있도록 합니다. 보안 로그는 무단 시스템 액세스를 추적하는 데 사용할 수 있습니다. 공격자는 보안 로그에 기록할 수 있는 계정을 사용하여 해당 로그를 의미 없는 이벤트로 채울 수 있습니다. 컴퓨터가 필요할 때 이벤트를 덮어쓰도록 구성된 경우 공격자는 이 방법을 사용하여 자신의 무단 작업에 대한 증거를 제거할 수 있습니다. 컴퓨터가 보안 로그에 기록할 수 없게 되면 종료되도록 구성된 경우에는 이 방법을 사용하여 DoS 상황을 만들 수 있습니다.
+
+### 인증 후 클라이언트로 가장
+
+**표 25: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+SERVICE, Administrators</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+Local Service; Network Service</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**인증 후 클라이언트로 가장** 권한을 할당하면 해당 사용자를 위해 실행되는 응용 프로그램이 클라이언트를 가장할 수 있습니다. 이러한 종류의 가장에 이 사용자 권한이 필요하도록 하면 권한이 없는 사용자가 클라이언트를 속여 RPC(원격 프로시저 호출) 또는 명명된 파이프를 통해 자신이 만든 서비스에 연결한 다음 해당 클라이언트로 가장함으로써 권한이 없는 사용자의 권한을 관리 또는 시스템 수준으로 높이지 못하게 됩니다.. 이 사용자 권한에 대한 기본 보안 그룹은 레거시 클라이언트 및 엔터프라이즈 클라이언트 환경에 충분합니다. 그러나 고급 보안 환경에서는 이 사용자 권한을 **Local Service, NETWORK SERVICE** 로 구성합니다.
+### 스케쥴링 우선 순위 증가
+
+**표 26: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Administrators</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+Administrators</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**스케쥴링 우선 순위 증가** 권한은 사용자가 프로세스의 기본 우선 순위 클래스를 높일 수 있도록 합니다. 우선 순위 클래스 내에서 상대적 우선 순위를 높이는 것은 권한 작업이 아닙니다. 운영 체제와 함께 제공되는 관리 도구에서는 이 권한이 필요하지 않지만 소프트웨어 개발 도구에서는 이 권한이 필요할 수 있습니다. 이 권한이 있는 사용자는 프로세스의 스케쥴링 우선 순위를 **실시간**으로 높이고 다른 모든 프로세스의 처리 시간은 거의 없게 만들어 DoS 상황이 발생하게 할 수 있습니다. 이 사용자 권한에 대한 기본 보안 그룹은 레거시 클라이언트 및 엔터프라이즈 클라이언트 환경에 충분합니다. 그러나 고급 보안 환경에서는 이 사용자 권한이 기본 **Administrators** 그룹에만 적용되도록 구성합니다.
+### 장치 드라이버 로드 및 언로드
+
+**표 27: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Administrators</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+Administrators</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**장치 드라이버 로드 및 언로드** 권한은 장치 드라이버를 동적으로 로드하고 언로드할 수 있는 사용자를 결정합니다. 컴퓨터의 Driver.cab 파일에 새 하드웨어에 대한 서명된 드라이버가 이미 있는 경우에는 이 권한이 필요하지 않습니다. 장치 드라이버는 높은 수준의 권한이 있는 코드로 실행됩니다. **장치 드라이버 로드 및 언로드** 권한을 부여받은 사용자는 모르고 장치 드라이버를 가장하는 악성 코드를 설치하게 될 수 있습니다. 그러나 관리자라면 보다 주의를 기울일 것이고 확인된 디지털 서명이 있는 드라이버만 설치할 것입니다. 이 권한에 대한 기본 사용자 그룹은 **레거시 클라이언트** 및 **엔터프라이즈 클라이언트** 환경에 충분합니다. 그러나 고급 보안 환경에서는 이 권한이 기본 **Administrators** 그룹에만 적용되도록 구성합니다.
+### 메모리의 페이지 잠금
+
+**표 28: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+Administrators</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**메모리의 페이지 잠금** 사용자 권한은 프로세스에서 데이터를 실제 메모리에 보관할 수 있도록 합니다. 이렇게 하면 시스템에서는 데이터를 디스크의 가상 메모리로 페이징할 수 없게 됩니다. 이 사용자 권한을 활성화하면 시스템 성능이 크게 저하될 수 있습니다. 이 권한이 있는 사용자는 몇 개의 프로세스에 실제 메모리를 할당하고 다른 프로세스를 위한 메모리(RAM)는 거의 남겨두지 않을 수 있습니다. 이 경우 DoS 상황이 발생할 수 있습니다. 이 사용자 권한에 대한 기본 보안 그룹은 레거시 클라이언트 및 엔터프라이즈 클라이언트 환경에 충분합니다. 그러나 고급 보안 환경에서는 이 사용자 권한이 기본 **Administrators**에만 적용되도록 구성합니다.
+### 일괄 작업으로 로그온
+
+**표 29: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+SUPPORT_388945a0, LOCAL SERVICE</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+모든 보안 그룹 및 계정 해지</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**일괄 작업으로 로그온** 사용자 권한은 사용자가 작업 스케줄러 서비스와 같은 일괄 큐 기능을 사용하여 로그온할 수 있도록 합니다. 이 설정은 보안상 위험도가 낮으므로 이 사용자 권한에 대한 기본 설정은 대부분의 조직에 충분합니다. 이 사용자 권한에 대한 기본 보안 그룹은 레거시 클라이언트 및 엔터프라이즈 클라이언트 환경에 충분합니다. 그러나 고급 보안 환경에서는 이 사용자 권한을 **모든 보안 그룹 및 계정 해지**로 구성합니다.
+### 감사 및 보안 로그 관리
+
+**표 30: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Administrators</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+Administrators</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**감사 및 보안 로그 관리** 권한은 사용자가 파일, Active Directory 개체, 레지스트리 키 등의 개별 리소스에 대해 개체 액세스 감사 옵션을 지정할 수 있도록 합니다. 보안 이벤트 로그를 관리할 수 있는 권한은 강력한 사용자 권한이므로 주의해서 보호해야 합니다. 이 사용자 권한이 있는 사용자는 보안 로그를 지움으로써 무단 작업의 중요한 증거를 지울 수 있습니다. 이 사용자 권한에 대한 기본 보안 그룹은 레거시 클라이언트 및 엔터프라이즈 클라이언트 환경에 충분합니다. 그러나 고급 보안 환경에서는 이 사용자 권한이 기본 **Administrators**에만 적용되도록 구성합니다.
+### 펌웨어 환경 값 수정
+
+**표 31: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Administrators</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+Administrators</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**펌웨어 환경 값 수정** 사용자 권한은 프로세스에서 API를 사용하거나 사용자가 **시스템 속성**을 사용하여 시스템 환경 변수를 수정할 수 있도록 합니다. 이 권한이 있는 사용자는 하드웨어 구성 요소에 문제가 발생하도록 구성 요소 속성을 구성할 수 있습니다. 이 경우 데이터가 손상되거나 DoS 상황이 발생할 수 있습니다. 이 사용자 권한에 대한 기본 보안 그룹은 레거시 클라이언트 및 엔터프라이즈 클라이언트 환경에 충분합니다. 그러나 고급 보안 환경에서는 이 사용자 권한이 기본 **Administrators** 그룹에만 적용되도록 구성합니다.
+### 볼륨 관리 작업을 수행
+
+**표 32: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Administrators</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+Administrators</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**볼륨 관리 작업을 수행** 사용자 권한은 관리자가 아닌 사용자나 원격 사용자가 볼륨 또는 디스크를 관리할 수 있도록 합니다. 이 권한이 있는 사용자는 볼륨을 삭제하여 데이터가 손실되도록 하거나 DoS 상황이 발생하게 할 수 있습니다. 이 사용자 권한에 대한 기본 보안 그룹은 레거시 클라이언트 및 엔터프라이즈 클라이언트 환경에 충분합니다. 그러나 고급 보안 환경에서는 이 사용자 권한이 기본 **Administrators** 그룹에만 적용되도록 구성합니다.
+### 단일 프로세스 프로필
+
+**표 33: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Administrators 및 Power Users</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+Administrators</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**단일 프로세스 프로필** 사용자 권한은 성능 모니터링 도구를 사용하여 비 시스템 프로세스의 성능을 모니터링할 수 있는 사용자를 결정합니다. 이 사용자 권한의 보안 취약성은 중간 정도이지만 이 권한이 있는 공격자는 컴퓨터의 성능을 모니터링하여 직접 공격하려는 중요한 프로세스를 확인할 수 있습니다. 또한 공격자는 시스템에서 실행되는 프로세스를 확인하여 바이러스 백신 소프트웨어 또는 침입 감지 시스템과 같은 보안 대책이나 시스템에 로그온한 다른 사용자를 확인할 수 있습니다. 따라서 고급 보안 환경에서 사용 환경의 보안을 강화하려면 이 사용자 권한에서 **Power Users**를 제거합니다.
+### 시스템 성능 프로필
+
+**표 34: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Administrators</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+Administrators</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**시스템 성능 프로필** 사용자 권한은 사용자가 시스템 프로세스의 성능을 모니터링할 수 있도록 합니다. 이 사용자 권한을 제한하지 않을 경우의 보안 취약성은 중간 정도이지만 이 권한이 있는 공격자는 컴퓨터의 성능을 모니터링하여 직접 공격하려는 중요한 프로세스를 확인할 수 있습니다. 또한 공격자는 시스템에서 실행되는 프로세스를 확인하여 바이러스 백신 소프트웨어 또는 침입 감지 시스템과 같은 보안 대책을 확인할 수 있습니다. 이 사용자 권한에 대한 기본 보안 그룹은 레거시 클라이언트 및 엔터프라이즈 클라이언트 환경에 충분합니다. 그러나 고급 보안 환경에서는 이 사용자 권한이 기본 **Administrators** 그룹에만 적용되도록 구성합니다.
+### 컴퓨터를 도킹 스테이션에서 제거
+
+**표 35: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Administrators, Power Users</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+Administrators</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**컴퓨터를 도킹 스테이션에서 제거** 사용자 권한은 휴대용 컴퓨터의 사용자가 **시작** 메뉴에서 **컴퓨터 도킹 해제**를 클릭하여 컴퓨터를 도킹 해제할 수 있도록 합니다. 이 사용자 권한이 있는 사용자는 도킹 스테이션에서 부팅된 휴대용 컴퓨터를 제거할 수 있습니다. 이 사용자 권한에 대한 기본 보안 그룹은 레거시 클라이언트 및 엔터프라이즈 클라이언트 환경에 충분합니다. 그러나 고급 보안 환경에서는 이 사용자 권한이 **Administrators** 그룹에만 적용되도록 구성합니다.
+### 프로세스 수준 토큰 대체
+
+**표 36: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+LOCAL SERVICE, NETWORK SERVICE</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+LOCAL SERVICE, NETWORK SERVICE</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**프로세스 수준 토큰 대체** 사용자 권한은 상위 프로세스에서 하위 프로세스와 연관된 액세스 토큰을 대체할 수 있도록 합니다. 이 사용자 권한에 대한 기본 보안 그룹은 레거시 클라이언트 및 엔터프라이즈 클라이언트 환경에 충분합니다. 그러나 고급 보안 환경에서는 이 사용자 권한이 기본 **LOCAL SERVICE** 및 **NETWORK SERVICE** 그룹에만 적용되도록 구성합니다.
+### 파일 및 디렉터리 복원
+
+**표 37: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Administrators 및 Backup Operators</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+Administrators</td>
+<td style="border:1px solid black;">
+Administrators</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**파일 및 디렉터리 복원** 사용자 권한은 백업된 파일 및 디렉터리를 복원할 때 파일, 디렉터리, 레지스트리 및 기타 영구 개체 권한을 무시할 수 있는 사용자를 결정합니다. 또한 올바른 보안 사용자를 개체의 소유자로 설정할 수 있는 사용자를 결정합니다. 엔터프라이즈 또는 고급 보안 환경에서는 **Administrators** 그룹만 파일 및 디렉터리를 복원할 수 있는 권한을 가져야 합니다. 매우 중요한 서버 및 도메인 컨트롤러에 대한 파일 복원 작업은 일반적으로 관리자나 특별히 위임된 보안 그룹이 수행합니다.
+### 시스템 종료
+
+**표 38: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Backup Operators, Power Users, Administrators</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+Administrators</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**시스템 종료** 사용자 권한은 **시스템 종료** 명령을 사용하여 운영 체제를 종료할 수 있는 로컬 로그온 사용자를 결정합니다. 이 사용자 권한을 잘못 사용하면 DoS 공격을 받게 될 수 있습니다. 도메인 컨트롤러를 종료할 수 있는 권한은 매우 적은 수의 신뢰할 수 있는 관리자에게만 부여해야 합니다. 시스템을 종료하려면 서버에 로그온할 수 있는 권한이 필요하기는 하지만 도메인 컨트롤러를 종료할 수 있는 권한을 부여할 계정 및 그룹을 결정할 때는 매우 신중해야 합니다. 고급 보안 환경에서는 **Administrators**에게만 **시스템 종료** 사용자 권한을 부여해야 합니다.
+### 디렉터리 서비스 데이터 동기화
+
+**표 39: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+모든 보안 그룹 및 계정 해지</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**디렉터리 서비스 데이터 동기화** 사용자 권한은 프로세스에서 개체 및 속성의 보호 설정에 관계 없이 디렉터리의 모든 개체 및 속성을 읽을 수 있도록 합니다 LDAP Dirsync(디렉터리 동기화) 서비스를 사용하려면 이 권한이 필요합니다. 기본 설정에서는 계정을 지정하지 않지만 고급 보안 환경에서는 이 사용자 권한을 **모든 보안 그룹 및 계정 해지**로 구성합니다.
+### 파일 또는 다른 개체의 소유권 가져오기
+
+**표 40: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Administrators</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+Administrators</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**파일 또는 다른 개체의 소유권 가져오기** 사용자 권한은 사용자가 Active Directory 개체, NTFS 파일 시스템(NTFS) 파일 및 폴더, 프린터, 레지스트리 키, 서비스, 프로세스 및 스레드를 비롯한 시스템의 보안 개체에 대한 소유권을 가질 수 있도록 합니다. 로컬 **Administrators** 그룹에게만 **파일 또는 다른 개체의 소유권 가져오기** 사용자 권한을 부여해야 합니다.
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+<span id="XSLTsection129121120120"></span>
+보안 옵션
+---------
+
+그룹 정책의 보안 옵션 섹션에서는 데이터의 디지털 서명, 관리자 및 게스트 계정 이름, 플로피 디스크 드라이브 및 CD - ROM 드라이브 액세스, 드라이버 설치 동작 및 로그온 프롬프트와 같은 컴퓨터의 보안 설정을 구성할 수 있습니다.
+
+Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치에서 보안 옵션 설정을 구성할 수 있습니다.
+
+컴퓨터 구성\\Windows 설정\\보안 설정\\로컬 정책\\보안 옵션
+
+모든 유형의 시스템에 모든 보안 그룹이 있는 것은 아닙니다. 또한 보안 그룹 SID는 기업 내의 도메인 사이에 고유합니다. 따라서 그룹 정책의 보안 옵션 영역은 대상 그룹이 있는 시스템에서 수동으로 설정해야 합니다. 여기에서는 이 MSBP용 설명서에 정의된 세 가지 환경에 대해 지정된 보안 옵션을 자세히 설명합니다. 이 섹션의 지정된 설정에 대한 요약은 Excel 스프레드시트로 제공되는 Windows Server 2003 Security Guide Settings를 참조하십시오. 이 섹션에서 설명하는 기본 설정과 각 설정에 대한 자세한 내용은 다음 위치에서 함께 제공되는 설명서인 Threats and Countermeasures: Security Settings in Windows Server 2003 and Windows XP를 참조하십시오. [http://go.microsoft.com/fwlink/?LinkId=15159](http://go.microsoft.com/fwlink/?linkid=15159) ![](images/Dd547909.tous(ko-kr,TechNet.10).gif).
+### 계정: Guest 계정 상태
+
+**표 41: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**계정: Guest 계정 상태** 보안 옵션 설정은 Guest 계정의 활성화/비활성화 여부를 결정합니다. 이 계정은 권한이 없는 네트워크 사용자가 **Guest**로 로그인하여 시스템에 액세스할 수 있도록 합니다. 따라서 이 보안 옵션 설정은 세 가지 환경 모두에서 **사용 안 함**으로 구성합니다.
+### 계정: 콘솔 로그온 시 로컬 계정에서 빈 암호 사용 제한
+
+**표 42: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**계정: 콘솔 로그온 시 로컬 계정에서 빈 암호 사용 제한** 보안 옵션 설정은 암호로 보호되지 않는 로컬 계정을 사용하여 실제 컴퓨터 콘솔이 아닌 위치에서 로그온할 수 있는지 여부를 결정합니다. 이 설정을 사용하면 암호를 사용하는 로컬 계정이 원격 클라이언트에서 네트워크에 로그온하지 못하게 되고, 암호로 보호되지 않는 로컬 계정은 실제로 컴퓨터의 키보드를 통해서만 로그온할 수 있게 됩니다. 따라서 세 가지 환경 모두에서 이 보안 대책에 기본값을 적용합니다.
+### 감사: 글로벌 시스템 개체에 대한 액세스 감사
+
+**표 43: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**감사: 글로벌 시스템 개체에 대한 액세스 감사** 보안 옵션 설정은 글로벌 시스템 개체에 대한 액세스를 감사할지 여부를 결정합니다. **감사: 글로벌 시스템 개체에 대한 액세스 감사** 설정과 **개체 액세스 감사** 감사 정책 설정이 모두 사용되면 많은 양의 감사 이벤트가 생성됩니다. 이 설정은 이 설명서에 정의된 세 가지 환경 모두에서 기본값으로 구성합니다.
+
+**참고:** 이 보안 옵션 설정의 구성에 대한 변경 내용은 Windows Server 2003을 다시 시작해야만 적용됩니다.
+### 감사: 백업 및 복원 권한 사용을 감사
+
+**표 44: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**감사: 백업 및 복원 권한 사용을 감사** 보안 옵션 설정은 **권한 사용 감사** 정책 설정이 적용된 경우 **백업 및 복원**을 포함한 모든 사용자 권한 사용을 감사할지 여부를 결정합니다. 이 정책을 사용하면 많은 양의 보안 이벤트가 생성되어 서버 응답 속도가 느려지고 보안 이벤트 로그에 별로 중요하지 않은 이벤트가 매우 많이 기록될 수 있습니다. 따라서 이 설정은 세 가지 환경 모두에서 기본값으로 구성합니다.
+
+**참고:** 이 보안 옵션 설정의 구성에 대한 변경 내용은 Windows Server 2003을 다시 시작해야만 적용됩니다.
+### 감사: 보안 감사를 로그할 수 없는 경우 즉시 시스템 종료
+
+**표 45: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**감사: 보안 감사를 로그할 수 없는 경우 즉시 시스템 종료** 보안 옵션 설정은 보안 이벤트를 로그할 수 없는 경우 즉시 시스템을 종료할지 여부를 결정합니다. 레거시 클라이언트 및 엔터프라이즈 클라이언트 환경에서 이 설정을 사용하려면 관리 작업의 오버헤드가 너무 커지므로 그룹 정책에서는 **보안 감사를 로그할 수 없는 경우 즉시 시스템 종료** 설정을 **사용 안 함**으로 구성합니다. 그러나 고급 보안 환경에서는 관리자가 특별히 선택하지 않은 경우 보안 이벤트 로그에서 이벤트를 삭제하지 못하도록 하기 위해 추가로 필요한 이 관리 오버헤드를 허용할 수 있으므로 이 설정을 사용합니다.
+### 장치: 로그온할 필요 없이 도킹 해제 허용
+
+**표 46: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**장치: 로그온할 필요 없이 도킹 해제 허용** 보안 옵션 설정은 사용자가 시스템에 로그온하지 않고도 휴대용 컴퓨터를 도킹 해제할 수 있는지 여부를 결정합니다. 이 설정을 사용하면 로그온하지 않고도 외부 하드웨어 꺼내기 단추를 사용하여 컴퓨터를 도킹 해제할 수 있습니다. 이 설정을 사용하지 않으면 사용자는 **컴퓨터를 도킹 스테이션에서 제거** 사용자 권한(이 설명서에서는 정의되지 않음)이 있어야만 시스템에 로그온하지 않고도 컴퓨터를 도킹 해제할 수 있습니다.
+### 장치: 이동식 미디어 포맷 및 꺼내기 허용
+
+**표 47: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Administrators</td>
+<td style="border:1px solid black;">
+Administrators</td>
+<td style="border:1px solid black;">
+Administrators</td>
+<td style="border:1px solid black;">
+Administrators</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**장치: 이동식 미디어 포맷 및 꺼내기 허용** 보안 옵션 설정은 이동식 미디어를 포맷하고 꺼낼 수 있는 사용자를 결정합니다. 서버에서는 관리자만이 이동식 미디어를 꺼낼 수 있어야 합니다. 따라서 보안 대책으로 이 설정을 사용할 때는 이 설명서에 정의된 세 가지 환경 모두에서 기본값을 사용하는 것이 좋습니다.
+### 장치: 사용자가 프린터 드라이버를 설치할 수 없게 함
+
+**표 48: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+컴퓨터에서 네트워크 프린터로 인쇄하려면 컴퓨터에 해당 네트워크 프린터용 드라이버가 설치되어 있어야 합니다. **장치: 사용자가 프린터 드라이버를 설치할 수 없게 함** 보안 옵션 설정을 사용하면 **Administrators** 또는 **Power Users** 그룹에 속하는 사용자나 **Server Operator** 권한이 있는 사용자만이 네트워크 프린터를 추가할 때 프린터 드라이버를 설치할 수 있습니다. 이 설정을 사용하지 않으면 모든 사용자가 네트워크 프린터를 추가할 때 프린터 드라이버를 설치할 수 있습니다. 보안 대책으로 이 설정을 사용할 때는 이 설명서에 정의된 세 가지 환경 모두에서 기본값을 사용하는 것이 좋습니다.
+### 장치: 로컬로 로그온한 사용자만이 CD?ROM에 액세스 가능
+
+**표 49: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**장치: 로컬로 로그온한 사용자만이 CD?ROM에 액세스 가능** 보안 옵션 설정은 로컬 사용자와 원격 사용자가 모두 동시에 CD?ROM에 액세스할 수 있는지 여부를 결정합니다. 이 설정을 사용하면 대화형으로 로그온한 사용자만 이동식 CD?ROM 미디어에 액세스할 수 있습니다. 이 설정을 사용하는데 대화형으로 로그온한 사용자가 없으면 네트워크를 통해 CD?ROM에 액세스할 수 있습니다. 레거시 클라이언트 및 엔터프라이즈 클라이언트 환경에서 이 값은 **정의되지 않음**으로 설정합니다. 고급 보안 환경에서는 이 값을 **사용**으로 설정합니다.
+### 장치: 로컬로 로그온한 사용자만이 플로피 드라이브에 액세스 가능
+
+**표 50: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**장치: 로컬로 로그온한 사용자만이 플로피 드라이브에 액세스 가능** 보안 옵션 설정은 로컬 사용자와 원격 사용자가 모두 동시에 이동식 플로피 미디어에 액세스할 수 있는지 여부를 결정합니다. 이 설정을 사용하면 대화형으로 로그온한 사용자만 플로피 미디어에 액세스할 수 있습니다. 이 설정을 사용하는데 대화형으로 로그온한 사용자가 없으면 네트워크를 통해 플로피 미디어에 액세스할 수 있습니다. **레거시 클라이언트** 및 **엔터프라이즈 클라이언트** 환경에서 이 값은 **사용 안 함**으로 설정합니다. 고급 보안 환경에서는 이 값을 **사용**으로 설정합니다.
+### 장치: 서명되지 않은 드라이버 설치 동작
+
+**표 51: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+경고하면서 설치 허용함</td>
+<td style="border:1px solid black;">
+경고하면서 설치 허용함</td>
+<td style="border:1px solid black;">
+경고하면서 설치 허용함</td>
+<td style="border:1px solid black;">
+경고하면서 설치 허용함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**장치: 서명되지 않은 드라이버 설치 동작** 보안 옵션 설정은 설치 API를 사용하여 WHQL(Windows Hardware Quality Lab)에서 승인하고 서명하지 않은 장치 드라이버를 설치하려고 할 때 일어나는 동작을 결정합니다. 이 옵션은 서명되지 않은 드라이버를 설치하지 못하도록 하거나, 서명되지 않은 드라이버를 설치하려고 했다는 경고를 관리자에게 보냅니다. 이렇게 하면 Windows Server 2003에서 실행할 수 있는지가 인증되지 않은 드라이버는 설치할 수 없게 됩니다. 이 설정을 **경고하면서 설치 허용함** 값으로 구성하면 서명되지 않은 드라이버를 설치할 때 자동 설치 스크립트에서 문제가 발생할 수 있습니다.
+### 도메인 컨트롤러: Server Operator가 작업을 스케줄하도록 허용
+
+**표 52: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**도메인 컨트롤러: Server Operator가 작업을 스케줄하도록 허용** 보안 옵션 설정은 Server Operator가 AT 스케줄 기능을 사용하여 작업을 제출할 수 있는지 여부를 결정합니다. 이 설정은 이 설명서에 정의된 세 가지 환경 모두에서 사용하지 않도록 구성합니다. 대부분의 조직에서 이 설정을 사용하지 않을 경우의 영향은 작아야 합니다. **Server Operators** 그룹의 사용자를 포함하여 사용자는 여전히 작업 스케줄러 마법사를 사용하여 작업을 만들 수 있지만 이 작업은 해당 사용자가 작업을 설정할 때 인증한 계정 컨텍스트에서 실행됩니다.
+
+**참고: AT 서비스 계정**을 수정하여 LOCAL SYSTEM 계정이 아닌 다른 계정을 선택할 수 있습니다. 계정을 변경하려면 **시스템 도구**를 열고 **예약된 작업**을 클릭한 다음 **보조프로그램** 폴더를 클릭합니다. 그런 다음 **고급** 메뉴에서 **AT 서비스 계정**을 클릭합니다.
+### 도메인 컨트롤러: LDAP 서버 서명 필요
+
+**표 53: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+서명 필요</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**도메인 컨트롤러: LDAP 서버 서명 필요** 보안 옵션 설정은 LDAP 서버에서 LDAP 클라이언트와 협상하는 데 서명이 필요한지 여부를 결정합니다. 서명되지 않고 암호화되지도 않은 네트워크 트래픽은 끼어들기(man?in?the?middle) 공격을 받기가 쉽습니다. 이 공격 유형에서 침입자는 서버와 클라이언트 사이의 패킷을 캡처한 후 수정하여 클라이언트에 전달합니다. LDAP 서버의 경우 공격자는 클라이언트가 LDAP 디렉터리의 잘못된 레코드를 기준으로 의사 결정을 하도록 만들 수 있습니다. 모든 도메인 컨트롤러가 Windows 2000 이상을 설정하는 경우에는 이 보안 옵션을 **서명 필요**로 설정합니다. 또는 이 설정을 **정의되지 않음** 상태로 둡니다. 고급 보안 환경에서는 모든 컴퓨터가 Windows 2000이나 Windows Server 2003을 실행하므로 이 설정을 **서명 필요**로 구성합니다.
+### 도메인 컨트롤러: 컴퓨터 계정 암호 변경 거부
+
+**표 54: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**도메인 컨트롤러: 컴퓨터 계정 암호 변경 거부** 보안 옵션 설정은 도메인 컨트롤러에서 구성원 컴퓨터의 컴퓨터 계정 암호 변경 요청을 거부할 것인지 여부를 결정합니다. 도메인의 모든 도메인 컨트롤러에서 이 설정을 사용하면 도메인 구성원의 컴퓨터 계정 암호를 변경할 수 없게 되므로 공격을 받기가 쉽습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 보안 옵션의 값을 **사용 안 함**으로 설정합니다.
+### 도메인 구성원: 보안 채널 데이터를 디지털 암호화 또는 서명(항상)
+
+**표 55: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**도메인 구성원: 보안 채널 데이터를 디지털 암호화 또는 서명(항상)** 보안 옵션 설정은 도메인 구성원이 시작한 모든 보안 채널 트래픽을 서명하거나 암호화해야 하는지 여부를 결정합니다. 시스템이 보안 채널 데이터를 항상 암호화하거나 서명하도록 설정된 경우에는 모든 보안 채널 데이터가 서명되고 암호화되므로 모든 보안 채널 트래픽을 서명하거나 암호화할 수 없는 도메인 컨트롤러에서는 보안 채널을 구성할 수 없습니다. 레거시 클라이언트 및 엔터프라이즈 클라이언트 환경에서는 이 보안 옵션을 **사용 안 함**으로 구성하고 고급 보안 환경에서는 **사용**으로 구성합니다.
+
+**참고:** 구성원 워크스테이션 및 서버에서 이 보안 옵션 설정을 사용하려면 구성원의 도메인을 구성하는 모든 도메인 컨트롤러에서 Windows NT 4.0 서비스 팩 6a 이상을 사용해야 합니다. Windows 98 Second Edition 클라이언트에서는 dsclient가 설치되어 있지 않으면 이 옵션을 사용할 수 없습니다.
+### 도메인 구성원: 보안 채널: 보안 채널 데이터를 디지털 암호화(가능하면)
+
+**표 56: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**도메인 구성원: 보안 채널: 보안 채널 데이터를 디지털 암호화(가능하면)** 보안 옵션 설정은 도메인 구성원이 해당 구성원에서 시작한 모든 보안 채널 트래픽에 대한 암호화 협상을 시도할 수 있는지 여부를 결정합니다. 이 설정을 사용하면 도메인 구성원은 모든 보안 채널 트래픽의 암호화를 요청하게 됩니다. 이 설정을 사용하지 않으면 도메인 구성원은 보안 채널 암호화를 협상할 수 없게 됩니다. 따라서 이 설정은 이 설명서에 정의된 세 가지 환경 모두에서 **사용**으로 구성합니다.
+### 도메인 구성원: 보안 채널: 보안 채널 데이터를 디지털 서명(가능하면)
+
+**표 57: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**도메인 구성원: 보안 채널: 보안 채널 데이터를 디지털 서명(가능하면)** 보안 옵션 설정은 도메인 구성원이 해당 구성원에서 시작한 모든 보안 채널 트래픽에 대한 서명 협상을 시도할 수 있는지 여부를 결정합니다. 서명은 라우팅 과정에서 해당 데이터를 캡처한 사람이 트래픽을 수정하지 못하도록 보호합니다. 이 설정은 이 설명서에 정의된 세 가지 환경 모두에서 **사용**으로 구성합니다.
+### 도메인 구성원: 컴퓨터 계정 암호 변경 사용 안 함
+
+**표 58: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**도메인 구성원: 컴퓨터 계정 암호 변경 사용 안 함** 보안 옵션 설정은 도메인 구성원이 정기적으로 해당 컴퓨터의 계정 암호를 변경할 수 있는지 여부를 결정합니다. 이 설정을 사용하면 도메인 구성원이 컴퓨터 계정 암호를 변경하지 못하게 됩니다. 이 설정을 사용하지 않으면 도메인 구성원이 컴퓨터 계정 암호를 변경할 수 있습니다. 이 때 변경 간격으로는 **도메인 구성원: 컴퓨터 계정 암호 최대 사용 기간** 설정에 지정된 값이 사용됩니다(기본값: 30일). 더 이상 계정 암호를 자동으로 변경할 수 없는 컴퓨터는 공격자가 해당 시스템의 도메인 계정을 알아내기 쉽게 됩니다. 따라서 이 보안 대책은 이 설명서에 정의된 세 가지 환경 모두에서 **사용 안 함**으로 설정합니다.
+### 도메인 구성원: 컴퓨터 계정 암호 최대 사용 기간
+
+**표 59: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+30일</td>
+<td style="border:1px solid black;">
+30일</td>
+<td style="border:1px solid black;">
+30일</td>
+<td style="border:1px solid black;">
+30일</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**도메인 구성원: 컴퓨터 계정 암호 최대 사용 기간** 보안 옵션 설정은 컴퓨터 계정 암호를 사용할 수 있는 최대 기간을 결정합니다. 이 설정은 Windows 2000을 실행하는 컴퓨터에도 적용되지만 이러한 컴퓨터에서 보안 구성 관리자 도구를 통해 이 설정을 사용할 수는 없습니다. 기본적으로 도메인 구성원은 도메인 암호를 30일마다 자동으로 변경합니다. 이 간격을 크게 늘리거나 컴퓨터에서 더 이상 암호를 변경하지 못하도록 간격을 0으로 설정하면 공격자가 컴퓨터 계정 중 하나에 대해 Brute Forth 암호 추측 공격을 실행할 시간이 더 많아지게 됩니다. 따라서 이 설정은 이 설명서에 정의된 세 가지 환경 모두에서 **30일**로 구성합니다.
+### 도메인 구성원: 고급 세션 키 요청(Windows 2000 또는 그 이상)
+
+**표 60: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**도메인 구성원: 고급 세션 키 요청(Windows 2000 또는 그 이상)** 보안 옵션 설정은 암호화된 보안 채널 데이터에 128비트 키 강도가 필요한지 여부를 결정합니다. 이 설정을 사용하면 128비트 암호화 보안 채널을 구성할 수 있습니다. 이 설정을 사용하지 않을 경우 도메인 구성원은 도메인 컨트롤러와 키 강도를 협상해야 합니다. Windows 2000에서 도메인 컨트롤러와 구성원 컴퓨터 사이에 보안 채널 통신을 구성하는 데 사용되는 세션 키는 이전의 Microsoft 운영 체제보다 훨씬 더 강력해졌습니다. 이 설명서에서 설명하는 세 가지 보안 환경에는 Windows 2000 이상의 도메인 컨트롤러가 포함되어 있으므로 세 가지 환경 모두에서 이 설정을 **사용**으로 구성합니다.
+
+**참고:** 이 설정이 사용된 Windows 2000 실행 컴퓨터는 Windows NT 4.0 도메인에 가입할 수 없습니다.
+### 대화형 로그온: 마지막 사용자 이름 표시 안 함
+
+**표 61: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**대화형 로그온: 마지막 사용자 이름 표시 안 함** 보안 옵션 설정은 컴퓨터에 마지막으로 로그온한 사용자의 이름을 Windows 로그온 화면에 표시할지 여부를 결정합니다. 이 설정을 사용하면 마지막으로 로그온한 사용자의 이름이 **Windows 로그온** 대화 상자에 표시되지 않습니다. **대화형 로그온: 마지막 사용자 이름 표시 안 함** 설정은 이 설명서에 정의된 세 가지 환경의 기준 서버 정책에서 사용하도록 구성합니다.
+### 대화형 로그온: \[CTRL+ALT+DEL\]을 사용할 필요 없음
+
+**표 62: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**대화형 로그온: \[CTRL+ALT+DEL\]을 사용할 필요 없음** 보안 옵션 설정은 사용자가 로그온하기 전에 CTRL+ALT+DEL을 눌러야 하는지 여부를 결정합니다. 이 설정을 사용하지 않는 경우 Windows 로그온에 스마트 카드를 사용하고 있지 않으면 모든 사용자가 Windows에 로그온하기 전에 CTRL+ALT+DEL을 눌러야 합니다. 공격자가 트로이 목마 프로그램을 통해 사용자 암호를 가로챌 수 있는 가능성을 줄이기 위해 이 설정은 이 설명서에 정의된 세 가지 환경 모두에서 **사용 안 함**으로 설정합니다.
+### 대화형 로그온: 로그온 시도하는 사용자에 대한 메시지 텍스트
+
+**표 63: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">구성원 서버 기본값</td>
+<td style="border:1px solid black;">레거시 클라이언트</td>
+<td style="border:1px solid black;">엔터프라이즈 클라이언트</td>
+<td style="border:1px solid black;">고급 보안</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+이 시스템은 권한 있는 사용자만 사용할 수 있습니다. 무단 액세스를 시도하면 기소 사유가 됩니다. 권한이 없으면 즉시 액세스를 중지하십시오! [확인]을 클릭하면 이 정보를 암묵적으로 승낙하는 것이 됩니다.</td>
+<td style="border:1px solid black;">
+이 시스템은 권한 있는 사용자만 사용할 수 있습니다. 무단 액세스를 시도하면 기소 사유가 됩니다. 권한이 없으면 즉시 액세스를 중지하십시오! [확인]을 클릭하면 이 정보를 암묵적으로 승낙하는 것이 됩니다.</td>
+<td style="border:1px solid black;">
+이 시스템은 권한 있는 사용자만 사용할 수 있습니다. 무단 액세스를 시도하면 기소 사유가 됩니다. 권한이 없으면 즉시 액세스를 중지하십시오! [확인]을 클릭하면 이 정보를 암묵적으로 승낙하는 것이 됩니다.</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**대화형 로그온: 로그온 시도하는 사용자에 대한 메시지 텍스트** 보안 옵션 설정은 로그온할 때 사용자에게 표시되는 텍스트 메시지를 지정합니다. 이 텍스트는 종종 법적인 이유로 사용됩니다. 예를 들어, 사용자에게 회사 정보를 올바르지 않은 용도로 사용할 경우 생기는 문제에 대해 경고하거나 사용자의 동작이 감사될 수 있음을 경고하기 위해 사용됩니다. 세 가지 환경 모두에서 메시지 텍스트 설정을 사용하는 것이 좋습니다.
+
+**참고:** 표시되는 모든 경고는 먼저 조직의 법무 담당자와 인사 담당자의 승인을 받아야 합니다. 또한 **대화형 로그온: 로그온 시도하는 사용자에 대한 메시지 텍스트** 및 **대화형 로그온: 로그온 시도하는 사용자에 대한 메시지 제목** 설정이 모두 활성화되어야만 둘 중 하나가 올바르게 작동합니다.
+### 대화형 로그온: 로그온 시도하는 사용자에 대한 메시지 제목
+
+**표 64: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+올바른 인증 없이 계속 진행하면 시스템에 대한 공격으로 간주합니다.</td>
+<td style="border:1px solid black;">
+올바른 인증 없이 계속 진행하면 시스템에 대한 공격으로 간주합니다.</td>
+<td style="border:1px solid black;">
+올바른 인증 없이 계속 진행하면 시스템에 대한 공격으로 간주합니다.</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**대화형 로그온: 로그온 시도하는 사용자에 대한 메시지 제목** 보안 옵션 설정을 사용하면 사용자가 시스템에 로그온할 때 표시되는 대화형 로그온 창의 제목 표시줄에 표시할 제목을 지정할 수 있습니다. 이 설정을 사용하는 이유는 **로그온 시도하는 사용자에 대한 메시지 텍스트** 설정을 사용하는 이유와 같습니다. 이 설정을 사용하지 않는 조직은 네트워크 표면을 공격하는 불법 침입자에게 법적 규제 없이 공격할 수 있는 대상이 되기 쉽습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 설정을 사용합니다.
+
+**참고:** 표시되는 모든 경고는 먼저 조직의 법무 담당자와 인사 담당자의 승인을 받아야 합니다. 또한 **대화형 로그온: 로그온 시도하는 사용자에 대한 메시지 텍스트** 및 **대화형 로그온: 로그온 시도하는 사용자에 대한 메시지 제목** 설정이 모두 활성화되어야만 둘 중 하나가 올바르게 작동합니다.
+### 대화형 로그온: 캐시할 로그온의 횟수(도메인 컨트롤러가 사용 불가능할 경우)
+
+**표 65: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+10</td>
+<td style="border:1px solid black;">
+1</td>
+<td style="border:1px solid black;">
+0</td>
+<td style="border:1px solid black;">
+0</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**대화형 로그온: 캐시할 로그온의 횟수(도메인 컨트롤러가 사용 불가능할 경우** 보안 옵션 설정은 사용자가 캐시된 계정 정보를 사용하여 Windows 도메인에 로그온할 수 있는지 여부를 결정합니다. 다음에 로그온할 때 도메인 컨트롤러에 접속할 수 없어도 계속 로그온할 수 있도록 도메인 계정에 대한 로그온 정보를 로컬로 캐시할 수 있습니다. 이 설정은 로그온 정보를 로컬로 캐시할 수 있는 대상 사용자의 수를 결정합니다. 이 값을 **0**으로 구성하면 로그온 캐시 기능을 사용할 수 없습니다. 세 가지 환경 모두에서 이 값을 설정하는 것이 좋습니다.
+### 대화형 로그온: 암호 만료 전에 사용자에게 암호를 변경하도록 프롬프트
+
+**표 66: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+14일</td>
+<td style="border:1px solid black;">
+14일</td>
+<td style="border:1px solid black;">
+14일</td>
+<td style="border:1px solid black;">
+14일</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**대화형 로그온: 암호 만료 전에 사용자에게 암호를 변경하도록 프롬프트** 보안 옵션 설정은 암호가 만료되기 몇 일 전에 사용자에게 미리 경고할 것인지를 결정합니다. 이 설명서의 계정 정책 섹션에서는 사용자 암호가 정기적으로 만료되도록 구성할 것을 권장합니다. 암호가 만료되기 전에 사용자에게 알림을 보내지 않으면 사용자는 암호가 만료될 때까지도 이를 알지 못할 수 있습니다. 이 경우 네트워크에 로컬로 액세스하는 사용자에 대해 혼동이 생기거나 전화 접속 또는 VPN(가상 사설망) 연결을 통해 조직의 네트워크에 액세스하는 것이 불가능하게 될 수 있습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 설정을 기본 설정값인 **14일**로 구성합니다.
+### 대화형 로그온: 워크스테이션 잠금 해제를 위해 도메인 컨트롤러 인증 필요
+
+**표 67: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+도메인 계정의 경우, **대화형 로그온: 워크스테이션 잠금 해제를 위해 도메인 컨트롤러 인증 필요** 보안 옵션 설정은 컴퓨터의 잠금을 해제하려면 도메인 컨트롤러에 접속해야 하는지 여부를 결정합니다. 이 설정은 **대화형 로그온: 캐시할 로그온의 횟수(도메인 컨트롤러가 사용 불가능할 경우)** 설정과 비슷한 보안 문제를 다룹니다. 사용자는 서버 잠금 해제에 대한 인증을 받지 않고도 기존 암호를 사용하여 서버의 네트워크 케이블에 대한 연결을 끊고 서버의 잠금을 해제할 수 있습니다. 이를 방지하기 위해 이 설명서에 정의된 세 가지 환경에서는 이 설정을 **사용**으로 구성합니다.
+
+**중요:** 이 설정은 Windows 2000 이상을 실행하는 컴퓨터에 적용되지만 Windows 2000을 실행하는 컴퓨터에서 보안 구성 관리자 도구를 통해 이 설정을 사용할 수는 없고 Windows Server 2003을 실행하는 컴퓨터에서만 사용할 수 있습니다.
+### 대화형 로그온: 스마트 카드 제거 동작
+
+**표 68: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+작업 없음</td>
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+워크스테이션 잠금</td>
+<td style="border:1px solid black;">
+워크스테이션 잠금</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**대화형 로그온: 스마트 카드 제거 동작** 보안 옵션 설정은 로그온한 사용자의 스마트 카드가 스마트 카드 판독기에서 제거될 때 일어나는 동작을 결정합니다. 이 옵션을 **워크스테이션 잠금**으로 설정하면 스마트 카드가 제거될 때 워크스테이션이 잠기므로 사용자가 스마트 카드를 가지고 자리를 떠나면 워크스테이션이 자동으로 잠깁니다. 이 옵션을 **강제 로그오프**로 설정하면 스마트 카드가 제거될 때 자동으로 사용자가 로그오프됩니다.
+### Microsoft 네트워크 클라이언트: 디지털 서명 통신(항상)
+
+**표 69: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Microsoft 네트워크 클라이언트: 디지털 서명 통신(항상)** 보안 옵션 설정은 SMB 클라이언트 구성 요소에서 패킷 서명을 필요로 하는지 여부를 결정합니다. 이 설정을 사용하면 Microsoft 네트워크 클라이언트는 Microsoft 네트워크 서버에서 SMB 패킷 서명에 동의하지 않는 한 서버와 통신할 수 없습니다. 레거시 클라이언트를 포함하는 혼합 환경에서는 레거시 클라이언트가 도메인 컨트롤러에 대해 인증하거나 액세스 권한을 얻을 수 없으므로 이 옵션을 **사용 안 함**으로 설정합니다. 그러나 이 설정은 Windows 2000 이상의 환경에서 사용할 수 있습니다. 이 설명서에 정의된 엔터프라이즈 클라이언트 및 고급 보안 환경에는 Windows 2000 이상을 실행하는 시스템만 포함되어 있으므로 디지털 통신 서명을 지원합니다. 따라서 이 환경의 시스템 간 통신 보안을 향상시키려면 엔터프라이즈 클라이언트 및 고급 보안 환경에서 이 설정을 **사용**으로 구성합니다.
+### Microsoft 네트워크 클라이언트: 디지털 서명 통신(서버에서 동의한 경우)
+
+**표 70: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Microsoft 네트워크 클라이언트: 디지털 서명 통신(서버에서 동의한 경우)** 보안 옵션 설정은 SMB 클라이언트가 SMB 패킷 서명에 대한 협상을 시도할지 여부를 결정합니다. Windows 네트워크에서 디지털 서명을 구현하면 세션 하이재킹(session hijacking)을 방지할 수 있습니다. 이 설정을 사용하면 구성원 서버의 Microsoft 네트워크 클라이언트는 통신 중인 서버에서 디지털 서명 통신을 수락하는 경우에만 서명을 요청하게 됩니다. 이 설명서에 정의된 세 가지 환경에서는 이 설정을 **사용**으로 구성합니다.
+### Microsoft 네트워크 클라이언트: 타사 SMB 서버에 암호화되지 않은 암호를 보냄
+
+**표 71: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Microsoft 네트워크 클라이언트: 타사 SMB 서버에 암호화되지 않은 암호를 보냄** 보안 옵션 설정을 사용하면 인증 도중 암호 암호화를 지원하지 않는 Microsoft 이외의 타사 SMB 서버에 SMB 리디렉터가 일반 텍스트 암호를 보낼 수 있습니다. 비밀 암호를 유지해야 하는 것보다 응용 프로그램의 요구 사항이 우선적인 경우가 아니면 이 설명서에 정의된 세 가지 환경에서는 이 설정을 기본값인 **사용 안 함**으로 구성합니다.
+### Microsoft 네트워크 서버: 세션 연결을 중단하기 전에 필요한 유휴 시간
+
+**표 72: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+15분</td>
+<td style="border:1px solid black;">
+15분</td>
+<td style="border:1px solid black;">
+15분</td>
+<td style="border:1px solid black;">
+15분</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Microsoft 네트워크 서버: 세션 연결을 중단하기 전에 필요한 유휴 시간** 보안 옵션 설정은 SMB 세션에서 아무런 작업을 수행하지 않는 상태로 세션을 유지할 수 있는 연속 유휴 시간을 결정합니다. 관리자는 이 정책을 사용하여 컴퓨터가 비활성 SMB 세션을 중단하는 시점을 제어할 수 있습니다. 클라이언트 활동이 다시 시작되면 세션이 자동으로 다시 설정됩니다. 이 설명서에 정의된 세 가지 환경에서는 이 설정을 **15분**으로 구성합니다.
+### Microsoft 네트워크 서버: 디지털 서명 통신(항상)
+
+**표 73: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Microsoft 네트워크 서버: 디지털 서명 통신(항상)** 보안 옵션 설정은 SMB 클라이언트와 더 통신할 수 있도록 허용하기 전에 SMB 클라이언트 구성 요소에서 패킷 서명을 필요로 하는지 여부를 결정합니다. Windows 2000 Server, Windows 2000 Professional, Windows Server 2003 및 Windows XP Professional에는 상호 인증을 지원하는 SMB 버전이 포함되어 있습니다. 따라서 세션 하이재킹(session hijacking) 공격을 차단하고 메시지 인증을 지원함으로써 끼어들기(man?in?the?middle) 공격을 방지합니다. SMB 서명에서는 각 SMB 패킷에 디지털 서명을 포함시켜 클라이언트와 서버가 모두 확인하도록 함으로써 이 인증 방식을 제공합니다. 컴퓨터가 서명되지 않은 모든 SMB 통신을 무시하도록 구성된 경우 레거시 응용 프로그램 및 운영 체제에서는 연결할 수 없습니다. 모든 SMB 서명을 완전히 사용할 수 없도록 설정하면 컴퓨터가 세션 하이재킹(session hijacking) 공격을 받을 수 있습니다.
+### Microsoft 네트워크 서버: 디지털 서명 통신(클라이언트에서 동의한 경우)
+
+**표 74: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Microsoft 네트워크 서버: 디지털 서명 통신(클라이언트에서 동의한 경우)** 보안 옵션 설정은 SMB 서버가 SMB 패킷 서명을 요청한 클라이언트와 서명을 협상할지 여부를 결정합니다. Windows 2000 Server, Windows 2000 Professional, Windows Server 2003 및 Windows XP Professional에는 상호 인증을 지원하는 SMB 버전이 포함되어 있습니다. 따라서 세션 하이재킹(session hijacking) 공격을 차단하고 메시지 인증을 지원함으로써 끼어들기(man?in?the?middle) 공격을 방지합니다. SMB 서명에서는 각 SMB 패킷에 디지털 서명을 포함시켜 클라이언트와 서버가 모두 확인하도록 함으로써 이 인증 방식을 제공합니다. 컴퓨터가 서명되지 않은 모든 SMB 통신을 무시하도록 구성된 경우 레거시 응용 프로그램 및 운영 체제에서는 연결할 수 없습니다. 모든 SMB 서명을 완전히 사용할 수 없도록 설정하면 컴퓨터가 세션 하이재킹(session hijacking) 공격을 받을 수 있습니다.
+### Microsoft 네트워크 서버: 로그온 시간이 만료되면 클라이언트 연결 끊기
+
+**표 75: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Microsoft 네트워크 서버: 로그온 시간이 만료되면 클라이언트 연결 끊기** 보안 옵션 설정은 사용자 계정의 유효 로그온 시간이 아닐 때 네트워크 컴퓨터에 연결된 사용자의 연결을 끊을 것인지 여부를 결정합니다. 이 설정은 SMB 구성 요소에 영향을 미칩니다. 조직에서 사용자 로그온 시간을 설정한 경우에는 이 설정을 사용하는 것이 좋습니다. 그렇지 않은 경우 사용자는 로그온 시간이 아닐 때 네트워크 리소스에 액세스할 수 없어야 합니다. 대신 허용된 시간 동안 구성된 세션에서 네트워크 리소스를 계속 사용할 수 있습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 설정을 **사용**으로 구성합니다.
+### 네트워크 액세스: SAM 계정의 익명 열거 허용 안 함
+
+**표 76: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**네트워크 액세스: SAM 계정의 익명 열거 허용 안 함** 보안 옵션 설정은 컴퓨터에 익명으로 연결할 때 부여할 추가 권한을 결정합니다. 이 설명서에 정의된 세 가지 환경에서는 이 설정을 **사용**으로 구성합니다.
+### 네트워크 액세스: SAM 계정과 공유의 익명 열거 허용 안 함
+
+**표 77: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**네트워크 액세스: SAM 계정과 공유의 익명 열거 허용 안 함** 보안 옵션 설정은SAM 계정과 공유의 익명 열거를 허용할지 여부를 결정합니다. 이 설명서에 정의된 세 가지 환경에서는 이 설정을 **사용**으로 구성합니다.
+### 네트워크 액세스: 네트워크 인증에 대한 자격 증명의 저장소나 .NET Passports 허용 안 함
+
+**표 78: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**네트워크 액세스: 네트워크 인증에 대한 자격 증명의 저장소나 .NET Passport 허용 안 함** 보안 옵션 설정은 도메인 인증을 얻은 후 나중에 사용할 수 있도록 암호, 자격 증명 또는 Microsoft .NET Passports를 **저장된 사용자 이름 및 암호** 설정으로 저장할지 여부를 결정합니다. 이 설명서에 정의된 세 가지 보안 환경에서는 이 설정을 **사용**으로 구성합니다.
+
+**참고:** 이 보안 설정을 구성할 때 변경 내용은 Windows를 다시 시작해야만 적용됩니다.
+### 네트워크 액세스: Everyone 사용 권한을 익명 사용자에게 적용
+
+**표 79: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**네트워크 액세스: Everyone 사용 권한을 익명 사용자에게 적용** 보안 옵션 설정은 컴퓨터에 익명으로 연결할 때 부여할 추가 권한을 결정합니다. 이 설정을 사용하면 익명 Windows 사용자는 도메인 계정 이름 및 네트워크 공유 열거와 같은 일부 작업을 수행할 수 있습니다. 권한이 없는 사용자는 익명으로 계정 이름 및 공유 리소스를 나열하고 이 정보를 사용하여 암호를 추측하거나 사회 공학적 공격을 수행할 수 있습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 설정을 **사용 안 함**으로 구성합니다.
+
+**참고:** 이 설정을 사용하는 도메인에서는 Windows NT 4.0 도메인 또는 도메인 컨트롤러와의 트러스트를 설정하거나 유지할 수 없습니다.
+### 네트워크 액세스: 익명으로 액세스할 수 있는 명명된 파이프
+
+**표 80: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+없음</td>
+<td style="border:1px solid black;">
+없음</td>
+<td style="border:1px solid black;">
+없음</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**네트워크 액세스: 익명으로 액세스할 수 있는 명명된 파이프** 보안 옵션 설정은 익명 액세스를 허용하는 특성과 권한을 가질 통신 세션(명명된 파이프)을 결정합니다. 엔터프라이즈 클라이언트 및 고급 보안 환경에서는 **네트워크 액세스: 익명으로 액세스할 수 있는 명명된 파이프** 설정을 **없음**으로 구성해야 합니다.
+
+**중요:** 이 설정을 사용하도록 구성해야 하는 경우에는 사용 환경의 응용 프로그램을 지원하는 데 필요한 명명된 파이프만 추가해야 합니다. 이 설정은 이 설명서에서 권장하는 모든 설정과 마찬가지로 프로덕션 환경에서 주의 깊게 테스트해야 합니다.
+### 네트워크 액세스: 원격으로 액세스할 수 있는 레지스트리 경로
+
+**표 81: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Control\ProductOptions,<br />
+System\CurrentControlSet<br />
+\Contro\Server Applications,<br />
+Software\Microsoft\Windows NT\CurrentVersion</td>
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Control\ProductOptions,<br />
+System\CurrentControlSet<br />
+\Contro\Server Applications,<br />
+Software\Microsoft\Windows NT\CurrentVersion</td>
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Control\ProductOptions,<br />
+System\CurrentControlSet<br />
+\Contro\Server Applications,<br />
+Software\Microsoft\Windows NT\CurrentVersion</td>
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Control\ProductOptions,<br />
+System\CurrentControlSet<br />
+\Contro\Server Applications,<br />
+Software\Microsoft\Windows NT\CurrentVersion</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**네트워크 액세스: 원격으로 액세스할 수 있는 레지스트리 경로** 보안 옵션 설정은 네트워크를 통해 액세스할 수 있는 레지스트리 경로를 결정합니다. 이 설명서에 정의된 세 가지 보안 환경 모두에 대해 기준 보안 템플릿의 기본 설정을 적용하는 것이 좋습니다.
+
+**참고:** 이 보안 옵션이 설정된 경우에도 권한 있는 사용자가 네트워크를 통해 레지스트리에 액세스하려면 먼저 원격 레지스트리 시스템 서비스를 시작해야 합니다.
+### 네트워크 액세스: 원격으로 액세스할 수 있는 레지스트리 경로 및 하위 경로
+
+**표 82: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Control\Print\Printers</td>
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Control\Print\Printers</td>
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Control\Print\Printers</td>
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Control\Print\Printers</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Services\Eventlog</td>
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Services\Eventlog</td>
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Services\Eventlog</td>
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Services\Eventlog</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">
+Software\Microsoft<br />
+\OLAP Server</td>
+<td style="border:1px solid black;">
+Software\Microsoft<br />
+\OLAP Server</td>
+<td style="border:1px solid black;">
+Software\Microsoft<br />
+\OLAP Server</td>
+<td style="border:1px solid black;">
+Software\Microsoft<br />
+\OLAP Server</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">
+Software\Microsoft\Windows NT<br />
+\CurrentVersion\Print</td>
+<td style="border:1px solid black;">
+Software\Microsoft\Windows NT<br />
+\CurrentVersion\Print</td>
+<td style="border:1px solid black;">
+Software\Microsoft\Windows NT<br />
+\CurrentVersion\Print</td>
+<td style="border:1px solid black;">
+Software\Microsoft\Windows NT<br />
+\CurrentVersion\Print</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">
+Software\Microsoft<br />
+\Windows NT\CurrentVersion<br />
+\Windows</td>
+<td style="border:1px solid black;">
+Software\Microsoft<br />
+\Windows NT\CurrentVersion<br />
+\Windows</td>
+<td style="border:1px solid black;">
+Software\Microsoft<br />
+\Windows NT\CurrentVersion<br />
+\Windows</td>
+<td style="border:1px solid black;">
+Software\Microsoft<br />
+\Windows NT\CurrentVersion<br />
+\Windows</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Control\ContentIndex</td>
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Control\ContentIndex</td>
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Control\ContentIndex</td>
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Control\ContentIndex</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Control\Terminal Server</td>
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Control\Terminal Server</td>
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Control\Terminal Server</td>
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Control\Terminal Server</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Control\Terminal Server\UserConfig</td>
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Control\Terminal Server\UserConfig</td>
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Control\Terminal Server\UserConfig</td>
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Control\Terminal Server\UserConfig</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Control\Terminal Server\DefaultUser<br />
+Configuration</td>
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Control\Terminal Server\DefaultUser<br />
+Configuration</td>
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Control\Terminal Server\DefaultUser<br />
+Configuration</td>
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Control\Terminal Server\DefaultUser<br />
+Configuration</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">
+Software\Microsoft\Windows NT<br />
+\CurrentVersion\Perflib</td>
+<td style="border:1px solid black;">
+Software\Microsoft\Windows NT<br />
+\CurrentVersion\Perflib</td>
+<td style="border:1px solid black;">
+Software\Microsoft\Windows NT<br />
+\CurrentVersion\Perflib</td>
+<td style="border:1px solid black;">
+Software\Microsoft\Windows NT<br />
+\CurrentVersion\Perflib</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Services\SysmonLog</td>
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Services\SysmonLog</td>
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Services\SysmonLog</td>
+<td style="border:1px solid black;">
+System\CurrentControlSet<br />
+\Services\SysmonLog</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**네트워크 액세스: 원격으로 액세스할 수 있는 레지스트리 경로 및 하위 경로** 보안 옵션 설정은 네트워크를 통해 액세스할 수 있는 레지스트리 경로와 하위 경로를 결정합니다. 이 설명서에 정의된 세 가지 보안 환경 모두에 대해 기준 보안 템플릿의 기본 설정을 적용하는 것이 좋습니다.
+### 네트워크 액세스: 명명된 파이프 및 공유로 익명 액세스 제한
+
+**표 83: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**네트워크 액세스: 명명된 파이프 및 공유로 익명 액세스 제한** 보안 옵션 설정은 다음 보안 옵션 설정이 사용된 경우 공유 및 명명된 파이프에 대한 익명 액세스를 제한합니다.
+-   
+
+    **네트워크 액세스: 익명으로 액세스할 수 있는 명명된 파이프**
+
+-   
+
+    **네트워크 액세스: 익명으로 액세스할 수 있는 공유**
+
+이 설명서에 정의된 세 가지 환경에서는 이 설정을 기본값으로 구성합니다.
+### 네트워크 액세스: 익명으로 액세스할 수 있는 공유
+
+**표 84: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+COMCFG,DFS$</td>
+<td style="border:1px solid black;">
+없음</td>
+<td style="border:1px solid black;">
+없음</td>
+<td style="border:1px solid black;">
+없음</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**네트워크 액세스: 익명으로 액세스할 수 있는 공유** 보안 옵션 설정은 익명 사용자가 액세스할 수 있는 네트워크 공유를 결정합니다. 모든 사용자는 서버의 공유 리소스에 액세스하기 전에 인증을 받아야 하므로 이 설정의 기본값을 사용할 경우에는 영향이 거의 없습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 설정을 **없음**으로 구성해야 합니다.
+
+**참고:** 이 그룹 정책을 사용할 경우에는 모든 네트워크 사용자가 나열된 공유에 액세스할 수 있으므로 매우 위험합니다. 이 경우 중요한 회사 데이터가 노출되거나 손상될 수 있습니다.
+### 네트워크 액세스: 로컬 계정에 대한 공유 및 보안
+
+**표 85: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+일반 - 로컬 사용자를 그대로 인증</td>
+<td style="border:1px solid black;">
+일반 - 로컬 사용자를 그대로 인증</td>
+<td style="border:1px solid black;">
+일반 - 로컬 사용자를 그대로 인증</td>
+<td style="border:1px solid black;">
+일반 - 로컬 사용자를 그대로 인증</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**네트워크 액세스: 로컬 계정에 대한 공유 및 보안** 보안 옵션 설정은 로컬 계정을 사용하는 네트워크 로그온의 인증 방법을 결정합니다. **일반** 설정을 사용하면 리소스에 대한 액세스를 세밀하게 제어할 수 있습니다. **일반** 설정을 사용하면 같은 리소스에 대해 각기 다른 사용자에게 서로 다른 유형의 액세스 권한을 부여할 수 있습니다. **게스트 전용** 설정을 사용하면 모든 사용자를 동일하게 처리할 수 있습니다. 이 경우 모든 사용자가 **게스트 전용**으로 인증되어 주어진 리소스에 대해 동일한 수준의 액세스 권한을 부여 받습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 기본 설정 옵션인 **일반**이 사용됩니다.
+### 네트워크 보안: 다음 암호 변경 시 Lan Manager 해시 값 저장 안 함
+
+**표 86: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**네트워크 보안: 다음 암호 변경 시 Lan Manager 해시 값 저장 안 함** 보안 옵션 설정은 암호를 변경할 때 새 암호의 LM(LAN Manager) 해시 값이 저장되는지를 결정합니다. LM 해시는 비교적 약하며 암호화된 강력한 Windows NT 해시와 비교할 때 공격받기 쉽습니다. 따라서 이 설명서에 정의된 보안 환경에서는 이 설정을 **사용**으로 구성합니다.
+
+**참고:** 이 설정을 사용하는 경우 아주 오래된 이전 운영 체제 및 타사 응용 프로그램에서 문제가 발생할 수도 있습니다. 또한 이 설정을 사용한 후에는 모든 계정의 암호를 변경해야 합니다.
+### 네트워크 보안: LAN Manager 인증 수준
+
+**표 87: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+NTLM 응답 보냄</td>
+<td style="border:1px solid black;">
+NTLMv2 응답만 보냄</td>
+<td style="border:1px solid black;">
+NTLMv2 응답만 보냄\LM 거부</td>
+<td style="border:1px solid black;">
+NTLMv2 응답만 보냄\LM NTLM 거부</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**네트워크 보안: LAN Manager 인증 수준** 보안 옵션 설정은 네트워크 로그온에 사용되는 Challenge/Response 인증 프로토콜을 결정합니다. 이 옵션은 다음과 같이 클라이언트가 사용하는 인증 프로토콜의 수준, 협상되는 보안 수준 및 서버에서 받아들이는 인증 수준에 영향을 줍니다. 아래에서 괄호에 표시되는 숫자는 **LMCompatibilityLevel** 레지스트리 값의 실제 설정입니다. 이 설정은 다음 지침에 따라 사용 환경에서 허용하는 최고 수준으로 구성해야 합니다.
+
+순수한 Windows NT 4.0 SP4 이상의 환경(Windows 2000 및 Windows XP Professional 포함)에서는 모든 클라이언트에 대해 이 설정을 **NTLMv2 응답만 보냄\\LM NTLM 거부**로 설정하고, 클라이언트를 모두 구성한 다음에는 모든 서버에 대해 이 설정을 **NTLMv2 응답만 보냄\\LM NTLM 거부**로 구성합니다. 이 설정이 **NTLMv2 응답만 보냄\\LM 거부**보다 높게 설정되어 있으면 올바르게 작동하지 않는 Windows 라우팅 및 원격 액세스 서버의 경우에는 이 권장 사항이 적용되지 않습니다.
+
+엔터프라이즈 클라이언트 환경에는 라우팅 및 원격 액세스 서버가 포함되어 있습니다. 따라서 엔터프라이즈 클라이언트 환경에서는 이 설정을 **NTLMv2 응답만 보냄\\LM 거부**로 구성합니다. 고급 보안 환경에서는 라우팅 및 원격 액세스 서버가 포함되어 있지 않으므로 이 설정을 **NTLMv2 응답만 보냄\\LM NTLM 거부**로 구성합니다.
+
+Windows 9x 클라이언트가 있고 해당 클라이언트 모두에 DSClient를 설치할 수 있는 경우에는 Windows NT(Widows NT, Windows 2000 및 Windows XP Professional)를 실행하는 컴퓨터에 대해 이 설정을 **NTLMv2 응답만 보냄\\LM NTLM 거부**로 구성합니다. 그렇지 않은 경우에는 Windows 9x를 실행하지 않는 컴퓨터에 대해 이 설정을 **NTLMv2 응답만 보냄**보다 높지 않게 구성된 상태로 두어야 합니다.
+
+이 설정을 사용할 때 문제가 발생하는 응용 프로그램이 발견되면 설정을 한 번에 한 단계씩 롤백하여 문제를 찾습니다. 최소한 모든 컴퓨터에서 이 설정을 **LM NTLM - NTLMv2 세션 보안 사용(협상된 경우)**로 설정해야 하며, 일반적으로는 사용 환경의 모든 컴퓨터에 대해 **NTLMv2 응답만 보냄**으로 설정할 수 있습니다.
+### 네트워크 보안: LDAP 클라이언트 서명 필요
+
+**표 88: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+서명 협상</td>
+<td style="border:1px solid black;">
+서명 협상</td>
+<td style="border:1px solid black;">
+서명 협상</td>
+<td style="border:1px solid black;">
+서명 협상</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**네트워크 보안: LDAP 클라이언트 서명 필요** 보안 옵션 설정은 LDAP 바인드 요청을 보낸 클라이언트에 대해 필요한 데이터 서명의 수준을 결정합니다. 서명되지 않은 네트워크 트래픽은 끼어들기(man?in?the?middle) 공격을 받기 쉽습니다. LDAP 서버의 경우 공격자는 서버가 LDAP 클라이언트의 잘못된 쿼리를 기준으로 의사 결정을 하도록 만들 수 있습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 설정값을 **서명 협상**으로 구성합니다.
+### 네트워크 보안: NTLM SSP 기반에 대한 최소 세션 보안 (보안 RPC 포함) 클라이언트
+
+**표 89: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+최소 없음</td>
+<td style="border:1px solid black;">
+최소 없음</td>
+<td style="border:1px solid black;">
+모든 설정 사용</td>
+<td style="border:1px solid black;">
+모든 설정 사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**네트워크 보안: NTLM SSP 기반에 대한 최소 세션 보안 (보안 RPC 포함) 클라이언트** 보안 옵션 설정은 클라이언트가 메시지 기밀성(암호화), 메시지 서명, 128비트 암호화 또는 NTLM 버전 2(NTLMv2) 세션 보안의 협상을 요구할 수 있도록 합니다. NTLM SSP 기반 서버로부터 오는 네트워크 트래픽을 끼어들기(man?in?the?middle) 공격과 데이터 노출로부터 보호하려면 네트워크의 응용 프로그램이 완전히 기능할 수 있도록 유지하면서 가능하면 높게 이 설정을 구성합니다.
+### 네트워크 보안: NTLM SSP 기반에 대한 최소 세션 보안 (보안 RPC 포함) 서버
+
+**표 90: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+최소 없음</td>
+<td style="border:1px solid black;">
+최소 없음</td>
+<td style="border:1px solid black;">
+모든 설정 사용</td>
+<td style="border:1px solid black;">
+모든 설정 사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**네트워크 보안: NTLM SSP 기반에 대한 최소 세션 보안 (보안 RPC 포함) 서버** 보안 옵션 설정은 서버가 메시지 기밀성(암호화), 메시지 무결성, 128비트 암호화 또는 NTLMv2 세션 보안의 협상을 요구할 수 있도록 합니다. NTLM SSP 기반 클라이언트로부터 오는 네트워크 트래픽을 끼어들기(man?in?the?middle) 공격과 데이터 노출로부터 보호하려면 네트워크의 응용 프로그램이 완전히 기능할 수 있도록 유지하면서 가능하면 높게 이 설정을 구성합니다.
+### 복구 콘솔: 자동 관리 로그온 허용
+
+**표 91: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**복구 콘솔: 자동 관리 로그온 허용** 보안 옵션 설정은 시스템에 대한 액세스 권한을 부여하기 전에 **Administrator** 계정의 암호를 제공해야 하는지 여부를 결정합니다. 이 옵션을 사용할 경우 복구 콘솔에서는 암호를 제공하라고 요구하지 않고 자동으로 시스템에 로그온합니다. 복구 콘솔은 정상적인 방법으로 다시 시작할 수 없는 시스템 문제를 해결하거나 수정하는 데 유용할 수 있습니다. 그러나 이 설정을 사용하면 모든 사람이 서버에 액세스하고, 전원 연결을 끊어 서버를 종료하고, 서버를 다시 시작한 다음, **다시 시작** 메뉴에서 **복구 콘솔**을 선택하고 서버에 대한 모든 제어 권한을 얻을 수 있으므로 위험할 수 있습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 설정을 기본값으로 구성합니다. 이 설정을 사용하지 않도록 구성한 경우 복구 콘솔을 사용하려면 사용자 이름과 암호를 입력하여 복구 콘솔 계정에 액세스해야 합니다.
+### 복구 콘솔: 모든 드라이브 및 폴더에 플로피 복사 및 액세스 허용
+
+**표 92: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**복구 콘솔: 모든 드라이브 및 폴더에 플로피 복사 및 액세스 허용** 보안 옵션 설정을 사용하면 복구 콘솔의 **SET** 명령을 사용할 수 있게 되므로 다음의 복구 콘솔 환경 변수를 설정할 수 있습니다.
+-   
+
+    **AllowWildCards**: DEL 명령 등의 일부 명령에 대해 와일드카드를 지원합니다.
+
+-   
+
+    **AllowAllPaths**: 컴퓨터의 모든 파일 및 폴더에 대한 액세스를 허용합니다.
+
+-   
+
+    **AllowRemovableMedia**: 플로피 디스크 등의 이동식 미디어로 파일을 복사할 수 있습니다.
+
+-   
+
+    **NoCopyPrompt**: 기존 파일을 덮어쓸 때 프롬프트하지 않습니다.
+
+그러나 고급 보안 환경에서는 보안을 최대화하기 위해 이 설정을 **사용 안 함**으로 구성됩니다.
+### 시스템 종료: 로그온하지 않고 시스템 종료 허용
+
+**표 93: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**시스템 종료: 로그온하지 않고 시스템 종료 허용** 보안 옵션 설정은 사용자가 Windows 운영 체제에 로그온하지 않고도 컴퓨터를 종료할 수 있는지 여부를 결정합니다. 콘솔에 액세스할 수 있는 사용자는 시스템을 종료할 수 있습니다. 이 옵션을 사용하면 공격자나 실수로 액세스한 사용자가 ID 확인 과정 없이도 터미널 서비스를 통해 서버에 연결한 다음 시스템을 종료하거나 다시 시작할 수 있습니다. 따라서 이 보안 대책은 세 가지 환경 모두에서 기본값으로 구성해야 합니다.
+### 시스템 종료: 가상 메모리 페이지 파일 지움
+
+**표 94: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**시스템 종료: 가상 메모리 페이지 파일 지움** 보안 옵션 설정은 시스템이 종료될 때 가상 메모리 페이지 파일을 지울지 여부를 결정합니다. 이 설정을 사용하면 시스템이 완전히 종료될 때마다 시스템 페이지 파일이 지워집니다. 휴대용 컴퓨터 시스템에서 최대 절전 모드가 사용되지 않도록 구성되어 있을 때 이 보안 설정을 사용하면 최대 절전 모드 파일(hiberfil.sys)도 지워집니다. 또한 서버를 종료하고 다시 시작하는 시간이 길어질 수 있습니다. 특히 페이징 파일 크기가 큰 서버에서는 이 시간이 매우 길어집니다. 따라서 고급 보안 환경에서는 이 설정을 **사용**으로 구성하지만 레거시 클라이언트 및 엔터프라이즈 클라이언트 환경에서는 이 설정을 **사용 안 함**으로 설정합니다.
+
+**참고:** 서버에 물리적으로 액세스한 공격자는 서버의 전원 플러그를 빼기만 하면 이 보안 대책을 무시할 수 있습니다.
+### 시스템 암호화: 컴퓨터에 저장된 사용자 키에 대해 강력한 키 보호 사용
+
+**표 95: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+정의되지 않음</td>
+<td style="border:1px solid black;">
+키를 처음 사용할 때 사용자에 질문</td>
+<td style="border:1px solid black;">
+키를 처음 사용할 때 사용자에 질문</td>
+<td style="border:1px solid black;">
+키를 사용할 때마다 암호를 매 번 입력해야 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**시스템 암호화: 컴퓨터에 저장된 사용자 키에 대해 강력한 키 보호 사용** 보안 옵션 설정은 S?MIME 키 등의 사용자 개인 키에 암호를 사용해야 하는지 여부를 결정합니다. 이 정책이 사용자가 키를 사용할 때마다 사용자의 도메인 암호와는 다른 암호를 제공하도록 구성된 경우에는 공격자가 해당 사용자의 컴퓨터에 대한 제어 권한을 얻고 사용자의 로그온 암호를 알아내더라도 로컬로 저장된 사용자 키에 액세스하기는 어려워집니다. 레거시 클라이언트 및 엔터프라이즈 클라이언트 환경에서는 사용 가능성을 위해 이 설정값을 **키를 처음 사용할 때 사용자에 질문** 설정 옵션으로 구성합니다. 고급 보안 환경에서는 사용 환경의 보안을 강화하기 위해 이 설정값을 **키를 사용할 때마다 암호를 매 번 입력해야 함**으로 구성합니다.
+### 시스템 암호화: 암호화, 해시, 서명에 FIPS 호환 알고리즘 사용
+
+**표 96: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**시스템 암호화: 암호화, 해시, 서명에 FIPS 호환 알고리즘 사용** 보안 옵션 설정은 Transport Layer Security/Secure Sockets Layer(TL/SS) 보안 공급자가 TLS\_RSA\_WITH\_3DES\_EDE\_CBC\_SHA 암호 그룹만 지원하는지 여부를 결정합니다. 이 정책을 사용하면 사용 환경의 컴퓨터에서 디지털 암호화, 해시 및 서명에 사용할 수 있는 가장 강력한 알고리즘을 사용하도록 할 수 있습니다. 이 경우 권한이 없는 사용자가 디지털 암호화되거나 디지털 서명된 데이터를 손상시킬 위험이 최소화됩니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 설정을 **사용 안 함**으로 구성합니다.
+### 시스템 개체: Administrators 그룹의 구성원에 의해 작성된 개체에 대한 기본 소유자
+
+**표 97: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Administrators 그룹</td>
+<td style="border:1px solid black;">
+개체 작성자</td>
+<td style="border:1px solid black;">
+개체 작성자</td>
+<td style="border:1px solid black;">
+개체 작성자</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**시스템 개체: Administrators 그룹의 구성원에 의해 작성된 개체에 대한 기본 소유자** 보안 옵션 설정은 새로 만든 시스템 개체의 기본 소유자가 Administrators 그룹인지 또는 개체 작성자인지 결정합니다. 시스템 개체를 만들 때 소유권은 보다 일반적인 **Administrators** 그룹 대신 개체를 만든 계정을 반영합니다.
+### 시스템 개체: 비 Windows 하위 시스템에 대한 대/소문자 구분 사용 안 함 필요
+
+**표 98: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**시스템 개체: 비 Windows 하위 시스템에 대한 대/소문자 구분 사용 안 함 필요** 보안 옵션 설정은 모든 하위 시스템에 대해 대/소문자를 구분하지 않을지 여부를 결정합니다. Microsoft Win32 하위 시스템은 대/소문자를 구분하지 않습니다. 그러나 POSIX(Portable Operating System Interface for UNIX) 등의 다른 하위 시스템에 대해서는 커널이 대/소문자 구분을 지원합니다. Windows는 대/소문자를 구분하지 않지만 POSIX 하위 시스템은 대/소문자를 구분하므로 이 설정을 적용하지 않으면 이 하위 시스템의 사용자가 파일 레이블에 대/소문자를 함께 사용하여 다른 파일과 이름이 같은 파일을 만드는 것이 불가능해집니다. 이 경우 단 하나의 파일만 사용할 수 있으므로 다른 사용자는 일반적인 Win32 도구를 사용하여 해당 파일에 액세스할 수 없게 됩니다. 파일 이름의 일관성을 유지하기 위해 이 설명서에 정의된 세 가지 환경에서는 이 설정을 **사용**으로 설정합니다.
+### 시스템 개체: 내부 시스템 개체(예: 심볼 링크)에 대한 기본 사용 권한을 강화
+
+**표 99: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**시스템 개체: 내부 시스템 개체(예: 심볼 링크)에 대한 기본 사용 권한을 강화** 보안 옵션 설정은 개체에 대한 기본 DACL(임의 액세스 제어 목록)의 강도를 결정합니다. 이 설정은 여러 프로세스에 놓여 공유될 수 있는 개체의 보안에 유용합니다. 이 설정을 기본 강도로 설정하면 DACL이 강화되므로 관리자가 아닌 사용자는 공유 개체를 읽을 수만 있고 자신이 만들지 않은 개체를 수정할 수는 없게 됩니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 설정을 기본값인 **사용**으로 구성합니다.
+### 시스템 설정: 하위 시스템(옵션)
+
+**표 100: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+POSIX</td>
+<td style="border:1px solid black;">
+없음</td>
+<td style="border:1px solid black;">
+없음</td>
+<td style="border:1px solid black;">
+없음</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**시스템 설정: 하위 시스템(옵션)** 보안 옵션 설정은 사용 환경의 응용 프로그램을 지원하는 데 사용되는 하위 시스템을 결정합니다. Windows Server 2003에서 이 설정의 기본값은 **POSIX**입니다. 이 설명서에 정의된 세 가지 환경에서는 POSIX 하위 시스템을 사용할 수 없도록 설정하기 위해 이 설정을 **없음**으로 구성합니다.
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+<span id="XSLTsection130121120120"></span>
+이벤트 로그
+-----------
+
+이벤트 로그는 시스템의 이벤트를 기록합니다. 보안 로그는 감사 이벤트를 기록합니다. 그룹 정책의 이벤트 로그 컨테이너는 최대 로그 크기, 각 로그에 대한 액세스 권한, 보존 설정 및 방법과 같이 응용 프로그램, 보안 및 시스템 이벤트 로그와 관련된 특성을 정의하는 데 사용됩니다. 응용 프로그램, 보안 및 시스템 이벤트 로그 설정은 MSBP에서 구성되며 도메인의 모든 구성원 서버에 적용됩니다.
+
+Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치에서 이벤트 로그 설정을 구성할 수 있습니다.
+
+컴퓨터 구성\\Windows 설정\\보안 설정\\이벤트 로그
+
+여기에서는 이 MSBP용 설명서에 정의된 세 가지 환경에 대해 지정된 보안 옵션을 자세히 설명합니다. 이 섹션의 지정된 설정에 대한 요약은 Excel 스프레드시트로 제공되는 Windows Server 2003 Security Guide Settings를 참조하십시오. 이 섹션에서 설명하는 기본 설정과 각 설정에 대한 자세한 내용은 다음 위치에서 함께 제공되는 설명서인 Threats and Countermeasures: Security Settings in Windows Server 2003 and Windows XP를 참조하십시오. [http://go.microsoft.com/fwlink/?LinkId=15159](http://go.microsoft.com/fwlink/?linkid=15159) ![](images/Dd547909.tous(ko-kr,TechNet.10).gif).
+### 응용 프로그램 로그 최대 크기
+
+**표 101: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+16,384KB</td>
+<td style="border:1px solid black;">
+16,384KB</td>
+<td style="border:1px solid black;">
+16,384KB</td>
+<td style="border:1px solid black;">
+16,384KB</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**응용 프로그램 로그 최대 크기** 보안 설정은 응용 프로그램 이벤트 로그의 최대 크기를 지정하며 최대 용량은 4GB입니다. 그러나 최대 용량을 사용하면 성능이 저하되고 이벤트 로깅을 신뢰할 수 없게 되므로 사용하지 않는 것이 좋습니다. 응용 프로그램 로그 크기에 대한 요구 사항은 플랫폼의 기능과 응용 프로그램 관련 이벤트의 기록 레코드에 필요한 사항에 따라 달라집니다. 기본값인 16,384킬로바이트(KB)는 세 가지 환경에 모두 적용됩니다.
+### 보안 로그 최대 크기
+
+**표 102: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+16,384KB</td>
+<td style="border:1px solid black;">
+81,920KB</td>
+<td style="border:1px solid black;">
+81,920KB</td>
+<td style="border:1px solid black;">
+81,920KB</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**보안 로그 최대 크기** 보안 설정은 보안 이벤트 로그의 최대 크기를 지정하며 최대 용량은 4GB입니다. 도메인 컨트롤러 및 독립 실행형 서버에서 보안 로그를 80MB 이상으로 구성할 때는 감사를 수행하기에 충분한 정보를 적절하게 저장해야 합니다. 다른 시스템에 대해 이 로그를 적절한 크기로 구성할 때는 로그를 검토하는 빈도, 사용 가능한 디스크 공간 등의 요인을 기준으로 합니다.
+### 시스템 로그 최대 크기
+
+**표 103: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+16,384KB</td>
+<td style="border:1px solid black;">
+16,384KB</td>
+<td style="border:1px solid black;">
+16,384KB</td>
+<td style="border:1px solid black;">
+16,384KB</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**시스템 로그 최대 크기** 보안 설정은 응용 프로그램 이벤트 로그의 최대 크기를 지정하며 최대 용량은 4GB입니다. 그러나 최대 용량을 사용하면 성능이 저하되고 이벤트 로깅을 신뢰할 수 없게 되므로 사용하지 않는 것이 좋습니다. 응용 프로그램 로그 크기에 대한 요구 사항은 플랫폼의 기능과 응용 프로그램 관련 이벤트의 기록 레코드에 필요한 사항에 따라 달라집니다. 기본값인 16,384KB는 세 가지 환경 모두에 적용됩니다.
+### 응용 프로그램 로그에 로컬 Guest 그룹 액세스 제한
+
+**표 104: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**응용 프로그램 로그에 로컬 Guest 그룹 액세스 제한** 보안 설정은 게스트가 응용 프로그램 이벤트 로그에 액세스하는 것을 제한할지 여부를 결정합니다. 기본적으로 Windows Server 2003에서는 모든 시스템에 대해 게스트 액세스가 금지되어 있습니다. 따라서 이 설정은 기본 시스템에 실제로 영향을 주지 않습니다. 그러나 이 설정은 부작용이 없는 완전 방어(defense - in - depth) 설정으로 간주됩니다.
+
+**참고:** 이 설정은 로컬 컴퓨터 정책 개체에는 나타나지 않습니다.
+### 보안 로그에 로컬 Guest 그룹 액세스 제한
+
+**표 105: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**보안 로그에 로컬 Guest 그룹 액세스 제안** 보안 설정은 게스트가 보안 이벤트 로그에 액세스하는 것을 제한할지 여부를 결정합니다. 사용자는 이 설명서에 정의되지 않은 감사 및 보안 로그 관리 사용자 권한이 있어야만 보안 로그에 액세스할 수 있습니다. 따라서 이 설정은 기본 시스템에 실제로 영향을 주지 않습니다. 그러나 이 설정은 부작용이 없는 완전 방어(defense?in?depth) 설정으로 간주됩니다.
+
+**참고:** 이 설정은 로컬 컴퓨터 정책 개체에는 나타나지 않습니다.
+### 시스템 로그에 로컬 Guest 그룹 액세스 제한
+
+**표 106: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+<td style="border:1px solid black;">
+사용</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**시스템 로그에 로컬 Guest 그룹 액세스 제한** 보안 설정은 게스트가 시스템 이벤트 로그에 액세스하는 것을 제한할지 여부를 결정합니다. 기본적으로 Windows Server 2003에서는 모든 시스템에 대해 게스트 액세스가 금지되어 있습니다. 따라서 이 설정은 기본 시스템에 실제로 영향을 주지 않습니다. 그러나 이 설정은 부작용이 없는 완전 방어(defense - in - depth) 설정으로 간주됩니다.
+
+**참고:** 이 설정은 로컬 컴퓨터 정책 개체에는 나타나지 않습니다.
+### 응용 프로그램 로그 보관 방법
+
+**표 107: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+필요하면</td>
+<td style="border:1px solid black;">
+필요하면</td>
+<td style="border:1px solid black;">
+필요하면</td>
+<td style="border:1px solid black;">
+필요하면</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**응용 프로그램 로그 보관 방법** 보안 설정은 응용 프로그램 로그의 "배치" 방법을 결정합니다. 문제를 설명하거나 해결하는 데 기록 이벤트가 적합한 경우 응용 프로그램 로그를 정기적으로 보관해야 합니다. 필요한 경우 이벤트 덮어쓰기 기능을 사용하면 로그에 항상 가장 최근의 이벤트가 저장되도록 할 수 있습니다. 그러나 이 경우 기록 데이터를 잃을 수 있습니다.
+### 보안 로그 보관 방법
+
+**표 108: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+필요하면</td>
+<td style="border:1px solid black;">
+필요하면</td>
+<td style="border:1px solid black;">
+필요하면</td>
+<td style="border:1px solid black;">
+필요하면</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**보안 로그 보관 방법** 보안 설정은 보안 로그의 "배치" 방법을 결정합니다. 문제를 설명하거나 해결하는 데 기록 이벤트가 적합한 경우 보안 로그를 정기적으로 보관해야 합니다. 필요한 경우 이벤트 덮어쓰기 기능을 사용하면 로그에 항상 가장 최근의 이벤트가 저장되도록 할 수 있습니다. 그러나 이 경우 기록 데이터를 잃을 수 있습니다.
+### 시스템 로그 보관 방법
+
+**표 109: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+필요하면</td>
+<td style="border:1px solid black;">
+필요하면</td>
+<td style="border:1px solid black;">
+필요하면</td>
+<td style="border:1px solid black;">
+필요하면</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**시스템 로그 보관 방법** 보안 설정은 시스템 로그의 "배치" 방법을 결정합니다. 문제를 설명하거나 해결하는 데 기록 이벤트가 적합한 경우 시스템 로그를 정기적으로 보관해야 합니다. 필요한 경우 이벤트 덮어쓰기 기능을 사용하면 로그에 항상 가장 최근의 이벤트가 저장되도록 할 수 있습니다. 그러나 이 경우 기록 데이터를 잃을 수 있습니다.
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+<span id="XSLTsection131121120120"></span>
+시스템 서비스
+-------------
+
+Windows Server 2003을 처음 설치하면 시스템이 시작할 때 실행되도록 기본 시스템 서비스가 만들어지고 구성됩니다. 이 설명서에 정의된 세 가지 환경에서는 이러한 시스템 서비스의 대부분을 실행할 필요가 없습니다.
+
+Windows Server 2003에서는 Windows Server 2003을 설치할 때 기본적으로 설치되지 않는 인증 서비스와 같은 추가 옵션 서비스를 사용할 수 있습니다. **프로그램 추가/제거** 또는 Windows Server 2003서버 구성 마법사를 사용하거나 Windows Server 2003의 사용자 지정 자동 설치를 만들어 기존 시스템에 이 옵션 서비스를 추가할 수 있습니다.
+
+모든 서비스 또는 응용 프로그램이 공격 지점이 될 수 있으므로 사용 환경에서 필요하지 않은 서비스나 실행 파일은 비활성화하거나 제거해야 합니다. MSBP만이 Windows Server 2003 구성원 서버가 Windows Server 2003 도메인에 참가하는 데 필요한 서비스에서 기본 관리 서비스를 제공하도록 합니다. 각 서버 역할에 필요한 특정 서비스를 활성화할 수도 있습니다. 특정 그룹 정책에 대한 내용은 각 서버 역할을 강화하는 데 필요한 특정 단계를 자세히 설명하는 이 설명서의 다른 모듈에서 설명합니다.
+
+각 서버 역할에 필요한 특정 서비스는 이 모듈 다음의 모듈에서 설명하는 것처럼 서버 역할 단위로 활성화됩니다. 즉, 해당 서버 역할에 맞는 특정 그룹 정책이 적용됩니다. 이 설명서에서 설명하는 환경에 추가 서버 역할이 필요한 경우에는 해당 역할에 맞는 추가 서비스를 활성화해야 합니다. 예를 들어, Microsoft SQL Server™를 사용하여 웹 응용 프로그램의 백 엔드에 고객 데이터를 저장하려는 경우에는 SQL Server를 설치해야 합니다. 이 경우 SQL Services 서비스가 **자동**으로 설정되도록 새 서버 역할에 적용할 그룹 정책을 만들어야 합니다.
+
+**참고:** 추가 서비스를 활성화하면 다음에는 이 서비스에서 또다른 추가 서비스를 필요로 하는 종속 관계가 있을 수 있습니다. 특정 서버 역할에 필요한 모든 서비스는 해당 서버가 조직에서 수행하는 서버 역할에 대한 정책에 추가됩니다.
+
+Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치에서 시스템 서비스 설정을 구성할 수 있습니다.
+
+컴퓨터 구성\\Windows 설정\\보안 설정\\시스템 서비스\\
+
+여기에서는 이 MSBP용 설명서에 정의된 세 가지 환경에 대해 지정된 보안 옵션을 자세히 설명합니다. 이 섹션의 지정된 설정에 대한 요약은 Excel 스프레드시트로 제공되는 Windows Server 2003 Security Guide Settings를 참조하십시오. 이 섹션에서 설명하는 기본 설정과 각 설정에 대한 자세한 내용은 다음 위치에서 함께 제공되는 설명서인 Threats and Countermeasures: Security Settings in Windows Server 2003 and Windows XP를 참조하십시오. [http://go.microsoft.com/fwlink/?LinkId=15159](http://go.microsoft.com/fwlink/?linkid=15159) ![](images/Dd547909.tous(ko-kr,TechNet.10).gif).
+### Alerter
+
+**표 110: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+경고</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Alerter** 시스템 서비스는 선택된 사용자와 컴퓨터에 관리 경고를 알립니다. 경고 서비스를 사용하여 네트워크에 연결된 특정 사용자에게 경고 메시지를 보낼 수 있습니다. 이 설명서에 정의된 세 가지 환경의 보안을 강화하려면 이 서비스를 사용하지 마십시오. 서비스가 중지되면 관리 경고를 사용하는 프로그램에서 관리 경고를 받지 않게 됩니다.
+
+**참고:** 이 서비스를 사용하지 않으면 무정전 전원 공급 장치(UPS) 경고 메시지 시스템의 기능이 중지될 수 있습니다.
+### Application Layer Gateway Service
+
+**표 111: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+ALG</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Application Layer Gateway Service** 시스템 서비스는 ICS(Internet Connection Sharing)/ICF(Internet Connection Firewall) 서비스의 하위 구성 요소입니다. 이 서비스는 ISV(Independent Software Vendors)에서 전용 네트워크 프로토콜이 방화벽을 통과하고 ICS 뒤에서 작업할 수 있도록 하는 프로토콜 플러그 인을 작성하도록 지원합니다. 이 설명서에 정의된 세 가지 환경에서 보안을 강화하고 권한이 없는 컴퓨터가 인터넷 게이트웨이 역할을 하는 것을 방지하려면 이 시스템 서비스를 사용하지 않습니다.
+### Application Management
+
+**표 112: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+AppMgmt</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Application Management** 시스템 서비스는 할당, 게시, 제거 등의 소프트웨어 설치 서비스를 제공합니다. 이 서비스는 회사 네트워크를 통해 배포된 프로그램을 열거하고 설치하고 제거하기 위한 요청을 처리합니다. 도메인에 참가한 컴퓨터에서 **프로그램 추가/제거**를 클릭하면 이 서비스가 호출되어 배포된 프로그램의 목록을 검색합니다. 대부분의 회사에서는 서버에 이 시스템 서비스를 사용하지 않습니다. 대신 자동 소프트웨어 전송 응용 프로그램을 사용하여 소프트웨어 패키지를 배포합니다. 따라서 기준 서버 정책에서는 이 서비스를 사용하지 않습니다.
+### ASP .NET State Service
+
+**표 113: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+aspnet_state</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**ASP .NET State Service** 시스템 서비스는 ASP.NET의 out?of?process 세션 상태를 지원합니다. 기준 정책에서는 이 서비스를 **사용 안 함**으로 설정합니다.
+### Automatic Updates
+
+**표 114: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+wuauserv</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Automatic Updates** 시스템 서비스는 중요한 WIndows Update를 다운로드하고 설치하도록 설정합니다. 이 설명서에 정의된 세 가지 환경에서는 소프트웨어 업데이트의 설치를 세부적으로 제어하기 위해 이 서비스를 사용하지 않습니다. 적용 가능한 주요 수정 프로그램에 대한 검색, 다운로드 및 설치 작업은 Windows Update 웹 사이트(<http://v4.windowsupdate.microsoft.com/ko/default.asp>)를 통해 수행해야 합니다.
+### Background Intelligent Transfer Service
+
+**표 115: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+BITS</td>
+<td style="border:1px solid black;">
+수동(BITS 작업이 대기 중인 경우에는 자동)</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Background Intelligent Transfer Service**(BITS) 시스템 서비스는 백그라운드 파일 전송 메커니즘 및 대기열 관리자입니다. BITS는 클라이언트와 HTTP 서버 사이에 비동기적으로 파일을 전송하는 데 사용됩니다. BITS 서비스 요청이 제출되면 검색 등의 다른 네트워크 관련 작업이 영향을 받지 않도록 유휴 상태인 다른 네트워크 대역폭을 사용하여 파일이 전송됩니다. 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **수동**으로 구성합니다.
+### Certificate Services
+
+**표 116: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+CertSvc</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Certificate Services** 시스템 서비스는 핵심 운영 체제의 일부로, 비즈니스가 자체 CA(인증 기관) 역할을 하고 디지털 인증서를 발급 및 관리할 수 있도록 합니다. 이 서비스는 특정 서버 역할에 대한 서비스입니다. 따라서 이 설명서에 정의된 세 가지 환경의 기준 서버 정책에서는 이 설정을 사용하지 않습니다.
+### MS Software Shadow Copy Provider
+
+**표 117: 설정**
+<table style="width:100%;">
+<colgroup>
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+<th style="border:1px solid black;" ></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+SwPrv</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;"></td>
+</tr>
+</tbody>
+</table>
+  
+**MS Software Shadow Copy Provider** 시스템 서비스는 볼륨 섀도 복사본 서비스가 가져온 파일 섀도 복사본에 대한 소프트웨어를 관리합니다. 섀도 복사본을 사용하면 디스크 볼륨에 대해 일관된 읽기 전용 시점을 나타내는 해당 볼륨의 복사본 또는 명백한 복사본을 만들 수 있습니다. 그러면 이 시점에서는 일관성을 유지하고 Ntbackup과 같은 응용 프로그램에서 섀도 복사본의 데이터를 테이프로 복사할 수 있도록 합니다. 이 서비스가 비활성화되어 있으면 소프트웨어 기반 볼륨 섀도 복사본을 관리할 수 없습니다.  
+### Client Service for Netware
+  
+**표 118: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+NWCWorkstation</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Client Service for Netware** 시스템 서비스는 이 서비스가 설치된 서버에 대화형으로 로그온한 사용자가 NetWare 네트워크에 있는 파일 및 인쇄 리소스에 액세스할 수 있게 합니다. Client Service for Netware를 사용하면 컴퓨터에서 NDS(Novell Directory Services)나 바인더리 보안(NetWare 버전 3.x 또는 4.x)을 실행하는 Netware 서버의 파일 및 인쇄 리소스에 액세스할 수 있습니다. 이 설명서에 정의된 세 가지 환경의 보안을 강화하려면 이 서비스를 사용하지 마십시오.
+### ClipBook
+
+**표 119: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+ClipSrv</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**ClipBook** 시스템 서비스는 원격 컴퓨터에서 볼 수 있는 데이터의 "페이지"를 클립북 뷰어에서 만들고 공유할 수 있도록 합니다. 이 서비스는 네트워크 동적 데이터 교환(NetDDE) 서비스에 의존하여 다른 컴퓨터에서 연결할 수 있는 실제 파일 공유를 만들며 사용자는 클립북 응용 프로그램 및 서비스를 사용하여 공유할 데이터 페이지를 만들 수 있습니다.
+
+이 설명서에 정의된 세 가지 환경의 보안을 강화하려면 이 서비스를 사용하지 마십시오. 관련된 모든 서비스를 시작할 수 없게 됩니다. 그러나 Clipbrd.exe를 사용하면 텍스트를 선택하고 **편집** 메뉴에서 **복사**를 클릭하거나 Ctrl+C를 누를 때 데이터가 저장되는 로컬 클립보드를 볼 수 있습니다.
+### Cluster Service
+
+**표 120: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+ClusSvc</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Cluster Service** 시스템 서비스는 서버 클러스터 작업을 제어하고 클러스터 데이터베이스를 관리합니다. 클러스터는 개별 컴퓨터의 모음으로, 단일 컴퓨터만큼 사용하기 쉽지만 관리하기는 매우 어려울 수 있습니다. 관리자, 프로그래머 및 사용자는 클러스터를 단일 시스템으로 봅니다. **Cluster Service**는 클러스터의 모든 노드에 데이터 및 계산을 분산시킵니다. 한 노드가 실패하면 이전에 실패한 노드에서 제공하던 서비스 및 데이터를 다른 노드에서 제공합니다. 노드가 추가되거나 복구되면 **클러스터 서비스** 소프트웨어는 일부 데이터 및 계산을 해당 노드에 마이그레이션합니다. 이 설명서에 정의된 세 가지 환경의 보안을 강화하려면 이 서비스를 사용하지 마십시오.
+### COM+ Event System
+
+**표 121: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+COMSysApp</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**COM+ Event System** 서비스를 사용하면 등록 중인 COM 구성 요소에 이벤트를 자동으로 배포할 수 있습니다. **COM+ Events** 서비스는 COM+ 프로그래밍 모델을 확장하여 게시자 또는 가입자와 이벤트 시스템 사이에서 런타임에 바인딩되는 이벤트 또는 메서드 호출을 지원합니다. 이벤트 시스템은 서버를 반복해서 폴링하는 대신 정보를 사용할 수 있게 되면 사용자에게 알립니다. 이 설명서에 정의된 세 가지 환경에서 사용 가능성과 보안을 강화하려면 이 서비스를 **수동**으로 설정합니다.
+### COM+ System Application
+
+**표 122: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+EventSystem</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+<strong>사용 안 함</strong></td>
+</tr>
+</tbody>
+</table>
+ 
+
+**COM+ System Application** 시스템 서비스는 COM+ 기반 구성 요소의 구성 및 추적을 관리합니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Computer Browser
+
+**표 123: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+브라우저</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Computer Browser** 시스템 서비스는 네트워크에 있는 컴퓨터의 최신 목록을 관리하고 목록을 요청하는 프로그램에 목록을 제공합니다. **Computer Browser** 서비스는 네트워크 도메인 및 리소스를 볼 수 있어야 하는 Windows 기반 컴퓨터에서 사용됩니다. 이 설명서에 정의된 세 가지 환경에서는 보안을 강화하기 위해 이 서비스를 **자동**으로 설정합니다.
+### Cryptographic Services
+
+**표 124: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+CryptSvc</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Cyrptographic Services** 시스템 서비스는 컴퓨터에 대한 키 관리 서비스를 제공합니다. 이 설명서에 정의된 세 가지 환경에서는 보안을 강화하기 위해 이 시스템 서비스를 **자동** 으로 설정합니다. 이 서비스가 중지되면 위에서 설명한 관리 서비스가 올바르게 작동하지 않게 됩니다.
+### DHCP Client
+
+**표 125: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Dhcp</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**DHCP Client** 시스템 서비스는 IP 주소를 등록 및 업데이트하고 DNS 서버가 포함된 컴퓨터의 DDNS(Dynamic Domain Naming Service)를 업데이트하여 네트워크 구성을 관리합니다. 로밍 사용자 등의 클라이언트가 네트워크 상에서 이동하는 경우에는 IP 설정을 수동으로 변경할 필요가 없습니다. 각 서브넷에서 DHCP 서버에 액세스할 수 있으면 클라이언트는 해당 클라이언트가 연결된 서브넷에 관계 없이 자동으로 새 IP 주소를 받습니다. 이 설명서에 정의된 세 가지 환경에서는 보안을 강화하기 위해 이 설정을 **자동**으로 구성합니다. 이 서비스가 중지되면 컴퓨터에서 동적 IP 주소 및 DNS 업데이트를 받을 수 없게 됩니다. 또한 DHCP 클라이언트를 사용하지 않으면 서버가 DDNS를 통해 DNS에 등록할 수 없게 됩니다.
+### DHCP Server
+
+**표 126: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+DHCPServer</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**DHCP Server** 시스템 서비스는 자동으로 IP 주소를 할당하고 DHCP 클라이언트에 대한 DNS 서버 및 WINS 서버 등의 고급 네트워크 설정 구성을 사용할 수 있게 합니다. 이 설명서에 정의된 세 가지 환경의 구성원 서버에서는 **DHCP Server** 서비스가 필요하지 않습니다. 그러나 세 가지 환경 모두의 DHCP 서버에 대해서는 이 설정을 **자동**으로 설정하여 사용해야 합니다.
+### Distributed File System
+
+**표 127: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Dfs</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Distributed File System**(DFS) 서비스는 LAN이나 WAN에 분산된 논리 볼륨을 관리합니다. DFS는 서로 다른 파일 공유를 단일 논리 네임스페이스로 통합하는 분산 서비스입니다. 이 설명서에 정의된 세 가지 환경의 구성원 서버에서는 DFS가 필요하지 않습니다. 그러나 세 가지 환경 모두의 도메인 컨트롤러에 대해서는 이 설정을 **자동**으로 설정하여 사용해야 합니다.
+### Distributed Link Tracking Client
+
+**표 128: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+TrkWks</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Distributed Link Tracking Client** 시스템 서비스는 사용자의 컴퓨터에 있거나 네트워크 도메인의 여러 컴퓨터에 있는 NTFS 파일 간의 링크를 관리합니다. DLT(분산된 링크 추적) 클라이언트 서비스를 사용하면 대상 파일의 이름을 바꾸거나 파일을 이동한 후에도 바로 가기 및 OLE(Object Linking and Embedding) 링크가 계속 작동합니다. 이 설명서에 정의된 세 가지 환경에서는 보안을 강화하기 위해 **분산된 링크 추적 클라이언트** 서비스를 사용하지 않습니다. 이 서비스가 중지되면 컴퓨터의 링크가 관리되지 않거나 추적되지 않습니다.
+### Distributed Link Tracking Server
+
+**표 129: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+TrkSvr</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Distributed Link Tracking Server** 시스템 서비스는 도메인의 각 볼륨에 대해 볼륨 간에 이동된 파일을 추적할 수 있도록 정보를 저장합니다. 이 서비스를 사용하면 **분산된 링크 추적 서버** 서비스가 도메인 컨트롤러에서 실행됩니다. 따라서 도메인 컨트롤러의 정책에서는 이 서비스를 **자동**으로만 설정합니다.
+### Distributed Transaction Coordinator
+
+**표 130: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+MSDTC</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Distributed Transaction Coordinator** 시스템 서비스는 여러 컴퓨터 시스템이나 데이터베이스, 메시지 큐, 파일 시스템, 기타 트랜잭션 보호 리소스 관리자 등의 리소스 관리자에 분산된 트랜잭션을 조정합니다. 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### DNS Client
+
+**표 131: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Dnscache</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**DNS Client** 시스템 서비스는 컴퓨터의 DNS 이름을 확인하고 캐시합니다. DNS 클라이언트 서비스는 DNS 이름 확인을 수행하는 모든 컴퓨터에서 실행되어야 합니다. DNS 이름 확인은 Active Directory 도메인에서 도메인 컨트롤러를 찾는 데 필수적입니다. DNS 클라이언트 서비스를 실행하는 것은 DNS 이름 확인을 사용하여 식별된 장치를 찾는 데도 중요합니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스 설정을 **자동**으로 구성합니다.
+### DNS Server
+
+**표 132: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+DNS</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**DNS Server** 시스템 서비스는 DNS 이름에 대한 쿼리 및 업데이트 요청에 응답하여 DNS 이름을 확인할 수 있도록 합니다. DNS 서버의 설치 여부는 DNS 이름을 사용하여 식별된 장치와 Active Directory의 도메인 컨트롤러를 찾는 데 중요합니다. 기준 서버에서는 이러한 기능이 필요하지 않고 도메인 컨트롤러에서만 필요합니다. 따라서 이 설명서에 정의된 세 가지 환경의 기준 정책에서는 이 설정을 사용하지 않습니다. 세 가지 환경의 DNS 서버에서만 이 시스템 서비스의 값을 **자동**으로 설정합니다.
+### Error Reporting Service
+
+**표 133: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+ERSvc</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Error Reporting Service** 시스템 서비스는 예상치 못한 응용 프로그램 종료 문제를 모으고 저장하여 Microsoft에 보고하고, 표준이 아닌 환경에서 실행되는 서비스 및 응용 프로그램에 대한 오류 보고 권한을 부여합니다. 이 서비스는 드라이버 및 응용 프로그램 결함을 디버깅하는 데 효율적인 정보를 Microsoft 제품 그룹에 제공합니다. 오류 알림 표시가 설정되어 있으면 사용자는 여전히 문제가 발생했음을 알리는 메시지를 받지만, Microsoft나 로컬 네트워크 오류 보고 서버에 이 정보를 보고할 수는 없습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 사용하지 않습니다.
+### Event Log
+
+**표 134: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Eventlog</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Event Log** 시스템 서비스는 Windows 기반의 프로그램 및 구성 요소에서 발생시킨 이벤트 로그 메시지를 이벤트 뷰어에서 볼 수 있도록 합니다. 이벤트 로그 보고서에는 문제를 진단하는 데 유용한 정보가 포함될 수 있습니다. **Event Log** 서비스를 사용하지 않으면 이벤트를 추적할 수 없으므로 시스템 문제를 올바르게 진단할 수 있는 기능이 상당히 줄어듭니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스의 값을 **자동**으로 설정합니다.
+### Fax Service
+
+**표 135: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Fax</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Fax Service** 시스템 서비스는 TAPI(Telephony API) 규격의 서비스로, 컴퓨터의 팩스 기능을 제공합니다. **Fax Service**를 사용하면 로컬 팩스 장치나 공유 네트워크 팩스 장치를 사용하여 데스크톱 응용 프로그램에서 팩스를 보내고 받을 수 있습니다. 기준 서버에서 이 서비스를 사용하지 않으면 컴퓨터에서 팩스를 보내거나 받을 수 없게 됩니다.
+### File Replication
+
+**표 136: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+NtFrs</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**File Replication Service**(FRS)를 사용하면 여러 서버에서 동시에 파일을 자동으로 복사하고 관리하도록 할 수 있습니다. **File Replication Service**를 사용하지 않는 경우에는 파일이 복제되지 않고 서버 데이터가 동기화되지 않습니다. 도메인 컨트롤러의 경우 FRS 서비스를 중지하면 도메인 컨트롤러의 기능에 심각한 영향을 줄 수 있습니다. 따라서 기준 정책에서는 이 서비스의 값을 **사용 안 함**으로 설정합니다. 그러나 이 설명서에 정의된 세 가지 환경의 도메인 컨트롤러 기준 정책에서는 이 설정을 **자동**으로 설정합니다.
+### File Server for Macintosh
+
+**표 137: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+MacFile</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**File Server for Macintosh** 시스템 서비스는 Macintosh 사용자가 로컬 Windows 서버 컴퓨터의 파일을 저장하고 액세스할 수 있도록 합니다. 표준 서버 환경에서는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### FTP Publishing Service
+
+**표 138: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+MSFtpsvc</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**FTP Publishing Service**는 IIS 스냅인을 통한 연결 및 관리 기능을 제공합니다. 표준 서버 환경에서는 **FTP Publishing Service**가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Help and Support
+
+**표 139: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+helpsvc</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Help and Support** 시스템 서비스는 사용자의 컴퓨터에서 도움말 및 지원 센터를 실행할 수 있도록 합니다. 이 서비스는 도움말 및 지원 센터 응용 프로그램을 지원하고 클라이언트 응용 프로그램과 도움말 데이터 간의 통신을 가능하게 합니다. 이 시스템 서비스를 사용하지 않도록 설정하면 도움말 및 지원 센터를 사용할 수 없게 됩니다. 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### HTTP SSL
+
+**표 140: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+HTTPFilter</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**HTTP SSL** 시스템 서비스는 IIS에서 SSL 기능을 수행할 수 있도록 합니다. HTTP SSL 서비스는 보안 전자 거래를 가능하게 합니다. 그러나 기준 정책에서는 공격 허점을 줄이기 위해 이 서비스를 **사용 안 함**으로 구성하는 것이 좋습니다. IIS 서버 역할 정책에서는 이 서비스를 **자동**으로만 설정해야 합니다.
+### Human Interface Device Access
+
+**표 141: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+HidServ</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Human Interface Device Access** 시스템 서비스는 키보드와 원격 제어, 기타 멀티미디어 장치에서 사전 정의된 버튼을 사용하는 HID 장치에 일반 입력 액세스를 사용할 수 있도록 합니다. 기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 따라서 이 서비스의 값을 **사용 안 함**으로 설정합니다.
+### IAS Jet Database Access
+
+**표 142: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+IASJet</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**IAS Jet Database Access** 시스템 서비스는 64비트 버전의 Windows Server 2003에서만 사용할 수 있습니다. 이 서비스는 RADIUS(Remote Authentication Dial?in User Service) 프로토콜을 사용하여 인증, 권한 부여 및 계정 서비스를 제공합니다. 이 서비스는 **사용 안 함**으로 구성합니다.
+### IIS Admin Service
+
+**표 143: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+IISADMIN</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**IIS Admin Service**를 사용하여 FTP, 응용 프로그램 풀, 웹 사이트, 웹 서비스 확장 등의 IIS 구성 요소와 NNTP(Network News Transfer Protocol) 및 SMTP(Simple Mail Transfer Protocol) 가상 서버를 관리할 수 있습니다. 이 서비스를 사용하지 않으면 웹, FTP, NNTP 또는 SMTP 사이트를 실행할 수 없습니다. 따라서 IIS 서버 정책에서는 이 서비스를 **자동**으로 설정합니다. 기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 따라서 이 서비스를 **사용 안 함**으로 구성합니다. 그러나 IIS 역할 정책에서는 이 서비스를 **자동**으로 설정합니다.
+### IMAPI CD?Burning COM Service
+
+**표 144: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+ImapiService</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**IMAPI CD?Burning COM Service**는 IMAPI(Image Mastering Applications Programming Interface) COM 인터페이스를 사용하여 CD 굽기 기능을 관리하고, Windows Explorer, WMP(Windows Media Player) 또는 이 API를 사용하는 타사 응용 프로그램을 통해 사용자가 요청하면 CD?R 쓰기를 수행합니다. 기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 따라서 이 서비스를 **사용 안 함**으로 구성합니다.
+### Indexing Service
+
+**표 145: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+cisvc</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Indexing Service**는 로컬 및 원격 컴퓨터에 있는 파일의 내용과 속성을 인덱싱하여 다양한 쿼리 언어를 통해 파일에 빠르게 액세스할 수 있도록 합니다. 또한 **Indexing Service**는 로컬 또는 원격 컴퓨터에 있는 문서를 빠르게 검색하고 웹에서 공유되는 콘텐트에 대한 검색 인덱스를 사용할 수 있도록 합니다. 기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 따라서 이 서비스를 **사용 안 함**으로 구성합니다.
+### Infrared Monitor
+
+**표 146: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Irmon</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Infrared Monitor** 시스템 서비스는 적외선 장치를 사용하여 파일 및 이미지를 공유할 수 있도록 합니다. 기본적으로 이 서비스는 Windows Server 2003 운영 체제를 설치하는 동안 적외선 장치가 발견된 경우에만 설치됩니다. Windows Server 2003 Web, Enterprise 또는 Datacenter 서버에서는 이 서비스를 사용할 수 없습니다.
+
+이 서비스를 사용하지 않도록 설정하면 적외선 장치를 사용하여 파일 및 이미지를 공유할 수 없습니다. 기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 따라서 이 서비스를 **사용 안 함**으로 구성합니다.
+### Internet Authentication Service
+
+**표 147: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+IAS</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Internet Authentication Service**(IAS)는 네트워크 액세스 인증, 권한 부여, 감사 및 계정 작업을 중점적으로 관리합니다. IAS는 IETF RADIUS 프로토콜과 호환되는 액세스 서버에서 보낸 VPN(가상 사설망), 전화 접속, 802.1X 무선 또는 이더넷 스위치의 연결 시도에 대해 사용되는 서비스입니다. 기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 따라서 이 서비스를 **사용 안 함**으로 구성합니다.
+### ICF(Internet Connection Firewall)/ICS(Internet Connection Sharing)
+
+**표 148: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+SharedAccess</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**ICF(Internet Connection Firewall/ICS(Internet Connection Sharing)** 시스템 서비스는 전화 접속 또는 광대역 연결을 사용하는 홈 네트워크나 소규모 네트워크의 모든 컴퓨터에 대해 NAT(네트워크 주소 변환), 주소 지정/이름 확인 및 침입 방지 서비스를 제공합니다. 기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 따라서 이 서비스를 **사용 안 함**으로 구성합니다.
+### Intersite Messaging
+
+**표 149: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+IsmServ</td>
+<td style="border:1px solid black;">
+사용 안 함(도메인 컨트롤러에 대해 시작되는 경우)</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Intersite Messaging** 시스템 서비스는 Windows Server 사이트를 실행하는 컴퓨터 사이에서 메시지를 교환할 수 있도록 합니다. 이 서비스는 사이트 간의 메일 기반 복제에 사용됩니다. Active Directory에는 IP를 통한 SMTP 전송을 사용하여 사이트 간 복제를 지원하는 기능이 포함되어 있습니다. 기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 따라서 이 서비스를 **사용 안 함**으로 구성합니다. 그러나 도메인 컨트롤러에서는 이 서비스가 필요합니다. 따라서 이 설명서에 정의된 세 가지 환경의 도메인 컨트롤러에서는 **Intersite Messaging** 서비스를 **자동**으로 설정합니다.
+### IP Version 6 Helper Service
+
+**표 150: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+6to4</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**IP Version 6 Helper Service** 시스템 서비스는 기존의 IPv4 네트워크를 통한 IPv6 연결 기능을 제공합니다. 기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 따라서 이 서비스를 **사용 안 함**으로 구성합니다.
+### IPSEC 정책 에이전트(IPSec 서비스)
+
+**표 151: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+PolicyAgent</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**IPSEC 정책 에이전트** 서비스는 TCP/IP 네트워크의 클라이언트와 서버 사이에 종단 간 보안을 제공합니다. 또한 IPSec(IP 보안) 정책을 관리하고, IKE(인터넷 키 교환)를 시작하고, IP 보안 드라이버를 사용하여 IPSec 정책 설정을 관리합니다. 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 사용하도록 구성합니다.
+### Kerberos Key Distribution Center
+
+**표 152: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Kdc</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Kerberos Key Distribution Center** 시스템 서비스는 사용자가 Kerberos v5 인증 프로토콜을 사용하여 네트워크에 로그온할 수 있도록 합니다. 따라서 도메인 컨트롤러의 정책에서는 이 서비스의 값을 **자동**으로 설정합니다.
+### License Logging Service
+
+**표 153: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+LicenseService</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**License Logging Service**는 운영 체제의 일부에 대한 클라이언트 액세스 라이센스를 모니터링하고 기록합니다. 여기에는 IIS, 터미널 서버 및 파일/인쇄뿐 아니라 운영 체제와 함께 제공되지 않는 SQL Server, Microsoft Exchange Server 등의 제품도 포함됩니다. 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Logical Disk Manager
+
+**표 154: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+dmserver</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Logical Disk Manager** 시스템 서비스는 새 하드 디스크 드라이브를 검색하고 모니터링하며, 디스크 볼륨 정보를 논리 디스크 관리자 관리 서비스로 보냅니다. 이 서비스는 검색된 새 드라이브에 대한 플러그 앤 플레이 이벤트를 감시하고, 볼륨 및 디스크 정보를 논리 디스크 관리자 관리 서비스에 전달하여 구성되도록 합니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를**수동**으로 구성합니다.
+### Logical Disk Manager Administrative Service
+
+**표 155: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+dmadmin</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Logical Disk Manager Administrative Service**는 디스크 관리 요청에 대한 관리 서비스를 수행하고 하드 디스크 드라이브 및 볼륨을 구성합니다. **Logical Disk Manager Administrative Service**는 사용자가 드라이브 또는 파티션을 구성하거나 새 드라이브가 검색될 때만 시작됩니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를**수동**으로 구성합니다.
+### Message Queuing
+
+**표 156: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+msmq</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**메시지 큐** 시스템 서비스는 Windows용 분산 메시징 응용 프로그램을 만들기 위한 개발 및 메시징 인프라 도구입니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Message Queuing Down Level Clients
+
+**표 157: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+mqds</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Message Queuing Down Level Clients** 시스템 서비스는 도메인 컨트롤러에서 메시지 큐 클라이언트(Windows 9x, Windows NT 4.0, Windows 2000)에 Active Directory 액세스를 제공합니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Message Queuing Triggers
+
+**표 158: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Mqtgsvc</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Message Queuing Triggers** 시스템 서비스는 메시지 큐에 도착한 메시지에 규칙 기반의 모니터링을 제공하고 규칙 조건을 만족할 경우 COM 구성 요소 또는 메시지를 처리하는 독립 실행형 프로그램을 실행합니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Messenger
+
+**표 159: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Messenger</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Messenger** 시스템 서비스는 클라이언트와 서버 사이에 경고 서비스 메시지를 전송하고 보냅니다. 이 서비스는 Windows Messenger와 관련되지 않습니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Microsoft POP3 Service
+
+**표 160: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+POP3SVC</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Microsoft POP3 Service**는 전자 메일 전송 및 검색 서비스를 제공합니다. 관리자는 POP3 서비스를 사용하여 메일 서버의 전자 메일 계정을 저장하고 관리할 수 있습니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### MSSQL$UDDI
+
+**표 161: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+MSSQL$UDDI</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**MSSQL$UDDI** 시스템 서비스는 UDDI(Universal Description Discovery and Integration)로, 웹 서비스에 대한 정보를 게시하고 찾기 위한 업계 사양입니다. Windows Server 2003 제품군에는 기업 내에서나 조직 간에 사용할 수 있는 UDDI 기능을 제공하는 웹 서비스인 UDDI 서비스가 포함되어 있습니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### MSSQLServerADHelper
+
+**표 162: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+MSSQLServerADHelper</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**MSSQLServerADHelper** 시스템 서비스는 SQL Server 및 SQL Server Analysis Services에서 Active Directory에 정보를 게시할 수 있도록 합니다(서비스가 LocalSystem 계정에서 실행되지 않는 경우). 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### .NET Framework Support Service
+
+**표 163: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+CORRTSvc</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**.NET Framework Support Service** 시스템 서비스는 지정된 프로세스에서 클라이언트 런타임 서비스를 초기화하면 등록 중인 클라이언트에게 알려 줍니다. **.NET Framework Support Service**는 공용 언어 런타임이라는 런타임 환경을 제공합니다. 이 런타임 환경에서는 코드 실행을 관리하고 개발 과정을 쉽게 해주는 서비스를 제공합니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Netlogon
+
+**표 164: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Netlogon</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Netlogon** 시스템 서비스는 사용자 및 서비스를 인증하기 위해 컴퓨터와 도메인 컨트롤러 사이에 보안 채널을 유지합니다. 이 서비스를 사용하지 않도록 설정하면 시스템 네트워크의 컴퓨터에서 사용자 및 서비스를 인증할 수 없고 도메인 컨트롤러에서 DNS 레코드를 등록할 수 없게 됩니다. 특히, NTLM 인증 요청을 거부하게 될 수 있으며, 도메인 컨트롤러의 경우에는 클라이언트 컴퓨터에서 검색할 수 없게 됩니다. 따라서 이 서비스의 값은 **자동**으로 설정합니다.
+### NetMeeting Remote Desktop Sharing
+
+**표 165: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+mnmsrvc</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**NetMeeting Remote Desktop Sharing** 시스템 서비스는 허가된 사용자가 회사 인트라넷에서 Microsoft NetMeeting을 사용하여 컴퓨터에 원격으로 액세스할 수 있도록 합니다. 이 서비스는 NetMeeting에서 명시적으로 설정해야 하며 NetMeeting에서 이 서비스를 해제하거나 Windows 트레이 아이콘을 통해 이 서비스를 종료할 수 있습니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Network Connections
+
+**표 166: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Netman</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Network Connections** 서비스는 네트워크 및 원격 연결을 모두 볼 수 있는 네트워크 연결 폴더의 개체를 관리합니다. 시작 유형이 **수동**인 경우 네트워크 연결 인터페이스가 호출되면 이 서비스가 자동으로 시작됩니다. 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **수동**으로 구성합니다.
+### Network DDE
+
+**표 167: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+NetDDE</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**네트워크 DDE** 시스템 서비스는 동일한 컴퓨터나 서로 다른 컴퓨터에서 실행되는 프로그램에 대해 네트워크 전송 및 DDE(동적 데이터 교환) 보안을 제공합니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Network DDE DSDM
+
+**표 168: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+NetDDEdsdm</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Network DDE DSDM** 시스템 서비스는 DDE 네트워크 공유를 관리합니다. 이 서비스는 네트워크 DDE 서비스에서 공유 DDE 대화를 관리하는 데만 사용됩니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### NLA(Network Location Awareness)
+
+**표 169: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+NLA</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**NLA(Network Location Awareness)** 시스템 서비스는 IP 주소 및 도메인 이름 변경 내용과 같은 네트워크 구성 정보와 위치 변경 정보를 수집하고 저장하며 이 정보가 변경되면 프로그램에 알립니다. 이 서비스를 사용하지 않으면 네트워크를 찾을 수 없으며 관련된 모든 서비스를 시작할 수 없게 됩니다. 이러한 기능은 기준 서버 환경에서 필요할 수 있습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를**수동**으로 구성합니다.
+### NNTP(Network News Transport Protocol)
+
+**표 170: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+NntpSvc</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**NNTP(Network News Transport Protocol)** 시스템 서비스는 Windows Server 2003을 실행하는 컴퓨터가 뉴스 서버 역할을 하도록 할 수 있습니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### NTLM Security Support Provider
+
+**표 171: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+NtLmSsp</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**NTLM 보안 지원 공급자** 시스템 서비스는 명명된 파이프 이외의 전송 수단을 사용하는 RPC 프로그램에 보안 기능을 제공하며, 사용자가 NTLM 인증 프로토콜을 사용하여 네트워크에 로그인할 수 있도록 합니다. NTLM 프로토콜은 Kerberos v5 인증을 사용하지 않는 클라이언트를 인증합니다. 이 서비스를 사용하지 않으면 사용자는 NTLM 인증 프로토콜을 사용하여 클라이언트에 로그온하거나 네트워크 리소스에 액세스할 수 없습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **자동**으로 구성합니다.
+### Performance Logs and Alerts
+
+**표 172: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+SysmonLog</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Performance Logs and Alerts** 시스템 서비스는 미리 구성된 일정 매개 변수를 사용하여 로컬 또는 원격 컴퓨터에서 성능 데이터를 수집한 다음 로그에 데이터를 기록하거나 경고를 트리거합니다. 이러한 기능은 기준 서버 환경에서 필요합니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를**수동**으로 구성합니다.
+### Plug and Play
+
+**표 173: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+PlugPlay</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Plug and Play** 시스템 서비스는 사용자 입력 없이도 컴퓨터에서 하드웨어 변경 내용을 인식하고 적용할 수 있도록 합니다. MSCONFIG 문제 해결 도구를 사용함으로써 이 서비스가 중지되면 장치 관리자 인터페이스가 빈 상태로 나타나며 하드웨어 장치가 표시되지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **자동**으로 구성합니다.
+### Portable Media Serial Number
+
+**표 174: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+WmdmPmSN</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Portable Media Serial Number** 시스템 서비스는 컴퓨터에 연결된 휴대용 음악 플레이어의 일련 번호를 검색합니다. 기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Print Server for Macintosh
+
+**표 175: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+MacPrint</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Print Server for Macintosh** 시스템 서비스는 Macintosh 클라이언트가 Windows Server 2003 Enterprise Server를 실행하는 컴퓨터에 있는 인쇄 스풀러로 인쇄를 라우팅하도록 합니다. 기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Print Spooler
+
+**표 176: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Spooler</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Print Spooler** 시스템 서비스는 모든 로컬 및 네트워크 프린터 큐를 관리하고 모든 인쇄 작업을 제어합니다. 기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 따라서 이 서비스는 **사용 안 함**으로 구성합니다. 그러나 인쇄 서버 역할의 경우에는 이 서비스를 **자동**으로 설정합니다. 이 서버 역할에 대한 자세한 내용은 모듈 "Windows Server 2003 인쇄 서버 강화"를 참조하십시오.
+### Protected Storage
+
+**표 177: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+ProtectedStorage</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Protected Storage** 시스템 서비스는 개인 키와 같은 중요한 정보의 저장소를 보호하고 허가되지 않은 서비스, 프로세스 또는 사용자가 액세스하지 못하도록 합니다. 이 서비스를 사용하지 않으면 개인 키에 액세스할 수 없고, 인증서 서버가 작동하지 않고, S/MIME 및 SSL이 작동하지 않고, 스마트 카드로 로그온할 수 없게 됩니다. 따라서 이 서비스의 값은 **자동**으로 설정합니다.
+### Remote Access Auto Connection Manager
+
+**표 178: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+RasAuto</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Remote Access Auto Connection Manager** 시스템 서비스는 원격 네트워크 또는 컴퓨터에 연결하려고 했지만 실패한 경우 이를 감지하고 대체 방법을 제공합니다. **Remote Access Auto Connection Manager** 서비스는 프로그램이 원격 DNS나 NetBIOS 이름 또는 주소를 참조하는 데 실패할 때마다 전화 접속 또는 VPN(가상 사설망)을 통해 원격 네트워크에 연결할 수 있도록 합니다. 기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Remote Access Connection Manager
+
+**표 179: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+RasMan</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Remote Access Connection Manager** 시스템 서비스는 컴퓨터에서 인터넷 또는 다른 원격 네트워크로 연결되는 전화 접속 및 VPN 연결을 관리합니다. 기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Remote Administration Service
+
+**표 180: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+SrvcSurg</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Remote Administration Service** 시스템 서비스는 서버를 다시 시작할 때 다음과 같은 원격 관리 작업을 실행합니다.
+-   
+
+    서버 부팅 횟수 증가
+
+-   
+
+    서버에 날짜 및 시간을 설정하지 않은 경우 경고 발생
+
+-   
+
+    이벤트 전자 메일 통지 기능을 구성하지 않은 경우 경고 발생
+
+이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **수동**으로 구성합니다.
+### Remote Desktop Help Session Manager
+
+**표 181: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+RDSessMgr</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Remote Desktop Help Session Manager** 시스템 서비스는 도움말 및 지원 센터 응용 프로그램(helpctr.exe)의 원격 지원 기능을 관리하고 제어합니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Remote Installation
+
+**표 182: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+BINLSVC</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**RIS(Remote Installation Services)** 시스템 서비스는 Windows Server 제품군에 포함된 Windows 배포 기능입니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Remote Procedure Call(RPC)
+
+**표 183: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+RpcSs</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Remote Procedure Call(RPC)** 시스템 서비스는 서로 다른 프로세스에 있는 데이터를 교환하고 기능을 호출할 수 있도록 하는 안전한 IPC(프로세스 간 통신) 메커니즘입니다. 각 프로세스는 동일한 컴퓨터에서 수행되거나, LAN(Local Area Network) 또는 인터넷을 통해 수행될 수 있습니다. 이 서비스는 사용할 수 없도록 설정해야 합니다. **Remote Procedure Call(RPC)** 서비스를 사용하지 않으면 운영 체제에서는 관련된 많은 서비스를 로딩하지 않게 됩니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **자동**으로 구성합니다.
+### Remote Procedure Call (RPC) Locator
+
+**표 184: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+RpcLocator</td>
+<td style="border:1px solid black;">
+수동(도메인 컨트롤러에서는 자동)</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Remote Procedure Call (RPC) Locator** 시스템 서비스는 RpcNs\* 제품군 API를 사용하는 RPC 클라이언트에서 RPC 서버를 찾을 수 있도록 하고, RPC 이름 서비스 데이터베이스를 관리합니다. 기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 따라서 이 서비스를 **사용 안 함**으로 구성합니다. 그러나 도메인 컨트롤러에서는 이 시스템 서비스를 **자동**으로 설정해야 합니다.
+### Remote Registry Service
+
+**표 185: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+RemoteRegistry</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Remote Registry Service** 시스템 서비스는 해당 사용 권한이 있는 경우 원격 사용자가 사용자의 컴퓨터에서 레지스트리 설정을 수정할 수 있도록 합니다. 이 서비스는 주로 원격 관리자와 성능 카운터가 사용합니다. **Remote Registry Service**를 사용하지 않으면 로컬 컴퓨터에서만 레지스트리를 수정할 수 있으며 관련된 모든 서비스를 시작할 수 없게 됩니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **자동**으로 구성합니다.
+### Remote Server Manager
+
+**표 186: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+AppMgr</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Remote Server Manager**는 원격 관리 경고 개체에 대한 WMI(Windows Management Instrumentation) 인스턴스 공급자 역할과 원격 관리 작업에 대한 WMI 메서드 공급자 역할을 합니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Remote Server Monitor
+
+**표 187: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Appmon</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Remote Server Monitor** 시스템 서비스는 중요한 시스템 리소스를 모니터링하고 원격으로 관리되는 서버의 선택적 watchdog 타이머 하드웨어를 관리합니다. 기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Remote Storage Notification
+
+**표 188: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Remote_Storage_User_Link</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Remote Storage Notification** 시스템 서비스는 사용자가 보조 저장소 미디어에서만 사용할 수 있는 파일을 읽고 쓰면 사용자에게 이를 알립니다. 기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Remote Storage Server
+
+**표 189: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Remote_Storage_Server</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Remote Storage Server** 시스템 서비스는 자주 사용되지 않는 파일을 보조 저장소 미디어에 저장합니다. 이 서비스는 오프라인 파일이 액세스될 때 Remote Storage Notification 서비스에서 사용자에게 이를 알릴 수 있도록 합니다. 기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Removable Storage
+
+**표 190: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+NtmsSvc</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Removable Storage** 시스템 서비스는 이동식 미디어를 관리하고 분류하며 자동화된 이동식 미디어를 작동시킵니다. 이 서비스는 테이프 및 CD를 포함하여 컴퓨터에서 사용하는 이동식 미디어에 대한 식별 정보의 카탈로그를 관리합니다. 기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+
+**중요:** 이 서비스는 Ntbackup.exe를 사용하는 시스템 백업에 필요합니다. Ntbackup.exe를 사용하는 경우에는 이 서비스를 **수동**으로 설정합니다.
+### Resultant Set of Policy Provider
+
+**표 191: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+RSoPProv</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Resultant Set of Policy Provider** 시스템 서비스를 사용하면 Windows Server 2003 도메인 컨트롤러에 연결할 수 있고, 해당 컴퓨터에 대한 WIMI 데이터베이스에 액세스할 수 있고, Windows 2000 이상 도메인의 Active Directory에 있는 사용자나 컴퓨터에 적용되는 그룹 정책 설정에 대해 RSoP(정책 결과 집합)를 시뮬레이션할 수 있습니다. 일반적으로 이 서비스를 계획 모드라고 합니다. 기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Routing and Remote Access
+
+**표 192: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+RemoteAccess</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Routing and Remote Access** 시스템 서비스는 다중 프로토콜 LAN?to?LAN, LAN?to?WAN, VPN 및 NAT 라우팅 서비스를 제공합니다. 또한 이 서비스는 전화 접속 및 VPN 원격 액세스 서비스도 제공합니다. 기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### SAP Agent
+
+**표 193: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Nwsapagent</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**SAP Agent** 시스템 서비스는 IPX SAP(IPX 서비스 알림 프로토콜) 프로토콜을 사용하여 IPX 네트워크의 네트워크 서비스를 알려 줍니다. 기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Secondary Logon
+
+**표 194: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Seclogon</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Secondary Logon** 시스템 서비스는 사용자가 다른 보안 사용자의 컨텍스트에서 프로세스를 만들 수 있도록 합니다. 제한된 사용자는 일반적으로 관리 프로그램을 임시로 실행하기 위해 이 서비스를 사용하여 향상된 권한이 있는 사용자로 로그온합니다. 이 서비스를 사용하면 사용자는 다른 자격 증명으로 프로세스를 시작할 수 있습니다. 기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 이 서비스는 클라이언트 컴퓨터에는 유용하지만, 대부분의 서버에서는 대화형으로 서버에 로그온하는 사용자가 일반적으로 관리자 권한이 필요한 관리 작업을 수행하는 IT 팀의 구성원이므로 이 서비스가 적절하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Security Accounts Manager
+
+**표 195: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+SamSs</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Security Accounts Manager**(SAM) 시스템 서비스는 보호되는 하위 시스템으로, 사용자 및 그룹 계정 정보를 관리합니다. Windows 2000 및 Windows Server 2003 제품군에서 로컬 컴퓨터 레지스트리의 SAM은 워크스테이션 보안 계정을 저장하며, 도메인 컨트롤러 계정은 Active Directory에 저장됩니다. 이 서비스는 사용할 수 없도록 설정해야 합니다.
+### Server
+
+**표 196: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+lanmanserver</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Server** 시스템 서비스는 RPC 지원 기능, 파일, 인쇄 및 네트워크를 통한 명명된 파이프 공유를 제공합니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스의 값을 **자동**으로 설정하는 것이 좋습니다.
+### Shell Hardware Detection
+
+**표 197: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+ShellHWDetection</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Shell Hardware Detection** 시스템 서비스는 자동 실행 하드웨어 이벤트에 대한 알림을 모니터링하여 제공합니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Simple Mail Transport Protocol(SMTP)
+
+**표 198: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+SMTPSVC</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Simple Mail Transport Protocol(SMTP)** 시스템 서비스는 네트워크를 통해 전자 메일을 전송합니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Simple TCP/IP Services
+
+**표 199: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+SimpTcp</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Simple TCP/IP Services** 시스템 서비스는 다음과 같은 TCP/IP 프로토콜을 지원합니다.
+-   
+
+    Echo(포트 7, RFC 862)
+
+-   
+
+    Discard(포트 9, RFC 863)
+
+-   
+
+    Character Generator(포트 19, RFC 864)
+
+-   
+
+    Daytime(포트 13, RFC 867)
+
+-   
+
+    Quote of the Day(포트 17, RFC 865)
+
+기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Single Instance Storage Groveler
+
+**표 200: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Groveler</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Single Instance Storage Groveler**(SIS) 시스템 서비스는 RIS(원격 설치 서비스) 볼륨에 필요한 전체 저장소 크기를 줄이는 RIS의 필수 구성 요소입니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Smart Card
+
+**표 201: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+SCardSvr</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Smart Card** 시스템 서비스는 컴퓨터에 연결된 스마트 카드 판독기에 삽입된 스마트 카드에 대한 액세스를 관리하고 제어합니다. 이 서비스를 사용하지 않으면 사용 환경의 컴퓨터에서 스마트 카드를 읽을 수 없게 됩니다. 또한 관련된 모든 서비스를 시작할 수 없게 됩니다. 기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+
+**참고:** 보안 사용자가 인증받으려는 인증 형식은 두 개의 신원 확인 요소를 사용하여 사용자의 ID를 확인합니다. 이 경우 종종 사용자가 알고 있는 것과 사용자가 갖고 있는 것을 제공해야 합니다. 예를 들면 컴퓨터에 스마트 카드를 삽입하고 해당 카드의 PIN을 입력해야 합니다. 사용자의 신원을 입증하는 데 일반적으로 사용되는 세 번째 요소는 사용자의 신분에 관한 것입니다. 예를 들어, 사용자가 망막 스캐너로 망막을 스캔한 후 암호를 입력해야 제한된 리소스에 액세스할 수 있는 경우는 이 유형을 포함하는 2요소 인증의 예입니다. 스마트 카드를 사용하여 다요소 인증을 구현하는 것은 가장 좋은 방법이며 모든 관리자 계정에 사용됩니다. 조직에서 스마트 카드 인증을 사용하는 경우에는 이 서비스를 **수동**으로 설정해야 합니다.
+### SNMP Service
+
+**표 202: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+SNMP</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**SNMP 서비스**를 사용하면 들어오는 SNMP 요청을 로컬 컴퓨터에서 서비스할 수 있습니다. **SNMP 서비스**에는 네트워크 장치의 작업을 모니터링하고 네트워크 콘솔 워크스테이션에 보고하는 에이전트가 포함됩니다. 이 설명서의 세 가지 환경에서는 **SNMP 서비스**에 대한 요구 사항이나 종속성이 없습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### SNMP Trap Service
+
+**표 203: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+SNMPTRAP</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**SNMP Trap Service**는 로컬 또는 원격 SNMP 에이전트가 만든 트랩 메시지를 받아 사용자의 컴퓨터에서 실행 중인 SNMP 관리 프로그램에 전달합니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Special Administration Console Helper
+
+**표 204: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Sacsvr</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Special Administration Console Helper**(SAC) 시스템 서비스는 Windows Server 2003 운영 체제 제품군이 중지 오류 메시지로 인해 작동이 중지된 경우 원격 관리 작업을 수행합니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### SQLAgent$\*(\*UDDI 또는 WebDB)
+
+**표 205: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+SQLAgent$WEBDB</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**SQLAgent$\*(\* UDDI 또는 WebDB)**는 작업 스케줄러 및 모니터링 서비스입니다. 또한 이 서비스는 SQL Server를 실행하는 컴퓨터 사이에 정보를 이동하며, 백업 및 복제에도 자주 사용됩니다. **SQLAgent$\*(\* UDDI 또는 WebDB)**서비스가 중지되면 SQL 복제가 수행되지 않습니다. 또한 예약된 모든 작업 및 경고/이벤트 모니터링을 수행할 수 없으며 SQL Server 서비스를 자동으로 다시 시작할 수 없게 됩니다. 이 서비스를 사용하지 않으면 관련된 모든 서비스를 시작할 수 없게 됩니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### System Event Notification
+
+**표 206: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+SENS</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**System Event Notification** 시스템 서비스는 Windows 로그온 네트워크 및 전원 이벤트와 같은 시스템 이벤트를 모니터링하고 추적한 다음 이러한 이벤트의 COM+ 이벤트 시스템 가입자에게 알려 줍니다. 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **자동**으로 구성합니다.
+### Task Scheduler
+
+**표 207: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Schedule</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Task Scheduler** 시스템 서비스는 사용자가 컴퓨터에서 자동 작업을 구성하고 예약할 수 있도록 합니다. Task Scheduler 서비스는 사용자가 선택한 모든 기준을 모니터링하고 기준에 맞으면 해당 작업을 수행합니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+
+**중요:** 예약된 백업에 대해 Ntbackup.exe를 사용하는 경우에는 이 서비스를 **자동**으로 설정해야 합니다.
+### TCP/IP NetBIOS Helper Service
+
+**표 208: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+LMHosts</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**TCP/IP NetBIOS Helper Service** 시스템 서비스는 네트워크의 클라이언트에 대해 NetBT(NetBIOS over the TCP/IP) 서비스와 NetBIOS 이름 확인을 지원하여 사용자가 파일을 공유하거나 인쇄하거나 네트워크에 로그온할 수 있도록 합니다. 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **자동**으로 구성합니다.
+### TCP/IP Print Server
+
+**표 209: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+LPDSVC</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**TCP/IP Print Server** 시스템 서비스는 Line Printer Daemon 프로토콜을 사용하여 TCP/IP 기반의 인쇄를 사용할 수 있도록 합니다. 기준 서버 환경에서는 이 기능이 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Telephony
+
+**표 210: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+TapiSrv</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Telephony** 서비스는 로컬 컴퓨터에서 또는 마찬가지로 이 서비스를 실행하는 서버의 LAN을 통해 전화 통신 장치 및 IP 기반 음성 연결을 제어하는 프로그램에 대해 API(TAPI) 지원을 제공합니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Telnet
+
+**표 211: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+TlntSvr</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+Windows용 **Telnet** 시스템 서비스는 텔넷 클라이언트에 ASCII 터미널 세션을 제공합니다. 이 서비스는 두 가지 인증 유형과 ANSI, VT?100, VT?52 및 VTNT라는 4가지 터미널 유형을 지원합니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Terminal Services
+
+**표 212: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+TermService</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Terminal Services** 시스템 서비스는 클라이언트 장치가 서버에서 실행되는 가상Windows 데스크톱 세션 및 Windows 기반 프로그램에 액세스할 수 있도록 다중 세션 환경을 제공합니다. **터미널 서비스**를 사용하면 여러 명의 사용자가 한 컴퓨터에 대화형으로 연결할 수 있으며 원격 컴퓨터에 데스크톱 및 응용 프로그램을 표시할 수 있습니다. 기본적으로 **Terminal Services** 시스템 서비스는 원격 관리 모드에서 설치됩니다. **터미널 서비스**를 응용 프로그램 모드에서 설치하려면 **서버 구성** 또는 **Windows 구성 요소 추가/제거**를 사용하여 **터미널 서비스** 모드를 변경합니다. 이 서비스는 서버의 원격 관리에 사용하는 강력한 도구이므로 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **자동**으로 구성합니다.
+
+**참고:** 사용 환경의 컴퓨터를 원격으로 사용할 수 없게 하려면 **시스템 속성** 대화 상자의 **원격** 탭에 있는 **원격 지원 허용** 및 **원격 데스크톱 허용** 확인란의 선택을 취소합니다.
+### Terminal Services Licensing
+
+**표 213: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+TermServLicensing</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Terminal Services Licensing** 시스템 서비스는 사용이 허가된 서버를 설치하고 터미널 서버에 연결할 때 등록된 클라이언트 라이센스를 제공합니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Terminal Services Session Directory
+
+**표 214: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Tssdis</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Terminal Services Session Directory** 시스템 서비스는 클라이언트 장치가 Windows Server 2003에서 실행되는 가상 Windows 데스크톱 세션 및 Windows 기반 프로그램에 액세스할 수 있도록 다중 세션 환경을 제공합니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Themes
+
+**표 215: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Themes</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Themes** 시스템 서비스는 사용자 경험 테마 관리 서비스를 제공합니다. **Themes** 서비스는 새 Windows XP Professional GUI(그래픽 사용자 인터페이스)에 대한 렌더링 지원 기능을 제공합니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Trivial FTP Daemon
+
+**표 216: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+tftpd</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**TFTP(Trivial FTP Daemon)** 시스템 서비스는 사용자 이름이나 암호가 필요하지 않으며 RIS의 필수 구성 요소입니다. **Trivial FTP Daemon** 서비스는 다음과 같은 RFC에 의해 정의된 TFTP 프로토콜에 대한 지원을 구현합니다.
+-   
+
+    RFC 1350 - TFTP
+
+-   
+
+    RFC 2347 - 옵션 확장
+
+-   
+
+    RFC 2348 - 블록 크기 옵션
+
+-   
+
+    RFC 2349 - 제한 시간 간격 및 전송 크기 옵션
+
+이 서비스를 사용하지 않으면 이 서버에서 RIS를 요청하는 클라이언트 컴퓨터를 설치할 수 없습니다. 그러나 기준 서버 환경에서는 이 기능이 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Uninterruptible Power Supply
+
+**표 217: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+UPS</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Uninterruptible Power Supply** 시스템 서비스는 직렬 포트로 컴퓨터에 연결되어 있는 UPS(무정전 전원 공급 장치)를 관리합니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Upload Manager
+
+**표 218: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Uploadmgr</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Upload Manager** 시스템 서비스는 네트워크에 있는 클라이언트와 서버 사이의 동기 및 비동기 파일 전송을 관리합니다. 드라이버 데이터는 고객 컴퓨터에서 익명으로 Microsoft에 업로드되며 사용자가 시스템에 필요한 드라이버를 찾도록 도와 줍니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Virtual Disk Service
+
+**표 219: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+VDS</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Virtual Disk Service**(VDS) 시스템 서비스는 운영 체제 소프트웨어, RAID(Redundant Array of Independent Disks) 저장 하드웨어 하위 시스템 또는 기타 가상화 엔진에서 수행되는 모든 블록 저장소 가상화를 관리하기 위한 단일 인터페이스를 제공합니다. 기준 서버 환경에서는 이러한 기능이 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Volume Shadow Copy
+
+**표 220: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+VSS</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Volume Shadow Copy** 시스템 서비스는 백업 및 기타 목적에 사용되는 볼륨 섀도 복사본을 관리하고 구현합니다. 이 서비스는 기준 서버 정책에 반드시 필요합니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **수동**으로 구성합니다.
+### WebClient
+
+**표 221: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+WebClient</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**WebClient** 시스템 서비스는 Win32 응용 프로그램에서 인터넷에 있는 문서를 액세스할 수 있도록 합니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Web Element Manager
+
+**표 222: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+elementmgr</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Web Element Manager** 시스템 서비스는 포트 8098에서 관리 웹 사이트에 웹 사용자 인터페이스 요소를 제공합니다. 기준 서버 환경에서는 이 기능이 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Windows Audio
+
+**표 223: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+AudioSrv</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Windows Audio** 시스템 서비스는 사운드 및 관련된 Windows Audio 이벤트 기능에 대한 지원을 제공합니다. 기준 서버 환경에서는 이 기능이 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Windows Image Acquisition (WIA)
+
+**표 224: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+StiSvc</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Windows Image Acquisition (WIA)** 시스템 서비스는 스캐너 및 카메라를 위한 이미지 인식 서비스를 제공합니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Windows Installer
+
+**표 225: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+MSIServer</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Windows Installer** 시스템 서비스는 설치 과정에 중앙 집중적으로 정의된 일련의 설치 규칙을 적용하여 응용 프로그램의 설치 및 제거를 관리합니다. 이 서비스는 기준 서버 환경에서 필요합니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **자동**으로 구성합니다.
+### Windows Internet Name Service (WINS)
+
+**표 226: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+WINS</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Windows Internet Name Service (WINS)** 시스템 서비스는 NetBIOS 이름을 확인할 수 있도록 합니다. WINS 서버의 설치 여부는 NetBIOS 이름으로 식별되는 네트워크 리소스를 찾는 데 중요합니다. 모든 도메인이 Active Directory로 업그레이드되지 않았고 네트워크의 모든 컴퓨터에서 Windows Server 2003을 실행하지 않는 경우에는 WINS 서버가 필요합니다. 기준 서버 환경에서는 이 기능이 필요하지 않습니다. 따라서 이 서비스의 값은 **사용 안 함**으로 설정하는 것이 좋습니다. 또한 인프라 서버 역할 정책에서는 이 서비스를 **자동**으로 설정합니다.
+### Windows Management Instrumentation
+
+**표 227: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+winmgmt</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Windows Management Instrumentation** 시스템 서비스는 운영 체제, 장치, 응용 프로그램 및 서비스에 대한 관리 정보에 액세스하기 위한 공용 인터페이스 및 개체 모델을 제공합니다. WMI는 관리 응용 프로그램을 만들기 위한 인프라이자 현재 버전의 Microsoft 운영 체제와 함께 제공되는 계측 서비스입니다. 이 서비스를 사용하지 않으면 대부분의 Windows 기반 소프트웨어가 올바르게 작동하지 않으며 관련된 모든 서비스를 시작할 수 없게 됩니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **자동**으로 구성합니다.
+### Windows Management Instrumentation Driver Extensions
+
+**표 228: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Wmi</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Windows Management Instrumentation Driver Extensions** 시스템 서비스는 WMI 또는 이벤트 추적 정보를 게시하도록 구성된 모든 드라이버와 이벤트 추적 공급자를 모니터링합니다. 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **수동**으로 구성합니다.
+### Windows 미디어 서비스
+
+**표 229: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+WMServer</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Windows 미디어 서비스** 시스템 서비스는 IP 기반 네트워크를 통해 스트리밍 미디어 서비스를 제공합니다. 이 서비스는 Windows Media Services 버전 4.0 및 4.1을 구성하는 네 개의 개별 서비스인 Windows Media Monitor Service, Windows Media Program Service, Windows Media Station Service 및 Windows Media Unicast Service를 대체합니다. 기준 서버 환경에서는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Windows System Resource Manager
+
+**표 230: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+WindowsSystemResourceManager</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**WSRM(Windows System Resource Manager)** 시스템 서비스는 고객이 응용 프로그램을 통합 시나리오에 배포하는 데 유용한 도구입니다. 기준 서버 환경에서는 이 기능이 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Windows Time
+
+**표 231: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+W32Time</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Windows Time** 시스템 서비스는 Windows 네트워크에서 실행되는 모든 컴퓨터의 날짜 및 시간 동기화를 관리합니다. 이 서비스는 네트워크 유효성 검사 및 리소스 액세스 요청에 정확한 시간 값 또는 타임스탬프가 반영될 수 있도록 NTP(Network Time Protocol)을 사용하여 컴퓨터 시간을 동기화합니다. 이 서비스는 Active Directory 도메인의 신뢰할 수 있는 Kerberos 인증에 꼭 필요합니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **자동**으로 구성합니다.
+### WinHTTP Web Proxy Auto?Discovery Service
+
+**표 232: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+WinHttpAutoProxySvc</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**WinHTTP Web Proxy Auto?Discovery Service** 시스템 서비스는 WinHTTP(Windows HTTP Services)에 대한 WPAD(Web Proxy Auto?Discovery) 프로토콜을 구현합니다. WPAD는 HTTP 클라이언트가 프록시 구성을 자동으로 검색할 수 있도록 하는 프로토콜입니다. 기준 서버 환경에서는 이 기능이 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### Wireless Configuration
+
+**표 233: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+WZCSVC</td>
+<td style="border:1px solid black;">
+Standard, Enterprise 및 Datacenter Server의 경우 자동. Web Server의 경우 수동</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Wireless Zero Configuration** 시스템 서비스는 무선 통신을 위한 IEEE 802.11 무선 어댑터를 자동으로 구성할 수 있도록 합니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+### WMI Performance Adapter
+
+**표 234: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+WmiApSrv</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+<td style="border:1px solid black;">
+수동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**WMI Performance Adapter** 시스템 서비스는 WMI HiPerf 공급자로부터 얻은 성능 라이브러리 정보를 제공합니다. 이 서비스는 수동 서비스이며 기본적으로 실행되지 않습니다. 성능 클라이언트(예: Sysmon)가 PDH(성능 데이터 도우미)를 사용하여 성능 데이터를 쿼리할 때 필요하면 이 서비스가 실행됩니다. 클라이언트 연결이 끊기면 서비스는 중지됩니다. 이 서비스를 사용하지 않으면 WMI 성능 카운터를 사용할 수 없게 됩니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **수동**으로 구성합니다.
+### Workstation
+
+**표 235: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Lanmanworkstation</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+<td style="border:1px solid black;">
+자동</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Workstation** 시스템 리소스는 클라이언트 네트워크 연결 및 통신을 생성하고 관리합니다. 이 서비스를 사용하지 않으면 원격 서버에 연결할 수 없으며 명명된 파이프를 통해 파일에 액세스할 수 없습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **자동**으로 구성합니다.
+### World Wide Web Publishing Service
+
+**표 236: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+W3SVC</td>
+<td style="border:1px solid black;">
+설치되지 않음</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**World Wide Web Publishing Service** 시스템 서비스는 인터넷 정보 서비스 스냅인을 사용하여 웹 연결 및 관리 기능을 제공합니다. 기준 서버 정책에는 이 서비스가 필요하지 않습니다. 따라서 이 설명서에 정의된 세 가지 환경에서는 이 서비스를 **사용 안 함**으로 구성합니다.
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+<span id="XSLTsection132121120120"></span>
+추가 레지스트리 설정
+--------------------
+
+추가 레지스트리 값 항목은 이 설명서에 정의된 세 가지 보안 환경의 관리 템플릿 파일(.adm)에 정의되지 않은 기준 보안 템플릿 파일을 위한 것입니다. .adm 파일은 Windows Server 2003의 데스크톱, 셸 및 보안에 대한 시스템 정책과 제한 사항을 정의합니다.
+
+이러한 설정은 보안 템플릿의 보안 옵션 섹션에 포함되어 변경 내용을 자동화합니다. 정책이 제거된 경우 이 설정은 자동으로 제거되지 않으므로 Regedt32.exe와 같은 레지스트리 편집 도구를 사용하여 수동으로 제거해야 합니다. 세 가지 환경 모두에 동일한 레지스트리 값이 적용됩니다.
+
+이 설명서에는 %windir%\\inf 폴더에 있는 sceregvl.inf 파일을 수정하고 scecli.dll를 다시 등록하여 SCE(보안 구성 편집기)에 추가한 추가 설정이 포함되어 있습니다. 원래 보안 설정은 추가 보안 설정과 함께 이 모듈의 앞 부분에서 언급한 스냅인 및 도구의 로컬 정책\\보안 아래에 표시됩니다. 이 설명서와 함께 제공되는 보안 템플릿 및 그룹 정책을 편집할 모든 컴퓨터에서 sceregvl.inf 파일을 업데이트하고 scecli.dll을 다시 등록해야 합니다. 자세한 내용은 다음 위치에서 Threats and Countermeasures: Threats and Countermeasures: Security Settings in Windows Server 2003 and Windows XP를 참조하십시오. [http://go.microsoft.com/fwlink/?LinkId=15159](http://go.microsoft.com/fwlink/?linkid=15159) ![](images/Dd547909.tous(ko-kr,TechNet.10).gif).
+
+이 섹션에서는 추가 레지스트리 설정에 관한 간단한 내용만 다루며 자세한 내용은 함께 제공되는 설명서에서 설명합니다. 이 섹션에서 설명하는 기본 설정과 각 설정에 대한 자세한 내용은 다음 위치에서 함께 제공되는 설명서인 Threats and Countermeasures: Security Settings in Windows Server 2003 and Windows XP를 참조하십시오. [http://go.microsoft.com/fwlink/?LinkId=15159](http://go.microsoft.com/fwlink/?linkid=15159) ![](images/Dd547909.tous(ko-kr,TechNet.10).gif).
+### 네트워크 공격에 대한 보안 고려 사항
+
+**표 237: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >하위 키 레지스트리 값 항목</th>
+<th style="border:1px solid black;" >형식</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+EnableICMPRedirect</td>
+<td style="border:1px solid black;">
+DWORD</td>
+<td style="border:1px solid black;">
+0</td>
+<td style="border:1px solid black;">
+0</td>
+<td style="border:1px solid black;">
+0</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">
+SynAttackProtect</td>
+<td style="border:1px solid black;">
+DWORD</td>
+<td style="border:1px solid black;">
+1</td>
+<td style="border:1px solid black;">
+1</td>
+<td style="border:1px solid black;">
+1</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">
+EnableDeadGWDetect</td>
+<td style="border:1px solid black;">
+DWORD</td>
+<td style="border:1px solid black;">
+0</td>
+<td style="border:1px solid black;">
+0</td>
+<td style="border:1px solid black;">
+0</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">
+EnablePMTUDiscovery</td>
+<td style="border:1px solid black;">
+DWORD</td>
+<td style="border:1px solid black;">
+0</td>
+<td style="border:1px solid black;">
+0</td>
+<td style="border:1px solid black;">
+0</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">
+KeepAliveTime</td>
+<td style="border:1px solid black;">
+DWORD</td>
+<td style="border:1px solid black;">
+300,000</td>
+<td style="border:1px solid black;">
+300,000</td>
+<td style="border:1px solid black;">
+300,000</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">
+DisableIPSourceRouting</td>
+<td style="border:1px solid black;">
+DWORD</td>
+<td style="border:1px solid black;">
+2</td>
+<td style="border:1px solid black;">
+2</td>
+<td style="border:1px solid black;">
+2</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">
+TcpMaxConnectResponseRetransmissions</td>
+<td style="border:1px solid black;">
+DWORD</td>
+<td style="border:1px solid black;">
+2</td>
+<td style="border:1px solid black;">
+2</td>
+<td style="border:1px solid black;">
+2</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">
+TcpMaxDataRetransmissions</td>
+<td style="border:1px solid black;">
+DWORD</td>
+<td style="border:1px solid black;">
+3</td>
+<td style="border:1px solid black;">
+3</td>
+<td style="border:1px solid black;">
+3</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">
+PerformRouterDiscovery</td>
+<td style="border:1px solid black;">
+DWORD</td>
+<td style="border:1px solid black;">
+0</td>
+<td style="border:1px solid black;">
+0</td>
+<td style="border:1px solid black;">
+0</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">
+TCPMaxPortsExhausted</td>
+<td style="border:1px solid black;">
+DWORD</td>
+<td style="border:1px solid black;">
+5</td>
+<td style="border:1px solid black;">
+5</td>
+<td style="border:1px solid black;">
+5</td>
+</tr>
+</tbody>
+</table>
+ 
+
+DoS(서비스 거부) 공격은 컴퓨터 또는 컴퓨터의 특정 서비스를 네트워크 사용자가 사용할 수 없도록 하는 것을 목표로 하는 네트워크 공격 유형입니다. DoS 공격은 방어하기가 어려울 수 있습니다. 이러한 공격을 방지하려면 컴퓨터를 최신 보안 업데이트로 업데이트하고 잠재적 공격자에게 노출된 Windows Server 2003 실행 컴퓨터의 TCP/IP 프로토콜 스택을 강화해야 합니다. 기본 TCP/IP 스택 구성은 표준 인트라넷 트래픽을 처리하도록 조정되어 있습니다. 컴퓨터를 인터넷에 직접 연결하는 경우에는 DoS 공격에 대비하여 TCP/IP 스택을 강화하는 것이 좋습니다.
+
+다음과 같은 레지스트리 값 항목이 템플릿 파일의 **HKEY\_LOCAL\_MACHINE\\System\\CurrentControlSet\\Services\\Tcpip\\Parameters\\** 레지스트리 키에 추가되었습니다.
+### AFD.SYS 설정
+
+**표 238: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >하위 키 레지스트리 값 항목</th>
+<th style="border:1px solid black;" >형식</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+DynamicBacklogGrowthDelta</td>
+<td style="border:1px solid black;">
+DWORD</td>
+<td style="border:1px solid black;">
+10</td>
+<td style="border:1px solid black;">
+10</td>
+<td style="border:1px solid black;">
+10</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">
+EnableDynamicBacklog</td>
+<td style="border:1px solid black;">
+DWORD</td>
+<td style="border:1px solid black;">
+1</td>
+<td style="border:1px solid black;">
+1</td>
+<td style="border:1px solid black;">
+1</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">
+MinimumDynamicBacklog</td>
+<td style="border:1px solid black;">
+DWORD</td>
+<td style="border:1px solid black;">
+20</td>
+<td style="border:1px solid black;">
+20</td>
+<td style="border:1px solid black;">
+20</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">
+MaximumDynamicBacklog</td>
+<td style="border:1px solid black;">
+DWORD</td>
+<td style="border:1px solid black;">
+20000</td>
+<td style="border:1px solid black;">
+20000</td>
+<td style="border:1px solid black;">
+20000</td>
+</tr>
+</tbody>
+</table>
+ 
+
+FTP 서버 및 웹 서버와 같은 Windows 소켓 응용 프로그램의 연결 시도는 Afd.sys에 의해 처리됩니다. Afd.sys는 합법적 클라이언트에 대한 액세스를 거부하지 않고 부분 공개 상태에서 여러 번의 연결을 지원하도록 수정되었습니다. 이를 위해 관리자는 동적 백로그를 구성할 수 있게 되었습니다. Windows Server 2003에 포함된 Afd.sys 버전은 동적 백로그 동작을 제어하는 데 사용할 수 있는 네 개의 레지스트리 매개 변수를 지원합니다.
+
+다음과 같은 레지스트리 값 항목이 템플릿 파일의 **HKEY\_LOCAL\_MACHINE\\System\\CurrentControlSet\\Services\\AFD\\Parameters\\** 레지스트리 키에 추가되었습니다.
+### NetBIOS 이름 해제 보안 구성: (NoNameReleaseOnDemand) WINS 서버에서 제외되는 NetBIOS 이름 해제 요청을 컴퓨터에서 무시할 수 있도록 허용
+
+**표 239: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >하위 키 레지스트리 값 항목</th>
+<th style="border:1px solid black;" >형식</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+NoNameReleaseOnDemand</td>
+<td style="border:1px solid black;">
+DWORD</td>
+<td style="border:1px solid black;">
+1</td>
+<td style="border:1px solid black;">
+1</td>
+<td style="border:1px solid black;">
+1</td>
+</tr>
+</tbody>
+</table>
+ 
+
+이 항목은 SCE에서 "MSS: (NoNameReleaseOnDemand) WINS 서버에서 제외되는 NetBIOS 이름 해제 요청을 컴퓨터에서 무시할 수 있도록 허용"으로 나타납니다. NetBIOS over TCP/IP는 Windows 기반 시스템에 등록된 NetBIOS 이름을 확인하여 해당 시스템에 구성된 IP 주소를 쉽게 알아낼 수 있는 방법을 제공하는 네트워킹 프로토콜입니다. 이 값은 컴퓨터에서 이름 해제 요청을 받을 경우 NetBIOS 이름을 해제할지 여부를 결정합니다.
+
+다음과 같은 레지스트리 값 항목이 템플릿 파일의 **HKEY\_LOCAL\_MACHINE\\System\\CurrentControlSet\\Services\\Netbt\\Parameters\\** 레지스트리 키에 추가되었습니다.
+### 8.3 파일 이름의 자동 생성 사용 안 함: 컴퓨터에서 8.3 스타일 파일 이름의 생성을 중지할 수 있음
+
+**표 240: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >하위 키 레지스트리 값 항목</th>
+<th style="border:1px solid black;" >형식</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+NtfsDisable8dot3NameCreation</td>
+<td style="border:1px solid black;">
+DWORD</td>
+<td style="border:1px solid black;">
+1</td>
+<td style="border:1px solid black;">
+1</td>
+<td style="border:1px solid black;">
+1</td>
+</tr>
+</tbody>
+</table>
+ 
+
+이 항목은 SCE에서 "MSS: 컴퓨터에서 8.3 스타일 파일 이름의 생성을 중지할 수 있음"으로 나타납니다. Windows Server 2003에서는 이전 버전인 16비트 응용 프로그램과의 호환성을 위해 8.3 파일 이름 형식을 지원합니다. 8.3 파일 이름 규칙은 파일 이름에 8자까지 사용할 수 있는 명명 형식입니다.
+
+다음과 같은 레지스트리 값 항목이 템플릿 파일의 **HKEY\_LOCAL\_MACHINE\\System\\CurrentControlSet\\Control\\FileSystem\\** 레지스트리 키에 추가되었습니다.
+### 자동 실행 사용 안 함: 모든 드라이버에 대해 자동 실행 사용 안 함
+
+**표 241: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >하위 키 레지스트리 값 항목</th>
+<th style="border:1px solid black;" >형식</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+NoDriveTypeAutoRun</td>
+<td style="border:1px solid black;">
+DWORD</td>
+<td style="border:1px solid black;">
+0xFF</td>
+<td style="border:1px solid black;">
+0xFF</td>
+<td style="border:1px solid black;">
+0xFF</td>
+</tr>
+</tbody>
+</table>
+ 
+
+이 항목은 SCE에서 "MSS: 모든 드라이버에 대해 자동 실행 사용 안 함"으로 나타납니다. 자동 실행은 컴퓨터의 드라이브에 미디어가 삽입되는 즉시 읽기를 시작하는 기능입니다. 따라서 프로그램의 설치 파일과 오디오 미디어의 사운드는 즉시 시작됩니다.
+
+다음과 같은 레지스트리 값 항목이 템플릿 파일의 **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\** 레지스트리 키에 추가되었습니다.
+### 화면 보호기 암호 보호 즉시 적용: 화면 보호기 유예 기간 만료 시간(초)(0 권장)
+
+**표 242: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >하위 키 레지스트리 값 항목</th>
+<th style="border:1px solid black;" >형식</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+ScreenSaverGracePeriod</td>
+<td style="border:1px solid black;">
+String</td>
+<td style="border:1px solid black;">
+0</td>
+<td style="border:1px solid black;">
+0</td>
+<td style="border:1px solid black;">
+0</td>
+</tr>
+</tbody>
+</table>
+ 
+
+이 항목은 SCE에서 "MSS: 화면 보호기 유예 기간 만료 시간(초)(0 권장)"으로 나타납니다. Windows에는 기본적으로 화면 보호기 잠금이 활성화되어 있는 경우 화면 보호기가 실행된 후 실제로 콘솔이 자동으로 잠길 때까지의 유예 기간이 설정되어 있습니다.
+
+다음과 같은 레지스트리 값 항목이 템플릿 파일의 **HKEY\_LOCAL\_MACHINE\\SYSTEM\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\** 레지스트리 키에 추가되었습니다.
+### 보안 로그 용량 경고: 시스템에서 경고를 생성할 보안 이벤트 로그 용량에 대한 백분율 임계값
+
+**표 243: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >하위 키 레지스트리 값 항목</th>
+<th style="border:1px solid black;" >형식</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+WarningLevel</td>
+<td style="border:1px solid black;">
+DWORD</td>
+<td style="border:1px solid black;">
+90</td>
+<td style="border:1px solid black;">
+90</td>
+<td style="border:1px solid black;">
+90</td>
+</tr>
+</tbody>
+</table>
+ 
+
+이 항목은 SCE에서 "MSS: 시스템에서 경고를 생성할 보안 이벤트 로그 용량에 대한 백분율 임계값"으로 나타납니다. 이 옵션은 Windows 2000 SP3부터 사용할 수 있으며, 보안 로그가 사용자 정의된 임계값에 도달하면 보안 이벤트 로그에 보안 감사를 생성하는 새로운 기능입니다. 예를 들어, 이 값이 90으로 설정된 경우에는 보안 로그가 용량의 90%에 도달하면 eventID 523에 대한 이벤트 항목과 "보안 이벤트 로그가 90% 찼습니다."라는 텍스트가 표시됩니다.
+
+**참고:** 로그 설정이 **필요한 경우 이벤트 덮어쓰기** 또는 **x일보다 오래된 이벤트 덮어쓰기**로 구성된 경우에는 이 이벤트가 생성되지 않습니다.
+
+다음과 같은 레지스트리 값 항목이 템플릿 파일의 **HKEY\_LOCAL\_MACHINE\\ SYSTEM\\CurrentControlSet\\Services\\Eventlog\\Security\\** 레지스트리 키에 추가되었습니다.
+### 안전한 DLL 검색 순서 사용: 안전한 DLL 검색 모드 사용(권장)
+
+**표 244: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >하위 키 레지스트리 값 항목</th>
+<th style="border:1px solid black;" >형식</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+SafeDllSearchMode</td>
+<td style="border:1px solid black;">
+DWORD</td>
+<td style="border:1px solid black;">
+1</td>
+<td style="border:1px solid black;">
+1</td>
+<td style="border:1px solid black;">
+1</td>
+</tr>
+</tbody>
+</table>
+ 
+
+이 항목은 SCE에서 "MSS: 안전한 DLL 검색 모드 사용(권장)"으로 나타납니다. 다음 두 가지 중 한 가지 방법으로 프로세스를 실행하여 요청된 DLL을 검색하도록 DLL 검색 순서를 구성할 수 있습니다.
+-   
+
+    시스템 경로에 지정된 폴더를 먼저 검색한 다음 현재 작업 중인 폴더를 검색합니다.
+
+-   
+
+    현재 작업 중인 폴더를 먼저 검색한 다음 시스템 경로에 지정된 폴더를 검색합니다.
+
+이 레지스트리 값은 1로 설정되어 있습니다. 이 경우 시스템에서는 시스템 경로에 지정된 폴더를 먼저 검색한 다음 현재 작업 중인 폴더를 검색합니다. 0으로 설정하면 시스템에서는 현재 작업 중인 폴더를 먼저 검색한 다음 시스템 경로에 지정된 폴더를 검색합니다.
+
+다음과 같은 레지스트리 값 항목이 템플릿 파일의 **HKEY\_LOCAL\_MACHINE\\ SYSTEM\\CurrentControlSet\\Control\\Session Manager\\** 레지스트리 키에 추가되었습니다.
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+<span id="XSLTsection133121120120"></span>
+추가 보안 설정
+--------------
+
+이 설명서에 정의된 세 가지 환경에서 기준 서버를 강화하는 데 사용되는 대부분의 보안 대책은 그룹 정책을 통해 적용되지만 일부 추가 설정은 그룹 정책을 사용하여 적용하기가 어렵거나 불가능합니다. 이 섹션에서 설명하는 각 보안 대책에 대한 자세한 내용은 다음 위치에서 함께 제공되는 설명서인 Threats and Countermeasures: Security Settings in Windows Server 2003 and Windows XP를 참조하십시오. [http://go.microsoft.com/fwlink/?LinkId=15159](http://go.microsoft.com/fwlink/?linkid=15159) ![](images/Dd547909.tous(ko-kr,TechNet.10).gif).
+### 수동 강화 절차
+
+이 섹션에서는 이 설명서에 정의된 각 보안 환경의 MSBP에 대해 보안을 설정하기 위해 계정 보안 등의 일부 추가 보안 대책을 수동으로 구현하는 방법과 IPSec 필터 등의 셸 스크립트를 사용하여 다른 추가 보안 대책을 설정하는 방법을 설명합니다.
+### 사용자 권한 할당에 수동으로 고유 보안 그룹 추가
+
+사용자 권한 할당에 대해 권장되는 대부분의 보안 그룹은 [http://go.microsoft.com/fwlink/?LinkId=14846](http://go.microsoft.com/fwlink/?linkid=14846) ![](images/Dd547909.tous(ko-kr,TechNet.10).gif)에서 Windows Server 2003 Security Guide와 함께 제공되는 보안 템플릿 내에 구성되어 있습니다.
+
+그러나 특정 보안 그룹의 SID는 여러 Windows 2003 도메인 사이에서 고유하므로 일부 권한은 보안 템플릿에 포함되지 않았습니다. 이는 SID의 일부인 고유 RID(관련 식별자)가 고유하기 때문입니다. 다음 표에서는 이러한 고유 인스턴스에 대해 설명합니다.
+
+**경고:** 다음 표에는 기본 제공 Administrator에 대한 값이 들어 있습니다. 기본 제공 Administrator는 기본 제공되는 사용자 계정으로 "Administrators" 보안 그룹과는 다릅니다. 보안 그룹 Administrators가 아래의 액세스 거부 사용자 권한에 추가된 경우 이러한 권한에 Administrators 그룹을 실수로 추가한 것을 수정하려면 로컬로 로그온해야 합니다.
+
+또한 기본 제공 Administrator 계정은 위의 권장 구성을 기반으로 Administrator 계정의 이름을 변경하여 만든 새 이름을 가질 수 있습니다. 이 계정을 추가할 때는 새로 이름을 변경한 관리자 계정을 선택해야 합니다.
+
+**표 245: 수동으로 추가되는 사용자 권한 할당**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >UI의 설정 이름</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+네트워크에서 이 컴퓨터 액세스 거부</td>
+<td style="border:1px solid black;">
+기본 제공 Administrator; Support_388945a0; Guest; 모든 비 운영 체제 서비스 계정</td>
+<td style="border:1px solid black;">
+기본 제공 Administrator; Support_388945a0; Guest; 모든 비 운영 체제 서비스 계정</td>
+<td style="border:1px solid black;">
+기본 제공 Administrator; Support_388945a0; Guest; 모든 비 운영 체제 서비스 계정</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">
+일괄 작업으로 로그온 거부</td>
+<td style="border:1px solid black;">
+Support_388945a0 및 Guest</td>
+<td style="border:1px solid black;">
+Support_388945a0 및 Guest</td>
+<td style="border:1px solid black;">
+Support_388945a0 및 Guest</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">
+터미널 서비스를 통한 로그온 거부</td>
+<td style="border:1px solid black;">
+기본 제공 Administrator; Guests; Support_388945a0; Guest; 모든 비 운영 체제 서비스 계정</td>
+<td style="border:1px solid black;">
+기본 제공 Administrator; Guests; Support_388945a0; Guest; 모든 비 운영 체제 서비스 계정</td>
+<td style="border:1px solid black;">
+기본 제공 Administrator; Guests; Support_388945a0; Guest; 모든 비 운영 체제 서비스 계정</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**중요:** 모든 비 운영 체제 서비스 계정은 회사 내의 특정 응용 프로그램에 대한 서비스 계정입니다.
+
+운영 체제에서 사용하는 기본 제공 계정인 LOCAL SYSTEM, LOCAL SERVICE 또는 NETWORK SERVICE 계정은 여기에 포함되지 않습니다.
+
+사용자 권한 할당에 보안 그룹을 추가하려면 다음을 참조하십시오.
+
+Windows Server 2003 관련 그룹 정책 및 보안 템플릿을 적용하는 방법
+
+**참고:** 이벤트 로그에서 그룹 정책아 올바르게 다운로드되었는지와 서버에서 도메인의 다른 도메인 컨트롤러와 통신할 수 있는지를 확인하십시오.
+### 잘 알려진 계정의 보안
+
+Windows Server 2003에는 삭제할 수 없지만 이름을 변경할 수는 있는 기본 제공 사용자 계정이 여러 개 포함되어 있습니다. Windows 2003에서 가장 잘 알려진 두 개의 기본 제공 계정은 Guest와 Administrator입니다.
+
+기본적으로 구성원 서버와 도메인 컨트롤러에서는 Guest 계정을 사용할 수 없습니다. 이 설정은 변경하면 안 됩니다. 공격자가 잘 알려진 계정을 사용하여 원격 서버를 손상시키지 못하도록 하려면 기본 제공 Administrator 계정의 이름과 설명을 변경해야 합니다.
+
+변형된 대부분의 악성 코드는 서버를 손상시키려는 초기 시도에서 기본 제공 Administrator 계정을 사용합니다. 기본 제공 Administrator 계정의 SID를 지정하여 해당 계정의 이름을 확인함으로써 서버 침입을 시도하는 공격 도구가 등장한 이후 지난 몇 년 동안 이 구성 변경 값은 감소했습니다. SID는 네트워크의 각 사용자, 그룹, 컴퓨터 계정 및 로그온 세션을 고유하게 식별하는 값입니다. 이 기본 제공 계정의 SID는 변경할 수 없습니다. 로컬 관리자 계정의 이름을 고유한 이름으로 바꾸면 작업 그룹에서 이 계정에 대해 시도된 공격을 모니터링하기가 쉬워집니다.
+
+도메인 및 서버의 잘 알려진 계정에 보안을 설정하려면 다음 단계를 수행합니다.
+1.  
+
+    모든 도메인 및 서버에 대해 Administrator 및 Guest 계정의 이름을 변경하고 암호를 길고 복잡한 값으로 변경합니다.
+
+2.  
+
+    각 서버에 서로 다른 이름과 암호를 사용합니다. 모든 도메인 및 서버에 사용된 계정 이름과 암호가 동일하면 하나의 구성원 서버에 액세스한 공격자가 계정 이름 및 암호가 같은 다른 모든 서버에도 액세스할 수 있게 됩니다.
+
+3.  
+
+    계정을 쉽게 식별할 수 없도록 계정 설명을 기본값이 아닌 다른 값으로 변경합니다.
+
+4.  
+
+    이러한 변경 내용을 안전한 위치에 기록합니다.
+
+**참고:** 기본 제공 Administrator 계정의 이름은 그룹 정책을 통해 변경할 수 없습니다. 사용 환경에 맞는 고유한 이름을 선택해야 하므로 이 설정은 DCBP에 구현되지 않았습니다. **계정: Administrator 계정 이름 바꾸기**를 구성하면 이 설명서에 정의된 세 가지 환경에서 Administrator 계정의 이름을 바꿀 수 있습니다. 이 설정은 GPO의 보안 옵션 설정에 포함됩니다.
+### 서비스 계정 보안
+
+꼭 필요한 경우가 아니면 서비스가 도메인 계정의 보안 컨텍스트에서 실행되도록 구성하지 않습니다. 서버가 물리적으로 손상되면 LSA 기밀 정보를 덤프하여 도메인 계정 암호를 알아낼 수 있습니다.
+### NTFS
+
+NTFS 파티션은 파일 및 폴더 수준에서 ACL을 지원합니다. FAT(파일 할당 테이블), FAT32 또는 파일 시스템에서는 이 지원 기능을 사용할 수 없습니다. FAT32는 기본 클러스터 크기를 훨씬 더 작게 사용하고 하드 디스크의 크기를 2테라바이트까지 지원하도록 업데이트된 버전의 FAT 파일 시스템입니다. FAT32는 Windows 95 OSR2, Windows 98, Microsoft Windows Me, Windows 2000, Windows XP Professional 및 Windows Server 2003에 포함되어 있습니다.
+
+NTFS를 사용하여 모든 서버의 모든 파티션을 포맷합니다. **변환 유틸리티**를 사용하면 FAT 파티션을 NTFS로 변환할 수 있지만 변환 유틸리티는 변환된 드라이버의 ACL을 **Everyone: 모든 권한**으로 설정합니다.
+
+Windows 2003 Server - 기반 시스템의 경우에는 다음 보안 템플릿을 로컬로 적용하여 워크스테이션, 서버 및 도메인 컨트롤러의 기본 파일 시스템 ACL을 각각 구성합니다.
+-   
+
+    %windir%\\inf\\defltsv.inf
+
+-   
+
+    %windir%\\inf\\defltdc.inf
+
+**참고:** 기본 도메인 컨트롤러 보안 설정은 서버를 도메인 컨트롤러로 승격시킬 때 적용됩니다.
+
+이 설명서에 정의된 세 가지 환경 모두에서 서버의 모든 파티션은 ACL을 통해 파일 및 디렉터리 보안을 관리할 수 있도록 하기 위해 NTFS 파티션으로 포맷됩니다.
+### 터미널 서비스 설정
+
+**표 246: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >UE의 설정 이름</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+클라이언트 연결 암호화 수준 설정</td>
+<td style="border:1px solid black;">
+높음</td>
+<td style="border:1px solid black;">
+높음</td>
+<td style="border:1px solid black;">
+높음</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**클라이언트 연결 암호화 수준 설정**은 사용 중인 환경에서 터미널 서비스 클라이언트 연결의 암호화 수준을 결정합니다. 128비트 암호화를 사용하는 **높은 수준** 설정 옵션을 사용하면 공격자가 패킷 분석기를 사용하여 터미널 서비스 세션에서 도청(eavesdropping)하지 못하게 됩니다. 이전 버전의 터미널 서비스 클라이언트에서는 이 고급 수준의 암호화를 지원하지 않는 경우도 있습니다. 네트워크에 이러한 클라이언트가 포함된 경우에는 해당 클라이언트에서 지원하는 가장 높은 암호화 수준으로 데이터를 보내고 받도록 연결 암호화 수준을 설정합니다.
+
+그룹 정책에서 이 설정을 구성하기 위한 경로는 다음과 같습니다.
+
+컴퓨터 구성\\관리 템플릿\\Windows
+구성 요소\\터미널 서비스\\암호화 및 보안
+
+아래 표에서 보여 주는 것처럼 세 가지 암호화 수준을 사용할 수 있습니다.
+
+**표 247: 터미널 서비스 암호화 수준**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >암호화 수준</th>
+<th style="border:1px solid black;" >설명</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+높은 수준</td>
+<td style="border:1px solid black;">
+이 수준에서는 강력한 128비트 암호화를 사용하여 클라이언트와 서버 사이에 주고 받은 데이터를 암호화합니다. 원격 데스크톱 연결 클라이언트와 같은 128비트 클라이언트만 포함된 환경에서 터미널 서버를 실행하는 경우에는 이 수준을 사용합니다. 이 암호화 수준을 지원하지 않는 클라이언트는 연결할 수 없습니다.</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">
+클라이언트 호환</td>
+<td style="border:1px solid black;">
+이 수준에서는 클라이언트와 서버 간에 보내지는 데이터를 클라이언트가 지원하는 최대 키 강도에서 암호화합니다. 혼합 또는 레거시 클라이언트가 포함된 환경에서 터미널 서버를 실행 중인 경우 이 수준을 사용합니다.</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">
+낮은 수준</td>
+<td style="border:1px solid black;">
+이 수준에서는 클라이언트에서 서버로 보낸 데이터를 56비트 암호화를 사용하여 암호화합니다.<br />
+<strong>중요:</strong> 서버에서 클라이언트로 보낸 데이터는 암호화하지 않습니다.</td>
+</tr>
+</tbody>
+</table>
+ 
+
+### 오류 보고
+
+**표 248: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >UE의 설정 이름</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+오류 보고</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+오류 보고는 Microsoft에서 오류를 추적하고 해결하는 데 사용됩니다. 운영 체제 오류, Windows 구성 요소 오류 또는 프로그램 오류에 대한 보고서를 생성하도록 오류 보고 기능을 구성할 수 있습니다. **오류 보고** 기능을 사용하면 이러한 오류를 인터넷을 통해 Microsoft에 보고하거나 내부 기업 공유 파일에 보고할 수 있습니다. 이 설정은 Windows XP Professional과 Windows Server 2003에서만 사용할 수 있습니다.
+
+그룹 정책 편집기에서 이 설정을 구성하기 위한 경로는 다음과 같습니다.
+
+컴퓨터 구성\\관리 템플릿\\시스템\\오류 보고
+
+오류 보고에는 중요하거나 기밀인 회사 데이터가 포함될 수 있습니다. 오류 보고와 관련된 Microsoft 개인 정보 보호 정책은 Microsoft에서 이러한 데이터를 올바르지 않게 사용하지 않을 것임을 보장하지만 데이터는 암호화되지 않은 텍스트로 HTTP(Hypertext Transfer Protocol)를 통해 전송되므로 인터넷 상에서 제3자가 가로채어 볼 수 있습니다. 따라서 이 설명서에서는 **오류 보고**를 사용하지 않을 것을 권장합니다.
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+<span id="XSLTsection134121120120"></span>
+요약
+----
+
+이 모듈에서는 이 설명서에 정의된 세 가지 보안 환경 모두에서 모든 서버에 초기에 적용되는 서버 강화 절차를 설명했습니다. 이러한 대부분의 절차를 수행하기 위해 각 보안 환경에 맞는 고유한 보안 템플릿을 만든 다음 이 보안 템플릿을 구성원 서버의 상위 OU에 연결된 GPO로 가져와서 목표한 보안 수준을 달성했습니다.
+
+그러나 이러한 강화 절차의 일부는 그룹 정책을 통해 적용할 수 없으므로 강화 절차를 수동으로 구성하는 방법에 대해서도 설명했습니다. 특정 서버 역할의 경우에는 해당 역할 내에서 가능한 한 안전한 방식으로 작동하도록 하기 위해 추가 단계를 수행했습니다.
+
+서버 역할과 관련된 단계에는 추가 강화 절차와 기준 보안 정책에서 보안 설정을 줄이기 위한 절차가 모두 포함됩니다. 이러한 변경 내용에 대한 자세한 내용은 이 설명서의 다음 모듈에서 설명합니다.
+### 추가 정보
+
+다음은 이 제품의 출시 당시 Windows Server 2003과 관련하여 작성된 최신 자료입니다.
+
+Windows Server 2003 보안 설정에 대한 자세한 내용은 다음 위치에서 볼 수 있습니다. <http://www.microsoft.com/technet/treeview/default.asp?url=/technet/prodtechnol/windowsserver2003/proddocs/standard/615.asp> ![](images/Dd547909.tous(ko-kr,TechNet.10).gif)
+
+Windows Server 2003의 보안에 대한 자세한 내용은 다음 위치에서 볼 수 있습니다. [http://www.microsoft.com/technet/treeview/default.asp?url=/technet/prodtechnol/windowsserver2003/proddocs/standard/sag\_SEtopnode.asp](http://www.microsoft.com/technet/treeview/default.asp?url=/technet/prodtechnol/windowsserver2003/proddocs/standard/sag_setopnode.asp) ![](images/Dd547909.tous(ko-kr,TechNet.10).gif)
+
+Windows Server 2003의 감사 정책에 대한 자세한 내용은 다음 위치에서 볼 수 있습니다. [//www.microsoft.com/technet/treeview/default.asp?url=/technet/prodtechnol/windowsserver2003/proddocs/standard/APtopnode.asp](http://www.microsoft.com/technet/treeview/default.asp?url=/technet/prodtechnol/windowsserver2003/proddocs/standard/aptopnode.asp) ![](images/Dd547909.tous(ko-kr,TechNet.10).gif)
+
+MOM(Microsoft Operations Manger)에 대한 자세한 내용은 다음 위치에서 볼 수 있습니다. <http://www.microsoft.com/mom/>
+
+Windows Server 2003의 사용자 권한 할당에 대한 자세한 내용은 다음 위치에서 볼 수 있습니다. [http://www.microsoft.com/technet/treeview/default.asp?url=/technet/prodtechnol/windowsserver2003/proddocs/standard/URAtopnode.asp](http://www.microsoft.com/technet/treeview/default.asp?url=/technet/prodtechnol/windowsserver2003/proddocs/standard/uratopnode.asp) ![](images/Dd547909.tous(ko-kr,TechNet.10).gif)
+
+Windows Server 2003의 기본 보안 설정 차이점에 대한 자세한 내용은 다음 위치에서 볼 수 있습니다. <http://www.microsoft.com/technet/treeview/default.asp?url=/technet/prodtechnol/windowsserver2003/proddocs/datacenter/windows_security_differences.asp>
+
+Windows 2000 터미널 서비스 보안에 대한 자세한 내용은 다음 위치에서 볼 수 있습니다. <http://www.microsoft.com/technet/treeview/default.asp?url=/technet/prodtechnol/win2kts/maintain/optimize/secw2kts.asp> ![](images/Dd547909.tous(ko-kr,TechNet.10).gif)
+
+Windows Server 2003 TCP/IP 스택 강화에 대한 자세한 내용은 <http://support.microsoft.com/default.aspx?scid=324270>에서 Microsoft 기술 자료 문서Q324270, "Harden the TCP/IP Stack Against Denial of Service Attacks in Windows Server 2003"을 참조하십시오.
+
+Windows 소켓 응용 프로그램의 설정 강화에 대한 자세한 내용은 <http://support.microsoft.com/default.aspx?scid=142641>에서 기술 자료 문서 Q142641, "Internet Server Unavailable Because of Malicious SYN Attacks"를 참조하십시오.
+
+.adm 파일의 위치에 대한 자세한 내용은 <http://support.microsoft.com/default.aspx?scid=228460>에서 기술 자료 문서 Q228460, "Location of ADM (Administrative Template) Files in Windows"를 참조하십시오.
+
+보안 구성 편집기의 사용자 인터페이스 사용자 지정에 대한 자세한 내용은 <http://support.microsoft.com/default.aspx?scid=214752>에서 Microsoft 기술 자료 문서 214752, “How to Add Custom Registry Settings to Security Configuration Editor"를 참조하십시오.
+
+Windows에서 사용자 지정 관리 템플릿을 만드는 방법에 대한 자세한 내용은 <http://support.microsoft.com/default.aspx?scid=kb;en-us;323639>에서 기술 자료 문서 323639, “How to: Create Custom Administrative Templates in Windows 2000"을 참조하십시오. 또한 [http://www.microsoft.com/WINDOWS2000/techinfo/howitworks/management/rbppaper.asp](http://www.microsoft.com/windows2000/techinfo/howitworks/management/rbppaper.asp) ![](images/Dd547909.tous(ko-kr,TechNet.10).gif)에서 백서 “Implementing Registry-Based Group Policy"도 읽어보십시오.
+
+Windows 2000과 Windows NT 4.0 시스템이 혼합된 네트워크에서 보다 안전한 LAN Manager 인증 수준 설정을 사용하는 방법에 대한 자세한 내용은 <http://support.microsoft.com/default.aspx?scid=305379>에서 기술 자료 문서 Q305379, "Authentication Problems in Windows 2000 with NTLM 2 Levels Above 2 in a Windows NT 4.0 Domain"을 참조하십시오.
+
+LAN Manager 호환성 수준에 대한 자세한 내용은 <http://www.microsoft.com/windows2000/techinfo/reskit/en-us/default.asp?url=/windows2000/techinfo/reskit/en-us/regentry/76052.asp> ![](images/Dd547909.tous(ko-kr,TechNet.10).gif)를 참조하십시오.
+
+NTLMv2 인증에 대한 자세한 내용은 <http://support.microsoft.com/default.aspx?scid=239869>에서 기술 자료 문서 Q239869, "How to Enable NTLM 2 Authentication for Windows 95/98/2000 and NT"를 참조하십시오.
+
+Windows Server 2003에 포함된 서비스의 기본 설정에 대한 자세한 내용은 다음 위치에서 볼 수 있습니다. <http://www.microsoft.com/technet/treeview/default.asp?url=/technet/prodtechnol/windowsserver2003/proddocs/datacenter/sys_srv_default_settings.asp> ![](images/Dd547909.tous(ko-kr,TechNet.10).gif)
+
+스마트 카드 배포에 대한 자세한 내용은 다음 위치의 Technet Smart Card 웹 사이트에서 볼 수 있습니다. <http://www.microsoft.com/technet/treeview/default.asp?url=/technet/security/topics/smrtcard/default.asp> ![](images/Dd547909.tous(ko-kr,TechNet.10).gif)
+
+Windows Server 2003의 감사 정책에 대한 자세한 내용은 다음 위치에서 볼 수 있습니다. [http://www.microsoft.com/technet/treeview/default.asp?url=/technet/prodtechnol/windowsserver2003/proddocs/standard/APtopnode.asp](http://www.microsoft.com/technet/treeview/default.asp?url=/technet/prodtechnol/windowsserver2003/proddocs/standard/aptopnode.asp) ![](images/Dd547909.tous(ko-kr,TechNet.10).gif).
+
+"익명 제한" 레지스트리 값으로 인해 Windows 2000 도메인에 대한 트러스트가 손상되는 방식에 대한 자세한 내용은 다음 위치에서 볼 수 있습니다. <http://support.microsoft.com/default.aspx?scid=kb;en-us;296405>
+
+오류 보고 기능을 비활성화하는 방법에 대한 자세한 내용은 다음 위치에서 볼 수 있습니다. <http://www.microsoft.com/technet/treeview/default.asp?url=/technet/prodtechnol/windowsserver2003/proddocs/standard/sysdm_advancd_exception_reporting.asp> ![](images/Dd547909.tous(ko-kr,TechNet.10).gif)
+
+Windows 기업 오류 보고에 대한 자세한 내용은 다음 위치에서 볼 수 있습니다. [http://www.google.co.uk/url?sa=U&start=1&q=http://www.microsoft.com/technet/prodtechnol/office/officexp/reskit/html/appa19.asp&e=7370](http://www.google.co.uk/url?sa=u&start=1&q=http://www.microsoft.com/technet/prodtechnol/office/officexp/reskit/html/appa19.asp&e=7370) ![](images/Dd547909.tous(ko-kr,TechNet.10).gif)
+[](#mainsection)[페이지 위쪽](#mainsection)

@@ -1,0 +1,1022 @@
+---
+TOCTitle: Windows Server 2003 방호 호스트 강화
+Title: Windows Server 2003 방호 호스트 강화
+ms:assetid: '97bf502d-ac45-42c1-aff8-8573bbe3357b'
+ms:contentKeyID: 20214072
+ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Dd547917(v=TechNet.10)'
+---
+
+Windows Server 2003 방호 호스트 강화
+====================================
+
+##### 이 페이지에서
+
+[](#xsltsection121121120120)[모듈 정보](#xsltsection121121120120)
+[](#xsltsection122121120120)[목표](#xsltsection122121120120)
+[](#xsltsection123121120120)[적용 범위](#xsltsection123121120120)
+[](#xsltsection124121120120)[모듈 사용법](#xsltsection124121120120)
+[](#xsltsection125121120120)[개요](#xsltsection125121120120)
+[](#xsltsection126121120120)[감사 정책 설정](#xsltsection126121120120)
+[](#xsltsection127121120120)[사용자 권한 할당](#xsltsection127121120120)
+[](#xsltsection128121120120)[보안 옵션](#xsltsection128121120120)
+[](#xsltsection129121120120)[이벤트 로그 설정](#xsltsection129121120120)
+[](#xsltsection130121120120)[시스템 서비스](#xsltsection130121120120)
+[](#xsltsection131121120120)[추가 보안 설정](#xsltsection131121120120)
+[](#xsltsection132121120120)[요약](#xsltsection132121120120)<span id="XSLTsection121121120120"></span>
+모듈 정보
+---------
+
+이 모듈에서는 특히 방호 호스트용 보안 템플릿 구성에 대해 설명합니다. 방호 호스트는 안전하지만 주변 네트워크의 공개 위치에 있기 때문에 공개적으로 액세스할 수 있는 컴퓨터입니다. 방호 호스트는 일반적으로 웹 서버, DNS(Domain Name System) 서버, FTP(File Transfer Protocol) 서버, SMTP(Simple Mail Transport Protocol) 서버 및 NNTP(Network News Transfer Protocol) 서버로 사용됩니다. 이 모듈은 Windows Server 2003 Security Guide에 포함된 구성원 서버 기준의 설정을 참조하여 작성되었습니다. 이 모듈에서는 보안 템플릿에 정의된 설정 외에 적용해야 하는 추가 보안 구성 설정도 다룹니다. 이 추가 설정은 완전하게 강화된 방호 호스트를 만드는 데 필요합니다. 이 모듈에는 또한 보안 구성 및 분석 도구를 사용하여 보안 템플릿을 적용하는 방법에 대한 설명이 포함됩니다.
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+<span id="XSLTsection122121120120"></span>
+목표
+----
+
+이 모듈을 사용하여 다음을 할 수 있습니다.
+-   
+
+    방호 호스트를 강화합니다.
+
+-   
+
+    방호 호스트용으로 적절한 보안 구성을 확인합니다.
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+<span id="XSLTsection123121120120"></span>
+적용 범위
+---------
+
+이 모듈은 다음과 같은 제품 및 기술에 적용됩니다.
+-   
+
+    Microsoft Windows Server™ 2003 운영 체제
+
+-   
+
+    방호 호스트
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+<span id="XSLTsection124121120120"></span>
+모듈 사용법
+-----------
+
+이 모듈을 사용하여 방호 호스트에 적용할 보안 설정을 이해하고 이런 유형의 독립 실행형 서버를 강화할 수 있습니다. 이 모듈에서는 역할 관련 보안 템플릿과 기준 보안 템플릿을 함께 사용합니다. 이 보안 템플릿은 [http://go.microsoft.com/fwlink/?LinkId=14846](http://go.microsoft.com/fwlink/?linkid=14846) ![](images/Dd547917.tous(ko-kr,TechNet.10).gif)에서 사용할 수 있는 Windows Server 2003 Security Guide에 포함되어 있습니다.
+
+이 모듈을 최대한 활용하려면 다음을 수행합니다.
+-   
+
+    **모듈 "Windows Server 2003 보안 소개"를 읽어 보십시오.** 여기에서는 Windows Server 2003 Security Guide의 목적과 내용을 설명합니다.
+
+-   
+
+    **모듈 "Windows Server 2003 서버의 구성원 서버 기준 만들기"를 읽어 보십시오.** 이 모듈에서는 조직 구성 단위 계층 구조와 그룹 정책을 사용하여 여러 서버에 구성원 서버 기준을 적용하는 방법을 보여 줍니다.
+
+-   
+
+    **함께 제공된 작업 방법을 사용합니다**. 이 모듈에서 참조하는 다음 안내서를 읽어 보십시오.
+
+    -   
+
+        "Windows Server 2003 관련 그룹 정책 및 보안 템플릿을 적용하는 방법"
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+<span id="XSLTsection125121120120"></span>
+개요
+----
+
+이 모듈에서는 사용자 환경에서 방호 호스트를 강화하는 데 초점을 맞추고 있습니다. 방호 호스트는 안전하지만 공개적으로 액세스할 수 있는 컴퓨터입니다. 방호 호스트는 DMZ(완충 영역) 또는 스크린드 서브넷으로도 알려진 주변 네트워크의 공개 위치에 있습니다. 방호 호스트는 방화벽이나 필터링 라우터의 보호를 받지 않으므로 공격에 완전히 노출됩니다. 이처럼 공격에 대한 노출에 대비해 노출 가능성을 최소화하도록 방호 호스트를 디자인 및 구성하는 데 많은 노력을 기울여야 합니다.
+
+방호 호스트는 일반적으로 웹 서버, DNS(Domain Name System) 서버, FTP(File Transfer Protocol) 서버, SMTP(Simple Mail Transport Protocol) 서버 및 NNTP(Network News Transfer Protocol) 서버로 사용됩니다. 이론적으로 말하면 각 호스트에서 수행할 역할이 많을수록 안전 취약점이 간과될 가능성이 높기 때문에 방호 호스트는 이러한 기능 중 하나만을 수행하도록 되어 있습니다. 단일 방호 호스트에서 단일 서비스를 보호하는 것이 좋습니다. 여러 방호 호스트 관련 비용을 감당할 수 있는 조직은 이런 유형의 네트워크 아키텍처에서 큰 이점을 얻습니다.
+
+방호 호스트는 일반 호스트와는 매우 다른 방식으로 구성됩니다. 모든 불필요한 서비스, 프로토콜, 프로그램 및 네트워크 인터페이스를 해제하거나 제거한 다음, 일반적으로 각 방호 호스트에서 특정 역할을 수행하도록 구성합니다. 이 방식으로 방호 호스트를 강화하면 공격할 수 있는 방법이 제한됩니다.
+
+이 모듈의 다음 섹션에서는 모든 환경에서 가장 효과적으로 방호 호스트를 보호하도록 하는 다양한 보안 강화 설정에 대해 자세히 설명합니다.
+### 방호 호스트 로컬 정책
+
+이 설명서 앞부분에서 자세히 설명한 다른 서버 역할 그룹 정책과는 달리 그룹 정책은 Microsoft Active Directory 디렉터리 서비스 도메인에 속하지 않는 독립 실행형 호스트로 구성되기 때문에 방호 호스트 서버에 적용할 수 없습니다. 높은 노출 수준으로 인해, 이 설명서에 정의된 세 가지 환경에서 방호 호스트 서버에는 오직 하나의 지침만이 지정됩니다. 아래에서 설명한 보안 설정은 모듈 "Windows Server 2003 Servers 의 구성원 서버 기준 만들기"에 정의된 고급 보안 환경용 MSBP(구성원 서버 기준 정책)를 기반으로 합니다. 보안 설정은 각 방호 호스트의 BHLP(방호 호스트 로컬 정책)에 적용해야 할 보안 템플릿에 포함됩니다.
+#### 방호 호스트 로컬 정책 적용
+
+이 설명서에서 참조하는 High Security-Bastion Host.inf 파일을 사용하여 BHLP를 구성할 수 있습니다. 그러면 SMTP 방호 호스트 서버를 제대로 작동시키는 데 필요한 서비스를 사용할 수 있습니다. High Security-Bastion Host.inf 파일을 적용하면 방호 호스트의 공격 대상 영역을 크게 줄여 서버의 보안이 강화되지만, 방호 호스트의 원격 관리가 불가능합니다. 기능을 추가하거나 방호 호스트의 관리 효율을 높이도록 BHLP를 변경해야 합니다.
+
+보안 템플릿에 포함된 모든 보안 설정을 적용하려면 **로컬 컴퓨터 정책** 스냅인 대신 **보안 구성 및 분석** 스냅인을 사용해야 합니다. **로컬 컴퓨터 정책** 스냅인을 사용하면 시스템 서비스용 보안 설정을 적용할 수 없기 때문에 보안 템플릿을 가져올 수 없습니다.
+
+다음 절차에서는 보안 구성 및 분석 스냅인을 사용하여 BHLP 보안 템플릿을 가져와서 적용하는 프로세스에 대해 자세히 설명합니다.
+
+**경고:** Microsoft High Security-Bastion Host.inf를 적용하기 전에 방호 호스트 서버의 전체 백업을 수행하는 것이 좋습니다. High Security-Bastion Host.inf 보안 템플릿을 적용한 후 방호 호스트를 원래 구성으로 되돌리는 것은 매우 어렵습니다. 사용자 환경에서 요구하는 방호 호스트 기능을 사용할 수 있도록 보안 템플릿을 구성합니다.
+
+보안 템플릿을 가져오고 분석하여 적용하는 데 대한 자세한 내용은 " Windows Server 2003관련 그룹 정책 및 보안 템플릿을 적용하는 방법"을 참고합니다.
+
+이 단계를 마치면 사용자 환경에서 관련된 모든 보안 템플릿 설정이 방호 호스트의 로컬 정책에 적용됩니다. 모든 설정을 적용하려면 방호 호스트를 다시 시작해야 합니다.
+
+다음 섹션에서는 BHLP를 통해 적용되는 보안 설정에 대해 설명합니다. 이 모듈에서는 MSBP의 설정과 다른 설정들만 다룹니다.
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+<span id="XSLTsection126121120120"></span>
+감사 정책 설정
+--------------
+
+방호 호스트용 BHLP 감사 정책 설정은 High Security-Member Server Baseline.inf 파일에서 지정된 설정과 동일합니다. MSBP에 대한 자세한 내용은, 모듈 "Windows Server 2003 서버의 구성원 서버 기준 만들기"를 참고합니다. BHLP 설정은 모든 관련 보안 감사 정보가 모든 방호 호스트 서버에 기록될 수 있도록 합니다.
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+<span id="XSLTsection127121120120"></span>
+사용자 권한 할당
+----------------
+
+방호 호스트용 BHLP 사용자 권한 할당은 모듈 "Windows Server 2003 서버의 구성원 서버 기준 만들기."의 High Security-Member Server Baseline.inf 파일에 지정된 사용자 권한 할당을 기반으로 합니다 다음은 BHLP과 MSBP간의 차이점에 대한 설명입니다.
+### 로컬 로그온 허용
+
+**표 1: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >설정</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+로컬 로그온 허용</td>
+<td style="border:1px solid black;">
+관리자</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**로컬 로그온 허용** 사용자 권한은 사용자가 컴퓨터에서 대화형 세션을 시작할 수 있게 합니다. 방호 호스터 서버 콘솔에 로그온하는 데 사용될 수 있는 계정을 제한하면 서버의 파일 시스템 및 시스템 서비스에 대한 무단 액세스를 막는 데 도움이 됩니다. 서버의 콘솔에 로그온할 수 있는 사용자는 시스템을 이용하여 보안을 침해할 수 있습니다.
+
+**Account Operators**, **Backup Operators**, **Print Operators** 및 **Power Users** 그룹에는 로컬 로그온 권한이 기본적으로 부여됩니다. 이 권한을**Administrators** 그룹에만 부여하면 방호 호스트 서버에서 확실히 신뢰할 수 있는 사용자에게만 관리 액세스를 제한하여 보안 수준을 높일 수 있습니다.
+### 네트워크에서 이 컴퓨터 액세스 거부
+
+**표 2: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >설정</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+SUPPORT_388945a0</td>
+<td style="border:1px solid black;">
+ANONOYMOUS LOGON; 기본 제공 Administrator; Support_388945a0; Guest; 모든 비 운영 체제 서비스 계정</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**참고:** ANONOYMOUS LOGON, 기본 제공 Administrator, Support\_388945a0, Guest 및 모든 비 운영 체제 서비스 계정은 보안 템플릿에 포함되지 않습니다. 이러한 계정 및 그룹은 고유한 SID(보안 식별자)를 갖습니다. 따라서 수동으로 BHLP에 추가해야 합니다.
+
+**네트워크에서 이 컴퓨터 액세스 거부** 사용자 권한은 네트워크를 통해 컴퓨터에 연결할 수 없는 사용자를 결정합니다. 이 설정은 SMB(server message block) 기반 프로토콜, NetBIOS (network basic input/output system), CIFS(일반 인터넷 파일 시스템), HTTP(Hypertext Transfer Protocol), COM+(Component Object Model Plus) 등 다수의 네트워크 프로토콜을 거부합니다. 이 설정은 사용자 계정이 두 정책에 모두 적용될 경우 **네트워크에서 이 컴퓨터 액세스** 설정을 무시합니다. 다른 그룹에 대해 이 사용자 권한을 구성하면 사용자들이 현재 환경에서 위임 관리 작업을 수행할 수 있는 기능이 제한될 수 있습니다.
+
+모듈 "Windows Server 2003 서버의 구성원 서버 기준 만들기"에서는 가능한 한 가장 높은 수준의 보안을 제공하기 위해 이 권한에 할당된 사용자 및 그룹 목록에 **Guests** 그룹을 포함할 것을 권장합니다. 그러나 IIS에 익명으로 액세스하는 데 사용되는 IUSR 계정은 기본적으로 **Guests** 그룹의 구성원입니다. 이러한 이유로 이 설명서에 정의된 고급 보안 환경에서는 **네트워크에서 이 컴퓨터 액세스 거부** 설정이 방호 호스트용 **ANONOYMOUS LOGON; 기본 제공 Administrator; Support\_388945a0; Guest; 모든 비 운영 체제 서비스 계정** 을 포함하도록 구성됩니다.
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+<span id="XSLTsection128121120120"></span>
+보안 옵션
+---------
+
+방호 호스트용 BHLP 보안 옵션 설정은 모듈 "Windows Server 2003 서버의 구성원 서버 기준 만들기"의 High Security-Member Server Baseline.inf 파일에 지정된 보안 옵션 설정과 동일합니다. 이 BHLP 설정은 모든 방호 호스트 서버에서 모든 관련 보안 옵션을 일관되게 구성할 수 있도록 합니다.
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+<span id="XSLTsection129121120120"></span>
+이벤트 로그 설정
+----------------
+
+방호 호스트용 BHLP 보안 옵션 설정은 모듈 "Windows Server 2003 서버의 구성원 서버 기준 만들기"의 High Security-Member Server Baseline.inf 파일에 지정된 보안 옵션 설정과 동일합니다. 이 BHLP 설정은 모든 방호 호스트 서버에서 모든 이벤트 로그 설정을 일관되게 구성할 수 있도록 합니다.
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+<span id="XSLTsection130121120120"></span>
+시스템 서비스
+-------------
+
+방호 호스트 서버는 원래 외부 공격에 노출되어 있습니다. 이런 이유로 각 방호 호스트의 공격 대상 영역을 최소화해야 합니다. 방호 호스트 서버를 제대로 강화하려면 방호 호스트가 올바르게 작동하는 데 꼭 필요하지 않은 서비스를 비롯하여 운영 체제에서 필요하지 않은 모든 서비스를 사용할 수 없게 설정해야 합니다. 이 설명서에서 참조하는 High Security-Bastion Host.inf 보안 템플릿은 BHLP에서 SMTP 방호 호스트 서버가 제대로 작동하는 데 필요한 서비스를 사용할 수 있도록 구성합니다. BHLP는 Internet Information Services Manager service, HTTP SSL 서비스 및 SMTP 서비스를 사용할 수 있도록 합니다. 그러나 다른 기능을 사용할 수 있도록 BHLP를 수정해야 합니다.
+
+다수의 사용하지 않는 서비스에서 무시할 수 있는 많은 이벤트 로그 경고가 생성될 수 있습니다. 일부 경우에는 이러한 서비스 중 일부를 사용할 수 있도록 하는 것이 이벤트 로그 경고와 오류 메시지를 줄이고 방호 호스트의 관리 효율을 높일 수 있습니다. 그러나 이렇게 하면 각 방호 호스트의 공격 대상 영역 역시 증가합니다.
+
+다음 섹션에서는 기능을 유지하면서 공격 대상 영역을 줄이도록 방호 호스트 서버에서 사용할 수 없게 설정해야 할 서비스에 대해 설명합니다. High Security-Member Server Baseline.inf 파일에서 이미 사용하지 않도록 설정되지 않은 서비스만 이 섹션에 포함됩니다.
+### 자동 업데이트
+
+**표 3: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Wuauserv</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**자동 업데이트** 서비스는 방호 호스트에서 중요 Microsoft Windows 운영 체제 업데이트를 다운로드 및 설치할 수 있도록 합니다. 이 서비스는 자동으로 방호 호스트에 최신 업데이트, 드라이버 및 향상된 기능을 제공합니다. 운영 체제에서 방호 호스트로 중요 업데이트와 정보를 직접 전달하므로 더 이상 수동으로 중요 업데이트와 정보를 검색할 필요가 없어집니다. 운영 체제는 사용자가 온라인 상태일 때를 인식하고 사용자의 인터넷 연결을 통해 Windows Update 서비스에서 적용할 업데이트를 검색할 수 있습니다. 사용자의 구성 설정에 따라 다운로드나 설치 전에 사용자에게 알리거나 자동으로 업데이트를 설치할 수 있습니다.
+
+**자동 업데이트** 서비스를 중지하거나 사용하지 않으면 컴퓨터에서 자동으로 중요 업데이트를 자동으로 다운로드하지 않습니다. 이 경우 사용자는 직접 Windows Update 웹 사이트<http://v4.windowsupdate.microsoft.com/ko/default.asp>에서 해당하는 모든 중요 수정 프로그램을 검색, 다운로드하여 설치해야 합니다.
+
+이 서비스는 방호 호스트가 올바르게 작동하는 데 꼭 필요한 것은 아닙니다. 로컬 정책을 사용하여 이 서비스를 보호하고 서비스용 시작 모드를 설정하면 서버 관리자에게만 액세스 권한이 부여되므로 권한이 없거나 악의적인 사용자가 서비스를 구성하거나 서비스에 대한 작업을 수행하지 못하게 됩니다. 또한 이 서비스를 해제하면 방호 호스트 서버의 공격 허점을 효과적으로 줄일 수 있습니다. 이런 이유로 BHLP에서는 **자동 업데이트**설정이 **사용 안 함**으로 구성됩니다.
+### 백그라운드 인텔리전트 전송 서비스
+
+**표 4: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+BITS</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**BITS(백그라운드 인텔리전트 전송 서비스)**는 백그라운드 파일 전송 메커니즘 및 대기열 관리자입니다. BITS는 클라이언트와 HTTP 서버 사이에 비동기적으로 파일을 전송하는 데 사용됩니다. BITS는 검색과 같은 다른 네트워크 관련 작업이 영향을 받지 않도록 다른 때는 유휴 상태인 네트워크 대역폭을 사용하여 파일 전송 요청을 수락합니다.
+
+이 서비스를 중지하면 서비스를 다시 실행할 때까지 자동 업데이트와 같은 기능에서 자동으로 프로그램과 다른 정보를 다운로드하지 않습니다. 즉, 그룹 정책을 통해 이 서비스를 구성할 경우 컴퓨터는 SUS(Software Update Services)로부터 자동 업데이트를 하지 않습니다. 이 서비스를 해제하면 Internet Explorer 등의 다른 방법을 통해 직접 파일을 전송하도록 유사시 대기 메커니즘이 설정되지 않는 한 확실하게 이를 사용하는 모든 서비스에서는 파일을 전송하지 않습니다
+
+이 서비스는 방호 호스트가 올바르게 작동하는 데 꼭 필요한 것은 아닙니다. 로컬 정책을 사용하여 이 서비스에 보안을 설정하고 서비스 시작 모드를 설정하면 서버 관리자에게만 액세스 권한이 부여되므로 권한이 없거나 악의적인 사용자는 서비스를 구성하거나 서비스에 대한 작업을 수행하지 못하게 됩니다. 또한 이 서비스를 해제하면 방호 호스트 서버의 공격 허점을 효과적으로 줄일 수 있습니다. 이런 이유로 이 서비스는 BHLP에서 해제됩니다.
+### 컴퓨터 브라우저
+
+**표 5: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+브라우저</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**컴퓨터 브라우저**서비스는 사용자 네트워크에서 최신 컴퓨터 목록을 유지하고 이를 요청하는 프로그램 목록을 제공합니다. **컴퓨터 브라우저** 서비스는 네트워크 도메인과 리소스를 보아야 하는 Windows 기반 컴퓨터에서 사용됩니다. 브라우저로 지정된 컴퓨터는 네트워크에서 사용된 모든 공유 리소스를 포함한 찾아보기 목록을 유지 관리합니다. My Network Places, NET VIEW 명령 및 Microsoft Windows NT 운영 체제 탐색기와 같은 이전 버전의 Windows 응용 프로그램에는 모두 검색 기능이 필요합니다. 예를 들어 Windows 95를 실행하는 컴퓨터에서 My Network Places를 열면 브라우저로 지정된 컴퓨터에서 탐색 목록 복사본을 가져와서 도메인과 컴퓨터 목록을 표시합니다.
+
+Disabling the **컴퓨터 브라우저** 서비스를 해제하면 브라우저 목록이 업데이트 또는 유지 관리되지 않습니다. 이 서비스를 해제하면 이 서비스에 명시적으로 의존하는 모든 서비스도 작동하지 않게 됩니다.
+
+이 서비스는 방호 호스트가 올바르게 작동하는 데 꼭 필요한 것은 아닙니다. 로컬 정책을 사용하여 서비스에 보안을 설정하고 서비스 시작 모드를 설정하면 서버 관리자에게만 액세스 권한이 부여되므로 권한이 없거나 악의적인 사용자는 서비스를 구성하거나 서비스에 대한 작업을 수행하지 못하게 됩니다. 또한 이 서비스를 해제하면 방호 호스트 서버의 공격 허점을 효과적으로 줄일 수 있습니다. 이런 이유로 BHLP에서는 **컴퓨터 브라우저**설정이 **사용 안 함**으로 구성됩니다.
+### DHCP 클라이언트
+
+**표 6: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+Dhcp</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**DHCP 클라이언트** 서비스는 사용자 컴퓨터의 IP(인터넷 프로토콜) 주소와 DNS 이름을 등록 및 업데이트하여 네트워크 구성을 관리합니다. 이 서비스는 클라이언트(예: 로밍 사용자)가 네트워크를 탐색할 때 사용자가 IP 설정을 수동으로 변경하지 못하도록 합니다. 각 서브넷에서 DHCP(Dynamic Host Configuration Protocol) 서버에 액세스할 수 있는 한 클라이언트에서 다시 연결하는 서브넷에 관계없이 클라이언트에는 자동으로 새 IP 주소가 부여됩니다. DNS나 WINS(Windows Internet Name Service)용 설정을 수동으로 구성할 필요가 없습니다. DHCP 서버가 그러한 정보를 발급하도록 구성되는 한 DHCP 서버에서는 이 서비스 설정을 클라이언트에 적용합니다. 클라이언트에서 이 옵션을 사용할 수 있도록 하려면 **자동으로 DNS 서버 주소 받기** 옵션 단추를 선택하기만 하면 됩니다. 이 옵션을 사용하면 중복 IP 주소 충돌이 방지됩니다.
+
+**DHCP 클라이언트** 서비스를 중지하면 사용자 컴퓨터에서 동적 IP 주소를 수신하지 않으며, 자동 동적 DNS 업데이트는 DNS 서버에 등록되지 않습니다. 이 서비스를 해제하면 이 서비스에 명시적으로 의존하는 모든 서비스도 작동하지 않게 됩니다.
+
+이 서비스는 방호 호스트가 올바르게 작동하는 데 꼭 필요한 것은 아닙니다. 로컬 정책을 사용하여 이 서비스에 보안을 설정하고 서비스 시작 모드를 설정하면 서버 관리자에게만 액세스 권한이 부여되므로 권한이 없거나 악의적인 사용자는 서비스를 구성하거나 서비스에 대한 작업을 수행하지 못하게 됩니다. 또한 이 서비스를 해제하면 방호 호스트 서버의 공격 허점을 효과적으로 줄일 수 있습니다. 이런 이유로 BHLP에서는 **DHCP 클라이언트** 설정이 **사용 안 함**으로 구성됩니다.
+### NLA(Network Location Awareness)
+
+**표 7: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+NLA</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**NLA(Network Location Awareness)** 서비스는 위치 변경 정보뿐 아니라 IP 주소 및 도메인 이름 변경과 같은 네트워크 구성 정보를 수집 및 저장한 다음 이 정보가 변경될 경우 응용 프로그램에 알립니다.
+
+이 서비스는 방호 호스트가 올바르게 작동하는 데 꼭 필요한 것은 아닙니다. 로컬 정책을 사용하여 서비스에 보안을 설정하고 서비스 시작 모드를 설정하면 서버 관리자에게만 액세스 권한이 부여되므로 권한이 없거나 악의적인 사용자는 서비스를 구성하거나 서비스에 대한 작업을 수행하지 못하게 됩니다. 또한 이 서비스를 해제하면 방호 호스트 서버의 공격 허점을 효과적으로 줄일 수 있습니다. 이런 이유로 BHLP에서는 **NLA(Network Location Awareness)** 설정이 **사용 안 함**으로 구성됩니다.
+### NTLM 보안 지원 공급자
+
+**표 8: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+NtLmSsp</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**NTLM 보안 지원 공급자** 서비스는 명명된 파이프 이외의 전송을 사용하는 RPC(원격 프로시저 호출) 프로그램에 보안을 제공하고 사용자가 NTLM 인증 프로토콜을 사용하여 네트워크에 로그온할 수 있도록 합니다. NTLM 프로토콜은 Kerberos 버전 5 인증을 사용하지 않는 클라이언트를 인증합니다.
+
+**NTLM 보안 지원 공급자** 서비스를 중지하거나 해제하면 NTLM 인증 프로토콜을 사용하는 클라이언트에 로그온하거나 네트워크 리소스에 액세스할 수 없습니다. MOM(Microsoft Operations Manager)과 Telnet은 이 서비스를 사용합니다.
+
+이 서비스는 방호 호스트가 올바르게 작동하는 데 꼭 필요한 것은 아닙니다. 로컬 정책을 사용하여 서비스에 보안을 설정하고 서비스 시작 모드를 설정하면 서버 관리자에게만 액세스 권한이 부여되므로 권한이 없거나 악의적인 사용자는 서비스를 구성하거나 서비스에 대한 작업을 수행하지 못하게 됩니다. 또한 이 서비스를 해제하면 방호 호스트 서버의 공격 허점을 효과적으로 줄일 수 있습니다. 이런 이유로 BHLP에서는 **NTLM 보안 지원 공급자** 설정이 **사용 안 함**으로 구성됩니다.
+### 성능 로그 및 경고
+
+**표 9: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+SysmonLog</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**성능 로그 및 경고** 서비스는 이미 구성된 일정 매개변수를 사용하여 로컬 또는 원격 컴퓨터에서 성능 데이터를 수집한 다음 해당 데이터를 로그에 쓰거나 알림을 트리거합니다. **성능 로그 및 경고** 서비스는 명명된 로그 수집 설정에 포함된 정보를 기반으로 명명된 각 성능 데이터 수집을 시작하거나 중단합니다. 이 서비스는 최소한 하나의 수집 일정이 잡히는 경우 실행됩니다.
+
+**성능 로그 및 경보** 서비스를 중단하면 성능 정보가 수집되지 않고 현재 실행중인 데이터 수집은 종료되며 일정이 잡힌 수집은 실행되지 않습니다.
+
+이 서비스는 방호 호스트가 올바르게 작동하는 데 꼭 필요한 것은 아닙니다. 로컬 정책을 사용하여 서비스에 보안을 설정하고 서비스 시작 모드를 설정하면 서버 관리자에게만 액세스 권한이 부여되므로 권한이 없거나 악의적인 사용자는 서비스를 구성하거나 서비스에 대한 작업을 수행하지 못하게 됩니다. 또한 이 서비스를 해제하면 방호 호스트 서버의 공격 허점을 효과적으로 줄일 수 있습니다. 이런 이유로 BHLP에서는 **실행 로그 및 경고** 설정이 **사용 안 함**으로 구성됩니다.
+### 원격 관리 서비스
+
+**표 10: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+SrvcSurg</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**원격 관리 서비스** 는 서버를 다시 시작할 때 다음 원격 관리 작업을 실행합니다.
+-   
+
+    서버 다시 시작 횟수 증가
+
+-   
+
+    자체 서명된 인증서 생성
+
+-   
+
+    서버에서 날짜 및 시간이 설정되지 않은 경우 경고
+
+-   
+
+    알림 전자 메일 기능이 구성되지 않은 경우 경고
+
+**원격 관리 서비스** 를 중지하면 원격 관리용 웹 인터페이스와 같은 원격 서버 관리 도구의 일부 기능이 제대로 작동하지 않습니다. 이 서비스를 해제하면 이 서비스에 명시적으로 의존하는 모든 서비스가 작동하지 않게 됩니다.
+
+이 서비스는 방호 호스트가 올바르게 작동하는 데 꼭 필요한 것은 아닙니다. 로컬 정책을 사용하여 서비스에 보안을 설정하고 서비스 시작 모드를 설정하면 서버 관리자에게만 액세스 권한이 부여되므로 권한이 없거나 악의적인 사용자는 서비스를 구성하거나 서비스에 대한 작업을 수행하지 못하게 됩니다. 또한 이 서비스를 해제하면 방호 호스트 서버의 공격 허점을 효과적으로 줄일 수 있습니다. 이런 이유로 BHLP에서는 **원격 관리 서비스** 설정이 **사용 안 함**으로 구성됩니다.
+### 원격 레지스트리 서비스
+
+**표 11: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+RemoteRegistry</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**원격 레지스트리 서비스** 를 사용하면 필요한 권한이 있는 경우 원격 사용자가 도메인 컨트롤러에서 레지스트리 설정을 변경할 수 있습니다. **Administrators** 와 **Backup Operators** 그룹 사용자만이 기본적으로 원격으로 레지스트리에 액세스할 수 있습니다. 이 서비스는 MBSA(Microsoft Baseline Security Analyzer) 유틸리티에 필요합니다. MBSA는 조직 내 각 서버에 어떤 패치가 설치되었는지를 확인할 수 있도록 하는 도구입니다.
+
+**원격 레지스트리 서비스** 를 중지하면 사용자는 로컬 컴퓨터에서만 레지스트리를 수정할 수 있습니다. 이 서비스를 해제하면 확실하게 이 서비스를 사용하는 서비스는 모두 실패하지만 사용자의 로컬 컴퓨터에서 레지스트리 작동에 영향을 미치지는 않습니다. 다른 컴퓨터나 장치 역시 더 이상 사용자의 로컬 컴퓨터 레지스트리에 연결되지 않습니다.
+
+이 서비스는 방호 호스트가 올바르게 작동하는 데 꼭 필요한 것은 아닙니다. 로컬 정책을 사용하여 서비스에 보안을 설정하고 서비스 시작 모드를 설정하면 서버 관리자에게만 액세스 권한이 부여되므로 권한이 없거나 악의적인 사용자는 서비스를 구성하거나 서비스에 대한 작업을 수행하지 못하게 됩니다. 또한 이 서비스를 해제하면 방호 호스트 서버의 공격 허점을 효과적으로 줄일 수 있습니다. 이런 이유로 BHLP에서는 **원격 레지스트리 서비스** 설정이 **사용 안 함** 으로 구성됩니다.
+### 서버
+
+**표 12: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+lanmanserver</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**서버** 서비스는 네트워크를 통해 RPC 지원, 파일, 인쇄 및 명명된 파이프 공유를 제공합니다. 이 서비스를 사용하면 디스크나 프린터 같은 로컬 리소스를 공유할 수 있어 네트워크의 다른 사용자가 해당 리소스에 액세스할 수 있습니다. 또한 다른 컴퓨터에서 실행되는 응용 프로그램과 사용자 컴퓨터 간에 RPC에서 사용되는 명명된 파이트 통신을 할 수 있습니다. 명명된 파이프 통신은 한 프로세스에서 출력으로 사용되는 프로세스를 다른 프로세스에서 입력으로 사용하도록 예약된 메모리입니다. 입력-수락 프로세스는 로컬에서 실행하지 않아도 됩니다.
+
+**서버** 서비스를 중지하면 네트워크를 통해 다른 사용자와 컴퓨터의 파일 및 프린터를 공유할 수 없으며, RPC 요청 역시 충족되지 못합니다. 이 서비스를 해제하면 이 서비스에 명시적으로 의존하는 모든 서비스도 작동하지 않게 됩니다.
+
+이 서비스는 방호 호스트가 올바르게 작동하는 데 꼭 필요한 것은 아닙니다. 로컬 정책을 사용하여 서비스에 보안을 설정하고 서비스 시작 모드를 설정하면 서버 관리자에게만 액세스 권한이 부여되므로 권한이 없거나 악의적인 사용자는 서비스를 구성하거나 서비스에 대한 작업을 수행하지 못하게 됩니다. 또한 이 서비스를 해제하면 방호 호스트 서버의 공격 허점을 효과적으로 줄일 수 있습니다. 이런 이유로 BHLP에서는 **서버** 설정이 **사용 안 함**으로 구성됩니다.
+### TCP/IP NetBIOS Helper Service
+
+**표 13: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+LMHosts</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**TCP/IP NetBIOS Helper Service** 는 TCP/IP(NetBT) 서비스에서 NetBIOS(network basic input/output system) 서비스를 지원하고 사용자 네트워크를 통해 NetBIOS 이름 확인을 수행합니다. 따라서 사용자는 파일과 프린터를 공유하고 네트워크에 로그온할 수 있습니다. TCP/IP(Transmission Control Protocol/Internet Protocol) NetBIOS Helper 서비스는 DNS 이름 확인을 수행하여 NetBT 서비스를 지원합니다.
+
+**TCP/IP NetBIOS Helper Service** 를 중지하면 NetBT, RDR(Redirector), SRV(Server), Netlogon 및 Messenger 서비스 클라이언트에서 파일과 프린터를 공유할 수 없으며 사용자가 컴퓨터에 로그온할 수 없습니다. 예를 들어 도메인 기반 그룹 정책은 더 이상 작동하지 않습니다. 이 서비스를 해제하면 이 서비스에 명시적으로 의존하는 모든 서비스가 작동하지 않게 됩니다.
+
+이 서비스는 방호 호스트가 올바르게 작동하는 데 꼭 필요한 것은 아닙니다. 로컬 정책을 사용하여 서비스에 보안을 설정하고 서비스 시작 모드를 설정하면 서버 관리자에게만 액세스 권한이 부여되므로 권한이 없거나 악의적인 사용자는 서비스를 구성하거나 서비스에 대한 작업을 수행하지 못하게 됩니다. 또한 이 서비스를 해제하면 방호 호스트 서버의 공격 허점을 효과적으로 줄일 수 있습니다. 이런 이유로 BHLP에서는 **TCP/IP NetBIOS Helper Service** 설정이 **사용 안 함**으로 구성됩니다.
+### 터미널 서비스
+
+**표 14: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+TermService</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**터미널 서비스** 는 다중 세션 환경을 제공하여 클라이언트 장치가 서버에서 실행되는 가상 Windows 데스크톱 세션과 Windows 기반 프로그램에 엑세스할 수 있도록 합니다. **터미널 서비스** 를 사용하면 사용자가 원격으로 서버를 관리할 수 있습니다.
+
+**터미널 서비스** 를 중지하거나 해제하면 원격으로 컴퓨터를 관리할 수 없어 관리 및 업데이트가 어렵습니다.
+
+이 서비스는 방호 호스트가 올바르게 작동하는 데 꼭 필요한 것은 아닙니다. 로컬 정책을 사용하여 서비스에 보안을 설정하고 서비스 시작 모드를 설정하면 서버 관리자에게만 액세스 권한이 부여되므로 권한이 없거나 악의적인 사용자는 서비스를 구성하거나 서비스에 대한 작업을 수행하지 못하게 됩니다. 또한 이 서비스를 해제하면 방호 호스트 서버의 공격 허점을 효과적으로 줄일 수 있습니다. 이런 이유로 BHLP에서는 **터미널 서비스** 설정이 **사용 안 함**으로 구성됩니다.
+### Windows Installer
+
+**표 15: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+MSIServer</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Windows Installer** 서비스는 설치 과정에서 중앙에 정의된 설치 규칙 집합을 적용하여 응용 프로그램의 설치 및 제거를 관리합니다. 이 설치 규칙은 설치된 응용 프로그램의 설치 및 구성을 정의합니다. 또한 이 서비스는 기존 응용 프로그램을 수정, 복구 또는 제거하는 데 사용됩니다. 이 서비스용 기술은 Windows 운영 체제용 **Windows Installer** 서비스와 응용 프로그램 설치 관련 정보를 얻는 데 사용되는 (.msi) 패키지 파일 형식으로 구성됩니다.
+
+**Windows Installer** 는 설치 프로그램이자 확장 가능한 소프트웨어 관리 시스템입니다. 이 서비스는 소프트웨어 구성 요소의 설치, 추가 및 삭제를 관리하고 파일 복구를 모니터링하며 롤백을 사용하여 기본 파일 재해 복구를 유지 관리합니다. 또한 **Windows Installer** 는 여러 원본을 통한 소프트웨어 설치 및 실행을 지원하며 사용자 정의 응용 프로그램 설치를 원하는 개발자는 Windows installer를 사용자 지정할 수 있습니다.
+
+**Windows Installer**를 수동으로 설정하면 이를 사용하는 응용 프로그램에서 이 서비스를 시작합니다.
+
+이 서비스를 중지하면 이를 사용하는 응용 프로그램을 설치, 제거, 복구 및 수정할 수 없습니다. 또한 실행 중에 이 서비스를 이용하는 다수의 응용 프로그램이 실행되지 않을 수 있습니다. 이 서비스를 해제하면 이 서비스에 명시적으로 의존하는 모든 서비스가 작동하지 않게 됩니다.
+
+이 서비스는 방호 호스트가 올바르게 작동하는 데 꼭 필요한 것은 아닙니다. 로컬 정책을 사용하여 서비스에 보안을 설정하고 서비스 시작 모드를 설정하면 서버 관리자에게만 액세스 권한이 부여되므로 권한이 없거나 악의적인 사용자는 서비스를 구성하거나 서비스에 대한 작업을 수행하지 못하게 됩니다. 또한 이 서비스를 해제하면 방호 호스트 서버의 공격 허점을 효과적으로 줄일 수 있습니다. 이런 이유로 BHLP에서는 **Windows Installer** 설정이 **사용하지 않음** 으로 구성됩니다.
+### Windows Management Instrumentation Driver Extensions
+
+**표 16: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+WMI</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**Windows Management Instrumentation Driver Extensions** 서비스는 WMI나 이벤트 추적 정보를 게시하도록 구성된 모든 드라이버와 이벤트 추적 제공자를 모니터링합니다.
+
+이 서비스는 방호 호스트가 올바르게 작동하는 데 꼭 필요한 것은 아닙니다. 로컬 정책을 사용하여 서비스에 보안을 설정하고 서비스 시작 모드를 설정하면 서버 관리자에게만 액세스 권한이 부여되므로 권한이 없거나 악의적인 사용자는 서비스를 구성하거나 서비스에 대한 작업을 수행하지 못하게 됩니다. 또한 이 서비스를 해제하면 방호 호스트 서버의 공격 허점을 효과적으로 줄일 수 있습니다. 이런 이유로 BHLP에서는 **Windows Management Instrumentation Driver Extensions** 설정이 **사용 안 함**으로 구성됩니다.
+### WMI 성능 어댑터
+
+**표 17: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >설정</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+WMIApSrv</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**WMI 성능 어댑터** 서비스는 WMI HiPerf 공급자의 성능 라이브러리 정보를 제공합니다. 오늘날 성능 카운터를 제공해야 하는 응용 프로그램 및 서비스에서는 WMI 고성능 공급자나 성능 라이브러리를 작성하는 두 가지 방식으로 이를 제공할 수 있습니다.
+
+**WMI 성능 어댑터** 서비스는 WMI 고성능 공급자에서 제공한 성능 카운터를 역방향 어댑터 성능 라이브러리를 통해 PDH(성능 데이터 도우미)가 사용할 수 있는 카운터로 변환합니다. 이러한 방식으로 Sysmon 같은 PDH 클라이언트는 컴퓨터의 모든 WMI 고성능 공급자에서 나타나는 성능 카운터를 사용할 수 있습니다.
+
+**WMI 성능 어댑터** 서비스를 중지하면 WMI 성능 카운터를 사용할 수 없습니다. 이 서비스를 해제하면 이 서비스에 명시적으로 의존하는 모든 서비스가 작동하지 않게 됩니다.
+
+이 서비스는 방호 호스트가 올바르게 작동하는 데 꼭 필요한 것은 아닙니다. 로컬 정책을 사용하여 서비스에 보안을 설정하고 서비스 시작 모드를 설정하면 서버 관리자에게만 액세스 권한이 부여되므로 권한이 없거나 악의적인 사용자는 서비스를 구성하거나 서비스에 대한 작업을 수행하지 못하게 됩니다. 또한 이 서비스를 해제하면 방호 호스트 서버의 공격 허점을 효과적으로 줄일 수 있습니다. 이런 이유로 BHLP에서는 **WMI 성능 어댑터** 설정이 **사용 안 함**으로 구성됩니다.
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+<span id="XSLTsection131121120120"></span>
+추가 보안 설정
+--------------
+
+BHLP를 통해 적용된 보안 설정은 방호 호스트 서버용 보안을 크게 강화했습니다. 그러나 몇 가지 사항과 프로시저를 더 고려해야 합니다. 이 단계는 로컬 정책을 통해서는 수행될 수 없으며 모든 방호 호스트 서버에서 수동으로 완료해야 합니다.
+### 사용자 권한 할당에 수동으로 고유 보안 그룹 추가
+
+이 설명서와 함께 제공되는 보안 템플릿에는 MSBP를 통해 적용된 대부분의 사용자 권한 할당에 대해 적절한 보안 그룹이 지정되어 있습니다. 그러나 일부 계정 및 보안 그룹의 경우에는 해당 SID(보안 식별자)가 개별 Windows 2003 도메인에서 고유하므로 템플릿에 포함할 수 없습니다. 수동으로 구성해야 하는 사용자 권한 할당은 다음과 같이 지정됩니다.
+
+**경고:** 다음 표는 기본 제공 **Administrator** 계정 값을 포함합니다. 이 계정을 기본 제공 **Administrators** 보안 그룹과 혼동하면 안 됩니다. **Administrators** 보안 그룹을 아래의 액세스 거부 사용자 권한에 추가할 경우 실수를 정정하려면 로컬로 로그온해야 합니다.
+
+또한 모듈 "Windows Server 2003 서버의 구성원 서버 기준 만들기"에서 설명하는 일부 권장 사항을 기반으로 하여 기본 제공 **Administrator** 계정 이름을 바꿀 수 있습니다. **Administrator** 계정을 추가할 경우 이름을 바꾼 계정을 지정해야 합니다.
+
+**표 18: 수동으로 추가된 사용자 권한 할당**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+네트워크에서 이 컴퓨터 액세스 거부</td>
+<td style="border:1px solid black;">
+기본 제공 Administrator; Support_388945a0;Guest; 모든 비 운영 체제 서비스 계정</td>
+<td style="border:1px solid black;">
+기본 제공 Administrator; Support_388945a0;Guest; 모든 비 운영 체제 서비스 계정</td>
+<td style="border:1px solid black;">
+기본 제공 Administrator; Support_388945a0;Guest; 모든 비 운영 체제 서비스 계정</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**중요:** 모든 비 운영 체제 서비스 계정은 엔터프라이즈 전체에서 특정 응용 프로그램용으로 사용되는 서비스 계정을 포함합니다. 운영 체제에서 사용하는 기본 제공 계정인 LOCAL SYSTEM, LOCAL SERVICE 또는 NETWORK SERVICE 계정은 여기에 포함되지 않습니다.
+### 불필요한 네트워크 프로토콜 및 바인딩 제거
+
+특히 방호 호스트 서버와 같이 인터넷에서 직접 액세스할 수 있는 서버는 사용자 열거 위험에 대비할 수 있도록 불필요한 프로토콜을 모두 해제해야 합니다. 사용자 열거는 공격자가 시스템 특정 정보를 확보하여 공격을 계속 시도하기 위해 수행하는 일종의 정보 수집 활동입니다.
+
+SMB(서버 메시지 블록) 프로토콜은 "null" 세션을 사용하는 인증되지 않은 사용자에게도 컴퓨터에 관한 많은 정보를 반환합니다. 검색할 수 있는 정보는 공유, 그룹 및 사용자 권한을 포함한 사용자 정보, 레지스트리 키 등을 포함합니다.
+
+TCP/IP에서 SMB와 NetBIOS를 해제하면 서버의 공격 대상 영역이 크게 줄어들어 방호 호스트의 보안이 유지됩니다. 이 구성에서 운영되는 서버는 관리하기가 더 어려우며 네트워크에서 공유되는 폴더에 액세스할 수 없지만, 이 방법을 사용하면 서버의 보안이 쉽게 침해되지 않도록 효과적으로 보호할 수 있습니다. 그러므로 이 설명서에서는 인터넷에서 액세스할 수 있는 방호 호스트 서버를 통한 네트워크 연결을 위해 TCP/IP에서 SMB와 NetBIOS를 해제할 것을 권장합니다.
+-   
+
+    **SMB를 비활성화하려면 다음을 수행합니다.**
+
+    1.  
+
+        **제어판**에서 **네트워크 연결**을 두 번 클릭합니다.
+
+    2.  
+
+        인터넷 연결을 마우스 오른쪽 단추로 클릭하고 **속성**을 클릭합니다.
+
+    3.  
+
+        **속성** 대화 상자에서 **Microsoft 네트워크용 클라이언트**를 선택하고 **제거**를 클릭합니다.
+
+    4.  
+
+        제거 단계를 따릅니다.
+
+    5.  
+
+        **Microsoft 네트워크용 파일 및 프린터 공유**를 선택하고 **제거**를 클릭합니다.
+
+    6.  
+
+        제거 단계를 따릅니다.
+
+-   
+
+    **TCP/IP에서 NetBIOS를 비활성화하려면 다음을 수행합니다.**
+
+    1.  
+
+        **제어판**에서 **시스템**을 두 번 클릭하고 **하드웨어** 탭을 클릭한 후 **장치 관리자** 단추를 클릭합니다.
+
+    2.  
+
+        **보기** 메뉴에서 **숨김 장치 표시**를 클릭합니다.
+
+    3.  
+
+        **비 플러그 앤 플레이 드라이버**를 확장합니다.
+
+    4.  
+
+        **NetBIOS over Tcpip**를 마우스 오른쪽 단추로 클릭하고 **사용 안 함**을 클릭합니다.
+
+이 절차는 TCP/445 및 UDP 445에서 SMB 직접 호스트 수신기를 해제합니다.
+
+**참고:** 이 절차는 nbt.sys 드라이버를 해제합니다. **고급 TCP/IP 설정** 대화 상자의 **WINS** 탭은 **TCP/IP에서 NetBIOS 사용 안 함** 옵션을 포함합니다. 이 옵션을 선택하면 TCP 포트 139에서 수신되는 **NetBIOS 세션 서비스** 만이 해제되며 SMB가 완전하게 비활성화되지는 않습니다. SMB를 완전하게 비활성화하려면 위 단계를 사용하십시오.
+### 잘 알려진 계정의 보안
+
+Windows Server 2003에는 삭제할 수는 없지만 이름을 바꿀 수는 있는 다수의 기본 제공 사용자 계정이 있습니다. Windows Server 2003에서 가장 잘 알려진 두 가지 기본 제공 계정은 **Guest** 와 **Administrator**입니다.
+
+**Guest** 계정은 기본적으로 서버에서 비활성화되며 변경할 수 없습니다. 공격자가 잘 알려진 계정을 사용하여 원격 서버를 손상시키지 못하도록 하려면 기본 제공 **Administrator** 계정의 이름을 바꾸고 설명을 변경해야 합니다.
+
+변형된 대부분의 악성 코드는 서버를 손상시키려는 초기 시도에서 기본 제공 Administrator 계정을 사용합니다. 기본 제공 **Administrator** 계정의 SID(보안 식별자)를 지정하여 해당 계정의 실제 이름을 확인함으로써 서버 침입을 시도하는 공격 도구가 등장한 이후 지난 몇 년 동안 이 구성 변경 값은 감소했습니다. SID는 네트워크의 각 사용자, 그룹, 컴퓨터 계정 및 로그온 세션을 고유하게 식별하는 값입니다. 이 기본 제공 계정의 SID는 변경할 수 없습니다. 로컬 관리자 계정의 이름을 고유한 이름으로 바꾸면 작업 그룹에서 이 계정에 대해 시도된 공격을 모니터링하기가 쉬워집니다.
+-   
+
+    **방호 호스트 서버에서 잘 알려진 계정을 보호하려면 다음을 수행합니다.**
+
+    1.  
+
+        모든 서버에 대해 **Administrator** 및 **Guest** 계정의 이름을 바꾸고 암호를 길고 복잡한 값으로 변경합니다.
+
+    2.  
+
+        각 서버에 서로 다른 이름과 암호를 사용합니다. 모든 서버에서 동일한 계정 이름과 암호를 사용하는 경우 한 서버에 액세스할 수 있는 공격자는 동일한 계정 이름과 암호로 다른 서버에도 모두 액세스할 수 있습니다.
+
+    3.  
+
+        계정을 쉽게 식별할 수 없도록 계정 설명을 기본값이 아닌 다른 값으로 변경합니다.
+
+    4.  
+
+        이러한 변경 내용을 안전한 위치에 기록합니다.
+
+### 오류 보고
+
+**표 19: 설정**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+오류 보고</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+<td style="border:1px solid black;">
+사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+**오류 보고** 서비스를 사용하면 Microsoft에서 쉽게 오류를 추적하고 처리할 수 있습니다. 이 서비스에서 운영 체제 오류, Windows 구성 요소 오류 또는 프로그램 오류에 대한 보고서를 생성하도록 구성할 수 있습니다. **오류 보고** 서비스를 사용하면 이러한 오류를 인터넷을 통해 Microsoft에 보고하거나 내부 기업 파일 공유에 보고할 수 있습니다.
+
+이 설정은 Windows XP Professional 및 Windows Server 2003에서만 사용할 수 있습니다. 그룹 정책 개체 편집기에서 이 설정의 구성 경로는 다음과 같습니다.
+
+컴퓨터 구성\\관리 템플릿\\시스템\\오류 보고
+
+오류 보고에는 중요하거나 기밀인 회사 데이터가 포함될 수 있습니다. 오류 보고와 관련된 Microsoft 개인 정보 보호 정책은 Microsoft에서 이러한 데이터를 올바르지 않게 사용하지 않을 것임을 보장하지만 데이터가 암호화되지 않은 텍스트로 HTTP(Hypertext Transfer Protocol)를 통해 전송되므로 인터넷에서 제3자가 가로채어 볼 수 있습니다. 이런 이유로 이 설명서에 정의된 세 가지 보안 환경에서 모두 BHLP의 **오류 보고** 설정을 **사용 안 함**으로 구성하는 것이 좋습니다.
+### IPSec 필터를 사용한 포트 차단
+
+IPSec(인터넷 프로토콜 보안) 필터를 사용하면 서버에 필요한 보안 수준을 효과적으로 높일 수 있습니다. 이 설명서에 정의된 고급 보안 환경에서는 서버의 공격 허점을 더 줄이기 위해 이 선택적 방법을 사용하는 것이 좋습니다.
+
+IPSec 필터 사용에 대한 자세한 내용은 모듈 "추가 구성원 서버 강화 절차"를 참조하십시오.
+
+다음 표는 이 설명서에 정의된 고급 보안 환경의 SMTP 방호 호스트에 작성해야 할 전체 IPSec 필터를 나열하고 있습니다.
+
+**표 20: SMTP 방호 호스트 IPSec 네트워크 트래픽 맵**
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="12%" />
+<col width="12%" />
+<col width="12%" />
+<col width="12%" />
+<col width="12%" />
+<col width="12%" />
+<col width="12%" />
+<col width="12%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스</th>
+<th style="border:1px solid black;" >프로토콜</th>
+<th style="border:1px solid black;" >원본 포트</th>
+<th style="border:1px solid black;" >대상 포트</th>
+<th style="border:1px solid black;" >원본 주소</th>
+<th style="border:1px solid black;" >대상 주소</th>
+<th style="border:1px solid black;" >동작</th>
+<th style="border:1px solid black;" >미러링</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">
+SMTP 서버</td>
+<td style="border:1px solid black;">
+TCP</td>
+<td style="border:1px solid black;">
+임의</td>
+<td style="border:1px solid black;">
+25</td>
+<td style="border:1px solid black;">
+임의</td>
+<td style="border:1px solid black;">
+ME</td>
+<td style="border:1px solid black;">
+허용</td>
+<td style="border:1px solid black;">
+예</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">
+DNS 클라이언트</td>
+<td style="border:1px solid black;">
+TCP</td>
+<td style="border:1px solid black;">
+임의</td>
+<td style="border:1px solid black;">
+53</td>
+<td style="border:1px solid black;">
+ME</td>
+<td style="border:1px solid black;">
+DNS 서버</td>
+<td style="border:1px solid black;">
+허용</td>
+<td style="border:1px solid black;">
+예</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">
+DNS 클라이언트</td>
+<td style="border:1px solid black;">
+UDP</td>
+<td style="border:1px solid black;">
+임의</td>
+<td style="border:1px solid black;">
+53</td>
+<td style="border:1px solid black;">
+ME</td>
+<td style="border:1px solid black;">
+DNS 서버</td>
+<td style="border:1px solid black;">
+허용</td>
+<td style="border:1px solid black;">
+예</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">
+모든 인바운드 트래픽</td>
+<td style="border:1px solid black;">
+임의</td>
+<td style="border:1px solid black;">
+임의</td>
+<td style="border:1px solid black;">
+임의</td>
+<td style="border:1px solid black;">
+임의</td>
+<td style="border:1px solid black;">
+ME</td>
+<td style="border:1px solid black;">
+차단</td>
+<td style="border:1px solid black;">
+예</td>
+</tr>
+</tbody>
+</table>
+ 
+
+위 표에 나열된 모든 규칙은 구현할 때 미러링되어야 합니다. 이렇게 하면 서버로 들어오는 모든 네트워크 트래픽을 원래 서버로 되돌려 보낼 수도 있습니다.
+
+위의 표는 서버에서 해당 역할 관련 기능을 수행하기 위해 열려야 하는 기준 포트를 나타냅니다. 서버가 정적 IP 주소를 갖고 있는 경우에는 이러한 포트로 충분합니다.
+
+**경고:** 이 IPSec 필터는 매우 제한적이며 이 서버의 관리 효율을 크게 낮춥니다. 모니터링, 패치 관리 및 소프트웨어 업데이트 기능을 사용할 수 있도록 추가 포트를 열어야 합니다.
+
+IPSec 정책을 구현할 때 서버 성능에 중대한 영향을 미쳐서는 안 됩니다. 그러나 이러한 필터를 구현하기 전에 테스트를 수행하여 필요한 서버 기능 및 성능이 유지되는지 확인해야 합니다. 다른 응용 프로그램을 지원하기 위해 규칙을 추가해야 할 수도 있습니다.
+
+이 설명서에 포함된 것은.방호 호스트용으로 지정된 IPSec 필터 작성을 간단하게 설명하는 .cmd 파일입니다. **PacketFilters-SMTPBastionHost.cmd** 파일은 NETSH 명령을 사용하여 적절한 필터를 만듭니다.
+
+이 스크립트는 영구 필터를 만들지 않습니다. 따라서 서버는 IPSec 정책 에이전트가 시작되어야만 보호됩니다. 영구 필터를 만들거나 보다 고급의 IPSec 필터 스크립트를 작성하는 방법에 대해서는 모듈 " 추가 구성원 서버 강화 절차 "를 참조하십시오. 마지막으로, 이 스크립트는 스크립트에서 만드는 IPSec 정책을 할당하지 않도록 구성되어 있습니다. IP 보안 정책 관리 스냅인을 사용하면 만든 IPSec 필터를 검사하고 이 IPSec 필터가 적용되도록 하기 위해 IPSec 정책을 할당할 수 있습니다.
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+<span id="XSLTsection132121120120"></span>
+요약
+----
+
+방호 호스트 서버는 외부 공격에 노출되기 쉽습니다. 사용 가능성을 최대화하고 손상의 영향을 최소화하기 위해 방호 호스트 서버는 가능한 한 안전하게 보호해야 합니다. 가장 안전한 방호 호스트 서버는 확실히 신뢰할 수 있는 계정에게만 액세스를 제한하고 최소한의 서비스만을 사용하여 모든 기능을 수행할 수 있습니다.
+
+이 모듈에서는 지정된 서버 강화 설정과 안전한 방호 호스트 서버에서 사용되는 절차를 설명했습니다. 로컬 그룹 정책을 통해 대부분의 설정을 적용할 수 있습니다. 수동 설정 구성 및 적용을 위한 단계가 제공되었습니다.
+
+방호 호스트 서버와 통신할 수 있는 네트워크 트래픽 유형을 제어하는 IPSec 필터의 작성 및 적용에 대한 자세한 내용도 제공되었습니다. 이 필터는 사용자 환경에서 방호 호스트 서버가 수행하는 사용자 지정된 역할을 기반으로 하여 특정 유형의 네트워크 트래픽을 차단하도록 수정할 수 있습니다.
+### 추가 정보
+
+다음은 이 제품의 출시 당시 Windows Server 2003을 실행하는 컴퓨터 환경에서 방호 호스트 서버와 관련하여 작성된 최신 자료입니다.
+
+사설망 구성에 관한 자세한 내용은 <http://www.wiley.com/legacy/compbooks/press/0471348201_09.pdf> ![](images/Dd547917.tous(ko-kr,TechNet.10).gif)에서 "Firewalls and Virtual Private Networks"(Elizabeth D. Zwicky, Simon Cooper, Brent D. Chapman 공저)를 참조하십시오.
+
+방화벽과 보안에 관한 자세한 내용은 <http://www.itmweb.com/essay534.htm> ![](images/Dd547917.tous(ko-kr,TechNet.10).gif)에서 "Internet Firewalls and Security-A Technology Overview"(Chuck Semeria 저)를 참조하십시오.
+
+depth model의 방어에 관한 자세한 내용은 <http://usmilitary.about.com/careers/usmilitary/library/glossary/d/bldef01834.htm> ![](images/Dd547917.tous(ko-kr,TechNet.10).gif)에서 "U.S. Military with Rod Powers"를 참조하십시오.
+
+침입자로부터 보호에 대한 자세한 내용은 <http://www.cert.org/tech_tips/intruder_detection_checklist.html> ![](images/Dd547917.tous(ko-kr,TechNet.10).gif)에서 "Intruder Detection Checklist"(Jay Beale 저)을 참조하십시오.
+
+방호 호스트 강화에 대한 자세한 내용은 <http://www.sans.org/rr/papers/index.php?id=420>에서 "Hardening Bastion Hosts"의 SANS Info Sec Reading Room 기사를 참조하십시오.
+
+방호 호스트에 관한 자세한 내용은 [http://thor.info.uaic.ro/~busaco/teach/docs/intranets/ch16.htm](http://thor.info.uaic.ro/%7ebusaco/teach/docs/intranets/ch16.htm) ![](images/Dd547917.tous(ko-kr,TechNet.10).gif)에서 "How Bastion Hosts Work"를 참조하십시오.
+
+Windows Server 2003에서 인터넷 접속 방화벽을 가동하지 않는 데 대한 자세한 내용은 <http://support.microsoft.com/default.aspx?scid=317530>에서 기술 자료 문서 "How To Turn On the Internet Connection Firewall Feature in Windows Server 2003"을 참조하십시오.
+
+보안 구성 및 분석 도구 문제 해결에 관한 자세한 내용은 <http://support.microsoft.com/default.aspx?scid=279125>에서 기술 자료 문서 "Problems After You Import Multiple Templates Into the Security Configuration and Analysis Tool"을 참조하십시오.
+[](#mainsection)[페이지 위쪽](#mainsection)

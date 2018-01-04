@@ -1,0 +1,138 @@
+---
+TOCTitle: 'Microsoft 가상 사설망으로 차단 서비스 구현 계획 가이드 - 감사의 말'
+Title: 'Microsoft 가상 사설망으로 차단 서비스 구현 계획 가이드 - 감사의 말'
+ms:assetid: '277b33a3-88bd-4c0e-b339-30811591261a'
+ms:contentKeyID: 20214118
+ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Dd547963(v=TechNet.10)'
+---
+
+Microsoft 가상 사설망으로 차단 서비스 구현 계획 가이드
+======================================================
+
+### 감사의 말
+
+업데이트 날짜: 2005년 5월 24일
+
+MSS(Microsoft Solutions for Security) 그룹과 SCoE(Security Center of Excellence)는 Microsoft 가상 사설망으로 차단 서비스 구현 계획 가이드 제작 팀에 감사를 표합니다. 다음은 가이드 제작을 직접 담당한 분들과 이 솔루션의 작성, 개발 및 테스트에 많은 기여를 해주신 분들입니다.
+
+##### 이 페이지의 내용
+
+[](#egaa)[작성자](#egaa)
+[](#efaa)[검토자](#efaa)
+[](#eeaa)[테스터](#eeaa)
+[](#edaa)[편집자](#edaa)
+[](#ecaa)[프로그램 관리자](#ecaa)
+[](#ebaa)[릴리스 관리자](#ebaa)
+[](#eaaa)[기고자](#eaaa)
+
+### 작성자
+
+Anthony Steven, Content Master
+
+Terry Tull, Content Master
+
+Lee Walker
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+### 검토자
+
+Chase Carpenter
+
+Santosh Chandwani
+
+Charles Denny
+
+Kurt Dillard
+
+Karl Grunwald
+
+John Hawkins
+
+Greg Lenti
+
+Elliot Lewis
+
+Claudio Vacalebre
+
+Didier Vandenbroeck
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+### 테스터
+
+Ashish Java, Infosys Technologies
+
+Mehul Mediwala, Infosys Technologies
+
+Gaurav Singh Bora, Infosys Technologies
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+### 편집자
+
+Deborah Jay, Content Master
+
+Jennifer Kerns, Content Master
+
+Frank Manning, Volt
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+### 프로그램 관리자
+
+Neil Bufton, Content Master
+
+Chase Carpenter
+
+Alison Woolford, Content Master
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+### 릴리스 관리자
+
+Flicka Crandell
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+### 기고자
+
+Tony Bailey
+
+Krishna Bhardwaj, Vidyatech Solutions
+
+Prabish Chandran, Vidyatech Solutions
+
+Christine Duell, Valente Solutions
+
+Amy Frampton
+
+Michael Glass, Volt
+
+Joanne Kennedy
+
+Karina Larson, Volt
+
+Chrissy Lewis, Siemens
+
+Vivek Manohar Prabhu, Vidyatech Solutions
+
+Don McGowan
+
+Bivin Pachatt, Vidyatech Solutions
+
+Tessa Porterfield
+
+Stacey Tsurusaki, Volt
+
+David Visintainer, Volt
+
+Vikas Walia, Vidyatech Solutions
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+##### 다운로드
+
+[Microsoft 가상 사설망으로 차단 서비스 구현 계획 가이드 (영문)](http://go.microsoft.com/fwlink/?linkid=41308)
+
+[](#mainsection)[페이지 위쪽](#mainsection)

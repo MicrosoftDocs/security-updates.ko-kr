@@ -1,0 +1,173 @@
+---
+TOCTitle: 'Microsoft 교육 과정: 대응'
+Title: 'Microsoft 교육 과정: 대응'
+ms:assetid: '7feb8f3f-8e79-4d1f-8e3e-f918e43cfd0e'
+ms:contentKeyID: 20212553
+ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Cc835723(v=MSDN.10)'
+---
+
+대응
+====
+
+대응 단계에는 보안 위반을 차단하는 데 사용되는 조치의 사전 계획된 과정이 포함됩니다.
+
+Microsoft는 현재 이 교육 과정에 대한 콘텐츠를 개발 중에 있습니다. 관심 있는 주제와 콘텐츠 유형에 대한 [의견 부탁드립니다](https://support.microsoft.com/common/survey.aspx?scid=sw;en;1257&showpage=1&ws=technet&sd=tech).
+
+##### 이 페이지에서
+
+[](#ecaa)[관련 자료](#ecaa)
+[](#ebaa)[콘텐츠 형식 및 레벨 정의](#ebaa)
+
+### 관련 자료
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >레벨 300</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;"><strong>보안 기초</strong></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=29503">MSDN 웹 캐스트: 웹 애플리케이션 보안을 위한 Dave의 10가지 방법(레벨 300) (영문)</a></td>
+</tr>
+</tbody>
+</table>
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >레벨 400</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;"><strong>보안 기초</strong></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="https://www.microsoftelearning.com/elearning/offerdetail.aspx?offerpriceid=55493">Clinic 2806: 개발자를 위한 Microsoft 보안 가이드 교육 (영문)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="https://www.microsoftelearning.com/elearning/offerdetail.aspx?offerpriceid=67120">Clinic 2807: 개발자를 위한 Microsoft 보안 가이드 교육 II (영문)</a></td>
+</tr>
+</tbody>
+</table>
+  
+[](#mainsection)[페이지 위쪽](#mainsection)
+  
+### 콘텐츠 형식 및 레벨 정의
+
+ 
+<table style="border:1px solid black;">
+<tr>
+<th colspan="2">
+콘텐츠 형식 키  
+</th>
+<th colspan="2">
+레벨 키  
+</th>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+**콘텐츠 형식**
+</td>
+<td style="border:1px solid black;">
+**설명**
+</td>
+<td style="border:1px solid black;">
+**레벨**
+</td>
+<td style="border:1px solid black;">
+**설명**
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+**가이드:**
+</td>
+<td style="border:1px solid black;">
+가이드는 백서, 관련 자료 키트, 여러 장으로 구성된 가이드(온라인 또는 다운로드)와 기사 등과 같이 문서로 작성된 지침 또는 설명서 등이 포함됩니다.
+</td>
+<td style="border:1px solid black;">
+**100:**  
+</td>
+<td style="border:1px solid black;">
+소개 및 개요 자료. 주제에 대한 전문 지식이 거의 없거나 전무하다고 가정하며 개념, 기능, 특정 및 이점에 대해 다룹니다.
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+**웹 캐스트:**
+</td>
+<td style="border:1px solid black;">
+웹 캐스트는 60분 ~ 90분 길이의 라이브 방송으로 대화형 기술 프레젠테이션, 제품 시연 등을 Microsoft 기술, 업계 또는 이 두 가지 주제 모두에 대한 전문가가 제공하는 질문과 대답 세션 등으로 구성됩니다. 모든 콘텐츠는 기록되어 주문형으로 이용 가능합니다.
+</td>
+<td style="border:1px solid black;">
+**200:**  
+</td>
+<td style="border:1px solid black;">
+중간 자료. 레벨 100의 지식을 보유하고 있다고 가정하며 해당 주제에 대한 구체적인 정보를 제공합니다.
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+**온라인 세미나:**
+</td>
+<td style="border:1px solid black;">
+온라인 세미나는 라이브 이벤트 동안 제공되는 관련 자료를 집약해 놓은 것으로 PowerPoint 프레젠테이션, 비디오 시연, 온라인 및 다운로드 가능한 백서, 도구 및 기타 관련 자료를 포함할 수 있습니다.
+</td>
+<td style="border:1px solid black;">
+**300:**  
+</td>
+<td style="border:1px solid black;">
+고급 자료: 레벨 200의 지식과 실제 환경에서 기능에 대한 심층적인 이해력과 강력한 코딩 기술을 보유하고 있다고 가정합니다. 아키텍처, 성능, 마이그레이션, 배포 및 개발을 포괄하는 제품/기술, 기능 등의 하위 집합에 대한 상세한 기술적 개요를 제공합니다
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+**가상 랩 및 체험식 랩:**
+</td>
+<td style="border:1px solid black;">
+가상 랩과 체험식 랩을 통해 사용자는 오작동이 허용되는 보호 환경에서 Microsoft 소프트웨어와 서버를 테스트할 수 있습니다.
+</td>
+<td style="border:1px solid black;">
+**400:**  
+</td>
+<td style="border:1px solid black;">
+전문가 자료. 심도 깊은 기술적 지식과 경험을 보유하고 있으며 해당 주제에 대해 상세하고 철저하게 이해하고 있다고 가정합니다. 전문가 간 상호 작용을 제공하며 전문화된 주제에 대해 다룹니다.
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+**도구:**
+</td>
+<td style="border:1px solid black;">
+도구는 사용자의 특정 작업 수행을 지원하는 다운로드 가능한 응용 프로그램 또는 소프트웨어입니다.
+</td>
+<td style="border:1px solid black;" colspan="2">
+ 
+</td>
+</tr>
+</table>
+ 
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+##### 추가 범주
+
+-   [계획](http://www.microsoft.com/korea/technet/security/learning/category/plan.mspx)
+
+-   [예방](http://www.microsoft.com/korea/technet/security/learning/category/prevent.mspx)
+
+-   [탐지](http://www.microsoft.com/korea/technet/security/learning/category/detect.mspx)
+
+[](#mainsection)[페이지 위쪽](#mainsection)

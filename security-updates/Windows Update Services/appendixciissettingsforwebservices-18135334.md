@@ -27,7 +27,7 @@ The following virtual directories (vroots) are created in IIS (in the Default We
 
 ###  
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -149,9 +149,8 @@ You can use adsutil to find the paths for different Web services on your compute
 
 **W3SVC/***WebSiteID***/ROOT/SimpleAuthWebService**
 
-| ![](images/Cc720489.note(WS.10).gif)참고                                                                                             |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| If you have installed WSUS on the default Web site, *WebSiteID* will be 1, but if you have installed it on another Web site, *WebSiteID* will be a random number. |
+> [!NOTE]  
+> If you have installed WSUS on the default Web site, *WebSiteID* will be 1, but if you have installed it on another Web site, *WebSiteID* will be a random number.
 
 Checking the properties of a Web service
 ----------------------------------------
@@ -178,7 +177,7 @@ The properties listed below are a partial list.
 
 ###  
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -586,7 +585,7 @@ The properties listed below comprise a partial list.
   
 ###  
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -655,7 +654,7 @@ Properties of the API Remoting Web service
   
 ###  
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -776,7 +775,7 @@ Properties of the Client Web service
   
 ###  
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -897,7 +896,7 @@ Properties of the Downstream Server Authentication Web service
   
 ###  
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -1018,7 +1017,7 @@ Properties of the Inventory Collection Web service
   
 ###  
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -1139,7 +1138,7 @@ Checking the properties of the Reporting Web service
   
 ###  
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -1260,7 +1259,7 @@ Properties of the Selfupdate Web service
   
 ###  
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -1333,7 +1332,7 @@ Properties of the Server Synchronization Web service
   
 ###  
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -1454,7 +1453,7 @@ Properties of the Simple Authorization Web service
   
 ###  
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />

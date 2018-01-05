@@ -6,7 +6,6 @@ ms:contentKeyID: 74109915
 ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms16-oct(v=Security.10)'
 ---
 
-MSRC ppDocument 서식 파일
 
 2016년 10월 Microsoft 보안 공지 요약
 ====================================
@@ -29,6 +28,7 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 
 영향받는 소프트웨어에 대한 자세한 내용은 **영향받는 소프트웨어**라는 다음 절을 참조하십시오.
 
+<p> </p>
 <table style="width:100%;">
 <colgroup>
 <col width="16%" />
@@ -198,7 +198,7 @@ Adobe Flash Player</td>
 
 아래 열에서 "최신 소프트웨어 릴리스"는 관련 소프트웨어를 나타내며 "이전 소프트웨어 릴리스"는 공지의 "영향받는 소프트웨어" 및 "영향받지 않는 소프트웨어" 표에 나열된 지원 대상인 관련 소프트웨어의 모든 이전 릴리스를 나타냅니다.
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;">
@@ -1318,7 +1318,7 @@ Internet Explorer 정보 유출 취약성
 
 ### Windows 운영 체제 및 구성 요소(표 1/2)
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="6">
@@ -1458,7 +1458,7 @@ Windows Vista x64 Edition 서비스 팩 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -1616,7 +1616,7 @@ Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -1814,7 +1814,7 @@ Windows 7(x64 기반 시스템용) 서비스 팩 1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -2000,7 +2000,7 @@ Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -2198,7 +2198,7 @@ Windows 8.1(x64 기반 시스템용)
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -2388,7 +2388,7 @@ Windows Server 2012 R2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -2481,7 +2481,7 @@ Windows RT 8.1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -2755,7 +2755,7 @@ Windows 10 버전 1607(x64 기반 시스템용)
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -3066,7 +3066,7 @@ Windows Server 2012 R2(Server Core 설치)
  
 ### Windows 운영 체제 및 구성 요소(표 2/2)
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="6">
@@ -3076,7 +3076,7 @@ Windows Server 2012 R2(Server Core 설치)
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -3194,7 +3194,7 @@ Windows Vista x64 Edition 서비스 팩 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -3342,7 +3342,7 @@ Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -3524,7 +3524,7 @@ Windows 7(x64 기반 시스템용) 서비스 팩 1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -3706,7 +3706,7 @@ Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -3888,7 +3888,7 @@ Windows 8.1(x64 기반 시스템용)
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -4070,7 +4070,7 @@ Windows Server 2012 R2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -4161,7 +4161,7 @@ Adobe Flash Player
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -4423,7 +4423,7 @@ Adobe Flash Player
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -4716,7 +4716,7 @@ Windows Server 2012 R2(Server Core 설치)
 
 ### Microsoft .NET Framework – 보안 전용 릴리스
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -5288,7 +5288,7 @@ Microsoft .NET Framework 3.5
 
 ### Microsoft .NET Framework – 월별 롤업 릴리스
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -5860,7 +5860,7 @@ Microsoft .NET Framework 3.5
 
 ### Microsoft 통신 플랫폼 및 소프트웨어
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -6140,7 +6140,7 @@ Microsoft Live Meeting 2007 콘솔
 
 ### Microsoft 개발자 도구 및 소프트웨어
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -6175,8 +6175,8 @@ Mac에 설치된 Microsoft Silverlight 5
 </td>
 <td style="border:1px solid black;">
 Mac에 설치된 Microsoft Silverlight 5  
-(3193713)**  
-(**중요)
+(3193713)  
+(중요)
 
 </td>
 </tr>
@@ -6187,8 +6187,8 @@ Mac에 설치된 Microsoft Silverlight 5 Developer 런타임
 </td>
 <td style="border:1px solid black;">
 Mac에 설치된 Microsoft Silverlight 5 Developer 런타임  
-(3193713)**  
-(**중요)
+(3193713)  
+(중요)
 
 </td>
 </tr>
@@ -6199,8 +6199,8 @@ Mac에 설치된 Microsoft Silverlight 5 Developer 런타임
 </td>
 <td style="border:1px solid black;">
 지원되는 모든 릴리스의 Microsoft Windows 클라이언트에 설치된 Microsoft Silverlight 5  
-(3193713)**  
-(**중요)
+(3193713)  
+(중요)
 
 </td>
 </tr>
@@ -6211,8 +6211,8 @@ Mac에 설치된 Microsoft Silverlight 5 Developer 런타임
 </td>
 <td style="border:1px solid black;">
 지원되는 모든 릴리스의 Microsoft Windows 클라이언트에 설치된 Microsoft Silverlight 5 Developer 런타임  
-(3193713)**  
-(**중요)
+(3193713)  
+(중요)
 
 </td>
 </tr>
@@ -6223,8 +6223,8 @@ Mac에 설치된 Microsoft Silverlight 5 Developer 런타임
 </td>
 <td style="border:1px solid black;">
 지원되는 모든 릴리스의 Microsoft Windows 서버에 설치된 Microsoft Silverlight 5  
-(3193713)**  
-(**중요)
+(3193713)  
+(중요)
 
 </td>
 </tr>
@@ -6235,8 +6235,8 @@ Mac에 설치된 Microsoft Silverlight 5 Developer 런타임
 </td>
 <td style="border:1px solid black;">
 지원되는 모든 릴리스의 Microsoft Windows 서버에 설치된 Microsoft Silverlight 5 Developer 런타임  
-(3193713)**  
-(**중요)
+(3193713)  
+(중요)
 
 </td>
 </tr>
@@ -6246,7 +6246,7 @@ Mac에 설치된 Microsoft Silverlight 5 Developer 런타임
 
 ### Microsoft Office 제품군 및 소프트웨어
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="3">
@@ -6732,7 +6732,7 @@ Microsoft Word Viewer
 
 ### Microsoft Office Services 및 Web Apps
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -6978,5 +6978,6 @@ Microsoft 기술 자료에서 제공되는 정보는 어떠한 보증도 없이 
 -   V1.0(2016년 10월 11일): 공지 요약이 게시되었습니다.
 -   V1.1(2016년 10월 12일 수요일): MS16-121의 심각도를 긴급으로 변경하도록 공지 요약이 수정되었습니다. 본 공지는 변경된 정보를 알리는 용도로만 제공됩니다.
 -   V2.0(2016년 10월 27일 목요일): Flash MS16-128에 대한 새 공지를 추가하도록 공지 요약이 수정되었습니다.
+-   V3.0(2017년 9월 12일): MS16-123의 경우 Windows 10 버전 1703(32비트 시스템용) 및 Windows 10 버전 1703(x64 기반 시스템용)이 CVE-2016-3376의 영향을 받으므로 이러한 운영 체제를 포함하도록 Windows 운영 체제 및 구성 요소 영향받는 소프트웨어 표를 수정했습니다. Windows 10 버전 1703을 실행하는 고객의 경우 이 취약성으로부터 보호받으려면 업데이트 4038788을 설치하는 것이 좋습니다.
 
 *2016-10-27 10:20-07:00에 페이지가 생성되었습니다.*

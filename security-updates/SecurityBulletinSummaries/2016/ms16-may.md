@@ -28,7 +28,7 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 다음 표에는 이번 달의 보안 공지가 심각도 순으로 요약되어 있습니다.
 
 영향받는 소프트웨어에 대한 자세한 내용은 **영향받는 소프트웨어**라는 다음 절을 참조하십시오.
-
+<p> </p>
 <table style="width:100%;">
 <colgroup>
 <col width="16%" />
@@ -1387,7 +1387,7 @@ Windows Vista x64 Edition 서비스 팩 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -1620,7 +1620,7 @@ Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -1806,7 +1806,7 @@ Windows 7(x64 기반 시스템용) 서비스 팩 1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -1982,7 +1982,7 @@ Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -2172,7 +2172,7 @@ Windows 8.1(x64 기반 시스템용)
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -2352,7 +2352,7 @@ Windows Server 2012 R2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -2486,7 +2486,7 @@ Windows RT 8.1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -2760,7 +2760,7 @@ Windows 10 버전 1511(x64 기반 시스템용)
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -3095,7 +3095,7 @@ Windows Server 2012 R2(Server Core 설치)
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -3271,7 +3271,7 @@ Microsoft .NET Framework 4.6
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -3492,7 +3492,7 @@ Microsoft .NET Framework 2.0 서비스 팩 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -3668,7 +3668,7 @@ Microsoft .NET Framework 4.6/4.6.1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -3838,7 +3838,7 @@ Microsoft .NET Framework 3.5.1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -4018,7 +4018,7 @@ Microsoft .NET Framework 4.6/4.6.1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -4202,7 +4202,7 @@ Windows Server 2012 R2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -4326,7 +4326,7 @@ Microsoft .NET Framework 4.6/4.6.1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -4596,7 +4596,7 @@ Windows 10 버전 1511(x64 기반 시스템용)
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                                                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">

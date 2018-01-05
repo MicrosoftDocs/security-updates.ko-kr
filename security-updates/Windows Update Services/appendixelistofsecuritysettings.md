@@ -22,7 +22,7 @@ Enable audit events to ensure that adequate logs are collected for system activi
 
 ### Audit policy settings
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -91,7 +91,7 @@ Configure Windows Server security settings to help ensure optional security and 
   
 ### Security options settings
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -429,24 +429,8 @@ Configure Windows Server security settings to help ensure optional security and 
 </tbody>
 </table>
 
- 
-<table style="border:1px solid black;">
-<colgroup>
-<col width="100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="border:1px solid black;" ><img src="images/Dd939800.Important(WS.10).gif" />중요</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="border:1px solid black;">The WSUS subdirectories UpdateServicesPackages, WsusContent, and WsusTemp created as shared directories (for WSUS Administrators and the Network Service account) as part of WSUS setup. These directories can be found by default under the WSUS directory at the root of the largest partition on the WSUS server. Sharing of these directories may be disabled if you are not using local publishing.
-</td>
-</tr>
-</tbody>
-</table>
- 
+> [!IMPORTANT]  
+> The WSUS subdirectories UpdateServicesPackages, WsusContent, and WsusTemp created as shared directories (for WSUS Administrators and the Network Service account) as part of WSUS setup. These directories can be found by default under the WSUS directory at the root of the largest partition on the WSUS server. Sharing of these directories may be disabled if you are not using local publishing.
 
 ### Event log settings
 
@@ -454,7 +438,7 @@ Configure Event Log settings to help ensure an adequate level of activity monito
 
 ### Event log settings
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -538,7 +522,7 @@ Enable only services that are required for WSUS.
   
 ### Enabled operating system services
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -842,7 +826,7 @@ Microsoft recommends that you harden the TCP/IP interface for WSUS servers.
   
 ### TCP/IP registry key settings
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -961,7 +945,7 @@ Use access control permissions to secure the SQL Server registry keys.
   
 ###  
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -989,7 +973,7 @@ Remove all stored procedures that are unnecessary and that have the ability to c
   
 ### Unnecessary SQL Server 2005 stored procedures
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />

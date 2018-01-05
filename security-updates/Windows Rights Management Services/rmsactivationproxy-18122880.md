@@ -11,9 +11,8 @@ RMS: ActivationProxy 성능 카운터
 
 다음 표는 RMS: ActivationProxy 성능 개체에 사용할 수 있는 성능 카운터를 설명합니다.
 
-###  
 
- 
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />

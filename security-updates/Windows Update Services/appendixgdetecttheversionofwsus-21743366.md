@@ -14,7 +14,10 @@ The way you detect the version of a WSUS installation has changed in WSUS 3.0. I
 Versioning in WSUS 2.0
 ----------------------
 
-        ```
+```
+{A0D46DC6-8950-451A-8990-53C86E17666E}
+```
+
 In WSUS 2.0, the WSUS registry key:
 
 **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Update Services\\Server\\Setup**
@@ -28,32 +31,17 @@ has an InstallType subkey with the following possible values:
 **FullInstall = 128**
 
  
-<table style="border:1px solid black;">
-<colgroup>
-<col width="100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="border:1px solid black;" ><img src="images/Dd939828.note(WS.10).gif" />참고</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="border:1px solid black;">You can upgrade from WSUS 2.0 to WSUS 3.0 for installations with the <strong>Frontend</strong> and <strong>FullInstall</strong> values. For the <strong>Backend</strong> value, you would uninstall WSUS, leaving the database behind. This database will be upgraded when the front-end WSUS server that points to the database is upgraded.
-</td>
-</tr>
-</tbody>
-</table>
- 
+> [!NOTE]  
+> You can upgrade from WSUS 2.0 to WSUS 3.0 for installations with the **Frontend** and **FullInstall** values. For the **Backend** value, you would uninstall WSUS, leaving the database behind. This database will be upgraded when the front-end WSUS server that points to the database is upgraded.
 
 WSUS 3.0 pre-release candidate versions
 ---------------------------------------
 
 Versions of WSUS 3.0 that precede the first release candidate version also have Windows Installer product keys. There is one product key for 32-bit architectures and another for 64-bit architectures.
 
-`{BCE8923B-20C9-4EBD-AB18-31CDC13B92E6}` (x86)
+{BCE8923B-20C9-4EBD-AB18-31CDC13B92E6} (x86)
 
-`{2E3FC5F0-0415-4e75-A3D3-74077F809FDD}` (x64)
+{2E3FC5F0-0415-4e75-A3D3-74077F809FDD} (x64)
 
 WSUS 3.0 Release Candidate 1 and later versions
 -----------------------------------------------

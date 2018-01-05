@@ -26,7 +26,7 @@ The keys and their value ranges are listed in the following table.
 
 ### Windows Update Agent Environment Options Registry Keys
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -84,7 +84,7 @@ The keys and their value ranges are listed in the following table.
   
 ### Automatic Updates Configuration Registry Keys
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />

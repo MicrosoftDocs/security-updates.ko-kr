@@ -15,5 +15,8 @@ The [WsusDBMaintenance](http://go.microsoft.com/fwlink/?linkid=87027) script (ht
 
 If you are using Windows 내부 데이터베이스, you will need to use the **sqlcmd** utility. For more information about the **sqlcmd** utility, see [sqlcmd Utility](http://go.microsoft.com/fwlink/?linkid=81183) (http://go.microsoft.com/fwlink/?LinkId=81183).
 
-        ```
+```
+sqlcmd -S np:\\.\pipe\MSSQL$MICROSOFT##SSEE\sql\query –i <scriptLocation>\WsusDBMaintenance.sql
+```
+
 where *&lt;scriptLocation&gt;* is the directory where you have copied the WsusDBMaintenance script.

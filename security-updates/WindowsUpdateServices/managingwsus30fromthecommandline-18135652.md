@@ -11,22 +11,20 @@ Managing WSUS 3.0 from the Command Line
 
 The **wsusutil** command-line utility is used in managing WSUS servers and is located in the *WSUSInstallDir*\\Tools folder of WSUS servers. The table below summarizes the different parameters that can be used with this utility, and later sections explain the syntax and usage of each parameter.
 
-| ![](images/Cc708604.note(WS.10).gif)참고                    |
-|------------------------------------------------------------------------------------------|
-| You can also use Windows® PowerShell® to access the WSUS 3.0 APIs from the command line. |
+> [!Note]  
+> You can also use Windows® PowerShell® to access the WSUS 3.0 APIs from the command line.  
 
 Using the wsusutil utility
 --------------------------
 
 You must be an administrator to run the **wsusutil** utility. This utility is installed only on WSUS server machines, not on console-only installations.
 
-| ![](images/Cc708604.note(WS.10).gif)참고                                                                                           |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| To see all **wsusutil** parameters, type **wsusutil help** on the command line. To see usage for each of the parameters, type **wsusutil help***parameterName*. |
+> [!Note]  
+> To see all **wsusutil** parameters, type **wsusutil help** on the command line. To see usage for each of the parameters, type **wsusutil help***parameterName*.  
 
 ### Summary of wsusutil Commands
 
- 
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -106,9 +104,8 @@ The following command updates the server certificateName:
   
 **wsusutil configuressl ***ServerCertificateName***//sets the server certificate name**
   
-###  
 
- 
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -140,19 +137,17 @@ This command sets and gets the different parameters for WSUS health monitoring.
   
 **Wsusutil healthmonitoring ***parameterName*
   
-| ![](images/Cc708604.note(WS.10).gif)참고 |  
-|-----------------------------------------------------------------------|  
-| You may set or get only one parameter at a time.                      |
+> [!Note]  
+> You may set or get only one parameter at a time.                       
   
-###  
 
- 
+<p></p>
 <table style="border:1px solid black;">
 <tr>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 Parameter  
 </th>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 Description  
 </th>
 </tr>
@@ -435,9 +430,8 @@ For more information about exporting and importing updates, see "Set Up a Discon
 
 **wsusutil export** *package* *logfile*
 
-###  
 
- 
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -461,9 +455,8 @@ For more information about exporting and importing updates, see "Set Up a Discon
 </tbody>
 </table>
   
-| ![](images/Cc708604.note(WS.10).gif)참고                                                    |  
-|--------------------------------------------------------------------------------------------------------------------------|  
-| Exporting from a WSUS 2.0 server to a WSUS 3.0 server (or from a WSUS 3.0 server to a WSUS 2.0 server) is not supported. |
+> [!Note]  
+> Exporting from a WSUS 2.0 server to a WSUS 3.0 server (or from a WSUS 3.0 server to a WSUS 2.0 server) is not supported.  
   
 #### Import
   
@@ -473,9 +466,8 @@ For background and procedural information about exporting and importing updates,
   
 **wsusutil import** *package* *logfile*
   
-###  
 
- 
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -499,9 +491,8 @@ For background and procedural information about exporting and importing updates,
 </tbody>
 </table>
   
-| ![](images/Cc708604.note(WS.10).gif)참고                                                    |  
-|--------------------------------------------------------------------------------------------------------------------------|  
-| Importing from a WSUS 2.0 server to a WSUS 3.0 server (or from a WSUS 3.0 server to a WSUS 2.0 server) is not supported. |
+> [!Note]  
+> Importing from a WSUS 2.0 server to a WSUS 3.0 server (or from a WSUS 3.0 server to a WSUS 2.0 server) is not supported.  
   
 #### Movecontent
   
@@ -513,9 +504,8 @@ When you run this command, **wsusutil** does the following:
   
 The destination folder to which update files are moved must be on an NTFS partition. The utility will not try to copy update files if they already exist in the destination folder. The destination folder will have the same permissions that were set on the original folder.
   
-| ![](images/Cc708604.note(WS.10).gif)참고                                                                                                                                                                                                                                                                                |  
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
-| You can use **xcopy**, the Backup utility, or other methods to copy update files from the old location to the new one. If you copy the files by using a method other than **wsusutil**, you still need to run **wsusutil** to perform the second part of the move, using the -**skipcopy** parameter. See the "Syntax" section for more information. |
+> [!Note]  
+> You can use **xcopy**, the Backup utility, or other methods to copy update files from the old location to the new one. If you copy the files by using a method other than **wsusutil**, you still need to run **wsusutil** to perform the second part of the move, using the -**skipcopy** parameter. See the "Syntax" section for more information.  
   
 There are two scenarios in which you might move update files from one WSUS drive to another:
   
@@ -541,9 +531,8 @@ If the hard disk fails, you must do the following:
   
 **wsusutil movecontent** *contentpath logfile* **-skipcopy**
   
-###  
 
- 
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -583,9 +572,8 @@ This command deletes the given front-end server.
   
 **wsusutil deletefrontendserver** *serverName*
   
-###  
 
- 
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -605,9 +593,8 @@ This command deletes the given front-end server.
 </tbody>
 </table>
   
-| ![](images/Cc708604.Important(WS.10).gif)중요                                                                         |  
-|----------------------------------------------------------------------------------------------------------------------------------------------------|  
-| This command removes the front-end server from the database only. You will need to run **wsussetup /u** on the front-end server to uninstall WSUS. |
+> [!Important]  
+> This command removes the front-end server from the database only. You will need to run **wsussetup /u** on the front-end server to uninstall WSUS.  
   
 #### checkhealth
   
@@ -645,17 +632,14 @@ See the explanation above for a description of situations in which you might nee
   
 If you set this value to **true**, WSUS Setup will use port 8530 for its Default Web site. If you set it to **false**, WSUS will use port 80.
   
-| ![](images/Cc708604.Important(WS.10).gif)중요 |  
-|----------------------------------------------------------------------------|  
-| You must use this command before you configure SSL.                        |
+> [!Important]  
+> You must use this command before you configure SSL.                         
   
-| ![](images/Cc708604.Important(WS.10).gif)중요                                                                    |  
-|-----------------------------------------------------------------------------------------------------------------------------------------------|  
-| If you are installing SharePoint on the same machine as WSUS, the value of **usecustomwebsite** should be set to **true** before the install. |
+> [!Important]  
+> If you are installing SharePoint on the same machine as WSUS, the value of **usecustomwebsite** should be set to **true** before the install.  
   
-| ![](images/Cc708604.Important(WS.10).gif)중요                                                 |  
-|----------------------------------------------------------------------------------------------------------------------------|  
-| Using this command after running WSUS Setup will fail if the index of the default Web site is set to a value other than 1. |
+> [!Important]  
+> Using this command after running WSUS Setup will fail if the index of the default Web site is set to a value other than 1.  
   
 #### Syntax
   

@@ -11,23 +11,8 @@ Issues with the Database
 
 If you have problems with the SQL Server database or Windows 내부 데이터베이스, make sure that the WSUS database in question is in the correct SQL instance before starting to troubleshoot SQL issues.
 
- 
-<table style="border:1px solid black;">
-<colgroup>
-<col width="100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="border:1px solid black;" ><img src="images/Dd939833.note(WS.10).gif" />참고</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="border:1px solid black;">You will need to use the <strong>sqlcmd</strong> utility. For more information about the <strong>sqlcmd</strong> utility, see <a href="http://go.microsoft.com/fwlink/?linkid=81183">sqlcmd Utility</a> (http://go.microsoft.com/fwlink/?LinkId=81183).
-</td>
-</tr>
-</tbody>
-</table>
+> [!Note]  
+> You will need to use the <strong>sqlcmd</strong> utility. For more information about the <strong>sqlcmd</strong> utility, see <a href="http://go.microsoft.com/fwlink/?linkid=81183">sqlcmd Utility</a> (http://go.microsoft.com/fwlink/?LinkId=81183).
  
 
 Troubleshooting Database Issues

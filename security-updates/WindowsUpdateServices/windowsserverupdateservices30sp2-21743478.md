@@ -56,24 +56,9 @@ WSUS 3.0 SP2 서버 설치를 위한 시스템 요구 사항
     -   Windows Server 2008 R2
     -   Windows Server 2008 SP1 이상 버전
  
-        <table style="border:1px solid black;">
-        <colgroup>
-        <col width="100%" />
-        </colgroup>
-        <thead>
-        <tr class="header">
-        <th style="border:1px solid black;" ><img src="images/Dd939886.Warning(WS.10).gif" />경고</th>
-        </tr>
-        </thead>
-        <tbody>
-        <tr class="odd">
-        <td style="border:1px solid black;">Windows Server 2008 R2로 업그레이드하기 전에 WSUS 3.0 SP2가 Windows Server 2008에 설치되어 있으면 Windows Server 2008 R2으로 업그레이드할 수 없습니다. 자세한 내용은 <a href="#bkmk_knownissues">알려진 문제</a> 섹션을 참조하십시오.
-        </td>
-        </tr>
-        </tbody>
-        </table>
- 
-
+    > [!Warning]  
+    > Windows Server 2008 R2로 업그레이드하기 전에 WSUS 3.0 SP2가 Windows Server 2008에 설치되어 있으면 Windows Server 2008 R2으로 업그레이드할 수 없습니다. 자세한 내용은 <a href="#bkmk_knownissues">알려진 문제</a> 섹션을 참조하십시오.
+    
     -   Windows Server 2003 SP1 이상 버전
     -   Windows Small Business Server 2008
     -   Windows Small Business Server 2003
@@ -90,25 +75,10 @@ WSUS 3.0 SP2 서버 설치를 위한 시스템 요구 사항
 -   Microsoft Management Console 3.0
 -   Microsoft Report Viewer 재배포 가능 패키지 2008
 
- 
-<table style="border:1px solid black;">
-<colgroup>
-<col width="100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="border:1px solid black;" ><img src="images/Dd939886.Important(WS.10).gif" />중요</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="border:1px solid black;">Windows Server 2008 R2에는 WSUS 3.0 SP2가 필요합니다. 따라서 Windows Server 2008 R2를 설치할 경우 WSUS 3.0 SP2를 설치해야 합니다. Windows Server 2008 R2에 WSUS 3.0 SP1을 설치하지 마십시오.
+> [!Important]  
+> Windows Server 2008 R2에는 WSUS 3.0 SP2가 필요합니다. 따라서 Windows Server 2008 R2를 설치할 경우 WSUS 3.0 SP2를 설치해야 합니다. Windows Server 2008 R2에 WSUS 3.0 SP1을 설치하지 마십시오.
 
 WSUS 3.0 SP2는 원격 SQL 구성의 프런트 엔드 서버에서 터미널 서비스와 사용할 수 없습니다.
-</td>
-</tr>
-</tbody>
-</table>
  
 
 ### WSUS 관리 콘솔 소프트웨어 필수 구성 요소
@@ -127,23 +97,8 @@ WSUS 3.0 SP2는 원격 SQL 구성의 프런트 엔드 서버에서 터미널 �
 -   데이터베이스 파일을 저장할 볼륨에 최소 2GB의 사용 가능한 공간이 있어야 합니다.
 -   콘텐츠를 저장할 볼륨에 최소 20GB(30GB 권장)의 사용 가능한 공간이 있어야 합니다.
 
- 
-<table style="border:1px solid black;">
-<colgroup>
-<col width="100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="border:1px solid black;" ><img src="images/Dd939886.Important(WS.10).gif" />중요</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="border:1px solid black;">압축 드라이브에는 WSUS 3.0 SP2를 설치할 수 없습니다.
-</td>
-</tr>
-</tbody>
-</table>
+> [!Important]  
+> 압축 드라이브에는 WSUS 3.0 SP2를 설치할 수 없습니다.
  
 
 WSUS 서버에 대한 필수 구성 요소 및 모범 사례 권장 사항
@@ -169,27 +124,11 @@ WSUS 3.0 SP2를 사용하면 프록시 서버에서 HTTP만 지원할 수 있습
 
 WSUS 3.0 SP2를 설치할 때 성공적으로 설치를 완료하려면 바이러스 백신 프로그램을 사용하지 않도록 설정해야 할 수 있습니다. 바이러스 백신 프로그램을 사용하지 않도록 설정하는 경우 컴퓨터를 다시 시작한 다음 WSUS를 설치하십시오. 컴퓨터를 다시 시작하면 설치 과정에서 액세스해야 하는 파일이 잠기지 않습니다. 설치가 완료되면 바이러스 백신 소프트웨어를 다시 사용하도록 설정해야 합니다. 바이러스 백신 소프트웨어와 버전을 사용하지 않도록 설정했다가 다시 사용하도록 설정하는 정확한 단계를 알아보려면 바이러스 백신 소프트웨어 공급업체의 웹 사이트를 방문하십시오.
 
- 
-<table style="border:1px solid black;">
-<colgroup>
-<col width="100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="border:1px solid black;" ><img src="images/Dd939886.Caution(WS.10).gif" />주의</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="border:1px solid black;">이 방법을 사용하면 컴퓨터나 네트워크가 악의적인 사용자나 바이러스 같은 악의적인 소프트웨어의 공격에 더 취약해질 수 있습니다. Microsoft는 이 방법을 권장하지 않지만 사용자 자신이 판단하여 이 해결 방법을 구현할 수 있도록 하기 위해 이 정보를 제공합니다. 이 해결 방법의 사용에 따른 모든 문제는 사용자의 책임입니다.
+> [!Caution]  
+> 이 방법을 사용하면 컴퓨터나 네트워크가 악의적인 사용자나 바이러스 같은 악의적인 소프트웨어의 공격에 더 취약해질 수 있습니다. Microsoft는 이 방법을 권장하지 않지만 사용자 자신이 판단하여 이 해결 방법을 구현할 수 있도록 하기 위해 이 정보를 제공합니다. 이 해결 방법의 사용에 따른 모든 문제는 사용자의 책임입니다.
 
 바이러스 백신 소프트웨어를 사용하여 바이러스로부터 컴퓨터를 보호할 수 있습니다. 신뢰하지 않는 출처의 파일을 다운로드하거나 열지 말고 신뢰하지 않는 웹 사이트를 방문하지 마십시오. 또는 바이러스 백신 프로그램을 사용하지 않도록 설정한 경우 전자 메일 첨부 파일을 열지 마십시오.
-</td>
-</tr>
-</tbody>
-</table>
  
-
 ### SQL Server의 중첩 트리거 옵션
 
 SQL Server 데이터베이스를 Windows Server Update Services 데이터 저장소로 사용하려면 WSUS 관리자가 WSUS 3.0 SP2를 설치하기 전에 SQL Server 관리자가 서버에 중첩 트리거 옵션이 설정되어 있는지 확인해야 합니다. 중첩 트리거 옵션은 기본적으로 설정되어 있습니다. 그러나 SQL Server 관리자가 이 옵션을 해제할 수 있습니다. WSUS 3.0 SP2 설치 프로그램에서는 데이터베이스 고유 옵션인 RECURSIVE\_TRIGGERS 옵션을 사용합니다. 그러나 서버 전역 옵션인 중첩 트리거 옵션은 사용하지 않습니다.
@@ -286,7 +225,8 @@ WSUS 2.0을 설치한 후 WSUS 3.0 SP2로 업그레이드하기 전에 컴퓨터
 
 다음 스크립트를 사용하여 ASPNET 및 WSUS Administrators 그룹을 제거했다가 다시 추가하십시오. 그런 다음 업그레이드를 다시 실행합니다.
 
-        ```
+    ```
+    ```
 
 ### MSDE에서 WSUS 2.0의 SQL Server 2008 또는 SQL Server 2005로 마이그레이션한 경우 레지스트리 값을 변경해야 함
 
@@ -316,9 +256,8 @@ WSUS 3.0 SP2 무인 설치를 위한 설치 프로그램 명령줄 매개 변수
 
 WSUS 명령줄 설치 프로그램을 사용하여 WSUS 3.0 SP2를 무인 설치할 수 있습니다. 다음 표에는 WSUS 3.0 SP2 설치의 명령줄 매개 변수가 표시되어 있습니다.
 
-###  
 
- 
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -356,9 +295,8 @@ WSUS 명령줄 설치 프로그램을 사용하여 WSUS 3.0 SP2를 무인 설치
   
 다음 표에는 WSUS 3.0 SP2의 명령줄 속성이 표시되어 있습니다.
   
-###  
 
- 
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -439,23 +377,8 @@ WSUS 명령줄 설치 프로그램을 사용하여 WSUS 3.0 SP2를 무인 설치
 ```  
 WSUSSetup.exe /q DEFAULT\_WEBSITE=0(포트 8530을 사용하여 자동 모드에서 설치) WSUSSetup.exe /q /u(WSUS 제거)  
 ```
- 
-<table style="border:1px solid black;">
-<colgroup>
-<col width="100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="border:1px solid black;" ><img src="images/Dd939886.Important(WS.10).gif" />중요</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="border:1px solid black;">WSUS 3.0 SP2를 자동 모드(/q)로 설치하는 경우 컴퓨터에 모든 필수 구성 요소가 설치되어 있지 않으면 설치 시 WSUSPreReqCheck.xml이라는 파일이 생성되어 %TEMP% 디렉터리에 저장됩니다.
-</td>
-</tr>
-</tbody>
-</table>
+> [!Important]  
+> WSUS 3.0 SP2를 자동 모드(/q)로 설치하는 경우 컴퓨터에 모든 필수 구성 요소가 설치되어 있지 않으면 설치 시 WSUSPreReqCheck.xml이라는 파일이 생성되어 %TEMP% 디렉터리에 저장됩니다.
  
 
 <span id="BKMK_KnownIssues"></span>

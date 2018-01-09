@@ -6,8 +6,6 @@ ms:contentKeyID: 61230764
 ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms13-mar(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2013 년 3 월 Microsoft 보안 공지 요약
 =====================================
 
@@ -33,7 +31,7 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 
 영향을 받는 소프트웨어에 대한 자세한 내용은 다음 항목 영향을 받는 소프트웨어 및 다운로드 위치를 참조하십시오.
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -121,8 +119,7 @@ Internet Explorer</td>
   
 악용 가능성 인덱스  
 ------------------
-  
-<span></span>
+
 다음 표는 이달에 해결한 각 취약점의 악용 가능성 평가입니다. 취약점은 공지 번호 및 CVE ID 순으로 나열되어 있습니다. 공지에서 심각도가 긴급 또는 중요인 취약점만 포함됩니다.
   
 이 표를 어떻게 사용합니까?
@@ -156,8 +153,7 @@ Internet Explorer</td>
   
 영향을 받는 소프트웨어 및 다운로드 위치  
 ---------------------------------------
-  
-<span></span>
+
 다음 표에는 주요 소프트웨어 범주 및 심각도 순으로 공지가 나열되어 있습니다.
   
 이 표를 어떻게 사용합니까?
@@ -168,10 +164,10 @@ Internet Explorer</td>
   
 #### Windows 운영 체제 및 구성 요소
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
-<th colspan="3">
+<th style="border:1px solid black;" colspan="3">
 Windows XP  
 </th>
 </tr>
@@ -240,7 +236,7 @@ Windows XP Professional x64 Edition 서비스 팩 2
 </td>
 </tr>
 <tr>
-<th colspan="3">
+<th style="border:1px solid black;" colspan="3">
 Windows Server 2003
 </th>
 </tr>
@@ -327,7 +323,7 @@ Windows Server 2003 SP2(Itanium 기반 시스템용)
 </td>
 </tr>
 <tr>
-<th colspan="3">
+<th style="border:1px solid black;" colspan="3">
 Windows Vista
 </th>
 </tr>
@@ -396,7 +392,7 @@ Windows Vista x64 Edition 서비스 팩 2
 </td>
 </tr>
 <tr>
-<th colspan="3">
+<th style="border:1px solid black;" colspan="3">
 Windows Server 2008
 </th>
 </tr>
@@ -480,7 +476,7 @@ Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 </td>
 </tr>
 <tr>
-<th colspan="3">
+<th style="border:1px solid black;" colspan="3">
 Windows 7
 </th>
 </tr>
@@ -579,7 +575,7 @@ Windows 7(x64 기반 시스템용) 서비스 팩 1
 </td>
 </tr>
 <tr>
-<th colspan="3">
+<th style="border:1px solid black;" colspan="3">
 Windows Server 2008 R2
 </th>
 </tr>
@@ -672,7 +668,7 @@ Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1
 </td>
 </tr>
 <tr>
-<th colspan="3">
+<th style="border:1px solid black;" colspan="3">
 Windows 8
 </th>
 </tr>
@@ -729,7 +725,7 @@ Windows 8(64비트 시스템용)
 </td>
 </tr>
 <tr>
-<th colspan="3">
+<th style="border:1px solid black;" colspan="3">
 Windows Server 2012
 </th>
 </tr>
@@ -771,7 +767,7 @@ Windows Server 2012
 </td>
 </tr>
 <tr>
-<th colspan="3">
+<th style="border:1px solid black;" colspan="3">
 Windows RT
 </th>
 </tr>
@@ -811,7 +807,7 @@ Internet Explorer 10<sup>[1]</sup> 
 </td>
 </tr>
 <tr>
-<th colspan="3">
+<th style="border:1px solid black;" colspan="3">
 Server Core 설치 옵션
 </th>
 </tr>
@@ -910,10 +906,10 @@ MS13-021 참고 사항
 
 #### Microsoft Office 제품군 및 소프트웨어
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
-<th colspan="4">
+<th style="border:1px solid black;" colspan="4">
 Microsoft Office 소프트웨어
 </th>
 </tr>
@@ -1113,10 +1109,10 @@ MS13-023 참고 사항
 
 #### Microsoft 개발자 도구 및 소프트웨어
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 Microsoft Silverlight
 </th>
 </tr>
@@ -1201,10 +1197,10 @@ Mac에 설치된 [Microsoft Silverlight 5 Developer 런타임](http://www.micros
 
 #### Microsoft Server 소프트웨어
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 Microsoft SharePoint Server
 </th>
 </tr>
@@ -1236,7 +1232,7 @@ Microsoft SharePoint Server 2010 서비스 팩 1
 </td>
 </tr>
 <tr>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 Microsoft SharePoint Foundation
 </th>
 </tr>

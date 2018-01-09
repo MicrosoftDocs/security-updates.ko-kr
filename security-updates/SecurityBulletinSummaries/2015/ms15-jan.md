@@ -2244,7 +2244,7 @@ Windows Server 2012 R2(Server Core 설치)
 </tr>
 </table>
  
-**MS15-005 참고 사항 **
+**MS15-005 참고 사항**
 <sup>[1]</sup>Windows Server 2003은 영향을 받지만 이에 대한 업데이트는 배포되지 않습니다. 자세한 내용은 공지를 참조하십시오.
 
  

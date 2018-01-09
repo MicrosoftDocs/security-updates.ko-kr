@@ -31,7 +31,7 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 
 영향을 받는 소프트웨어에 대한 자세한 내용은 다음 항목 **영향을 받는 소프트웨어**를 참조하십시오.
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -149,7 +149,8 @@ Microsoft Office Web Apps</td>
   
 아래 열에서 "최신 소프트웨어 버전"은 관련 소프트웨어를 나타내며 "이전 소프트웨어 버전"은 공지의 "영향을 받는 소프트웨어" 및 "영향을 받지 않는 소프트웨어" 표에 나열된 지원 대상인 관련 소프트웨어의 모든 이전 버전을 나타냅니다.
   
-<table style="width:100%;">
+<p> </p>
+<table style="border:1px solid black;">
 <colgroup>
 <col width="14%" />
 <col width="14%" />
@@ -411,7 +412,7 @@ Microsoft는 이 취약점을 악용하려는 제한적인 공격에 대한 보�
   
 ### Windows 운영 체제 및 구성 요소
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="7">
@@ -2322,7 +2323,7 @@ Windows Server 2012 R2(Server Core 설치)
 
 ### Microsoft 개발자 도구 및 소프트웨어
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -2416,7 +2417,7 @@ ASP.NET MVC 5.1
 
 ### Microsoft Office 제품군 및 소프트웨어
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -2631,7 +2632,7 @@ Microsoft Office 호환 기능 팩 서비스 팩 3
 
 ### Microsoft Office Services 및 Web Apps
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">

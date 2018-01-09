@@ -124,7 +124,7 @@ Enter the WSUS server HTTP(S) URL twice, so that the server specified for update
 
 2.  In the details pane, click **Specify Intranet Microsoft update service location**.
 
-3.  Click **Enabled** and type the HTTP(S) URL of the same WSUS server in the **Set the intranet update service for detecting updates** box and in the **Set the intranet statistics server** box. For example, type **http(s)://***servername* in both boxes, where *servername* is the name of the server. If the port is not 80 for HTTP or 443 for HTTPS, you should add the port number: **https://***servername*:*portnumber*.
+3.  Click **Enabled** and type the HTTP(S) URL of the same WSUS server in the **Set the intranet update service for detecting updates** box and in the **Set the intranet statistics server** box. For example, type **http(s)://** *servername* in both boxes, where *servername* is the name of the server. If the port is not 80 for HTTP or 443 for HTTPS, you should add the port number: **https://** *servername*:*portnumber*.
 
 4.  Click **OK**.
 

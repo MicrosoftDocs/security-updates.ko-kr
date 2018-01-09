@@ -31,7 +31,7 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 
 영향을 받는 소프트웨어에 대한 자세한 내용은 다음 항목 **영향을 받는 소프트웨어**를 참조하십시오.
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -159,7 +159,8 @@ Microsoft .NET Framework</td>
   
 아래 열에서 "최신 소프트웨어 버전"은 관련 소프트웨어를 나타내며 "이전 소프트웨어 버전"은 공지의 "영향을 받는 소프트웨어" 및 "영향을 받지 않는 소프트웨어" 표에 나열된 지원 대상인 관련 소프트웨어의 모든 이전 버전을 나타냅니다.
   
-<table style="width:100%;">
+<p> </p>
+<table style="border:1px solid black;">
 <colgroup>
 <col width="14%" />
 <col width="14%" />
@@ -553,10 +554,10 @@ Microsoft는 이 보안 공지를 처음에 게시했을 때 이 취약점이 �
   
 **Windows 운영 체제 및 구성 요소**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
-<th colspan="7">
+<th style="border:1px solid black;" colspan="7">
 Windows Server 2003
   
 </th>
@@ -2315,10 +2316,10 @@ Windows Server 2012 R2(Server Core 설치)
 
 **Microsoft Office 소프트웨어**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 **Microsoft Office 소프트웨어**
 
 </th>
@@ -2361,7 +2362,7 @@ Microsoft OneNote 2007 서비스 팩 3
 
 **Microsoft SQL Server**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -2596,7 +2597,7 @@ Microsoft SQL Server 2014(x64 기반 시스템용)
 
 **Microsoft Server 소프트웨어**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -2660,7 +2661,7 @@ Microsoft SharePoint Foundation 2013 서비스 팩 1
 
 **기타 소프트웨어**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">

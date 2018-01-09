@@ -6,8 +6,6 @@ ms:contentKeyID: 61230767
 ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms13-oct(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2013 년 10 월 Microsoft 보안 공지 요약
 ======================================
 
@@ -33,7 +31,7 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 
 영향을 받는 소프트웨어에 대한 자세한 내용은 다음 항목 영향을 받는 소프트웨어를 참조하십시오.
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -133,8 +131,7 @@ Microsoft Server 소프트웨어</td>
   
 악용 가능성 인덱스  
 ------------------
-  
-<span></span>
+
 다음 표는 이달에 해결한 각 취약점의 악용 가능성 평가입니다. 취약점은 공지 번호 및 CVE ID 순으로 나열되어 있습니다. 공지에서 심각도가 긴급 또는 중요인 취약점만 포함됩니다.
   
 이 표를 어떻게 사용합니까?
@@ -143,7 +140,7 @@ Microsoft Server 소프트웨어</td>
   
 아래 열에서 "최신 소프트웨어 버전"은 관련 소프트웨어를 나타내며 "이전 소프트웨어 버전"은 공지의 "영향을 받는 소프트웨어" 및 "영향을 받지 않는 소프트웨어" 표에 나열된 지원 대상인 관련 소프트웨어의 모든 이전 버전을 나타냅니다.
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -409,8 +406,7 @@ Microsoft는 Internet Explorer 8 및 Internet Explorer 9에서 이 취약점을 
   
 영향을 받는 소프트웨어  
 ----------------------
-  
-<span></span>
+
 다음 표에는 주요 소프트웨어 범주 및 심각도 순으로 공지가 나열되어 있습니다.
   
 이 표를 어떻게 사용합니까?
@@ -421,10 +417,10 @@ Microsoft는 Internet Explorer 8 및 Internet Explorer 9에서 이 취약점을 
   
 #### Windows 운영 체제 및 구성 요소
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
-<th colspan="5">
+<th style="border:1px solid black;" colspan="5">
 Windows XP  
 </th>
 </tr>
@@ -577,7 +573,7 @@ Windows XP Professional x64 Edition 서비스 팩 2
 </td>
 </tr>
 <tr>
-<th colspan="5">
+<th style="border:1px solid black;" colspan="5">
 Windows Server 2003
 </th>
 </tr>
@@ -781,7 +777,7 @@ Windows Server 2003 SP2(Itanium 기반 시스템용)
 </td>
 </tr>
 <tr>
-<th colspan="5">
+<th style="border:1px solid black;" colspan="5">
 Windows Vista
 </th>
 </tr>
@@ -966,7 +962,7 @@ Windows Vista x64 Edition 서비스 팩 2
 </td>
 </tr>
 <tr>
-<th colspan="5">
+<th style="border:1px solid black;" colspan="5">
 Windows Server 2008
 </th>
 </tr>
@@ -1203,7 +1199,7 @@ Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 </td>
 </tr>
 <tr>
-<th colspan="5">
+<th style="border:1px solid black;" colspan="5">
 Windows 7
 </th>
 </tr>
@@ -1376,7 +1372,7 @@ Windows 7(x64 기반 시스템용) 서비스 팩 1
 </td>
 </tr>
 <tr>
-<th colspan="5">
+<th style="border:1px solid black;" colspan="5">
 Windows Server 2008 R2
 </th>
 </tr>
@@ -1537,7 +1533,7 @@ Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1
 </td>
 </tr>
 <tr>
-<th colspan="5">
+<th style="border:1px solid black;" colspan="5">
 Windows 8
 </th>
 </tr>
@@ -1686,7 +1682,7 @@ Windows 8(64비트 시스템용)
 </td>
 </tr>
 <tr>
-<th colspan="5">
+<th style="border:1px solid black;" colspan="5">
 Windows Server 2012
 </th>
 </tr>
@@ -1780,7 +1776,7 @@ Windows Server 2012
 </td>
 </tr>
 <tr>
-<th colspan="5">
+<th style="border:1px solid black;" colspan="5">
 Windows RT
 </th>
 </tr>
@@ -1862,7 +1858,7 @@ Windows RT
 </td>
 </tr>
 <tr>
-<th colspan="5">
+<th style="border:1px solid black;" colspan="5">
 Windows 8.1
 </th>
 </tr>
@@ -1937,7 +1933,7 @@ Internet Explorer 11<sup>[1]</sup> 
 </td>
 </tr>
 <tr>
-<th colspan="5">
+<th style="border:1px solid black;" colspan="5">
 Windows Server 2012 R2
 </th>
 </tr>
@@ -1994,7 +1990,7 @@ Internet Explorer 11<sup>[1]</sup> 
 </td>
 </tr>
 <tr>
-<th colspan="5">
+<th style="border:1px solid black;" colspan="5">
 Windows RT 8.1
 </th>
 </tr>
@@ -2051,7 +2047,7 @@ Internet Explorer 11<sup>[1]</sup> 
 </td>
 </tr>
 <tr>
-<th colspan="5">
+<th style="border:1px solid black;" colspan="5">
 Server Core 설치 옵션
 </th>
 </tr>
@@ -2280,10 +2276,10 @@ MS13-080 참고 사항
 
 #### Microsoft Office 제품군 및 소프트웨어
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
-<th colspan="3">
+<th style="border:1px solid black;" colspan="3">
 Microsoft Office 2003
 </th>
 </tr>
@@ -2323,7 +2319,7 @@ Microsoft Word 2003 서비스 팩 3
 </td>
 </tr>
 <tr>
-<th colspan="3">
+<th style="border:1px solid black;" colspan="3">
 Microsoft Office 2007
 </th>
 </tr>
@@ -2371,7 +2367,7 @@ Microsoft Word 2007 서비스 팩 3
 </td>
 </tr>
 <tr>
-<th colspan="3">
+<th style="border:1px solid black;" colspan="3">
 Microsoft Office 2010
 </th>
 </tr>
@@ -2474,7 +2470,7 @@ Microsoft Office 2010 서비스 팩 2(64비트 에디션)
 </td>
 </tr>
 <tr>
-<th colspan="3">
+<th style="border:1px solid black;" colspan="3">
 Microsoft Office 2013
 </th>
 </tr>
@@ -2549,7 +2545,7 @@ Microsoft Office 2013 RT
 </td>
 </tr>
 <tr>
-<th colspan="3">
+<th style="border:1px solid black;" colspan="3">
 Microsoft Office for Mac
 </th>
 </tr>
@@ -2589,7 +2585,7 @@ Microsoft Office for Mac 2011
 </td>
 </tr>
 <tr>
-<th colspan="3">
+<th style="border:1px solid black;" colspan="3">
 기타 Microsoft Office 소프트웨어
 </th>
 </tr>
@@ -2648,10 +2644,10 @@ Microsoft Excel Viewer
 
 #### Microsoft Server 소프트웨어
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 Microsoft SharePoint Server 2007
 </th>
 </tr>
@@ -2692,7 +2688,7 @@ Microsoft Windows SharePoint Services 3.0 서비스 팩 3(wssloc)(64비트 버�
 </td>
 </tr>
 <tr>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 Microsoft SharePoint Server 2010
 </th>
 </tr>
@@ -2733,7 +2729,7 @@ Microsoft SharePoint Foundation 2010 서비스 팩 2(wssloc)
 </td>
 </tr>
 <tr>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 Microsoft SharePoint Server 2013
 </th>
 </tr>
@@ -2771,10 +2767,10 @@ MS13-084 참고 사항
 
 #### Microsoft Office Services 및 Web Apps
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 Microsoft SharePoint Server 2007
 </th>
 </tr>
@@ -2815,7 +2811,7 @@ Excel Services
 </td>
 </tr>
 <tr>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 Microsoft SharePoint Server 2010
 </th>
 </tr>
@@ -2862,7 +2858,7 @@ Word Automation Services
 </td>
 </tr>
 <tr>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 Microsoft SharePoint Server 2013
 </th>
 </tr>
@@ -2903,7 +2899,7 @@ Word Automation Services
 </td>
 </tr>
 <tr>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 Microsoft Office Web Apps 2010
 </th>
 </tr>
@@ -2950,7 +2946,7 @@ Microsoft Excel Web App 2010 서비스 팩 2
 </td>
 </tr>
 <tr>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 Microsoft Office Web Apps 2013
 </th>
 </tr>
@@ -2988,10 +2984,10 @@ MS13-084 참고 사항
 
 #### Microsoft 개발자 도구 및 소프트웨어
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 Microsoft Silverlight
 </th>
 </tr>
@@ -3042,7 +3038,6 @@ Mac에 설치된 Microsoft Silverlight 5 Developer 런타임
 검색, 배포 도구 및 지침
 -----------------------
 
-<span></span>
 관리자가 보안 업데이트를 배포하는 데 도움이 되는 다양한 리소스가 존재합니다.
 
 -   관리자는 MBSA(Microsoft Baseline Security Analyzer)를 사용하여 로컬 및 원격 시스템에서 누락된 보안 업데이트 및 일반적인 보안 구성 오류를 검색할 수 있습니다.

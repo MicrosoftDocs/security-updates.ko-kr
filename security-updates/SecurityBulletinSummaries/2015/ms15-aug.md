@@ -6,8 +6,6 @@ ms:contentKeyID: 68235998
 ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms15-aug(v=Security.10)'
 ---
 
-MSRC ppDocument 서식 파일
-
 2015년 8월 Microsoft 보안 공지 요약
 ===================================
 
@@ -29,7 +27,8 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 
 영향받는 소프트웨어에 대한 자세한 내용은 **영향받는 소프트웨어**라는 다음 절을 참조하십시오.
 
-<table style="width:100%;">
+<p> </p>
+<table style="border:1px solid black;">
 <colgroup>
 <col width="16%" />
 <col width="16%" />
@@ -225,7 +224,8 @@ Internet Explorer</td>
 
 아래 열에서 "최신 소프트웨어 릴리스"는 관련 소프트웨어를 나타내며 "이전 소프트웨어 릴리스"는 공지의 "영향받는 소프트웨어" 및 "영향받지 않는 소프트웨어" 표에 나열된 지원 대상인 관련 소프트웨어의 모든 이전 릴리스를 나타냅니다.
 
-<table style="width:100%;">
+<p> </p>
+<table style="border:1px solid black;">
 <colgroup>
 <col width="16%" />
 <col width="16%" />
@@ -733,7 +733,7 @@ Internet Explorer</td>
   
 ### Windows 운영 체제 및 구성 요소(표 1/3)
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="6">
@@ -2242,7 +2242,7 @@ Microsoft XML Core Services 3.0 및 MSXML Core Services 6.0
 
 ### Windows 운영 체제 및 구성 요소(표 2/3)
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="6">
@@ -3612,7 +3612,7 @@ Windows Server 2012 R2(Server Core 설치)
 
 ### Windows 운영 체제 및 구성 요소(표 3/3)
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="4">
@@ -3622,7 +3622,7 @@ Windows Server 2012 R2(Server Core 설치)
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                         **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -4565,7 +4565,7 @@ Microsoft .NET Framework 4.6
  
 ### Microsoft Server 소프트웨어
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="4">
@@ -4776,7 +4776,7 @@ Microsoft BizTalk Server 2013 R2
 
 ### Microsoft Office 제품군 및 소프트웨어
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="4">
@@ -5477,7 +5477,7 @@ Microsoft XML Core Services 5.0
 
 ### Microsoft Office Services 및 Web Apps
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -5487,7 +5487,7 @@ Microsoft XML Core Services 5.0
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -5639,7 +5639,7 @@ Microsoft Office Web Apps Server 2013 서비스 팩 1
 
 ### Microsoft 통신 플랫폼 및 소프트웨어
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -5649,7 +5649,7 @@ Microsoft Office Web Apps Server 2013 서비스 팩 1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID                 **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">
@@ -5843,7 +5843,7 @@ Microsoft Lync Basic 2013 서비스 팩 1(64비트)
 
 ### Microsoft 개발자 도구 및 소프트웨어
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -5853,7 +5853,7 @@ Microsoft Lync Basic 2013 서비스 팩 1(64비트)
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID             **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">

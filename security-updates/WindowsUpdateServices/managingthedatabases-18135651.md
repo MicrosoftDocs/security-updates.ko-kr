@@ -24,7 +24,7 @@ The following table describes non-deployment tasks you might have to perform as 
 
 ### Database management tasks
 
- 
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />

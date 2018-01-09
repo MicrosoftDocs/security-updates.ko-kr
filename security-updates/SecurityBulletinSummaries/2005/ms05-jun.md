@@ -38,7 +38,7 @@ Security Bulletin Summary
 긴급(3)
 -------
 
-<span></span>
+
 | 공지 ID                    | Microsoft Security Bulletin MS05-025                                                                                                                                                   |
 |----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **공지 제목**              | [**Internet Explorer 누적 보안 업데이트(883939)**](http://technet.microsoft.com/security/bulletin/ms05-025)                                                                            |
@@ -66,7 +66,7 @@ Security Bulletin Summary
 중요(4)
 -------
 
-<span></span>
+
 | 공지 ID                    | Microsoft Security Bulletin MS05-028                                                                                                                                                                              |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **공지 제목**              | [**웹 클라이언트 서비스의 원격 코드 실행 문제(896426)**](http://technet.microsoft.com/security/bulletin/ms05-028)                                                                                                 |
@@ -103,7 +103,7 @@ Security Bulletin Summary
 보통(3)
 -------
 
-<span></span>
+
 | 공지 ID                    | Microsoft Security Bulletin MS05-032                                                                                                                                                    |
 |----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **공지 제목**              | [**Microsoft Agent의 스푸핑 문제(890046)**](http://technet.microsoft.com/security/bulletin/ms05-032)                                                                                    |
@@ -131,7 +131,7 @@ Security Bulletin Summary
 배포
 ----
 
-<span></span>
+
 **Software Update Services:**
 
 Microsoft Software Update Services(SUS)를 사용하면 관리자는 Windows 2000 및 Windows Server 2003 기반 서버뿐 아니라 Windows 2000 Professional 또는 Windows XP Professional을 실행하는 데스크톱 시스템에 최신 중요 업데이트와 보안 업데이트를 신속하고 안전하게 배포할 수 있습니다.

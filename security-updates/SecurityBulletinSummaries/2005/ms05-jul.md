@@ -38,7 +38,7 @@ Security Bulletin Summary
 긴급(3)
 -------
 
-<span></span>
+
 | 게시판 ID                  | Microsoft 보안 공지 MS05-035                                                                                                                                        |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **공지 제목**              | [**Microsoft Word의 취약점으로 인한 원격 코드 실행 문제점(903672)**](http://technet.microsoft.com/security/bulletin/ms05-035)                                       |
@@ -66,7 +66,7 @@ Security Bulletin Summary
 배포
 ----
 
-<span></span>
+
 **Software Update Services:**
 
 Microsoft Software Update Services(SUS)를 사용하면 관리자는 Windows 2000 및 Windows Server 2003 기반 서버뿐 아니라 Windows 2000 Professional 또는 Windows XP Professional을 실행하는 데스크톱 시스템에 최신 중요 업데이트와 보안 업데이트를 신속하고 안전하게 배포할 수 있습니다.

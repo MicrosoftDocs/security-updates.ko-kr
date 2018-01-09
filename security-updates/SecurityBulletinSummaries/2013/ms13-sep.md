@@ -6,8 +6,6 @@ ms:contentKeyID: 61230768
 ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms13-sep(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2013년 9월 Microsoft 보안 공지 요약
 ===================================
 
@@ -33,7 +31,7 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 
 영향을 받는 소프트웨어에 대한 자세한 내용은 다음 항목 **영향을 받는 소프트웨어**를 참조하십시오.
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -182,8 +180,7 @@ Internet Explorer</td>
   
 악용 가능성 인덱스  
 ------------------
-  
-<span></span>
+
 다음 표는 이달에 해결한 각 취약점의 악용 가능성 평가입니다. 취약점은 공지 번호 및 CVE ID 순으로 나열되어 있습니다. 공지에서 심각도가 긴급 또는 중요인 취약점만 포함됩니다.
   
 **이 표를 어떻게 사용합니까?**
@@ -192,7 +189,7 @@ Internet Explorer</td>
   
 아래 열에서 "최신 소프트웨어 버전"은 관련 소프트웨어를 나타내며 "이전 소프트웨어 버전"은 공지의 "영향을 받는 소프트웨어" 및 "영향을 받지 않는 소프트웨어" 표에 나열된 지원 대상인 관련 소프트웨어의 모든 이전 버전을 나타냅니다.
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -696,7 +693,6 @@ Windows 8.1 및 Windows Server 2012 R2는 영향을 받지 않습니다.</td>
 영향을 받는 소프트웨어
 ----------------------
 
-<span></span>
 다음 표에는 주요 소프트웨어 범주 및 심각도 순으로 공지가 나열되어 있습니다.
 
 **이 표를 어떻게 사용합니까?**
@@ -707,10 +703,10 @@ Windows 8.1 및 Windows Server 2012 R2는 영향을 받지 않습니다.</td>
 
 #### Windows 운영 체제 및 구성 요소
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
-<th colspan="7">
+<th style="border:1px solid black;" colspan="7">
 Windows XP
 </th>
 </tr>
@@ -835,7 +831,7 @@ Windows XP Professional x64 Edition 서비스 팩 2
 </td>
 </tr>
 <tr>
-<th colspan="7">
+<th style="border:1px solid black;" colspan="7">
 Windows Server 2003
 </th>
 </tr>
@@ -994,7 +990,7 @@ Windows Server 2003 SP2(Itanium 기반 시스템용)
 </td>
 </tr>
 <tr>
-<th colspan="7">
+<th style="border:1px solid black;" colspan="7">
 Windows Vista
 </th>
 </tr>
@@ -1119,7 +1115,7 @@ AD LDS(Active Directory Lightweight Directory Service)
 </td>
 </tr>
 <tr>
-<th colspan="7">
+<th style="border:1px solid black;" colspan="7">
 Windows Server 2008
 </th>
 </tr>
@@ -1279,7 +1275,7 @@ Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 </td>
 </tr>
 <tr>
-<th colspan="7">
+<th style="border:1px solid black;" colspan="7">
 Windows 7
 </th>
 </tr>
@@ -1404,7 +1400,7 @@ AD LDS(Active Directory Lightweight Directory Service)
 </td>
 </tr>
 <tr>
-<th colspan="7">
+<th style="border:1px solid black;" colspan="7">
 Windows Server 2008 R2
 </th>
 </tr>
@@ -1524,7 +1520,7 @@ Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1
 </td>
 </tr>
 <tr>
-<th colspan="7">
+<th style="border:1px solid black;" colspan="7">
 Windows 8
 </th>
 </tr>
@@ -1633,7 +1629,7 @@ AD LDS(Active Directory Lightweight Directory Service)
 </td>
 </tr>
 <tr>
-<th colspan="7">
+<th style="border:1px solid black;" colspan="7">
 Windows Server 2012
 </th>
 </tr>
@@ -1716,7 +1712,7 @@ AD LDS(Active Directory Lightweight Directory Service)
 </td>
 </tr>
 <tr>
-<th colspan="7">
+<th style="border:1px solid black;" colspan="7">
 Windows RT
 </th>
 </tr>
@@ -1794,7 +1790,7 @@ Windows RT
 </td>
 </tr>
 <tr>
-<th colspan="7">
+<th style="border:1px solid black;" colspan="7">
 Server Core 설치 옵션
 </th>
 </tr>
@@ -1970,10 +1966,10 @@ AD LDS(Active Directory Lightweight Directory Service)
 
 #### Microsoft Office 제품군 및 소프트웨어
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
-<th colspan="6">
+<th style="border:1px solid black;" colspan="6">
 Microsoft Office 2003
 </th>
 </tr>
@@ -2046,7 +2042,7 @@ Microsoft Excel 2003 서비스 팩 3
 </td>
 </tr>
 <tr>
-<th colspan="6">
+<th style="border:1px solid black;" colspan="6">
 Microsoft Office 2007
 </th>
 </tr>
@@ -2127,7 +2123,7 @@ Microsoft Access 2007 서비스 팩 3
 </td>
 </tr>
 <tr>
-<th colspan="6">
+<th style="border:1px solid black;" colspan="6">
 Microsoft Office 2010
 </th>
 </tr>
@@ -2300,7 +2296,7 @@ Microsoft Access 2010 서비스 팩 2(64비트 에디션)
 </td>
 </tr>
 <tr>
-<th colspan="6">
+<th style="border:1px solid black;" colspan="6">
 Microsoft Office 2013
 </th>
 </tr>
@@ -2415,7 +2411,7 @@ Microsoft Excel 2013 RT
 </td>
 </tr>
 <tr>
-<th colspan="6">
+<th style="border:1px solid black;" colspan="6">
 Microsoft Office for Mac
 </th>
 </tr>
@@ -2482,7 +2478,7 @@ Microsoft Office for Mac 2011
 </td>
 </tr>
 <tr>
-<th colspan="6">
+<th style="border:1px solid black;" colspan="6">
 기타 Microsoft Office 소프트웨어
 </th>
 </tr>
@@ -2599,10 +2595,10 @@ Microsoft Excel Viewer
 
 #### Microsoft Server 소프트웨어
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 Microsoft SharePoint Portal Server 2003
 </th>
 </tr>
@@ -2633,7 +2629,7 @@ Microsoft Windows SharePoint Services 2.0
 </td>
 </tr>
 <tr>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 Microsoft SharePoint Server 2007
 </th>
 </tr>
@@ -2674,7 +2670,7 @@ Microsoft Windows SharePoint Services 3.0 서비스 팩 3(64비트 버전)
 </td>
 </tr>
 <tr>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 Microsoft SharePoint Server 2010
 </th>
 </tr>
@@ -2727,7 +2723,7 @@ Microsoft SharePoint Server 2010 서비스 팩 2(wosrv)
 </td>
 </tr>
 <tr>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 Microsoft SharePoint Server 2013
 </th>
 </tr>
@@ -2768,10 +2764,10 @@ Microsoft SharePoint Server 2013(coreserverloc)
 
 #### Microsoft Office Services 및 Web Apps
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 Microsoft SharePoint Server 2007
 </th>
 </tr>
@@ -2812,7 +2808,7 @@ Excel Services
 </td>
 </tr>
 <tr>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 Microsoft SharePoint Server 2010
 </th>
 </tr>
@@ -2865,7 +2861,7 @@ Word Automation Services
 </td>
 </tr>
 <tr>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 Microsoft Office Web Apps 2010
 </th>
 </tr>
@@ -2912,7 +2908,7 @@ Microsoft Word Web App 2010 서비스 팩 2
 </td>
 </tr>
 <tr>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 Microsoft Office Web Apps 2013
 </th>
 </tr>
@@ -2950,10 +2946,10 @@ Microsoft Office Web Apps Server 2013
 
 #### 생산성 소프트웨어
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 Microsoft FrontPage 2003
 </th>
 </tr>
@@ -2989,7 +2985,6 @@ Microsoft FrontPage 2003 서비스 팩 3
 검색, 배포 도구 및 지침
 -----------------------
 
-<span></span>
 **보안 센터**
 
 해당 조직에서 서버, 데스크톱, 모바일 컴퓨터에 적용해야 하는 소프트웨어 및 보안 업데이트를 관리합니다. 자세한 내용은 [TechNet Update Management Center](http://go.microsoft.com/fwlink/?linkid=69903)를 참조하십시오. [TechNet Security TechCenter](http://go.microsoft.com/fwlink/?linkid=21171)는 Microsoft 제품의 보안에 대한 추가 정보를 제공합니다. 일반 사용자는 [Microsoft 안전 및 보안 센터](http://go.microsoft.com/fwlink/?linkid=85102)를 방문하거나 "보안 업데이트"를 클릭하여 이 정보를 볼 수도 있습니다.

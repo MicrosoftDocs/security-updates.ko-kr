@@ -6,8 +6,6 @@ ms:contentKeyID: 64978243
 ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms15-mar(v=Security.10)'
 ---
 
-MSRC ppDocument 템플릿
-
 2015년 3월 Microsoft 보안 공지 요약
 ===================================
 
@@ -29,7 +27,8 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 
 영향을 받는 소프트웨어에 대한 자세한 내용은 다음 항목 **영향을 받는 소프트웨어**를 참조하십시오.
 
-<table style="width:100%;">
+<p> </p>
+<table style="border:1px solid black;">
 <colgroup>
 <col width="16%" />
 <col width="16%" />
@@ -207,7 +206,8 @@ Microsoft Server 소프트웨어</td>
   
 아래 열에서 "최신 소프트웨어 릴리스"는 관련 소프트웨어를 나타내며 "이전 소프트웨어 릴리스"는 공지의 "영향을 받는 소프트웨어" 및 "영향을 받지 않는 소프트웨어" 표에 나열된 지원 대상인 관련 소프트웨어의 모든 이전 릴리스를 나타냅니다.
   
-<table style="width:100%;">
+<p> </p>
+<table style="border:1px solid black;">
 <colgroup>
 <col width="14%" />
 <col width="14%" />
@@ -655,7 +655,7 @@ Microsoft Server 소프트웨어</td>
 
 ### Windows 운영 체제 및 구성 요소(표 1/2)
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="7">
@@ -2417,13 +2417,13 @@ Windows Server 2012 R2(Server Core 설치)
  
 **MS15-018, MS15-019, MS15-020, MS15-021 및 MS15-023 참고 사항**
 
-Windows Technical Preview 및 Windows Server Technical Preview가 영향을 받습니다. 해당 운영 체제를 실행하는 고객은 [Windows Update](http://update.microsoft.com/microsoftupdate/v6/vistadefault.aspx?ln=ko-kr)를 통해 이 업데이트를 적용하는 것이 좋습니다.** **
+Windows Technical Preview 및 Windows Server Technical Preview가 영향을 받습니다. 해당 운영 체제를 실행하는 고객은 [Windows Update](http://update.microsoft.com/microsoftupdate/v6/vistadefault.aspx?ln=ko-kr)를 통해 이 업데이트를 적용하는 것이 좋습니다. 
 
-** **
+ 
 
 ### Windows 운영 체제 및 구성 요소(표 2/2)
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="7">
@@ -3999,7 +3999,7 @@ Windows Technical Preview 및 Windows Server Technical Preview가 영향을 받�
 
 ### Microsoft Server 소프트웨어
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="3">
@@ -4367,7 +4367,7 @@ Microsoft SharePoint Server 2013 서비스 팩 1(wasrvloc)
 
 ### Microsoft Office 제품군 및 소프트웨어
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -4693,7 +4693,7 @@ Microsoft Office 호환 기능 팩 서비스 팩 3(xlconv)
 
 ### Microsoft Office Services 및 Web Apps
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">

@@ -38,7 +38,7 @@ Security Bulletin Summary
 긴급(8)
 -------
 
-<span></span>
+
 | 게시판 ID                  | Microsoft Security Bulletin MS05-005                                                                                  |
 |----------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | **게시판 제목**            | [**Office의 취약점으로 인한 원격 코드 실행 문제점(873352)**](http://technet.microsoft.com/security/bulletin/ms05-005) |
@@ -106,7 +106,7 @@ Security Bulletin Summary
 중요(3)
 -------
 
-<span></span>
+
 | 게시판 ID                  | Microsoft Security Bulletin MS05-004                                                                              |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------|
 | **게시판 제목**            | [**ASP.Net의 취약점으로 인한 인증 우회 문제점(887219)**](http://technet.microsoft.com/security/bulletin/ms05-004) |
@@ -134,7 +134,7 @@ Security Bulletin Summary
 보통(1)
 -------
 
-<span></span>
+
 | 게시판 ID                  | Microsoft Security Bulletin MS05-006                                                                                                                                                      |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **게시판 제목**            | [**Windows SharePoint Services 및 SharePoint Team Services의 취약점으로 인한 사이트 간 스크립팅 및 스푸핑 침입 문제점(887981)**](http://technet.microsoft.com/security/bulletin/ms05-006) |
@@ -146,7 +146,7 @@ Security Bulletin Summary
 배포
 ----
 
-<span></span>
+
 **Software Update Services:**
 
 Microsoft Software Update Services(SUS)를 사용하면 관리자는 Windows 2000 및 Windows Server 2003 기반 서버뿐 아니라 Windows 2000 Professional이나 Windows XP Professional을 실행하는 데스크톱 시스템에 최신 중요 업데이트와 보안 업데이트를 신속하고 안전하게 배포할 수 있습니다.

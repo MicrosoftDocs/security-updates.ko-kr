@@ -35,7 +35,7 @@ Security Bulletin Summary
 긴급(9)
 -------
 
-<span></span>
+
 | 공지 번호                  | Microsoft 보안 공지 MS06-040                                                                                                                                         |
 |----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **공지 제목**              | [**서버 서비스의 취약점으로 인한 원격 코드 실행 문제점 (921883)**](http://technet.microsoft.com/security/bulletin/ms06-040)                                          |
@@ -111,7 +111,7 @@ Security Bulletin Summary
 중요 (3)
 --------
 
-<span></span>
+
 | 공지 번호                  | Microsoft 보안 공지 MS06-045                                                                                                                                         |
 |----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **공지 제목**              | [**Windows 탐색기의 취약점으로 인한 원격 코드 실행 문제점 (921398)**](http://technet.microsoft.com/security/bulletin/ms06-045)                                       |
@@ -139,7 +139,7 @@ Security Bulletin Summary
 배포
 ----
 
-<span></span>
+
 **Software Update Services:**
 
 관리자는 Microsoft Software Update Services(SUS)를 사용하여 Windows 2000 및 Windows Server 2003 기반 서버 그리고 Windows 2000 Professional 또는 Windows XP Professional을 실행하는 데스크톱 시스템에 최신 중요 업데이트와 보안 업데이트를 신속하고 안전하게 배포할 수 있습니다.

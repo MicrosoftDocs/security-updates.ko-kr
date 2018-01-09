@@ -38,7 +38,7 @@ Security Bulletin Summary
 긴급(1)
 -------
 
-<span></span>
+
 
  
 <table style="border:1px solid black;">
@@ -81,7 +81,7 @@ Security Bulletin Summary
 중요(1)
 -------
 
-<span></span>
+
 
 | 게시판 ID                  | Microsoft Security Bulletin MS04-027                                                                                                                   |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -94,7 +94,7 @@ Security Bulletin Summary
 영향을 받는 소프트웨어 및 다운로드 위치
 ---------------------------------------
 
-<span></span>
+
 **이 표를 어떻게 사용해야 합니까?**
 
 이 표를 사용하여 설치해야 하는 보안 업데이트를 알 수 있습니다. 나열된 각 소프트웨어 프로그램이나 구성 요소를 검토하여 필요한 보안 업데이트가 있는지 확인합니다. 소프트웨어 프로그램이나 구성 요소가 나열되어 있으면 취약점으로 인한 영향이 설명되고 사용 가능한 소프트웨어 업데이트에 대한 하이퍼링크도 표시됩니다.
@@ -424,7 +424,7 @@ Security Bulletin Summary
 배포  
 ----
   
-<span></span>
+
 **Software Update Services:**
   
 Microsoft Software Update Services(SUS)를 사용하면 관리자는 Windows 2000 및 Windows Server 2003 기반 서버뿐 아니라 Windows 2000 Professional이나 Windows XP Professional을 실행하는 데스크톱 시스템에 최신 중요 업데이트와 보안 업데이트를 신속하고 안전하게 배포할 수 있습니다.

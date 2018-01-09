@@ -38,7 +38,7 @@ Security Bulletin Summary
 긴급 (5)
 --------
 
-<span></span>
+
 | 게시판 ID                  | Microsoft Security Bulletin MS05-019                                                                                                                                 |
 |----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **게시판 제목**            | [TCP/IP의 취약점으로 인한 원격 코드 실행 및 서비스 거부 문제점](http://technet.microsoft.com/security/bulletin/ms05-019)                                             |
@@ -82,7 +82,7 @@ Security Bulletin Summary
 중요 (3)
 --------
 
-<span></span>
+
 | 게시판 ID                  | Microsoft Security Bulletin MS05-016                                                                                                                                 |
 |----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **게시판 제목**            | [Windows 셸의 취약점으로 인한 원격 코드 실행 문제점](http://technet.microsoft.com/security/bulletin/ms05-016)                                                        |
@@ -110,7 +110,7 @@ Security Bulletin Summary
 배포
 ----
 
-<span></span>
+
 **Software Update Services:**
 
 Microsoft Software Update Services(SUS)를 사용하면 관리자는 Windows 2000 및 Windows Server 2003 기반 서버뿐 아니라 Windows 2000 Professional이나 Windows XP Professional을 실행하는 데스크톱 시스템에 최신 중요 업데이트와 보안 업데이트를 신속하고 안전하게 배포할 수 있습니다.

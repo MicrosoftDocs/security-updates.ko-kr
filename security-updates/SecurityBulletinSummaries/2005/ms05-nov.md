@@ -1,29 +1,29 @@
 ---
-TOCTitle: 'MS05-DEC'
-Title: 2005 년 12 월 Microsoft 보안 공지 요약
-ms:assetid: 'ms05-dec'
-ms:contentKeyID: 61230664
-ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms05-dec(v=Security.10)'
+TOCTitle: 'MS05-NOV'
+Title: 2005 년 11 월 Microsoft 보안 공지 요약
+ms:assetid: 'ms05-nov'
+ms:contentKeyID: 61230670
+ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms05-nov(v=Security.10)'
 ---
 
 Security Bulletin Summary
 
-2005 년 12 월 Microsoft 보안 공지 요약
+2005 년 11 월 Microsoft 보안 공지 요약
 ======================================
 
-게시된 날짜: 2005년 12월 14일 수요일
+게시된 날짜: 2005년 11월 9일 수요일
 
 **버전:** 1.0
 
-**게시된 날짜:** 2005년 12월 14일
+**게시된 날짜:** 2005년 11월 9일
 **버전:** 1.0
 
 이 정보의 최종 사용자 버전은 다음 [웹 사이트](http://www.microsoft.com/korea/security/default.mspx)에서 제공됩니다.
 
 **PC 보호:** 다음 사이트에서 PC 보호 방법에 대한 정보를 볼 수 있습니다.
 
--   최종 사용자의 경우 [PC 보호 웹 사이트](http://www.microsoft.com/korea/athome/security/protect/windowsxpsp2/default.mspx)를 방문하십시오.
--   IT 전문가인 경우 [Security Guidance Center](http://www.microsoft.com/korea/technet/security/) 웹 사이트를 방문하십시오.
+-   최종 사용자의 경우 [PC 보호 웹 사이트](http://www.microsoft.com/korea/athome/security/protect/default.mspx)를 방문하십시오.
+-   IT 전문가인 경우 [Security Guidance Center](http://www.microsoft.com/korea/technet/security/default.asp) 웹 사이트를 방문하십시오.
 
 **업데이트 관리 전략:** [패치 관리, 보안 업데이트 및 다운로드](http://www.microsoft.com/korea/technet/security/topics/patchmanagement.mspx) 웹 사이트에서는 보안 업데이트를 적용하기 위한 최선의 권장 사항과 관련된 자세한 내용을 볼 수 있습니다.
 
@@ -38,31 +38,19 @@ Security Bulletin Summary
 긴급(1)
 -------
 
-<span></span>
-| 공지 번호                  | Microsoft 보안 공지 MS05-054                                                                                                                                                            |
-|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **공지 제목**              | [**Internet Explorer 누적 보안 업데이트 (905915)**](http://technet.microsoft.com/security/bulletin/ms05-054)                                                                            |
-| **요약**                   | Internet Explorer에 여러 취약점이 존재하며 이 중 가장 심각한 취약점을 악용한 공격자는 영향을 받는 시스템을 완전히 제어할 수 있습니다.                                                   |
-| **최대 심각도**            | [긴급](http://www.microsoft.com/korea/technet/security/policy/rating.asp)                                                                                                               |
-| **취약점으로 인한 영향**   | 원격 코드 실행                                                                                                                                                                          |
-| **영향을 받는 소프트웨어** | **Windows, Internet Explorer**. 자세한 내용은 [전문가용 게시판](http://technet.microsoft.com/security/bulletin/ms05-054)에서 영향을 받는 소프트웨어 및 다운로드 위치 절을 참조하십시오. |
 
-중요(1)
--------
-
-<span></span>
-| 공지 번호                  | Microsoft 보안 공지 MS05-055                                                                                                                                                                             |
-|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **공지 제목**              | [**Windows 커널의 취약점으로 인한 권한 상승 문제점 (908523)**](http://technet.microsoft.com/security/bulletin/ms05-055)                                                                                  |
-| **요약**                   | Windows 커널에 존재하는 취약점으로 인해 영향을 받는 시스템에서 권한 상승이 허용될 수 있습니다. 이 취약점을 악용하기 위해서는 공격자가 유효한 로그온 자격 증명을 가지고 로컬로 로그온할 수 있어야 합니다. |
-| **최대 심각도**            | [중요](http://www.microsoft.com/korea/technet/security/policy/rating.asp)                                                                                                                                |
-| **취약점으로 인한 영향**   | 권한 상승                                                                                                                                                                                                |
-| **영향을 받는 소프트웨어** | **Windows**. 자세한 내용은 [전문가용 게시판](http://technet.microsoft.com/security/bulletin/ms05-055)에서 영향을 받는 소프트웨어 및 다운로드 위치 절을 참조하십시오.                                     |
+| 게시판 ID                  | Microsoft 보안 공지 MS05-053:                                                                                                                                       |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **공지 제목**              | 그래픽 렌더링 엔진의 취약점으로 인한 코드 실행 문제점                                                                                                               |
+| **요약**                   | 영향을 받는 시스템을 공격자가 완전히 제어할 수 있는 취약점이 Windows에 존재합니다.                                                                                  |
+| **최대 심각도**            | [긴급](http://www.microsoft.com/korea/technet/security/policy/rating.asp)                                                                                           |
+| **취약점으로 인한 영향**   | 원격 코드 실행                                                                                                                                                      |
+| **영향을 받는 소프트웨어** | **Windows** 자세한 내용은 [전문가용 게시판](http://technet.microsoft.com/security/bulletin/ms05-053)에서 영향을 받는 소프트웨어 및 다운로드 위치 절을 참조하십시오. |
 
 배포
 ----
 
-<span></span>
+
 **Software Update Services:**
 
 관리자는 Microsoft Software Update Services(SUS)를 사용하여 Windows 2000 및 Windows Server 2003 기반 서버뿐 아니라 Windows 2000 Professional 또는 Windows XP Professional을 실행하는 데스크톱 시스템에 최신 중요 업데이트와 보안 업데이트를 신속하고 안전하게 배포할 수 있습니다.
@@ -83,15 +71,11 @@ Microsoft Systems Management Server(SMS)는 업데이트 관리를 위해 효율
 
 **QChain.exe 및 Update.exe:**
 
-Microsoft에서 제공하는 명령 줄 도구인 QChain.exe를 사용하면 관리자는 보안 업데이트를 안전하게 체인화할 수 있습니다. 체인 작업은 각 업데이트마다 다시 시작할 필요 없이 여러 개의 업데이트를 설치하는 것을 의미합니다. 여기에 설명되어 있는 업데이트에 사용되는 Update.exe에는 체인 기능이 기본적으로 포함되어 있으므로 Windows 2000 서비스 팩 2 이상, Windows XP 또는 Windows Server 2003을 사용하는 고객은 Qchain.exe를 사용하여 이러한 업데이트를 체인화하지 않아도 됩니다. 그러나 Qchain.exe도 관리자가 모든 플랫폼에 대해 일관된 배포 스크립트를 만들 수 있도록 이러한 Windows Updates에 대한 체인화를 지원합니다. Qchain에 대한 자세한 내용은 이 [웹 사이트 (영문)](http://go.microsoft.com/fwlink/?linkid=21156)를 참조하십시오.
+Microsoft에서 제공하는 명령 줄 도구인 QChain.exe를 사용하면 관리자는 보안 업데이트를 안전하게 체인화할 수 있습니다. 체인 작업은 각 업데이트마다 다시 시작할 필요 없이 여러 개의 업데이트를 설치하는 것을 의미합니다. 여기에 설명되어 있는 업데이트에 사용되는 Update.exe에는 체인 기능이 기본적으로 포함되어 있으므로 Windows 2000 서비스 팩 2 이상, Windows XP 또는 Windows Server 2003을 사용하는 고객은 Qchain.exe를 사용하여 이러한 업데이트를 체인화하지 않아도 됩니다. 그러나 Qchain.exe도 관리자가 모든 플랫폼에 대해 일관된 배포 스크립트를 만들 수 있도록 이러한 Windows Updates에 대한 체인화를 지원합니다. Qchain에 대한 자세한 내용은 이 [웹 사이트](http://go.microsoft.com/fwlink/?linkid=21156)를 참조하십시오.
 
 **Microsoft Baseline Security Analyzer:**
 
 MBSA(Microsoft Baseline Security Analyzer)를 사용하면 관리자는 로컬 및 원격 시스템에서 누락된 보안 업데이트 및 일반적인 보안 설정 오류를 검색할 수 있습니다. MBSA에 대한 자세한 내용을 보려면 [Microsoft Baseline Security Analyzer 웹 사이트](http://www.microsoft.com/korea/technet/security/tools/mbsahome.asp)를 방문하십시오.
-
-**검색 및 배포 지침:**
-
-Microsoft는 이 달의 보안 업데이트를 위한 검색 및 배포 지침을 제공하였습니다. 이 지침은 IT 전문가가 Windows Update, Microsoft Update, Office 업데이트, MBSA(Microsoft Baseline Security Analyzer), Office Detection Tool, Microsoft Systems Management Server(SMS), Extended Security Update Inventory Tool 및 Enterprise Update Scan Tool(EST) 등의 다양한 도구를 사용하여 보안 업데이트를 용이하게 배포하는 방법을 이해하는 데 도움이 됩니다. 자세한 내용은 [Microsoft 기술 자료 문서 910723](http://support.microsoft.com/kb/910723)을 참조하십시오.
 
 #### 기타 정보:
 
@@ -99,9 +83,7 @@ Microsoft는 이 달의 보안 업데이트를 위한 검색 및 배포 지침�
 
 고객 보호를 위해 협력해 주신 다음 분들께 [감사](http://www.microsoft.com/korea/technet/security/bulletin/policy.asp)드립니다.
 
--   [MS05-054](http://technet.microsoft.com/security/bulletin/ms05-054)에서 설명된 문제점을 보고해 주신 [Secunia (영문)](http://www.secunia.com/)의 Andreas Sandblad 및 Jakob Balle
--   [MS05-054](http://technet.microsoft.com/security/bulletin/ms05-054)에 설명된 여러 클래스 식별자를 보고해 주신 [CERT/CC (영문)](http://www.cert.org/)의 Will Dormann
--   [MS05-055](http://technet.microsoft.com/security/bulletin/ms05-055)에서 설명된 문제점을 보고해 주신 [eEye Digital Security (영문)](http://eeye.com)
+-   [MS05-053](http://technet.microsoft.com/security/bulletin/ms05-053)에서 설명된 문제점을 보고해 주신 [Venustech AdDLab (영문)](http://www.venustech.com.cn/), [eEye Digital Security (영문)](http://www.eeye.com/html/) 및 [Symantec Security Response (영문)](http://securityresponse.symantec.com/)의 Peter Ferrie
 
 **기타 보안 관련 업데이트 입수:**
 
@@ -132,6 +114,6 @@ Microsoft 기술 자료에서 제공되는 정보는 어떠한 보증도 없이 
 
 **개정판:**
 
--   V1.0 (2005년 12월 14일): 공지가 게시되었습니다.
+-   V1.0(2005년 11월 9일): 공지가 게시되었습니다.
 
 *Built at 2014-04-18T12:27:44Z-07:00*

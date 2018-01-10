@@ -16,7 +16,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Dd547920(v=TechNet.10)'
 다음 검사 목록을 사용하여 Microsoft Windows Server™ 2003 운영 체제 도메인 인프라를 구성하는 모든 보안 설정과 절차가 적절히 구현되었는지 확인하십시오.
 ### 도메인 정책 구성
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />

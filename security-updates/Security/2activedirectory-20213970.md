@@ -15,18 +15,18 @@ Windows XP 보안 가이드
 
 ##### 이 페이지에서
 
-[](#elaa)[개요](#elaa)
-[](#ekaa)[보안 관리 지원을 위한 OU 디자인](#ekaa)
-[](#ejaa)[보안 관리 지원을 위한 GPO 디자인](#ejaa)
-[](#eiaa)[도메인 수준 그룹 정책](#eiaa)
-[](#ehaa)[암호 정책 설정](#ehaa)
-[](#egaa)[계정 잠금 정책 설정](#egaa)
-[](#efaa)[사용자 권한 할당 설정](#efaa)
-[](#eeaa)[보안 옵션 설정](#eeaa)
-[](#edaa)[Kerberos 정책](#edaa)
-[](#ecaa)[OU 수준 그룹 정책](#ecaa)
-[](#ebaa)[그룹 정책 도구](#ebaa)
-[](#eaaa)[요약](#eaaa)
+[](#elaa)[개요](#elaa)  
+[](#ekaa)[보안 관리 지원을 위한 OU 디자인](#ekaa)  
+[](#ejaa)[보안 관리 지원을 위한 GPO 디자인](#ejaa)  
+[](#eiaa)[도메인 수준 그룹 정책](#eiaa)  
+[](#ehaa)[암호 정책 설정](#ehaa)  
+[](#egaa)[계정 잠금 정책 설정](#egaa)  
+[](#efaa)[사용자 권한 할당 설정](#efaa)  
+[](#eeaa)[보안 옵션 설정](#eeaa)  
+[](#edaa)[Kerberos 정책](#edaa)  
+[](#ecaa)[OU 수준 그룹 정책](#ecaa)  
+[](#ebaa)[그룹 정책 도구](#ebaa)  
+[](#eaaa)[요약](#eaaa)  
 
 ### 개요
 
@@ -106,7 +106,7 @@ MMC(Microsoft Management Console) Active Directory 사용자 및 컴퓨터 스�
 
 위 예에서 랩톱 컴퓨터는 랩톱 OU의 구성원입니다. 첫 번째로 적용된 정책은 랩톱 컴퓨터의 로컬 보안 정책입니다. 이 예에는 사이트가 한 개만 있으므로 사이트 수준에서는 GPO가 적용되지 않고 도메인 GPO가 다음에 적용될 정책으로 남겨집니다. 끝으로 랩톱 GPO가 적용됩니다.
 
-**참고**:** **데스크톱 정책은 랩톱 OU가 포함된 계층 구조에 있는 어떤 OU에도 연결되지 않으므로 어떤 랩톱에도 적용되지 않습니다. 뿐만 아니라 보안 처리된 XP 사용자 OU에는 관리 템플릿의 설정만 포함되므로 해당 보안 템플릿(.inf 파일)이 없습니다.
+**참고**:데스크톱 정책은 랩톱 OU가 포함된 계층 구조에 있는 어떤 OU에도 연결되지 않으므로 어떤 랩톱에도 적용되지 않습니다. 뿐만 아니라 보안 처리된 XP 사용자 OU에는 관리 템플릿의 설정만 포함되므로 해당 보안 템플릿(.inf 파일)이 없습니다.
 
 우선 순위가 적용되는 방식을 확인하려면 **터미널 서비스를 통한 로그온 허용**에 대한 Windows XP OU 정책 설정이 **Administrators** 그룹으로 설정되고 **터미널 서비스를 통한 로그온 허용**에 대한 랩톱 GPO 설정이 **Power Users** 및 **Administrators** 그룹으로 설정된 시나리오 예를 참조하십시오. 이 예에서 계정이 **Power Users** 그룹에 속하는 사용자는 랩톱 OU가 Windows XP OU의 자식 OU이므로 터미널 서비스를 통해 랩톱에 로그온할 수 있습니다. Windows XP GPO에서 **무시 안 함** 정책 옵션을 사용하면 **Administrators** 그룹에 속하는 계정을 가진 사용자만 터미널 서비스를 사용하여 클라이언트 컴퓨터에 로그온할 수 있습니다.
 
@@ -132,7 +132,7 @@ MMC(Microsoft Management Console) Active Directory 사용자 및 컴퓨터 스�
 
 2.  **Windows 설정** 폴더를 확장하고 **보안 설정**을 선택합니다.
 
-3.  **보안 설정** 폴더를 마우스 오른쪽 단추로 클릭한 다음 **정책 가져오기...**를 클릭합니다.
+3.  **보안 설정** 폴더를 마우스 오른쪽 단추로 클릭한 다음 **정책 가져오기...** 를 클릭합니다.
 
 4.  가져올 보안 템플릿을 선택한 다음 **열기**를 클릭합니다. 그러면 GPO에 해당 파일의 설정이 열립니다.
 
@@ -183,7 +183,7 @@ Windows XP와 함께 제공된 관리 템플릿 외에도 Office 2003 설정을
 **표 2.1 암호 정책 설정 권장 사항**
 
  
-<table style="border:1px solid black;">
+<p> </p><table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
 <col width="25%" />
@@ -309,7 +309,7 @@ EC 환경에서는 **최소 암호 길이** 설정 값이 **8문자**로 구성�
 **표 2.2 계정 잠금 정책 설정 권장 사항**
 
  
-<table style="border:1px solid black;">
+<p> </p><table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
 <col width="25%" />
@@ -393,7 +393,7 @@ EC 환경에서는 **최소 암호 길이** 설정 값이 **8문자**로 구성�
 **표 2.3 사용자 권한 할당 설정 권장 사항**
 
  
-<table style="border:1px solid black;">
+<p> </p><table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
 <col width="25%" />
@@ -441,7 +441,7 @@ Active Directory 도메인에서 각 컴퓨터 계정은 도메인 리소스를
 **표 2.4 보안 옵션 설정 권장 사항**
 
  
-<table style="border:1px solid black;">
+<p> </p><table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
 <col width="25%" />
@@ -482,7 +482,7 @@ Active Directory 도메인에서 각 컴퓨터 계정은 도메인 리소스를
   
 이 정책 설정은 사용자 계정의 유효한 로그온 시간을 초과하여 로컬 네트워크에 연결되어 있는 사용자의 연결을 끊을지를 결정합니다. 이 정책 설정은 SMB(서버 메시지 블록) 구성 요소에 영향을 미칩니다. 이 정책 설정을 사용하면 SMB 서비스를 사용하는 클라이언트의 로그온 시간이 만료될 경우 해당 클라이언트 컴퓨터 세션 연결이 강제로 끊어지게 됩니다. 이 정책을 사용하지 않으면 연결이 설정된 클라이언트의 로그온 시간이 만료된 후에도 해당 클라이언트 컴퓨터 세션이 계속될 수 있습니다. 이 정책 설정을 사용할 때는 반드시 **네트워크 보안: 로그온 시간이 만료되면 강제로 로그오프** 설정도 사용해야 합니다.
   
-**참고**:** **서버 메시지 블록은 Windows 네트워크에서 공유되는 리소스의 기반이 됩니다. 따라서 SMB에 영향을 주는 설정은 폴더 및 프린터와 같은 공유 리소스에도 영향을 줍니다.
+**참고**:서버 메시지 블록은 Windows 네트워크에서 공유되는 리소스의 기반이 됩니다. 따라서 SMB에 영향을 주는 설정은 폴더 및 프린터와 같은 공유 리소스에도 영향을 줍니다.
   
 조직에서 사용자의 로그온 시간을 구성한 경우에는 **Microsoft 네트워크 서버: 로그온 시간이 만료되면 클라이언트 연결 끊기** 설정을 사용하는 것이 바람직합니다. 이 설정을 사용하지 않으면 자신의 로그온 시간을 초과하여 네트워크 리소스에 액세스할 수 없도록 지정된 사용자가 실제로는 허용된 시간 동안 설정된 세션을 통해 해당 리소스에 계속 액세스할 수도 있습니다.
   
@@ -546,7 +546,12 @@ gpupdate /force
 Gpupdate를 실행하면 다음과 같은 확인 정보가 표시됩니다.
   
 ```  
-C:\\Documents and Settings\\administrator.MSSLAB&gt;gpupdate /force Refreshing Policy... User Policy Refresh has completed. Computer Policy Refresh has completed. To check for errors in policy processing, review the event log. C:\\Documents and Settings\\administrator.MSSLAB&gt;  
+C:\Documents and Settings\administrator.MSSLAB>gpupdate /force
+Refreshing Policy...
+User Policy Refresh has completed.
+Computer Policy Refresh has completed.
+To check for errors in policy processing, review the event log.
+C:\Documents and Settings\administrator.MSSLAB> 
 ```  
 사용자 기반 그룹 정책의 경우 로그오프했다가 정책 테스트를 위해 사용 중인 컴퓨터에 다시 로그온해야 합니다. 컴퓨터 정책은 즉시 업데이트되어야 합니다.
   

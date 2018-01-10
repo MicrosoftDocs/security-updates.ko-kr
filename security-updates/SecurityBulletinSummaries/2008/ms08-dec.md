@@ -6,8 +6,6 @@ ms:contentKeyID: 61230698
 ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms08-dec(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2008 년 12 월 Microsoft 보안 공지 요약
 ======================================
 
@@ -32,12 +30,13 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 요약
 ----
 
-<span></span>
+
 다음 표에는 이번 달의 보안 공지가 심각도 순으로 요약되어 있습니다.
 
 영향을 받는 소프트웨어에 대한 자세한 내용은 다음 항목 **영향을 받는 소프트웨어 및 다운로드 위치**를 참조하십시오.
 
  
+<p></p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -145,12 +144,13 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 악용 가능성 인덱스  
 ------------------
   
-<span></span>
-**이 표를 어떻게 사용합니까?**
+
+**이 표를 어떻게 사용합니까?**  
   
 이 표를 사용하여 30일 이내의 설치해야 하는 각 보안 업데이트에 발표된 기능 악용 코드의 가능성에 대해 자세히 알아볼 수 있습니다. 배포의 우선 순위를 정하려면 사용자의 특정 구성에 따라 아래의 각 평가를 검토해야 합니다. 이러한 등급의 의미와 등급이 결정되는 방법에 대한 자세한 내용은 [Microsoft 악용 가능성 인덱스 (영문)](http://technet.microsoft.com/en-us/security/cc998259.aspx)를 참조하십시오.
 
  
+<p></p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -372,8 +372,8 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 영향을 받는 소프트웨어 및 다운로드 위치  
 ---------------------------------------
   
-<span></span>
-**이 표를 어떻게 사용합니까?**
+
+**이 표를 어떻게 사용합니까?**  
   
 이 표를 사용하여 설치해야 하는 보안 업데이트를 알 수 있습니다. 나열된 각 소프트웨어 프로그램 또는 구성 요소를 검토하여 필요한 보안 업데이트가 있는지 확인합니다. 소프트웨어 프로그램 또는 구성 요소가 나열되어 있는 경우 사용할 수 있는 소프트웨어 업데이트의 하이퍼링크와 해당 소프트웨어 업데이트의 심각도가 함께 나열됩니다.
   
@@ -382,6 +382,7 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 #### Windows 운영 체제 및 구성 요소
 
  
+<p></p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
@@ -1049,6 +1050,7 @@ MS08-078에서 해결된 취약점은 Windows Internet Explorer 8 Beta 2 발표 
 #### Microsoft Office 제품군 및 소프트웨어
 
  
+<p></p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
@@ -1517,27 +1519,28 @@ Microsoft Office SharePoint Server 2007
 </tr>
 </table>
  
-**MS08-070 참고 사항**
+**MS08-070 참고 사항**  
 추가적인 업데이트 파일은 다음 섹션 **Microsoft 개발자 도구 및 소프트웨어**를 참조하십시오. 이 공지는 Microsoft Office 및 Microsoft 개발자 도구 및 소프트웨어에 모두 해당됩니다.
 
-**MS08-077 참고 사항**
+**MS08-077 참고 사항**  
 추가적인 업데이트 파일은 다음 섹션 **Microsoft 서버 소프트웨어**를 참조하십시오. 이 공지는 Microsoft Office Suites 및 소프트웨어와 Microsoft Server 소프트웨어에 모두 해당됩니다.
 
-**MS08-070의 Microsoft Office FrontPage 참고 사항**
+**MS08-070의 Microsoft Office FrontPage 참고 사항**  
 \*이 업데이트는 FrontPage 2002 서비스 팩 3 중국어 간체(중국), 중국어 번체(홍콩), 중국어 번체(대만) 및 한국어 버전에만 적용됩니다.
 
-**MS08-072 및 MS08-074의 Microsoft Office for Mac 참고 사항**
+**MS08-072 및 MS08-074의 Microsoft Office for Mac 참고 사항**  
 \*\*해당 업데이트가 MS08-072과 MS08-074에서 동일합니다. 취약점이 동일한 파일이 있으므로 이들 업데이트는 두 공지에 대해 동일합니다.
 
-**MS08-072의 Works 8 참고 사항**
+**MS08-072의 Works 8 참고 사항**  
 \*\*\*Microsoft Works 8.0을 사용하는 고객이 이 보안 업데이트를 받으려면 [Microsoft Works Update](http://www.microsoft.com/products/works/international/update_1001.mspx)에서 설명한 대로 먼저 문서에 설명된 대로 Works 8.5로 업데이트해야 합니다. 여기에는 Microsoft Works 8.0, Works Suite 2004 및 Works Suite 2005를 사용하는 고객이 모두 포함됩니다. Works Suite 2006, Works 8.5를 사용하는 고객의 경우에는 이미 포함되었 있습니다.
 
-**MS08-074의 Microsoft Office Excel 2007 및 Microsoft Office Excel 2007 서비스 팩 1 참고 사항**
+**MS08-074의 Microsoft Office Excel 2007 및 Microsoft Office Excel 2007 서비스 팩 1 참고 사항**  
 \*\*\*\*Microsoft Office Excel 2007 및 Microsoft Office Excel 2007 서비스 팩 1을 사용하는 고객의 경우 MS08-074에서 설명한 취약점으로부터 보호하기 위해 보안 업데이트 패키지 KB958437 이외에도 [Word, Excel, PowerPoint 2007 파일 형식용 Microsoft Office 호환 기능 팩](http://www.microsoft.com/downloads/details.aspx?familyid=99cca4ed-f1f9-4cfd-a986-edbec82ced4f)용 보안 업데이트(KB958439)를 설치해야 합니다. 이미 KB958437 및 KB958439 업데이트 패키지를 모두 성공적으로 설치한 고객은 다시 설치할 필요가 없습니다.
 
 #### Microsoft 개발자 도구 및 소프트웨어
 
  
+<p></p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
@@ -1607,12 +1610,13 @@ Microsoft Visual FoxPro
 </tr>
 </table>
  
-**MS08-070 참고 사항**
+**MS08-070 참고 사항**  
 추가적인 업데이트 파일은 이전 섹션 **Microsoft Office Suites 및 소프트웨어**를 참조하십시오. 이 공지는 Microsoft Office Suites 및 소프트웨어와 Microsoft 개발자 도구 및 소프트웨어에 모두 해당됩니다.
 
 #### Microsoft Server 소프트웨어
 
  
+<p></p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
@@ -1667,7 +1671,7 @@ Microsoft Search Server
 검색, 배포 도구 및 지침
 -----------------------
 
-<span></span>
+
 **보안 센터**
 
 해당 조직에서 서버, 데스크톱, 모바일 컴퓨터에 적용해야 하는 소프트웨어 및 보안 업데이트를 관리합니다. 자세한 내용은 [TechNet Update Management Center](http://technet.microsoft.com/ko-kr/updatemanagement/default.aspx)를 참조하십시오. [TechNet Security Center (영문)](http://go.microsoft.com/fwlink/?linkid=21171)는 Microsoft 제품의 보안에 대한 추가 정보를 제공합니다. 일반 사용자는 [가정의 보안](http://www.microsoft.com/korea/protect/default.mspx)을 방문하거나 “최신 보안 업데이트”를 클릭하여 이 정보를 볼 수도 있습니다.

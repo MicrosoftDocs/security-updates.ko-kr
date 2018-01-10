@@ -6,8 +6,6 @@ ms:contentKeyID: 61230678
 ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms06-jun(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2006 년 6 월 Microsoft 보안 공지 요약
 =====================================
 
@@ -35,7 +33,7 @@ Security Bulletin Summary
 긴급(8)
 -------
 
-<span></span>
+
 | 공지 번호                  | Microsoft 보안 공지 MS06-021                                                                                                                                                            |
 |----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **공지 제목**              | [**Internet Explorer 누적 보안 업데이트(916281)**](http://technet.microsoft.com/security/bulletin/ms06-021)                                                                             |
@@ -103,7 +101,7 @@ Security Bulletin Summary
 중요 (3)
 --------
 
-<span></span>
+
 | 공지 번호                  | Microsoft 보안 공지 MS06-029                                                                                                                                          |
 |----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **공지 제목**              | [**Outlook Web Access를 실행하는 Microsoft Exchange Server의 취약점으로 인한 스크립트 삽입 문제점(912442)**](http://technet.microsoft.com/security/bulletin/ms06-029) |
@@ -131,7 +129,7 @@ Security Bulletin Summary
 보통(1)
 -------
 
-<span></span>
+
 | 공지 번호                  | Microsoft 보안 공지 MS06-031                                                                                                                                                                                                                       |
 |----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **공지 제목**              | [**RPC 상호 인증의 취약점으로 인한 스푸핑 문제점(917736)**](http://technet.microsoft.com/security/bulletin/ms06-031)                                                                                                                               |
@@ -143,7 +141,7 @@ Security Bulletin Summary
 배포
 ----
 
-<span></span>
+
 **Software Update Services:**
 
 관리자는 Microsoft Software Update Services(SUS)를 사용하여 Windows 2000 및 Windows Server 2003 기반 서버 그리고 Windows 2000 Professional 또는 Windows XP Professional을 실행하는 데스크톱 시스템에 최신 중요 업데이트와 보안 업데이트를 신속하고 안전하게 배포할 수 있습니다.

@@ -22,8 +22,8 @@ Data Encryption Toolkit for Mobile PCs 5장: 올바른 솔루션 선택
 ![](images/Cc162816.865b473f-87a8-459c-80f3-79361863d073(ko-kr,TechNet.10).gif)
 ##### 이 페이지에서
 
-[](#ecaa)[위험 완화 요약 표 사용](#ecaa)
-[](#ebaa)[결론](#ebaa)
+[](#ecaa)[위험 완화 요약 표 사용](#ecaa)  
+[](#ebaa)[결론](#ebaa)  
 
 ### 위험 완화 요약 표 사용
 

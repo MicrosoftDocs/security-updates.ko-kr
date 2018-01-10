@@ -13,11 +13,11 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Cc875837(v=TechNet.10)'
 
 ##### 이 페이지에서
 
-[](#efaa)[소개](#efaa)
-[](#eeaa)[시작하기 전에](#eeaa)
-[](#edaa)[파일 시스템 보안](#edaa)
-[](#ecaa)[Windows 방화벽](#ecaa)
-[](#ebaa)[보안 패치 업데이트](#ebaa)
+[](#efaa)[소개](#efaa)  
+[](#eeaa)[시작하기 전에](#eeaa)  
+[](#edaa)[파일 시스템 보안](#edaa)  
+[](#ecaa)[Windows 방화벽](#ecaa)  
+[](#ebaa)[보안 패치 업데이트](#ebaa)  
 [](#eaaa)[관련 정보](#eaaa)
 
 ### 소개

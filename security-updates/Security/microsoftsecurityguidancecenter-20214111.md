@@ -1,0 +1,38 @@
+---
+TOCTitle: 'Microsoft Security Guidance Center: 위협 및 대응책'
+Title: 'Microsoft Security Guidance Center: 위협 및 대응책'
+ms:assetid: 'dcfc526b-22a2-4785-a0df-f84185732dcd'
+ms:contentKeyID: 20214111
+ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Dd547956(v=TechNet.10)'
+---
+
+Microsoft Security Guidance Center: 위협 및 대응책
+==================================================
+
+회사의 네트워크 및 시스템에 침투하는 보안 위협, 특정 위험을 완화하도록 구성하는 설정 그리고 고려해야 할 영향 및 기능 간의 관계에 대해 배워 보십시오.
+
+-   [추가 구성원 서버 강화 절차](http://www.microsoft.com/technet/security/guidance/secmod58.mspx)![](images/Dd547956.tous(ko-kr,TechNet.10).gif)
+
+-   [추가 레지스트리 설정](http://www.microsoft.com/technet/security/guidance/secmod57.mspx)![](images/Dd547956.tous(ko-kr,TechNet.10).gif)
+
+-   [감사 정책](http://www.microsoft.com/technet/security/guidance/secmod50.mspx)![](images/Dd547956.tous(ko-kr,TechNet.10).gif)
+
+-   [도메인 수준 정책](http://www.microsoft.com/technet/security/guidance/secmod49.mspx)![](images/Dd547956.tous(ko-kr,TechNet.10).gif)
+
+-   [이벤트 로그](http://www.microsoft.com/technet/security/guidance/secmod53.mspx)![](images/Dd547956.tous(ko-kr,TechNet.10).gif)
+
+-   [보안 옵션](http://www.microsoft.com/technet/security/guidance/secmod52.mspx)![](images/Dd547956.tous(ko-kr,TechNet.10).gif)
+
+-   [소프트웨어 제한 정책](http://www.microsoft.com/technet/security/guidance/secmod55.mspx)![](images/Dd547956.tous(ko-kr,TechNet.10).gif)
+
+-   [시스템 서비스](http://www.microsoft.com/technet/security/guidance/secmod54.mspx)![](images/Dd547956.tous(ko-kr,TechNet.10).gif)
+
+-   [위협 모델링](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/secmod/html/secmod76.asp)![](images/Dd547956.tous(ko-kr,TechNet.10).gif)
+
+-   [사용자 권한 할당](http://www.microsoft.com/technet/security/guidance/secmod51.mspx)![](images/Dd547956.tous(ko-kr,TechNet.10).gif)
+
+-   [웹 보안 위협 및 대응책](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/secmod/html/secmod75.asp)![](images/Dd547956.tous(ko-kr,TechNet.10).gif)
+
+-   [Windows XP, Office XP 및 Windows Server 2003 관리 템플릿](http://www.microsoft.com/technet/security/guidance/secmod56.mspx)![](images/Dd547956.tous(ko-kr,TechNet.10).gif)
+
+[](#mainsection)[페이지 위쪽](#mainsection)

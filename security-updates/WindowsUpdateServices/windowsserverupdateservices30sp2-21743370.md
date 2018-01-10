@@ -1,0 +1,33 @@
+---
+TOCTitle: 'Windows Server Update Services 3.0 SP2 단계별 가이드'
+Title: 'Windows Server Update Services 3.0 SP2 단계별 가이드'
+ms:assetid: '4b504edc-93b3-45b0-a7e8-d0107f1a4442'
+ms:contentKeyID: 21743370
+ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Dd939822(v=WS.10)'
+---
+
+Windows Server Update Services 3.0 SP2 단계별 가이드
+====================================================
+
+WSUS 3.0 SP2(Windows Server Update Services 3.0 서비스 팩 2)는 네트워크에 대한 업데이트를 관리하는 포괄적인 솔루션을 제공합니다. 이 가이드에서는 네트워크에서 WSUS 3.0 SP2를 사용하기 위한 기본 설치 및 배포 작업과 관련한 지침을 제공합니다. 이 가이드에는 다음 섹션이 포함됩니다.
+
+-   [1단계: WSUS 3.0 SP2 설치 요구 사항 확인](https://technet.microsoft.com/ec01bd75-5def-4899-8cee-ddab827bbd83)
+-   [2단계: WSUS 서버 또는 관리 콘솔 설치](https://technet.microsoft.com/6db6fcb0-c55d-43b9-9b07-4040c6267759)
+-   [3단계: 네트워크 연결 구성](https://technet.microsoft.com/42a144c5-f08e-4a6e-b360-47ddea77bd24)
+-   [4단계: 업데이트 및 동기화 구성](https://technet.microsoft.com/deeaa7e1-9b50-45cb-9537-d75f70de3405)
+-   [5단계: 클라이언트 업데이트 구성](https://technet.microsoft.com/5ae60ead-3e94-456c-a692-c0f193ea5d5a)
+-   [6단계: 컴퓨터 그룹 구성](https://technet.microsoft.com/70518732-2179-4e41-9609-7f9999867f41)
+-   [7단계: WSUS 업데이트 승인 및 배포](https://technet.microsoft.com/c4e58e17-d5e3-4194-8f26-b459e0c03b86)
+
+추가 참조
+---------
+
+WSUS 3.0 SP2는 다양한 기능을 갖춘 업데이트 관리 솔루션입니다. WSUS 설치 및 사용에 대한 자세한 내용은 다음을 참조하십시오.
+
+WSUS 배포 가이드([http://go.microsoft.com/fwlink/?LinkId=139832](http://go.microsoft.com/fwlink/?linkid=139832))(영문)
+
+WSUS 운영 가이드([http://go.microsoft.com/fwlink/?LinkId=139838](http://go.microsoft.com/fwlink/?linkid=139838))(영문)
+
+WSUS 릴리스 정보([http://go.microsoft.com/fwlink/?LinkId=139840](http://go.microsoft.com/fwlink/?linkid=139840))(영문)
+
+WSUS 관리 콘솔 온라인 도움말

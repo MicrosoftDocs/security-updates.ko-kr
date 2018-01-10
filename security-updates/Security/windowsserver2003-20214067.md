@@ -1,0 +1,407 @@
+---
+TOCTitle: Windows Server 2003 파일 서버 강화
+Title: Windows Server 2003 파일 서버 강화
+ms:assetid: '696c936c-f505-4383-a155-48fc54365fa8'
+ms:contentKeyID: 20214067
+ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Dd547912(v=TechNet.10)'
+---
+
+Windows Server 2003 파일 서버 강화
+==================================
+
+##### 이 페이지에서
+
+[모듈 정보](#abcd)
+[목표](#efgh)
+[적용 범위](#ijkl)
+[모듈 사용법](#mnop)
+[개요](#qrst)
+[감사 정책 설정](#uvwx)
+[사용자 권한 할당](#yzab)
+[보안 옵션](#cdef)
+[이벤트 로그 설정](#ghij)
+[시스템 서비스](#klmn)
+[추가 보안 설정](#opqr)
+[요약](#stuv)
+
+모듈 정보
+---------
+
+이 모듈에서는 파일 서버에 특정한 보안 템플릿의 구성에 대해 설명합니다. 이 모듈에서는 서버에 이미 구성원 서버 기준이 적용된 것으로 가정합니다. 또한 보안 템플릿에 정의된 설정 외에 적용해야 하는 추가 보안 구성 설정도 다룹니다. 이 추가 설정은 완전하게 강화된 파일 서버를 만드는 데 필요합니다.
+
+[페이지 위쪽](#mainsection)
+
+목표
+----
+
+이 모듈을 사용하여 다음을 할 수 있습니다.
+
+-   Windows Server 2003 기반의 인쇄 서버 강화
+
+-   인쇄 서버에 대한 적절한 보안 구성 조사
+
+[페이지 위쪽](#mainsection)
+
+적용 범위
+---------
+
+이 모듈은 다음과 같은 제품 및 기술에 적용됩니다.
+
+-   Windows Server 2003
+
+[페이지 위쪽](#mainsection)
+
+모듈 사용법
+-----------
+
+이 모듈을 사용하면 Windows Server 2003 기반의 인쇄 서버에 적용해야 하는 보안 설정에 대해 파악할 수 있습니다. 이 모듈에서는 역할 관련 보안 템플릿과 기준 보안 템플릿을 함께 사용합니다. 이러한 보안 템플릿은 [http://go.microsoft.com/fwlink/?LinkId=14846](http://go.microsoft.com/fwlink/?linkid=14846) ![](images/Dd547912.tous(ko-kr,TechNet.10).gif)의 Windows Server 2003 보안 설명서에서 제공됩니다.
+
+이 모듈을 최대한 활용하려면 다음을 수행합니다.
+
+-   **모듈** "**Windows Server 2003 보안 소개**"를 읽어 보십시오. 여기에서는 Windows Server 2003 보안 설명서의 목적과 내용을 설명합니다.
+-   **모듈** "**Windows Server 2003 서버의 구성원 서버 기준 만들기**"를 읽어 보십시오. 여기에서는 조직 구성 단위 계층 구조와 그룹 정책을 사용하여 여러 서버에 구성원 서버 기준을 적용하는 방법을 보여 줍니다.
+
+[페이지 위쪽](#mainsection)
+
+개요
+----
+
+제공 서비스 중 대부분의 필수 서비스가 Microsoft Windows NetBIOS(네트워크 기본 입/출력 시스템) 관련 프로토콜을 사용하게 되므로 파일 서버를 더욱 강화하는 데에는 몇 가지 과제가 주어 집니다. SMB(서버 메시지 블록) 및 CIFS(일반 인터넷 파일 시스템)의 프로토콜은 인증되지 않은 사용자에게 다양한 정보를 제공합니다. 따라서 주로 고급 보안의 Windows 환경에서는 이러한 프로토콜을 사용하지 않도록 파일 서버를 설정하는 것이 좋습니다. 그러나 이러한 프로토콜을 사용하지 않도록 설정하면 사용자 환경의 관리자와 사용자 모두 파일 서버에 액세스하기 어렵습니다.
+
+이 모듈의 다음 섹션에서는 MSBP(구성원 서버 기준 정책)에 적용되지 않는 보안 설정을 활용할 수 있는 파일 서버 분야에 대해 자세히 설명합니다. MSBP에 대한 자세한 내용은 "Windows Server 2003 서버의 구성원 서버 기준 만들기" 모듈을 참고하십시오.
+
+[페이지 위쪽](#mainsection)
+
+감사 정책 설정
+--------------
+
+본 설명서에 정의된 세 가지 환경에서의 파일 서버에 대한 감사 정책 설정은 MSBP를 사용해 구성됩니다. MSBP에 대한 자세한 내용은 "Windows Server 2003 서버의 구성원 서버 기준 만들기" 모듈을 참고하십시오. MSBP 설정은 관련된 모든 보안 감사 정보가 모든 파일 서버에 로그온되도록 합니다.
+
+[페이지 위쪽](#mainsection)
+
+사용자 권한 할당
+----------------
+
+본 설명서에 정의된 세 가지 환경에서의 파일 서버에 대한 사용자 권한 할당은 MSBP를 사용해 구성됩니다. MSBP에 대한 자세한 내용은 "Windows Server 2003 서버의 구성원 서버 기준 만들기" 모듈을 참고하십시오. MSBP 설정은 모든 사용자 권한 할당이 파일 서버 전체에서 적절하고 일관되게 구성되도록 합니다.
+
+[페이지 위쪽](#mainsection)
+
+보안 옵션
+---------
+
+본 설명서에 정의된 세 가지 환경에서의 파일 서버에 대한 보안 옵션 설정은 MSBP를 사용하여 구성됩니다. MSBP에 대한 자세한 내용은 "Windows Server 2003 서버의 구성원 서버 기준 만들기" 모듈을 참고하십시오. MSBP 설정은 연관된 모든 보안 옵션 설정이 파일 서버 전체에서 일관되게 구성되도록 합니다.
+
+[페이지 위쪽](#mainsection)
+
+이벤트 로그 설정
+----------------
+
+본 설명서에 정의된 세 가지 환경에서의 파일 서버에 대한 이벤트 로그 설정은 MSBP를 사용해 구성됩니다. MSBP에 대한 자세한 내용은 "Windows Server 2003 서버의 구성원 서버 기준 만들기" 모듈을 참고하십시오.
+
+[페이지 위쪽](#mainsection)
+
+시스템 서비스
+-------------
+
+모든 서비스 또는 응용 프로그램이 공격 지점이 될 수 있으므로 필요하지 않은 서비스나 실행 파일은 사용할 수 없도록 설정하거나 제거해야 합니다. MSBP에서는 불필요한 서비스 뿐 아니라 선택적인 서비스도 사용할 수 없도록 설정됩니다.
+
+대개 Windows Server 2003이 실행되는 파일 서버에서 사용하도록 설정되는 그 밖의 서비스가 있지만 필수 요소는 아닙니다. 이러한 서비스의 사용 및 보안과 관련된 내용은 자주 논쟁 주제가 됩니다. 이러한 이유로 파일 서버에 대한 본 설명서의 권장 사항이 사용자 환경에 적합하지 않을 수도 있습니다. 사용자 조직의 요구 사항에 부합되도록 파일 서버 그룹 정책 권장 사항을 필요에 따라 조정하십시오.
+
+### 분산 파일 시스템
+
+**표 1: 설정**
+
+<p> </p>
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">DFS</td>
+<td style="border:1px solid black;">자동</td>
+<td style="border:1px solid black;">사용 안 함</td>
+<td style="border:1px solid black;">사용 안 함</td>
+<td style="border:1px solid black;">사용 안 함</td>
+</tr>
+</tbody>
+</table>
+  
+**DFS(분산 파일 시스템)** 서비스는 LAN이나 WAN 상에 분산되어 있는 논리 볼륨을 관리하는 서비스로서 Microsoft Active Directory 디렉터리 서비스 SYSVOL 공유에 필요합니다. DFS는 서로 다른 파일 공유를 단일 논리 네임스페이스로 통합하는 분산 서비스입니다.
+  
+이러한 네임스페이스는 네트워크 상의 사용자에게 제공되는 네트워크 저장소 리소스에 대한 논리적 표현입니다. DFS 서비스를 사용하지 않도록 설정하면 사용자는 논리 네임스페이스를 통해 네트워크 데이터에 액세스할 수 없으며 사용자 환경의 모든 서버 및 공유 이름을 알아야 액세스할 수 있습니다.
+  
+파일 서버 증분 그룹 정책은 DFS 서비스를 사용하지 않도록 설정하여 사용자 환경의 파일 서버에 대한 공격 허점을 최소화합니다. 이러한 이유로 **분산 파일 시스템** 설정은 본 설명서에 정의된 모든 보안 환경에서 **사용 안 함**으로 구성됩니다.
+  
+**참고:** 분산된 리소스를 효율적으로 액세스하기 위해 파일 서버에 DFS 설정을 사용하는 조직에서는 파일 서버 증분 그룹 정책을 수정하거나 새로운 GPO를 만들어 이 서비스를 사용하도록 설정해야 합니다.
+  
+### 파일 복제 서비스
+  
+**표 6.2: 설정**
+
+<p> </p>
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스 이름</th>
+<th style="border:1px solid black;" >구성원 서버 기본값</th>
+<th style="border:1px solid black;" >레거시 클라이언트</th>
+<th style="border:1px solid black;" >엔터프라이즈 클라이언트</th>
+<th style="border:1px solid black;" >고급 보안</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">NTFRS</td>
+<td style="border:1px solid black;">수동</td>
+<td style="border:1px solid black;">사용 안 함</td>
+<td style="border:1px solid black;">사용 안 함</td>
+<td style="border:1px solid black;">사용 안 함</td>
+</tr>
+</tbody>
+</table>
+  
+**FRS(파일 복제 서비스)**를 사용하면 여러 서버에서 동시에 파일을 자동으로 복사하고 관리할 수 있습니다. FRS는 Microsoft Windows 2000 운영 체제 및 Windows Server 2003 제품군에서 제공되는 자동 파일 복제 서비스입니다. 이 서비스는 모든 도메인 컨트롤러에 Sysvol(시스템 볼륨)을 복제합니다. 또한 이 서비스를 내결함성이 있는 DFS와 연관된 대체 대상 사이에서 파일을 복제하도록 구성할 수 있습니다. 이 서비스를 사용하지 않도록 설정된 경우 파일 복제는 발생하지 않으며 서버 데이터가 동기화되지 않습니다.
+  
+파일 서버 증분 그룹 정책은 DFS 서비스를 사용하지 않도록 설정하여 사용자 환경의 파일 서버에 대한 공격 허점을 최소화합니다. 이러한 이유로 본 설명서에 정의된 모든 보안 환경에서 **파일 복제 서비스** 설정은 **사용 안 함**으로 구성됩니다.
+  
+**참고:** 여러 서버에서 데이터를 복제하기 위해 파일 서버에 FRS 설정을 사용하는 조직에서는 파일 서버 증분 그룹 정책을 수정하거나 새로운 GPO를 만들어 이 서비스를 사용하도록 설정해야 합니다.
+  
+[페이지 위쪽](#mainsection)
+  
+추가 보안 설정  
+--------------
+  
+MSBP를 통해 적용된 보안 설정은 파일 서버에 대한 보안을 상당히 향상시켜 줍니다. 그러나 몇 가지 사항을 더 고려해야 합니다. 이와 같은 단계는 그룹 정책을 통해 완성할 수 없으며 모든 파일 서버에 수동으로 수행해야 합니다.
+  
+### 잘 알려진 계정의 보안
+  
+Windows Server 2003에는 삭제는 불가능하며 이름만 변경할 수 있는 기본 제공 사용자 계정이 많이 있습니다. Windows 2003에서 가장 잘 알려진 두 개의 기본 제공 계정은 **Guest**와 **Administrator**입니다.
+  
+**Guest** 계정은 구성원 서버와 도메인 컨트롤러에서 기본적으로 사용하지 않도록 설정됩니다. 이 설정은 변경하면 안 됩니다. 공격자가 잘 알려진 계정을 사용하여 원격 서버를 손상시키는 것을 방지하려면 기본 제공 **Administrator** 계정의 이름과 설명을 변경해야 합니다.
+  
+변형된 대부분의 악성 코드는 서버를 손상시키려는 초기 시도에서 기본 제공 Administrator 계정을 사용합니다. 기본 제공 **Administrator** 계정의 SID(보안 식별자)를 지정하여 해당 계정의 이름을 확인함으로써 서버 침입을 시도하는 공격 도구가 등장된 이래 지난 몇 년 동안 이 구성 값을 변경하는 일이 줄어 들었습니다. SID는 네트워크의 각 사용자, 그룹, 컴퓨터 계정 및 로그온 세션을 고유하게 식별하는 값입니다. 이 기본 제공 계정의 SID는 변경할 수 없습니다. 로컬 관리자 계정의 이름을 고유한 이름으로 바꾸면 작업 그룹에서 이 계정에 대해 시도된 공격을 모니터링하기가 쉬워집니다.
+  
+-   **파일 서버의 잘 알려진 계정을 보호하려면**  
+    1.  **Administrator**와 **Guest** 계정의 이름을 변경한 다음 모든 도메인과 서버에서 암호를 길고 복잡한 것으로 변경합니다.
+  
+    2.  각 서버에 서로 다른 이름과 암호를 사용합니다. 모든 도메인 및 서버에 사용된 계정 이름과 암호가 동일하면 하나의 구성원 서버에 액세스한 공격자가 계정 이름 및 암호가 같은 다른 모든 서버에도 액세스할 수 있게 됩니다.
+  
+    3.  계정을 쉽게 식별할 수 없도록 계정 설명을 기본값이 아닌 다른 값으로 변경합니다.
+  
+    4.  이러한 변경 내용을 안전한 위치에 기록합니다.
+  
+**참고:** 그룹 정책을 통해 기본 제공 **Administrator** 계정의 이름은 변경할 수 있습니다. 이 설정은 사용 환경에 고유한 이름을 사용자가 선택해야 하므로 이 설명서와 함께 제공되는 보안 템플릿에서는 구성되지 않았습니다. **계정: Administrator 계정 이름 변경** 설정은 본 설명서에 정의된 세 가지 환경에서 Administrator 계정의 이름을 변경하도록 구성될 수 있습니다. 이 설정은 그룹 정책의 보안 옵션 설정에 포함됩니다.
+  
+### 서비스 계정 보안
+  
+꼭 필요한 경우가 아니면 서비스가 도메인 계정의 보안 컨텍스트에서 실행되도록 구성하지 않습니다. 서버가 물리적으로 손상되면 LSA(로컬 보안 기관) 기밀 정보를 덤프하여 도메인 계정 암호를 알아낼 수 있습니다.
+  
+### IPSec 필터를 사용한 포트 차단
+  
+IPSec(인터넷 프로토콜 보안) 필터를 사용하면 서버에 필요한 보안 수준을 효과적으로 높일 수 있습니다. 이 설명서에 정의된 고급 보안 환경에서는 서버의 공격 허점을 더 줄이기 위해 이 선택적 방법을 사용하는 것이 좋습니다.
+  
+IPSec 필터 사용에 대한 자세한 내용은 모듈 "추가 구성원 서버 강화 절차"를 참고하십시오.
+  
+다음 표에는 본 설명서에 정의된 고급 보안 환경에서 파일 서버에 작성할 수 있는 모든 IPSec 필터가 나열되어 있습니다.
+  
+**표 3: 파일 서버 IPSec 네트워크 트래픽 맵**
+
+<p> </p>
+<table style="border:1px solid black;">
+<colgroup>
+<col width="12%" />
+<col width="12%" />
+<col width="12%" />
+<col width="12%" />
+<col width="12%" />
+<col width="12%" />
+<col width="12%" />
+<col width="12%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >서비스</th>
+<th style="border:1px solid black;" >프로토콜</th>
+<th style="border:1px solid black;" >원본 포트</th>
+<th style="border:1px solid black;" >대상 포트</th>
+<th style="border:1px solid black;" >원본 주소</th>
+<th style="border:1px solid black;" >대상 주소</th>
+<th style="border:1px solid black;" >동작</th>
+<th style="border:1px solid black;" >미러링</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">CIFS 서버</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">ME</td>
+<td style="border:1px solid black;">허용</td>
+<td style="border:1px solid black;">예</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">ME</td>
+<td style="border:1px solid black;">허용</td>
+<td style="border:1px solid black;">예</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">NetBIOS 서버</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">ME</td>
+<td style="border:1px solid black;">허용</td>
+<td style="border:1px solid black;">예</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">ME</td>
+<td style="border:1px solid black;">허용</td>
+<td style="border:1px solid black;">예</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">138</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">ME</td>
+<td style="border:1px solid black;">허용</td>
+<td style="border:1px solid black;">예</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">139</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">ME</td>
+<td style="border:1px solid black;">허용</td>
+<td style="border:1px solid black;">예</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">OnePoint 클라이언트</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">ME</td>
+<td style="border:1px solid black;">MOM 서버</td>
+<td style="border:1px solid black;">허용</td>
+<td style="border:1px solid black;">예</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">터미널 서비스</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">3389</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">ME</td>
+<td style="border:1px solid black;">허용</td>
+<td style="border:1px solid black;">예</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">도메인 구성원</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">ME</td>
+<td style="border:1px solid black;">도메인 컨트롤러</td>
+<td style="border:1px solid black;">허용</td>
+<td style="border:1px solid black;">예</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">도메인 구성원</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">ME</td>
+<td style="border:1px solid black;">도메인 컨트롤러 2</td>
+<td style="border:1px solid black;">허용</td>
+<td style="border:1px solid black;">예</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">모든 인바운드 트래픽</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">임의</td>
+<td style="border:1px solid black;">ME</td>
+<td style="border:1px solid black;">차단</td>
+<td style="border:1px solid black;">예</td>
+</tr>
+</tbody>
+</table>
+  
+위 표에 나열된 모든 규칙은 구현할 때 미러링되어야 합니다. 이렇게 하면 서버로 들어오는 모든 네트워크 트래픽을 원래 서버로 되돌려 보낼 수도 있습니다.
+  
+위의 표는 서버에서 해당 역할 관련 기능을 수행하기 위해 열려야 하는 기준 포트를 나타냅니다. 서버가 정적 IP 주소를 갖고 있는 경우에는 이러한 포트로 충분합니다. 추가 기능을 제공하기 위해 추가 포트를 열어야 할 수도 있습니다. 추가 포트를 열게 되면 사용자 환경에서 관리자가 파일 서버를 더 쉽게 관리할 수 있지만 서버 보안성은 크게 약화됩니다.
+  
+도메인 구성원과 도메인 컨트롤러 사이의 수 많은 상호 작용으로 인해, 특히 RPC 및 인증 트래픽을 비롯한 모든 통신이 파일 서버와 모든 도메인 컨트롤러 사이에서 가능해 집니다. 트래픽을 더 제한할 수 있지만 대부분의 환경에서 필터가 서버를 효과적으로 보호하도록 하려면 수십 개의 추가 필터를 만들어야 합니다. 이 경우 IPSec 정책을 구현하고 관리하기가 매우 어려워집니다. 따라서 파일 서버와 상호 작용하는 도메인 컨트롤러 각각에 대해 유사한 규칙을 만들어야 합니다. 대개 파일 서버의 안정성과 가용성을 높이기 위해 사용자 환경의 모든 도메인 컨트롤러에 대한 규칙이 추가됩니다.
+  
+위에서 보여 준 것처럼 사용 중인 환경에 MOM(Microsoft Operations Manager)이 구현되어 있는 경우 IPSec 필터가 구현된 서버와 MOM 서버 사이에 모든 네트워크 트래픽이 이동할 수 있어야 합니다. 이는 MOM 서버와 OnePoint 클라이언트(MOM 콘솔에 보고하는 클라이언트 응용 프로그램) 사이에서 많은 양의 상호 작용이 수행되기 때문에 필요합니다. 다른 관리 패키지의 요구 사항은 이와 비슷할 수 있습니다. 훨씬 더 높은 수준의 보안이 필요할 경우 MOM 서버와 IPSec를 협상하도록 OnePoint 클라이언트에 대한 필터 동작을 구성할 수 있습니다.
+  
+이 IPSec 정책은 임의의 높은 포트를 통한 트래픽을 효과적으로 차단하므로 RPC(원격 프로시저 호출) 트래픽을 허용하지 않습니다. 따라서 서버 관리가 어려워질 수 있습니다. 대부분의 포트가 효과적으로 닫혀 있기 때문에 터미널 서비스를 사용할 수 있습니다. 이 경우 관리자는 원격 관리를 수행할 수 있습니다.
+  
+위의 네트워크 트래픽 맵에서는 사용 환경에 Active Directory를 사용할 수 있는 DNS 서버가 포함되어 있는 것으로 가정합니다. 독립 실행형 DNS 서버가 사용되는 경우에는 추가 규칙이 필요할 수 있습니다.
+  
+IPSec 정책을 구현할 때 서버 성능에 중대한 영향을 미쳐서는 안 됩니다. 그러나 이러한 필터를 구현하기 전에 테스트를 수행하여 필요한 서버 기능 및 성능이 유지되는지 확인해야 합니다. 다른 응용 프로그램을 지원하기 위해 규칙을 추가해야 할 수도 있습니다.
+  
+본 설명서에는 파일 서버에 대해 규정된 IPSec 필터를 간단히 작성할 수 있는 .cmd 파일에 대한 내용이 포함되어 있습니다. **PacketFilters-File.cmd** 파일은 적절한 필터 작성을 위해 NETSH 명령을 사용합니다. 사용자 환경에 있는 도메인 컨트롤러의 IP 주소가 포함되도록 이 .cmd 파일을 수정해야 합니다. 이 스크립트에는 두 개의 도메인 컨트롤러를 추가하기 위한 자리 표시자가 포함되어 있습니다. 따라서 필요하면 도메인 컨트롤러를 추가할 수 있습니다. 도메인 컨트롤러에 대한 이 IP 주소 목록은 항상 최신 상태를 유지해야 합니다.
+  
+사용 환경에 MOM이 있는 경우에는 스크립트에 해당 MOM 서버의 IP 주소도 지정되어 있어야 합니다. 이 스크립트는 영구 필터를 만들지 않습니다. 따라서 서버는 IPSec 정책 에이전트가 시작되어야만 보호됩니다. 영구 필터를 만들거나 보다 고급의 IPSec 필터 스크립트를 작성하는 방법에 대해서는 모듈 "추가 구성원 서버 강화 절차"를 참고하십시오. 마지막으로, 이 스크립트는 스크립트에서 만드는 IPSec 정책을 할당하지 않도록 구성되어 있습니다. IP 보안 정책 관리 스냅인을 사용하면 만든 IPSec 필터를 검사하고 이 IPSec 필터가 적용되도록 하기 위해 IPSec 정책을 할당할 수 있습니다.
+  
+[페이지 위쪽](#mainsection)
+  
+요약  
+----
+  
+이 모듈에서는 본 설명서에 정의된 세 가지 환경에서 파일 서버를 보호하기 위한 서버 강화 설정에 대해 설명했습니다. 여기에서 설명하는 대부분의 설정은 그룹 정책을 사용하여 구성되고 적용됩니다. MSBP을 따르도록 설계된 GPO(그룹 정책 개체)는 이러한 서버에서 제공하는 서비스를 기반으로 추가적인 보안 기능을 제공할 수 있도록 파일 서버를 포함하여 적절한 OU(조직 구성 단위)에 링크됩니다.
+  
+여기에서 설명하는 일부 설정은 그룹 정책을 사용하여 적용할 수 없습니다. 이 경우 이러한 설정을 수동으로 구성하는 방법이 자세히 설명되어 있습니다. 파일 서버와 통신할 수 있는 네트워크 트래픽 유형을 조정하는 IPSec 필터를 작성하고 적용하는 방법에 대해서도 자세히 설명되어 있습니다.
+  
+### 추가 정보
+  
+다음은 이 제품의 출시 당시 Windows Server 2003이 실행되는 컴퓨터 환경에서의 파일 서버와 관련하여 작성된 최신 자료입니다.
+  
+파일 서버에 대한 자세한 내용은 <http://www.microsoft.com/korea/windowsserver2003/techinfo/overview/file.asp>에서 "Technical Overview of Windows Server 2003 Security Services"를 참고하십시오.
+  
+DFS에 대한 자세한 내용은 다음 사이트에서 "Distributed File System" 백서를 참고하십시오. <http://www.microsoft.com/korea/windows2000/techinfo/howitworks/fileandprint/dfsnew.asp>
+  
+FRS에 대한 자세한 내용은 다음 사이트에서 "File Replication Service"를 참고하십시오. [http://www.microsoft.com/windows2000/techinfo/reskit/en-us/default.asp?url=/windows2000/techinfo/reskit/en-us/distrib/dsdh\_frs\_BNYR.asp](http://www.microsoft.com/windows2000/techinfo/reskit/en-us/default.asp?url=/windows2000/techinfo/reskit/en-us/distrib/dsdh_frs_bnyr.asp) ![](images/Dd547912.tous(ko-kr,TechNet.10).gif)
+  
+IPSec 필터링에 대한 자세한 내용은 다음 위치에서 "How To: Use IPSec IP Filter Lists in Windows 2000"을 참조하십시오. <http://support.microsoft.com/default.aspx?scid=313190>
+  
+[](#mainsection)[페이지 위쪽](#mainsection)

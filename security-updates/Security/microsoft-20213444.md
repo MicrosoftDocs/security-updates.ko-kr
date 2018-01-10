@@ -1,0 +1,146 @@
+---
+TOCTitle: Microsoft 교육 과정 홈
+Title: Microsoft 교육 과정 홈
+ms:assetid: 'ba83e632-101b-437f-b397-8068e2a3a41a'
+ms:contentKeyID: 20213444
+ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Cc297185(v=MSDN.10)'
+---
+
+<contentinclude identifier="mt778949" locale="ko-kr"></contentinclude><hideeyebrow></hideeyebrow>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td style="border:1px solid black;" align="left" colspan="2" valign="top">
+<img src="images/cc297185.hero-top(ko-kr).jpg" width="630" height="70" />
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;" align="left" valign="top">
+<img src="images/cc297185.lp-hero-left(ko-kr).jpg" width="236" height="110" />
+</td>
+<td style="border:1px solid black;" align="left" style="background-image: url(cc297185.lp-hero-right.jpg); background-repeat: no-repeat; background-position: top left;" valign="top">
+교육 과정을 통해 보안 위협과 적합한 대응 방안에 대한 다양한 Microsoft 교육 참조 자료와 관련 자료를 찾아보십시오. 학습 관련 자료는 수준별(기초부터 전문가까지)로 구성되어 계획, 예방, 탐지 및 대응으로 이루어진 보안 구현 단계에 대한 정보를 제공합니다.
+</td>
+</tr>
+</tbody>
+</table>
+ 
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;"><img src="images/cc297185.learning_path_home(ko-kr).jpg" alt="Featured This Month" /></td>
+<td style="border:1px solid black;"><h3 id="이달의-특집" style="margin-left: 0px; margin-top: 0px; important!">이달의 특집:</h3>
+<strong><a href="http://www.microsoft.com/technet/security/learning/connectingcustomer/all/default.mspx">보다 안전한 고객 관계 구축 (영문)</a></strong>
+네트워크 보안을 강화하고, 고객과의 트랜잭션을 보호하는 데 유용한 웹캐스트, 가상 랩 및 기타 관련 자료를 참고하십시오. 웹 응용 프로그램을 공격으로부터 보호하고, 고객을 피싱 사기로부터 보호하고, 신뢰할 수 있는 비즈니스 환경을 유지 관리하는 데 유용한 예방 가이드를 확인해 보십시오.</td>
+</tr>
+</tbody>
+</table>
+ 
+
+### 주제별로 찾아보기
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/cc895218.aspx"><strong>위협 및 취약점 완화</strong></a>
+보안 위험을 평가하고 공격에 대한 추가적인 보안을 제공하는 보안 기술을 구현하는 방법에 대한 지침을 확인하십시오. 이러한 보안 기술은 IT 전문가에게 보안 환경에 대한 총체적인 관리 능력도 제공합니다.</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/cc895263.aspx"><strong>ID 및 액세스 관리</strong></a>
+합법적인 사용자가 관련 자료에 액세스하도록 허용하고, 외부 해커 또는 내부의 악의적인 직원 등과 같이 승인되지 않은 사용자의 액세스를 더욱 어렵게 하는 Microsoft 기술에 대해 알아 보십시오. 사용자의 ID 확인과 관련 자료의 사용자 액세스 제어, 관련 자료 지원 기간 동안 데이터 액세스 보호를 지원하는 가이드, 웹 캐스트 및 가상 랩을 찾아보십시오.</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/cc895262.aspx"><strong>보안 기초</strong></a>
+Microsoft 기술을 도구 및 지침과 연계하여 귀사의 IT 인프라에 대한 안전한 기반을 구축하십시오. 컴퓨터 대상 공격에 보다 유연하게 대처하고 다른 기술 투자를 집중할 수 있는 기초를 제공해 주는 운영 체제의 기술에 대해 알아 보십시오.</td>
+</tr>
+</tbody>
+</table>
+ 
+
+### 범주별로 찾아보기
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/cc563931.aspx"><strong>계획</strong></a>
+계획은 위험 관리 프로세스를 통해 확인된 위험 및 취약점과 함께 우선 순위가 높은 자산에 대해 파악한 후 위험을 관리할 기업 보안 정책을 작성하는 것으로 시작합니다.</td>
+<td style="border:1px solid black;"><div style="margin: 50px 0px 0px -21px; position: absolute;">
+<img src="images/cc297185.seclrnarrow(ko-kr).gif" />
+</div>
+<a href="https://technet.microsoft.com/ko-kr/cc563932.aspx"><strong>예방</strong></a>
+정책은 예방 단계에서 구현되는 솔루션 및 프로세스로 매핑됩니다.</td>
+<td style="border:1px solid black;"><div style="margin: 50px 0px 0px -21px; position: absolute;">
+<img src="images/cc297185.seclrnarrow(ko-kr).gif" />
+</div>
+<a href="https://technet.microsoft.com/ko-kr/cc563933.aspx"><strong>탐지</strong></a>
+탐지에는 예방 단계 동안 구현된 솔루션 및 프로세스를 관리 및 모니터링 도구, 기술 및 최선의 방법이 포함됩니다.</td>
+<td style="border:1px solid black;"><div style="margin: 50px 0px 0px -21px; position: absolute;">
+<img src="images/cc297185.seclrnarrow(ko-kr).gif" />
+</div>
+<a href="https://technet.microsoft.com/ko-kr/cc835723.aspx"><strong>대응</strong></a>
+대응 단계에는 보안 위반을 차단하는 데 사용되는 조치의 사전 계획된 과정이 포함됩니다.</td>
+</tr>
+</tbody>
+</table>
+ 
+
+### 지난 달의 내용
+
+ 
+<table style="border:1px solid black;">
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/security/learning/activedirectory/all/default.mspx">Active Directory를 사용하여 네트워크 잠금 (영문)</a><br />
+</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/security/learning/patchmanagement/all/default.mspx">보안 업데이트 관리 (영문)</a><br />
+</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/security/learning/secmess/all/default.mspx">안전한 메시징 (영문)</a><br />
+</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/security/learning/internal/all/default.mspx">내부의 위협: 사용 환경의 위험 완화 (영문)</a><br />
+</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/security/learning/external/all/default.mspx">외부의 위협: 기밀 데이터 손실 위험 완화 (영문)</a><br />
+</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/security/learning/malware/all/default.mspx">맬웨어 감소를 위한 리소스 (영문)</a><br />
+</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"></td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/security/learning/securitylockdown/all/default.mspx">보안 잠금: 네트워크 보호를 위한 표준 Microsoft 도구 활용 (영문)</a><br />
+</td>
+</tr>
+</tbody>
+</table>
+ 
+
+[<img src="images/cc297185.arrow_px_up(ko-kr,TechNet.10).gif" alt="페이지 위쪽" width="7" height="9" />](#top) [페이지 위쪽](#top)

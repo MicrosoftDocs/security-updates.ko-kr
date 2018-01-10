@@ -1,0 +1,163 @@
+---
+TOCTitle: 'Microsoft 가상 사설망으로 차단 서비스 구현 가이드 - 부록 A'
+Title: 'Microsoft 가상 사설망으로 차단 서비스 구현 가이드 - 부록 A'
+ms:assetid: '91b99798-3804-4e76-8145-700a4804fc1c'
+ms:contentKeyID: 20214119
+ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Dd547964(v=TechNet.10)'
+---
+
+Microsoft 가상 사설망으로 차단 서비스 구현 계획 가이드
+======================================================
+
+### 부록 A - 예제 차단 스크립트
+
+업데이트 날짜: 2005년 5월 24일
+
+##### 이 페이지에서
+
+[](#ecaa)[차단 스크립트 예제](#ecaa)  
+[](#ebaa)[원격 액세스 구성 요소](#ebaa)  
+[](#eaaa)[Windows Update 스크립트 시작](#eaaa)  
+
+### 차단 스크립트 예제
+
+다음 섹션에서는 Microsoft 웹 사이트에서 다운로드할 수 있는 일부 예제 스크립트에 대해 설명합니다. 스크립트는 VPN Quarantine Sample Scripts.exe라는 자동 압축 풀기 실행 파일에 포함되어 있습니다. 이 파일에는 readme.txt 파일 및 각 스크립트에 대한 추가 설명서가 들어 있습니다.
+
+VPN(가상 사설망) 차단 스크립트에 대한 자세한 내용은 www.microsoft.com/downloads/details.aspx?FamilyID=a290f2ee-0b55-491e-bc4c-8161671b2462&displaylang=en의 [VPN Quarantine Sample Scripts for Verifying Client Health Configurations (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=a290f2ee-0b55-491e-bc4c-8161671b2462&displaylang=en)를 참조하십시오.
+
+이 스크립트는 예제이며 사용자의 환경에 적용하기 전에 변경해야 할 수 있습니다. 다음 표에는 스크립트와 각각의 목적이 설명되어 있습니다.
+
+**표 A.1: 예제 차단 스크립트**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >스크립트 이름</th>
+<th style="border:1px solid black;" >설명</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">Qsamples.cmd</td>
+<td style="border:1px solid black;">연결 관리자 프로필에서 사후 연결 작업으로 호출되며 다른 스크립트를 실행하는 최상위 파일입니다.</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">AV.Bat</td>
+<td style="border:1px solid black;">클라이언트의 바이러스 백신 소프트웨어가 최신 버전이며 최신 바이러스 서명 파일을 포함하는지 확인합니다. 이 스크립트는 eTrust 바이러스 백신 소프트웨어의 유효성 검사만 수행합니다. 기타 바이러스 백신 소프트웨어 패키지를 위한 비슷한 스크립트를 개발하는 경우 도움을 얻으려면 공급업체에 문의하십시오.</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">CheckHotFixes.vbs</td>
+<td style="border:1px solid black;">클라이언트 컴퓨터에서 중요한 업데이트를 확인합니다. 관리자는 필수 업데이트 목록을 제공해야 합니다.</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">ICS.vbs</td>
+<td style="border:1px solid black;">인터넷 연결 공유를 확인하고 필요한 경우 비활성화합니다.</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">Passwd.vbs</td>
+<td style="border:1px solid black;">회사 정책에 대해 암호를 확인합니다.</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">ScrSaver.vbs</td>
+<td style="border:1px solid black;">현재 사용자의 화면 보호기 설정을 확인하고 화면 보호기가 사용 가능하며 암호로 보호되는지 확인합니다.</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">WF.vbs</td>
+<td style="border:1px solid black;">모든 네트워크 인터페이스에서 Windows 방화벽을 확인하고 필요한 경우 활성화합니다.</td>
+</tr>
+</tbody>
+</table>
+  
+[](#mainsection)[페이지 위쪽](#mainsection)
+  
+### 원격 액세스 구성 요소
+  
+다음 섹션에서는 원격 액세스 임시 차단 구성 요소 두 가지에 대한 구문을 설명합니다.
+  
+#### 원격 액세스 임시 차단 에이전트 서비스(RQS) 구문
+  
+원격 액세스 임시 차단 에이전트 서비스를 시작하려면 명령줄에 다음을 입력합니다.
+  
+```  
+Net start rqs  
+```  
+원격 액세스 임시 차단 에이전트 서비스를 중지하려면 명령줄에 다음을 입력합니다.
+  
+```  
+Net stop rqs  
+```  
+#### 원격 액세스 임시 차단 클라이언트 에이전트(RQS) 구문
+  
+RQC에는 다음과 같은 구문이 있습니다.
+  
+```  
+rqc ConnName TunnelConnName Port Domain UserName String  
+```  
+다음 표에는 원격 액세스 임시 차단 클라이언트 에이전트 매개 변수와 이에 대한 설명이 나와 있습니다.
+  
+**표 A.2 RQC 에이전트 매개 변수**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >매개 변수</th>
+<th style="border:1px solid black;" >설명</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;"><strong>ConnName</strong></td>
+<td style="border:1px solid black;">호스트에서 원격 액세스 서버 연결의 이름을 지정합니다. 이 매개 변수의 값은 연결 관리자 프로필 %DialRasEntry% 변수에서 상속할 수 있습니다.</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><strong>TunnelConnName</strong></td>
+<td style="border:1px solid black;">호스트에서 원격 액세스 서버 터널 연결의 이름을 지정합니다. 이 매개 변수의 값은 연결 관리자 프로필 %TunnelRasEntry% 변수에서 상속할 수 있습니다.</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><strong>Port</strong></td>
+<td style="border:1px solid black;">차단 문자열을 보낼 포트를 지정합니다. 원격 액세스 서버의 원격 액세스 임시 차단 에이전트(RQS)에서 사용되는 기본 포트는 TCP 포트 7250입니다. RQS에서 다른 포트 번호를 사용하는 경우에만 RQC에 다른 포트 번호를 지정하십시오.</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><strong>Domain</strong></td>
+<td style="border:1px solid black;">연결 중인 사용자의 도메인을 지정합니다. 이 매개 변수의 값은 연결 관리자 프로필 %Domain% 변수에서 상속할 수 있습니다.</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><strong>UserName</strong></td>
+<td style="border:1px solid black;">연결 중인 사용자의 사용자 이름을 지정합니다. 이 매개 변수의 값은 연결 관리자 프로필 %UserName% 변수에서 상속할 수 있습니다.</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><strong>String</strong></td>
+<td style="border:1px solid black;">관리자가 생성한 스크립트 버전이 들어 있는 텍스트 문자열을 지정합니다. /0 문자 시퀀스를 제외한 모든 문자를 사용할 수 있습니다.</td>
+</tr>
+</tbody>
+</table>
+  
+[](#mainsection)[페이지 위쪽](#mainsection)
+  
+### Windows Update 스크립트 시작
+  
+다음 코드는 사용자에게 최신 보안 업데이트를 설치할 수 있는 Microsoft Windows Update 사이트를 안내하기 위해 CheckHotFixes.vbs 스크립트와 함께 사용합니다.
+  
+```  
+Prog = """C:\Program Files\Internet Explorer\iexplore.exe"""  
+WUSite= " http://windowsupdate.microsoft.com"  
+Set WshShell = CreateObject("Wscript.Shell")  
+WshShell.Run(prog & WUsite),1,TRUE  
+```  
+[](#mainsection)[페이지 위쪽](#mainsection)
+  
+##### 다운로드
+  
+[Microsoft 가상 사설망으로 차단 서비스 구현 계획 가이드 (영문)](http://go.microsoft.com/fwlink/?linkid=41308)
+  
+[](#mainsection)[페이지 위쪽](#mainsection)

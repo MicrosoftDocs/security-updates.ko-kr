@@ -6,8 +6,6 @@ ms:contentKeyID: 72150200
 ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms16-jan(v=Security.10)'
 ---
 
-MSRC ppDocument 서식 파일
-
 2016년 1월 Microsoft 보안 공지 요약
 ===================================
 
@@ -3485,7 +3483,7 @@ Microsoft Word Viewer
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**공지 ID             **
+**공지 ID**
 
 </td>
 <td style="border:1px solid black;">

@@ -446,41 +446,41 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 <td style="border:1px solid black;">Windows Server 2008(32비트 시스템용)</td>
 <td style="border:1px solid black;">해당 사항 없음</td>
 <td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=a8922e7e-9264-4e09-b8ad-c5420fed8690">Windows Internet Explorer 7</a><br />
-(보통)<strong>**</strong></td>
+(보통)<strong>&#42;&#42;</strong></td>
 <td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=c0c495f8-2a35-4638-a635-1e55dd15e062">DirectX 10.0</a><br />
-(긴급)<strong>**</strong></td>
+(긴급)<strong>&#42;&#42;</strong></td>
 <td style="border:1px solid black;">해당 사항 없음</td>
 <td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=2981156e-2e2f-469e-91be-da127d50f3fc">Active Directory</a><br />
 (KB949014)<br />
-(보통)<strong>*</strong><br />
+(보통)<strong>&#42;</strong><br />
 <br />
 <a href="http://www.microsoft.com/downloads/details.aspx?familyid=2981156e-2e2f-469e-91be-da127d50f3fc">AD LDS</a><br />
 (KB949014)<br />
-(보통)<strong>*</strong></td>
+(보통)<strong>&#42;</strong></td>
 <td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=0466a6e7-fdca-4647-af62-449e5f20d1e4">Windows Server 2008(32비트 시스템용)</a><br />
-(보통)<strong>**</strong></td>
+(보통)<strong>&#42;&#42;</strong></td>
 <td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=8a507fba-8c93-4952-91e4-98e9e7affbd2">Windows Server 2008(32비트 시스템용)</a><br />
-(낮음)<strong>***</strong></td>
+(낮음)<strong>&#42;&#42;&#42;</strong></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows Server 2008(x64 기반 시스템용)</td>
 <td style="border:1px solid black;">해당 사항 없음</td>
 <td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=05b0e838-24d7-4387-b069-2604bbcc43b9">Windows Internet Explorer 7</a><br />
-(보통)<strong>**</strong></td>
+(보통)<strong>&#42;&#42;</strong></td>
 <td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=0b70fc2e-4e80-4ae8-8682-41ea04c24e4e">DirectX 10.0</a><br />
-(긴급)<strong>**</strong></td>
+(긴급)<strong>&#42;&#42;</strong></td>
 <td style="border:1px solid black;">해당 사항 없음</td>
 <td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=b5cfe6f4-c5ba-4be9-a6b8-9381c40c85aa">Active Directory</a><br />
 (KB949014)<br />
-(보통)<strong>*</strong><br />
+(보통)<strong>&#42;</strong><br />
 <br />
 <a href="http://www.microsoft.com/downloads/details.aspx?familyid=b5cfe6f4-c5ba-4be9-a6b8-9381c40c85aa">AD LDS</a><br />
 (KB949014)<br />
-(보통)<strong>*</strong></td>
+(보통)<strong>&#42;</strong></td>
 <td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=304898e6-21a7-476f-b9ed-7ac0d88a91e2">Windows Server 2008(x64 기반 시스템용)</a><br />
-(보통)<strong>**</strong></td>
+(보통)<strong>&#42;&#42;</strong></td>
 <td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=1a11499d-a008-407f-9084-a5189fa27015">Windows Server 2008(x64 기반 시스템용)</a><br />
-(낮음)<strong>***</strong></td>
+(낮음)<strong>&#42;&#42;&#42;</strong></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows Server 2008(Itanium 기반 시스템용)</td>

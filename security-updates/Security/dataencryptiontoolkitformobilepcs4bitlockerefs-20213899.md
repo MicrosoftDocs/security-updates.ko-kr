@@ -17,7 +17,7 @@ Microsoft® BitLocker™ 드라이브 암호화(BitLocker) 및 EFS(Encrypting�
 
 ##### 이 페이지에서
 
-[](#ebaa)[BitLocker와 EFS의 조합 선택](#ebaa)
+[](#ebaa)[BitLocker와 EFS의 조합 선택](#ebaa)  
 
 ### BitLocker와 EFS의 조합 선택
 

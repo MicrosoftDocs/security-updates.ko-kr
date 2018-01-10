@@ -17,13 +17,13 @@ Data Encryption Toolkit for Mobile PCs 계획 및 구현 가이드
 
 ##### 이 페이지에서
 
-[](#ehae)[BitLocker에 대한 간략한 개요](#ehae)
-[](#egae)[EFS에 대한 간략한 개요](#egae)
-[](#efae)[장 요약](#efae)
-[](#eeae)[이 가이드를 읽어야 할 사람](#eeae)
-[](#edae)[이 가이드에서 사용된 규칙](#edae)
-[](#ecae)[지원 및 피드백](#ecae)
-[](#ebae)[감사의 말](#ebae)
+[](#ehae)[BitLocker에 대한 간략한 개요](#ehae)  
+[](#egae)[EFS에 대한 간략한 개요](#egae)  
+[](#efae)[장 요약](#efae)  
+[](#eeae)[이 가이드를 읽어야 할 사람](#eeae)  
+[](#edae)[이 가이드에서 사용된 규칙](#edae)  
+[](#ecae)[지원 및 피드백](#ecae)  
+[](#ebae)[감사의 말](#ebae)  
 
 ### BitLocker에 대한 간략한 개요
 
@@ -72,6 +72,7 @@ Windows 2000, Windows XP Professional, Windows Server® 2003 및 Windows Vista�
 ### 이 가이드에서 사용된 규칙
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />

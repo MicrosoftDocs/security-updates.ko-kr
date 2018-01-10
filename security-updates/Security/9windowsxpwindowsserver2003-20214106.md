@@ -21,9 +21,9 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Dd547951(v=TechNet.10)'
 
 ##### 이 페이지에서
 
-[](#ecaa)[컴퓨터 구성 설정](#ecaa)
-[](#ebaa)[사용자 구성 설정](#ebaa)
-[](#eaaa)[추가 정보](#eaaa)
+[](#ecaa)[컴퓨터 구성 설정](#ecaa)  
+[](#ebaa)[사용자 구성 설정](#ebaa)  
+[](#eaaa)[추가 정보](#eaaa)  
 
 ### 컴퓨터 구성 설정
 

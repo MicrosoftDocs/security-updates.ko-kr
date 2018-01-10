@@ -17,7 +17,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Dd547925(v=TechNet.10)'
 
 ### Microsoft Active Directory 인쇄 서버 OU 구조 만들기:
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -57,7 +57,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Dd547925(v=TechNet.10)'
   
 ### 인쇄 서버 설치 및 강화 단계:
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />

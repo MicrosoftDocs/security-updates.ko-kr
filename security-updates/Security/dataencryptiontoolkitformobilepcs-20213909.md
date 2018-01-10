@@ -37,12 +37,12 @@ Microsoft는 랩톱 컴퓨터의 보안 문제를 해결할 수 있는 도구를
 
 ##### 이 페이지에서
 
-[](#egaa)[이 가이드를 읽어야 할 사람](#egaa)
-[](#efaa)[장의 구성](#efaa)
-[](#eeaa)[이 가이드에서 사용된 규칙](#eeaa)
-[](#edaa)[자세한 정보](#edaa)
-[](#ecaa)[지원 및 피드백](#ecaa)
-[](#ebaa)[감사의 말](#ebaa)
+[](#egaa)[이 가이드를 읽어야 할 사람](#egaa)  
+[](#efaa)[장의 구성](#efaa)  
+[](#eeaa)[이 가이드에서 사용된 규칙](#eeaa)  
+[](#edaa)[자세한 정보](#edaa)  
+[](#ecaa)[지원 및 피드백](#ecaa)  
+[](#ebaa)[감사의 말](#ebaa)  
 
 ### 이 가이드를 읽어야 할 사람
 
@@ -81,6 +81,7 @@ Microsoft는 랩톱 컴퓨터의 보안 문제를 해결할 수 있는 도구를
 이 가이드는 다음 표에서 설명된 규칙을 사용합니다.
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />

@@ -39,12 +39,12 @@ Microsoft에서는 Windows XP SP1(서비스 팩 1)과 Windows XP SP2 모두에 
 
 ##### 이 페이지에서
 
-[](#egaa)[요약](#egaa)
-[](#efaa)[이 가이드의 대상](#efaa)
-[](#eeaa)[각 장의 내용 요약](#eeaa)
-[](#edaa)[지침 및 도구](#edaa)
-[](#ecaa)[스타일 규칙](#ecaa)
-[](#ebaa)[추가 정보](#ebaa)
+[](#egaa)[요약](#egaa)  
+[](#efaa)[이 가이드의 대상](#efaa)  
+[](#eeaa)[각 장의 내용 요약](#eeaa)  
+[](#edaa)[지침 및 도구](#edaa)  
+[](#ecaa)[스타일 규칙](#ecaa)  
+[](#ebaa)[추가 정보](#ebaa)  
 [](#eaaa)[감사의 말](#eaaa)
 
 ### 요약
@@ -233,7 +233,7 @@ GPMC(그룹 정책 관리 콘솔)를 사용하면 이 가이드에 정의되어 
 
 **표 1.1 스타일 규칙**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -298,7 +298,7 @@ GPMC(그룹 정책 관리 콘솔)를 사용하면 이 가이드에 정의되어 
   
 -   [Security Guidance](http://www.microsoft.com/korea/technet/security/topics/default.mspx) 페이지 (Microsoft TechNet®)
   
--   [*Threats and Countermeasures (영문)*](http://go.microsoft.com/fwlink/?linkid=15159)**(TechNet)
+-   [*Threats and Countermeasures (영문)*](http://go.microsoft.com/fwlink/?linkid=15159) (TechNet)
   
 -   [*Windows Server 2003 Security Guide*](http://www.microsoft.com/korea/technet/security/guidance/secmod117.asp) (TechNet)
   

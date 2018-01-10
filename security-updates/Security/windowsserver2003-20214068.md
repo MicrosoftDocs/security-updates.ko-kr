@@ -121,7 +121,7 @@ Windows Server 2003 인쇄 서버 강화
 
 **표 2: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />

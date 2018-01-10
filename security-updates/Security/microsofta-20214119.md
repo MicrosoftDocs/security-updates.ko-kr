@@ -149,7 +149,10 @@ rqc ConnName TunnelConnName Port Domain UserName String
 다음 코드는 사용자에게 최신 보안 업데이트를 설치할 수 있는 Microsoft Windows Update 사이트를 안내하기 위해 CheckHotFixes.vbs 스크립트와 함께 사용합니다.
   
 ```  
-Prog = """C:\\Program Files\\Internet Explorer\\iexplore.exe""" WUSite= " http://windowsupdate.microsoft.com" Set WshShell = CreateObject("Wscript.Shell") WshShell.Run(prog & WUsite),1,TRUE  
+Prog = """C:\Program Files\Internet Explorer\iexplore.exe"""  
+WUSite= " http://windowsupdate.microsoft.com"  
+Set WshShell = CreateObject("Wscript.Shell")  
+WshShell.Run(prog & WUsite),1,TRUE  
 ```  
 [](#mainsection)[페이지 위쪽](#mainsection)
   

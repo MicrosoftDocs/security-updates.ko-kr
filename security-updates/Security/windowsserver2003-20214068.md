@@ -11,17 +11,17 @@ Windows Server 2003 인쇄 서버 강화
 
 ##### 이 페이지에서
 
-[모듈 정보](#abcd)
-[목표](#efgh)
-[적용 범위](#ijkl)
-[모듈 사용법](#mnop)
-[개요](#qrst)
-[감사 정책 설정](#uvwx)
-[사용자 권한 할당](#yzab)
-[보안 옵션](#cdef)
-[시스템 서비스](#ghij)
-[시스템 서비스](#klmn)
-[추가 보안 설정](#opqr)
+[모듈 정보](#abcd)  
+[목표](#efgh)  
+[적용 범위](#ijkl)  
+[모듈 사용법](#mnop)  
+[개요](#qrst)  
+[감사 정책 설정](#uvwx)  
+[사용자 권한 할당](#yzab)  
+[보안 옵션](#cdef)  
+[시스템 서비스](#ghij)  
+[시스템 서비스](#klmn)  
+[추가 보안 설정](#opqr)  
 [요약](#stuv)
 
 모듈 정보
@@ -121,7 +121,7 @@ Windows Server 2003 인쇄 서버 강화
 
 **표 2: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />

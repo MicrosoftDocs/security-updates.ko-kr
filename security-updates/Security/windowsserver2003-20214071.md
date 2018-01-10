@@ -11,18 +11,18 @@ Windows Server 2003 인증서 서비스 서버 강화
 
 ##### 이 페이지에서
 
-[](#aa)[모듈 정보](#aa)
-[](#ab)[목표](#ab)
-[](#ac)[적용 범위](#ac)
-[](#ad)[모듈 사용법](#ad)
-[](#ae)[개요](#ae)
-[](#af)[감사 정책 설정](#af)
-[](#ag)[사용자 권한 할당](#ag)
-[](#ah)[보안 옵션](#ah)
-[](#ai)[이벤트 로그 설정](#ai)
-[](#aj)[시스템 서비스](#aj)
-[](#ak)[추가 레지스트리 설정](#ak)
-[](#al)[추가 보안 설정](#al)
+[](#aa)[모듈 정보](#aa)  
+[](#ab)[목표](#ab)  
+[](#ac)[적용 범위](#ac)  
+[](#ad)[모듈 사용법](#ad)  
+[](#ae)[개요](#ae)  
+[](#af)[감사 정책 설정](#af)  
+[](#ag)[사용자 권한 할당](#ag)  
+[](#ah)[보안 옵션](#ah)  
+[](#ai)[이벤트 로그 설정](#ai)  
+[](#aj)[시스템 서비스](#aj)  
+[](#ak)[추가 레지스트리 설정](#ak)  
+[](#al)[추가 보안 설정](#al)  
 [](#am)[요약](#am)
 
 ### 모듈 정보
@@ -108,7 +108,7 @@ Computer Configuration\\Windows Settings\\Security Settings\\Local Policies\\Sec
 
 **표 1: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -136,7 +136,7 @@ Computer Configuration\\Windows Settings\\Security Settings\\Local Policies\\Sec
   
 **표 2: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -164,7 +164,7 @@ Computer Configuration\\Windows Settings\\Security Settings\\Local Policies\\Sec
   
 **표 3: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -224,7 +224,7 @@ Computer Configuration\\Windows Settings\\Security Settings\\System Services\\
   
 **표 4: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -255,7 +255,7 @@ Computer Configuration\\Windows Settings\\Security Settings\\System Services\\
   
 **표 5: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -302,7 +302,7 @@ MACHINE\\SYSTEM\\CurrentControlSet\\Services\\CertSvc\\Configuration
   
 **표 6: 레지스트리 감사 SACL**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -342,7 +342,7 @@ ACL(액세스 제어 목록)의 보호를 받지 않는 파일은 로컬로 또�
   
 **표 7: 파일 시스템 ACL**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -378,7 +378,7 @@ ACL(액세스 제어 목록)의 보호를 받지 않는 파일은 로컬로 또�
   
 **표 10.8: 인증서 서비스 파일 및 레지스트리 감사**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />

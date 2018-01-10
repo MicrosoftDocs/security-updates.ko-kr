@@ -25,9 +25,9 @@ Microsoft Solution Accelerator for BDD(Business Desktop Deployment) 2007에는 I
 
 ##### 이 페이지에서
 
-[](#edaa)[30분 호환성 검사](#edaa)
-[](#ecaa)[알려진 응용 프로그램 호환성 문제](#ecaa)
-[](#ebaa)[도구 및 리소스](#ebaa)
+[](#edaa)[30분 호환성 검사](#edaa)  
+[](#ecaa)[알려진 응용 프로그램 호환성 문제](#ecaa)  
+[](#ebaa)[도구 및 리소스](#ebaa)  
 [](#eaaa)[추가 정보](#eaaa)
 
 ### 30분 호환성 검사

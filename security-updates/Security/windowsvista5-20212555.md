@@ -27,9 +27,9 @@ SSLF 기본은 EC 기본에 부가되는 것이 아니라 명백히 다른 수�
 
 ##### 이 페이지에서
 
-[](#edaa)[특수 보안 환경](#edaa)
-[](#ecaa)[기능 제한 환경](#ecaa)
-[](#ebaa)[GPOAccelerator 도구](#ebaa)
+[](#edaa)[특수 보안 환경](#edaa)  
+[](#ecaa)[기능 제한 환경](#ecaa)  
+[](#ebaa)[GPOAccelerator 도구](#ebaa)  
 [](#eaaa)[추가 정보](#eaaa)
 
 ### 특수 보안 환경

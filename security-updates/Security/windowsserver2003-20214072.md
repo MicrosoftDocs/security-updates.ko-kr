@@ -11,17 +11,17 @@ Windows Server 2003 방호 호스트 강화
 
 ##### 이 페이지에서
 
-[](#xsltsection121121120120)[모듈 정보](#xsltsection121121120120)
-[](#xsltsection122121120120)[목표](#xsltsection122121120120)
-[](#xsltsection123121120120)[적용 범위](#xsltsection123121120120)
-[](#xsltsection124121120120)[모듈 사용법](#xsltsection124121120120)
-[](#xsltsection125121120120)[개요](#xsltsection125121120120)
-[](#xsltsection126121120120)[감사 정책 설정](#xsltsection126121120120)
-[](#xsltsection127121120120)[사용자 권한 할당](#xsltsection127121120120)
-[](#xsltsection128121120120)[보안 옵션](#xsltsection128121120120)
-[](#xsltsection129121120120)[이벤트 로그 설정](#xsltsection129121120120)
-[](#xsltsection130121120120)[시스템 서비스](#xsltsection130121120120)
-[](#xsltsection131121120120)[추가 보안 설정](#xsltsection131121120120)
+[](#xsltsection121121120120)[모듈 정보](#xsltsection121121120120)  
+[](#xsltsection122121120120)[목표](#xsltsection122121120120)  
+[](#xsltsection123121120120)[적용 범위](#xsltsection123121120120)  
+[](#xsltsection124121120120)[모듈 사용법](#xsltsection124121120120)  
+[](#xsltsection125121120120)[개요](#xsltsection125121120120)  
+[](#xsltsection126121120120)[감사 정책 설정](#xsltsection126121120120)  
+[](#xsltsection127121120120)[사용자 권한 할당](#xsltsection127121120120)  
+[](#xsltsection128121120120)[보안 옵션](#xsltsection128121120120)  
+[](#xsltsection129121120120)[이벤트 로그 설정](#xsltsection129121120120)  
+[](#xsltsection130121120120)[시스템 서비스](#xsltsection130121120120)  
+[](#xsltsection131121120120)[추가 보안 설정](#xsltsection131121120120)  
 [](#xsltsection132121120120)[요약](#xsltsection132121120120)<span id="XSLTsection121121120120"></span>
 모듈 정보
 ---------
@@ -130,7 +130,7 @@ Windows Server 2003 방호 호스트 강화
 ### 로컬 로그온 허용
 
 **표 1: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -159,7 +159,7 @@ Windows Server 2003 방호 호스트 강화
 ### 네트워크에서 이 컴퓨터 액세스 거부
 
 **표 2: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -215,7 +215,7 @@ ANONOYMOUS LOGON; 기본 제공 Administrator; Support_388945a0; Guest; 모든 �
 ### 자동 업데이트
 
 **표 3: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -246,7 +246,7 @@ Wuauserv</td>
 ### 백그라운드 인텔리전트 전송 서비스
 
 **표 4: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -277,7 +277,7 @@ BITS</td>
 ### 컴퓨터 브라우저
 
 **표 5: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -308,7 +308,7 @@ Disabling the **컴퓨터 브라우저** 서비스를 해제하면 브라우저 
 ### DHCP 클라이언트
 
 **표 6: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -339,7 +339,7 @@ Dhcp</td>
 ### NLA(Network Location Awareness)
 
 **표 7: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -368,7 +368,7 @@ NLA</td>
 ### NTLM 보안 지원 공급자
 
 **표 8: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -399,7 +399,7 @@ NtLmSsp</td>
 ### 성능 로그 및 경고
 
 **표 9: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -430,7 +430,7 @@ SysmonLog</td>
 ### 원격 관리 서비스
 
 **표 10: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -476,7 +476,7 @@ SrvcSurg</td>
 ### 원격 레지스트리 서비스
 
 **표 11: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -507,7 +507,7 @@ RemoteRegistry</td>
 ### 서버
 
 **표 12: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -538,7 +538,7 @@ lanmanserver</td>
 ### TCP/IP NetBIOS Helper Service
 
 **표 13: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -569,7 +569,7 @@ LMHosts</td>
 ### 터미널 서비스
 
 **표 14: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -600,7 +600,7 @@ TermService</td>
 ### Windows Installer
 
 **표 15: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -635,7 +635,7 @@ MSIServer</td>
 ### Windows Management Instrumentation Driver Extensions
 
 **표 16: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -664,7 +664,7 @@ WMI</td>
 ### WMI 성능 어댑터
 
 **표 17: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -710,7 +710,7 @@ BHLP를 통해 적용된 보안 설정은 방호 호스트 서버용 보안을 �
 또한 모듈 "Windows Server 2003 서버의 구성원 서버 기준 만들기"에서 설명하는 일부 권장 사항을 기반으로 하여 기본 제공 **Administrator** 계정 이름을 바꿀 수 있습니다. **Administrator** 계정을 추가할 경우 이름을 바꾼 계정을 지정해야 합니다.
 
 **표 18: 수동으로 추가된 사용자 권한 할당**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -830,7 +830,7 @@ Windows Server 2003에는 삭제할 수는 없지만 이름을 바꿀 수는 있
 ### 오류 보고
 
 **표 19: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -877,7 +877,7 @@ IPSec 필터 사용에 대한 자세한 내용은 모듈 "추가 구성원 서�
 다음 표는 이 설명서에 정의된 고급 보안 환경의 SMTP 방호 호스트에 작성해야 할 전체 IPSec 필터를 나열하고 있습니다.
 
 **표 20: SMTP 방호 호스트 IPSec 네트워크 트래픽 맵**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="12%" />

@@ -11,17 +11,17 @@ Windows Server 2003 IIS 서버 강화
 
 ##### 이 페이지에서
 
-[](#xsltsection121121120120)[모듈 정보](#xsltsection121121120120)
-[](#xsltsection122121120120)[목표](#xsltsection122121120120)
-[](#xsltsection123121120120)[적용 범위](#xsltsection123121120120)
-[](#xsltsection124121120120)[모듈 사용법](#xsltsection124121120120)
-[](#xsltsection125121120120)[개요](#xsltsection125121120120)
-[](#xsltsection126121120120)[감사 정책 설정](#xsltsection126121120120)
-[](#xsltsection127121120120)[사용자 권한 할당](#xsltsection127121120120)
-[](#xsltsection128121120120)[보안 옵션](#xsltsection128121120120)
-[](#xsltsection129121120120)[이벤트 로그 설정](#xsltsection129121120120)
-[](#xsltsection130121120120)[시스템 서비스](#xsltsection130121120120)
-[](#xsltsection131121120120)[추가 보안 설정](#xsltsection131121120120)
+[](#xsltsection121121120120)[모듈 정보](#xsltsection121121120120)  
+[](#xsltsection122121120120)[목표](#xsltsection122121120120)  
+[](#xsltsection123121120120)[적용 범위](#xsltsection123121120120)  
+[](#xsltsection124121120120)[모듈 사용법](#xsltsection124121120120)  
+[](#xsltsection125121120120)[개요](#xsltsection125121120120)  
+[](#xsltsection126121120120)[감사 정책 설정](#xsltsection126121120120)  
+[](#xsltsection127121120120)[사용자 권한 할당](#xsltsection127121120120)  
+[](#xsltsection128121120120)[보안 옵션](#xsltsection128121120120)  
+[](#xsltsection129121120120)[이벤트 로그 설정](#xsltsection129121120120)  
+[](#xsltsection130121120120)[시스템 서비스](#xsltsection130121120120)  
+[](#xsltsection131121120120)[추가 보안 설정](#xsltsection131121120120)  
 [](#xsltsection132121120120)[요약](#xsltsection132121120120)<span id="XSLTsection121121120120"></span>
 모듈 정보
 ---------
@@ -114,7 +114,7 @@ IIS 관리자는 IIS를 쉽게 관리할 수 있도록 설계된 GUI(그래픽 �
 ### 네트워크에서 이 컴퓨터 액세스 거부
 
 **표 1: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -176,7 +176,7 @@ IIS가 웹 서버 기능을 Windows Server 2003에 추가하려면 다음의 세
 ### HTTP SSL
 
 **표 2: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -217,7 +217,7 @@ If the HTTP SSL service is stopped, IIS will not perform SSL functions. 이 서�
 ### IIS 관리 서비스
 
 **표 3: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -258,7 +258,7 @@ FTP, NNTP 및 SMTP 등의 웹 서비스를 제공하려면 **IIS 관리 서비�
 ### World Wide Web 게시 서비스
 
 **표 4: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -351,7 +351,7 @@ NTFS 권한은 웹 권한을 대신하는 것이 아니라 웹 권한과 연합�
 다음 표에서는 IIS 서버에 대해 서로 다른 파일 형식에 적용되는 몇 가지 NTFS 권장 권한을 제공합니다. 같은 부류에 속하는 다른 파일 형식들을 별도의 폴더에 그룹으로 모으면 NTFS 권한을 쉽게 적용할 수 있습니다.
 
 **표 5: NTFS 권한**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -409,7 +409,7 @@ IIS는 웹 사이트 권한을 조사하여 스크립트 소스 액세스나 디
 다음 표에는 IIS 6.0에서 지원하는 웹 사이트 권한을 나열하고 해당 권한이 웹 사이트에 지정된 다음의 상황을 간단히 설명합니다.
 
 **표 6: IIS 6.0 웹 사이트 권한**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -498,7 +498,7 @@ IIS 로그가 IIS 서버에 저장되면 기본적으로 서버 관리자만 로
 또한 기본 제공 **Administrator** 계정의 이름은 "Windows Server 2003 서버의 구성원 서버 기준 만들기" 모듈의 권장 사항에 따라 변경할 수 있습니다. **Administrator** 계정을 추가할 때 변경된 이름의 계정을 지정하도록 하십시오.
 
 **표 7: 수동으로 추가된 사용자 권한 할당**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -571,7 +571,7 @@ IPSec 필터 사용에 대한 자세한 내용은 모듈 "추가 구성원 서�
 다음 표에는 본 설명서에 정의된 고급 보안 환경에서 IIS 서버에 작성할 수 있는 모든 IPSec 필터가 나열되어 있습니다.
 
 **표 8: IIS 서버 IPSec 네트워크 트래픽 맵**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="12%" />

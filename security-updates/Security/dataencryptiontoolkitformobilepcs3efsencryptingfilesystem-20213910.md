@@ -21,12 +21,12 @@ EFS는 해당 사용자와 권한이 부여된 복구 에이전트만 액세스�
 
 ##### 이 페이지에서
 
-[](#egaa)[Windows XP의 EFS](#egaa)
-[](#efaa)[Windows Vista의 EFS](#efaa)
-[](#eeaa)[EFS 옵션: 소프트웨어 키 저장소를 사용하는 EFS](#eeaa)
-[](#edaa)[EFS 옵션: 스마트 카드를 사용하는 EFS](#edaa)
-[](#ecaa)[EFS 위험 분석 요약](#ecaa)
-[](#ebaa)[자세한 정보](#ebaa)
+[](#egaa)[Windows XP의 EFS](#egaa)  
+[](#efaa)[Windows Vista의 EFS](#efaa)  
+[](#eeaa)[EFS 옵션: 소프트웨어 키 저장소를 사용하는 EFS](#eeaa)  
+[](#edaa)[EFS 옵션: 스마트 카드를 사용하는 EFS](#edaa)  
+[](#ecaa)[EFS 위험 분석 요약](#ecaa)  
+[](#ebaa)[자세한 정보](#ebaa)  
 
 ### Windows XP의 EFS
 

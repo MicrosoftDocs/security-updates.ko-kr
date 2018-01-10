@@ -298,7 +298,7 @@ GPMC(그룹 정책 관리 콘솔)를 사용하면 이 가이드에 정의되어 
   
 -   [Security Guidance](http://www.microsoft.com/korea/technet/security/topics/default.mspx) 페이지 (Microsoft TechNet®)
   
--   [*Threats and Countermeasures (영문)*](http://go.microsoft.com/fwlink/?linkid=15159)**(TechNet)
+-   [*Threats and Countermeasures (영문)*](http://go.microsoft.com/fwlink/?linkid=15159) (TechNet)
   
 -   [*Windows Server 2003 Security Guide*](http://www.microsoft.com/korea/technet/security/guidance/secmod117.asp) (TechNet)
   

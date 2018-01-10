@@ -15,7 +15,7 @@ Microsoft는 현재 이 교육 과정에 대한 콘텐츠를 개발 중에 있�
 
 ### 관련 자료
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="100%" />
@@ -47,7 +47,7 @@ Microsoft는 현재 이 교육 과정에 대한 콘텐츠를 개발 중에 있�
 </tbody>
 </table>
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="100%" />
@@ -115,7 +115,7 @@ Microsoft는 현재 이 교육 과정에 대한 콘텐츠를 개발 중에 있�
 </tbody>
 </table>
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="100%" />
@@ -199,13 +199,13 @@ Microsoft는 현재 이 교육 과정에 대한 콘텐츠를 개발 중에 있�
   
 ### 콘텐츠 형식 및 레벨 정의
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 콘텐츠 형식 키  
 </th>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 레벨 키  
 </th>
 </tr>

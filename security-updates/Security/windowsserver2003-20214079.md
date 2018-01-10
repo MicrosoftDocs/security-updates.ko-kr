@@ -17,7 +17,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Dd547924(v=TechNet.10)'
 
 ### Microsoft Active Directory 파일 서버 OU 만들기:
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -57,7 +57,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Dd547924(v=TechNet.10)'
   
 ### 파일 서버 강화 단계:
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />

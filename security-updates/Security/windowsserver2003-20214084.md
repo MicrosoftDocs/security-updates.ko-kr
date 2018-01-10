@@ -16,7 +16,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Dd547929(v=TechNet.10)'
 
 ### 방호 호스트 강화 단계:
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">

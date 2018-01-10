@@ -6,8 +6,6 @@ ms:contentKeyID: 72963811
 ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms16-may(v=Security.10)'
 ---
 
-MSRC ppDocument 서식 파일
-
 2016년 5월 Microsoft 보안 공지 요약
 ===================================
 
@@ -28,6 +26,7 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 다음 표에는 이번 달의 보안 공지가 심각도 순으로 요약되어 있습니다.
 
 영향받는 소프트웨어에 대한 자세한 내용은 **영향받는 소프트웨어**라는 다음 절을 참조하십시오.
+
 <p> </p>
 <table style="width:100%;">
 <colgroup>
@@ -229,7 +228,7 @@ Microsoft .NET Framework</td>
   
 아래 열에서 "최신 소프트웨어 릴리스"는 관련 소프트웨어를 나타내며 "이전 소프트웨어 릴리스"는 공지의 "영향받는 소프트웨어" 및 "영향받지 않는 소프트웨어" 표에 나열된 지원 대상인 관련 소프트웨어의 모든 이전 릴리스를 나타냅니다.
 
- 
+<p></p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;">
@@ -1183,7 +1182,7 @@ TLS/SSL 정보 유출 취약성
 
 ### Windows 운영 체제 및 구성 요소(표 1/2)
 
- 
+<p></p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="9">
@@ -3085,7 +3084,7 @@ Windows Server 2012 R2(Server Core 설치)
 
 ### Windows 운영 체제 및 구성 요소(표 2/2)
 
- 
+<p></p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="8">
@@ -4938,7 +4937,7 @@ Windows Server 2012 R2
 
 ### Microsoft Office 제품군 및 소프트웨어
 
- 
+<p></p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -5339,7 +5338,7 @@ Microsoft Word Viewer
 
 ### Microsoft Office Services 및 Web Apps
 
- 
+<p></p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">

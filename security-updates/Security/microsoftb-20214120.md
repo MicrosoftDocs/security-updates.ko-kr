@@ -24,9 +24,11 @@ HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\rqs
 구성할 수 있는 매개 변수는 다음과 같습니다.
 
 -   **AllowedSet**. AllowedSet 매개 변수를 사용하면 원격 액세스 VPN 차단 서버에서 받아들이는 스크립트의 버전을 설정할 수 있습니다.
-
     
-        ```
+    ```
+        AllowedSet, REG_MULTI_SZ
+    ```
+
 서비스에서 차단을 제거할 목적으로 받아들이는 문자열 목록은 다음과 같습니다.
 
 -   **Port(REG\_DWORD)**. Port 매개 변수는 RQS 서비스가 수신하는 TCP 포트를 지정합니다. 포트가 지정되지 않은 경우에 7250이 사용됩니다.
@@ -35,14 +37,16 @@ HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\rqs
 
     사용자 지정 DLL을 만들어 차단 필터 제거 기능을 구현하면 다음과 같은 함수가 표시됩니다.
 
-    
-        ```
-<!-- -->
+    ```
+        DWORD MprAdminConnectionRemoveQuarantine  
+        (HANDLE hRasServer,  HANDLE hRasConnection,  BOOL fIsIpAddress)  
+    ```
 
 -   **Validator(REG\_SZ)**. 서명 문자열을 보낸 내 RQC가 적합한지 여부를 확인하는 모듈을 지정합니다. 기본적으로 RQS.exe는 AllowedSet 문자열을 비교합니다. 사용자 지정 authenticator dll은 다음과 같은 함수를 표시해야 합니다.
 
-    
-        ```
+    ```
+        BOOL ClientAuthenticate(LPCWSTR lpwsString). 
+    ```
     인증할 문자열을 포함하는 lpwsString
 
 [](#mainsection)[페이지 위쪽](#mainsection)

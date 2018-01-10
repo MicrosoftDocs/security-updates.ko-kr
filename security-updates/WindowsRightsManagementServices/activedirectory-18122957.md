@@ -79,10 +79,8 @@ Active Directory 캐시 설정 변경
 </tbody>
 </table>
   
-| ![](images/Cc747586.Caution(WS.10).gif)주의                                                                 |  
-|------------------------------------------------------------------------------------------------------------------------------------------|  
-| 레지스트리를 잘못 편집하면 시스템이 심하게 손상될 수 있습니다. 레지스트리를 변경하기 전에 컴퓨터에 있는 중요한 데이터를 백업해야 합니다. |
+> [!Caution]  
+> 레지스트리를 잘못 편집하면 시스템이 심하게 손상될 수 있습니다. 레지스트리를 변경하기 전에 컴퓨터에 있는 중요한 데이터를 백업해야 합니다. 
   
-| ![](images/Cc747586.note(WS.10).gif)참고                                                                                                                                                                                                                      |  
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
-| **PrincipalCacheExpireMinutes**, **GroupIDCacheExpireMinutes**, **GroupMembershipCacheExpireMinutes** 및 **ContactMembersofGroupCacheExpireMinutes** 레지스트리 항목은 데이터베이스 서버의 디렉터리 서비스 데이터베이스에 저장된 로컬 Active Directory 캐시에 있는 캐시 만료도 제어합니다. |
+> [!Note]  
+> **PrincipalCacheExpireMinutes**, **GroupIDCacheExpireMinutes**, **GroupMembershipCacheExpireMinutes** 및 **ContactMembersofGroupCacheExpireMinutes** 레지스트리 항목은 데이터베이스 서버의 디렉터리 서비스 데이터베이스에 저장된 로컬 Active Directory 캐시에 있는 캐시 만료도 제어합니다.

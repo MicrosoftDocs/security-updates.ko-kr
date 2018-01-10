@@ -3,10 +3,8 @@ TOCTitle: 'MS08-APR'
 Title: 2008 년 4 월 Microsoft 보안 공지 요약
 ms:assetid: 'ms08-apr'
 ms:contentKeyID: 61230696
-ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms08-apr(v=Security.10)'
+ms:mtpsurl: '   '
 ---
-
-Security Bulletin Summary
 
 2008 년 4 월 Microsoft 보안 공지 요약
 =====================================
@@ -34,7 +32,7 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 긴급 (5)
 --------
 
-<span></span>
+
 
 | 공지 번호                  | Microsoft 보안 공지 MS08-018                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -84,7 +82,7 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 중요 (3)
 --------
 
-<span></span>
+
 
 | 공지 번호                  | Microsoft 보안 공지 MS08-020                                                                                                                                                                                                                    |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -116,8 +114,8 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 영향을 받는 소프트웨어 및 다운로드 위치
 ---------------------------------------
 
-<span></span>
-**이 표를 어떻게 사용합니까?**
+
+**이 표를 어떻게 사용합니까?**  
 
 이 표를 사용하여 설치해야 하는 보안 업데이트를 알 수 있습니다. 나열된 각 소프트웨어 프로그램 또는 구성 요소를 검토하여 필요한 보안 업데이트가 있는지 확인합니다. 소프트웨어 프로그램 또는 구성 요소가 나열되어 있는 경우 사용할 수 있는 소프트웨어 업데이트의 하이퍼링크와 해당 소프트웨어 업데이트의 심각도가 함께 나열됩니다.
 
@@ -126,6 +124,7 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 #### Windows 운영 체제 및 구성 요소
 
  
+<p></p>
 <table style="border:1px solid black;">
 <caption>Microsoft Windows 2000</caption>
 <tbody>
@@ -176,6 +175,7 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
  
 
  
+<p></p>
 <table style="border:1px solid black;">
 <caption>Windows XP</caption>
 <tbody>
@@ -238,6 +238,7 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
  
 
  
+<p></p>
 <table style="border:1px solid black;">
 <caption>Windows Server 2003</caption>
 <tbody>
@@ -318,6 +319,7 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
  
 
  
+<p></p>
 <table style="border:1px solid black;">
 <caption>Windows Vista</caption>
 <tbody>
@@ -372,6 +374,7 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
  
 
  
+<p></p>
 <table style="border:1px solid black;">
 <caption>Windows Server 2008</caption>
 <tbody>
@@ -400,7 +403,7 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 <td style="border:1px solid black;">없음</td>
 <td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=95691924-2813-4a86-9e11-99d853f8e606">Windows Server 2008(32비트 시스템용)</a><br />
 (낮음)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=e57b4d94-19ad-4818-8311-a3f94be01a4b">Windows Internet Explorer 7</a>*<br />
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=e57b4d94-19ad-4818-8311-a3f94be01a4b">Windows Internet Explorer 7</a>\*<br />
 (긴급)</td>
 <td style="border:1px solid black;">없음</td>
 <td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=4497333c-9418-4b91-83dc-0155735421c0">Windows Server 2008(32비트 시스템용)</a><br />
@@ -413,7 +416,7 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 <td style="border:1px solid black;">없음</td>
 <td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=920ae29b-19d0-4089-ac79-f2da824a2256">Windows Server 2008(x64 기반 시스템용)</a><br />
 (낮음)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=93e9f52a-c7d0-4033-9c12-740665a219af">Windows Internet Explorer 7</a>*<br />
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=93e9f52a-c7d0-4033-9c12-740665a219af">Windows Internet Explorer 7</a>\*<br />
 (긴급)</td>
 <td style="border:1px solid black;">없음</td>
 <td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=5aefc7a6-79a4-45a2-b534-35d0ec400dda">Windows Server 2008(x64 기반 시스템용)</a><br />
@@ -441,6 +444,7 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 #### Microsoft Office 제품군 및 소프트웨어
 
  
+<p></p>
 <table style="border:1px solid black;">
 <caption>Microsoft Project</caption>
 <tbody>
@@ -479,6 +483,7 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 </table>
 
  
+<p></p>
 <table style="border:1px solid black;">
 <caption>Microsoft Visio</caption>
 <tbody>
@@ -533,7 +538,7 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 검색, 배포 도구 및 지침  
 -----------------------
   
-<span></span>
+
 **보안 센터**
   
 해당 조직에서 서버, 데스크톱, 모바일 컴퓨터에 적용해야 하는 소프트웨어 및 보안 업데이트를 관리합니다. 자세한 내용은 [TechNet Update Management Center (영문)](http://technet.microsoft.com/ko-kr/updatemanagement/default(en-us).aspx)를 참조하십시오. [TechNet Security Center](http://www.microsoft.com/korea/technet/security/default.mspx)는 Microsoft 제품의 보안에 대한 추가 정보를 제공합니다. 일반 사용자는 [가정의 보안](http://www.microsoft.com/korea/athome/security/default.mspx)을 방문하거나 “최신 보안 업데이트”를 클릭하여 이 정보를 볼 수도 있습니다.

@@ -6,8 +6,6 @@ ms:contentKeyID: 61230688
 ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms07-jan(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2007 년 1 월 Microsoft 보안 공지 요약
 =====================================
 
@@ -35,7 +33,7 @@ Security Bulletin Summary
 긴급(3)
 -------
 
-<span></span>
+
 | 공지 번호                  | Microsoft 보안 공지 MS07-002                                                                                                                                       |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **공지 제목**              | [**Microsoft Excel의 취약점으로 인한 원격 코드 실행 문제점(927198)**](http://technet.microsoft.com/security/bulletin/ms07-002)                                     |
@@ -63,7 +61,7 @@ Security Bulletin Summary
 중요(1)
 -------
 
-<span></span>
+
 
 | 공지 번호                  | Microsoft 보안 공지 MS07-001                                                                                                                                       |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -76,7 +74,7 @@ Security Bulletin Summary
 배포
 ----
 
-<span></span>
+
 **Software Update Services:**
 
 관리자는 Microsoft Software Update Services(SUS)를 사용하여 Windows 2000 및 Windows Server 2003 기반 서버 그리고 Windows 2000 Professional 또는 Windows XP Professional을 실행하는 데스크톱 시스템에 최신 중요 업데이트와 보안 업데이트를 신속하고 안전하게 배포할 수 있습니다.

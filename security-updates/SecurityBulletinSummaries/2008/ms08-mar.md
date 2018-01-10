@@ -114,7 +114,8 @@ Microsoft는 Windows Update, Microsoft Update, Windows Server Update Services, �
 -   Microsoft는 Microsoft Update(MU) 및 Windows Server Update Services(WSUS)를 통해 2개의 **비보안**, 중요 업데이트를 릴리스했습니다.
 -   Microsoft는 Windows Update(WU) 및 WSUS를 통해 Windows용 **비보안**, 중요 업데이트 3건을 발표했습니다.
 
-이 정보는 보안 공지 요약과 같은 날짜에 Microsoft Update, Windows Update, Windows Server Update Services를 통해 발표된 **비보안**, 중요 업데이트에만 ***해당됩니다. 다른 날짜에 발표된 비보안** 업데이트 관련 정보는 제공되지****않습니다.
+
+이 정보는 보안 공지 요약과 같은 날짜에 Microsoft Update, Windows Update, Windows Server Update Services를 통해 발표된 **비보안**, 중요 업데이트에만 해당됩니다. 다른 날짜에 발표된 **비보안** 업데이트 관련 정보는 제공되지 않습니다.
 
 #### 보안 전략 및 커뮤니티
 
@@ -171,4 +172,4 @@ Microsoft 기술 자료에서 제공되는 정보는 어떠한 보증도 없이 
 -   V1.2 (2008년 3월 27일): MS08-017 발견자를 추가하여 공지 요약이 업데이트되었습니다.
 -   V2.0 (2008년 4월 17일): Microsoft Office Word Viewer 2003 및 Microsoft Office Word Viewer 2003이 MS08-016에 영향을 받는 소프트웨어로 추가되어 공지 요약이 업데이트되었습니다.
 
-*Built at 2014-04-18T12:27:44Z-07:00*
+*Built at 2014-04-18T12:27:44Z-07:00*  

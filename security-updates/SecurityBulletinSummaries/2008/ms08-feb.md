@@ -183,7 +183,7 @@ Microsoft는 Windows Update, Microsoft Update, Windows Server Update Services, �
 -   Microsoft는 Microsoft Update(MU) 및 Windows Server Update Services(WSUS)를 통해 7개의 **비보안**, 중요 업데이트를 릴리스했습니다.
 -   Microsoft는 Windows Update(WU) 및 WSUS를 통해 Windows용 **비보안**, 중요 업데이트를 2건 발표했습니다.
 
-이 정보는 보안 공지 요약과 같은 날짜에 Microsoft Update, Windows Update, Windows Server Update Services를 통해 발표된 **비보안**, 중요 업데이트에만****해당됩니다. 다른 날짜에 발표된 **비보안** 업데이트 관련 정보는 제공되지****않습니다.
+이 정보는 보안 공지 요약과 같은 날짜에 Microsoft Update, Windows Update, Windows Server Update Services를 통해 발표된 **비보안**, 중요 업데이트에만 해당됩니다. 다른 날짜에 발표된 **비보안** 업데이트 관련 정보는 제공되지 않습니다.
 
 #### 보안 전략 및 커뮤니티
 

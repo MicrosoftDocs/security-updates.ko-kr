@@ -567,7 +567,6 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
   
 **표 A.12: 추가 기능 목록 설정**
 
- 
 <p></p>
 <table style="border:1px solid black;">
 <colgroup>
@@ -601,10 +600,10 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 -   **값 이름**. 목록에 추가하려는 추가 기능의 CLSID(클래스 식별자)입니다. CLSID는 {000000000-0000-0000-0000-0000000000000}과 같이 중괄호로 묶어야 합니다. 추가 기능의 CLSID는 추가 기능이 참조된 웹 페이지에서 OBJECT 태그를 읽어 알 수 있습니다.
   
 -   **값**. Internet Explorer가 로드될 추가 기능을 거부할지 또는 허용할지 나타내는 숫자입니다. 다음 값을 사용할 수 있습니다.
-  
+
     **표 A.13: 추가 기능 목록 설정 값**
 
- 
+    <p></p>
     <table style="border:1px solid black;">
     <colgroup>
     <col width="50%" />
@@ -631,7 +630,8 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
     </tr>
     </tbody>
     </table>
-  
+
+
 이 정책 설정을 비활성화하면 목록이 삭제됩니다.
   
 작업 환경에 사용될 수 있는 추가 기능을 제어하기 위해서는 **추가 기능 목록에 지정되지 않은 모든 추가 기능 거부** 설정과 **추가 기능 목록** 설정을 모두 사용하는 것이 좋습니다. 이렇게 하면 허가된 추가 기능만 사용될 수 있습니다.

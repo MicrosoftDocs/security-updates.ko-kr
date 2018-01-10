@@ -146,6 +146,7 @@ TPM 및 PIN을 사용하는 BitLocker와 캐시 키 모드에서 스마트 카�
 **표 4.1 Bitlocker 및 EFS 위험 완화**
 
 ![](images/Cc162807.53d5723f-6e99-4b7a-9dde-4c45fd75288c(ko-kr,TechNet.10).gif)
+
 **다운로드**
 
 [Data Encryption Toolkit for Mobile PCs 받기](http://go.microsoft.com/fwlink/?linkid=81666)

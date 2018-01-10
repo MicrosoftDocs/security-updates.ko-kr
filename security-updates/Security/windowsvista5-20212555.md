@@ -179,7 +179,7 @@ GPOAccelerator.wsf 스크립트를 사용하여 다음 작업을 수행합니다
 
 GPOAccelerator.wsf 스크립트는 Microsoft Windows Installer 파일(.msi)을 통해 생성되는 Windows Vista 보안 가이드\\GPOAccelerator 도구 폴더에 있습니다.
 
-**참고   **GPOAccelerator 도구 폴더와 하위 폴더는 다음 절차에서 설명하는 대로 실행할 스크립트의 로컬 컴퓨터에 있어야 합니다.
+**참고** GPOAccelerator 도구 폴더와 하위 폴더는 다음 절차에서 설명하는 대로 실행할 스크립트의 로컬 컴퓨터에 있어야 합니다.
 
 **GPO를 만들어 랩 환경에서 적절한 OU에 연결하려면**
 

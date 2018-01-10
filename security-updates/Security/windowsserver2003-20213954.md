@@ -39,10 +39,10 @@ Windows Server 2003 보안 가이드
 
 ##### 이 페이지에서
 
-[](#eeaa)[이 가이드의 대상](#eeaa)
-[](#edaa)[가이드 개요](#edaa)
-[](#ecaa)[관련 리소스](#ecaa)
-[](#ebaa)[의견 보내기](#ebaa)
+[](#eeaa)[이 가이드의 대상](#eeaa)  
+[](#edaa)[가이드 개요](#edaa)  
+[](#ecaa)[관련 리소스](#ecaa)  
+[](#ebaa)[의견 보내기](#ebaa)  
 [](#eaaa)[컨설팅 및 지원 서비스](#eaaa)
 
 ### 이 가이드의 대상

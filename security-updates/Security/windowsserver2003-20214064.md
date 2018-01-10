@@ -11,19 +11,19 @@ Windows Server 2003 서버의 구성원 서버 기준 만들기
 
 ##### 이 페이지에서
 
-[](#xsltsection121121120120)[모듈 정보](#xsltsection121121120120)
-[](#xsltsection122121120120)[목표](#xsltsection122121120120)
-[](#xsltsection123121120120)[적용 범위](#xsltsection123121120120)
-[](#xsltsection124121120120)[모듈 사용법](#xsltsection124121120120)
-[](#xsltsection125121120120)[개요](#xsltsection125121120120)
-[](#xsltsection126121120120)[Windows Server 2003 기준 정책](#xsltsection126121120120)
-[](#xsltsection127121120120)[감사 정책](#xsltsection127121120120)
-[](#xsltsection128121120120)[사용자 권한 할당](#xsltsection128121120120)
-[](#xsltsection129121120120)[보안 옵션](#xsltsection129121120120)
-[](#xsltsection130121120120)[이벤트 로그](#xsltsection130121120120)
-[](#xsltsection131121120120)[시스템 서비스](#xsltsection131121120120)
-[](#xsltsection132121120120)[추가 레지스트리 설정](#xsltsection132121120120)
-[](#xsltsection133121120120)[추가 보안 설정](#xsltsection133121120120)
+[](#xsltsection121121120120)[모듈 정보](#xsltsection121121120120)  
+[](#xsltsection122121120120)[목표](#xsltsection122121120120)  
+[](#xsltsection123121120120)[적용 범위](#xsltsection123121120120)  
+[](#xsltsection124121120120)[모듈 사용법](#xsltsection124121120120)  
+[](#xsltsection125121120120)[개요](#xsltsection125121120120)  
+[](#xsltsection126121120120)[Windows Server 2003 기준 정책](#xsltsection126121120120)  
+[](#xsltsection127121120120)[감사 정책](#xsltsection127121120120)  
+[](#xsltsection128121120120)[사용자 권한 할당](#xsltsection128121120120)  
+[](#xsltsection129121120120)[보안 옵션](#xsltsection129121120120)  
+[](#xsltsection130121120120)[이벤트 로그](#xsltsection130121120120)  
+[](#xsltsection131121120120)[시스템 서비스](#xsltsection131121120120)  
+[](#xsltsection132121120120)[추가 레지스트리 설정](#xsltsection132121120120)  
+[](#xsltsection133121120120)[추가 보안 설정](#xsltsection133121120120)  
 [](#xsltsection134121120120)[요약](#xsltsection134121120120)<span id="XSLTsection121121120120"></span>
 모듈 정보
 ---------
@@ -122,7 +122,7 @@ Windows Server 2003에서 제공하는 기본 설정값은 보안 상태로 설�
 
 **표 1: 세 가지 환경의 기준 보안 템플릿**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -183,7 +183,7 @@ Windows Server 2003 기준 정책
   
 **표 2: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -217,7 +217,7 @@ Windows Server 2003 기준 정책
   
 **표 3: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -260,7 +260,7 @@ Windows Server 2003 기준 정책
   
 **표 4: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -296,7 +296,7 @@ Windows Server 2003 기준 정책
   
 **표 5: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -334,7 +334,7 @@ Windows Server 2003 기준 정책
   
 **표 6: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -380,7 +380,7 @@ SACL은 ACE(액세스 제어 항목)로 구성되어 있습니다. 각 ACE에는
   
 **표 7: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -420,7 +420,7 @@ SACL은 ACE(액세스 제어 항목)로 구성되어 있습니다. 각 ACE에는
   
 **표 8: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -465,7 +465,7 @@ SACL은 ACE(액세스 제어 항목)로 구성되어 있습니다. 각 ACE에는
 ### 프로세스 추적 감사
   
 **표 9: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -501,7 +501,7 @@ SACL은 ACE(액세스 제어 항목)로 구성되어 있습니다. 각 ACE에는
   
 **표 10: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -572,7 +572,7 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
   
 **표 11: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -606,7 +606,7 @@ Windows Server 2003에서 **Everyone** 보안 그룹에 부여되는 권한은 �
   
 **표 12: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -637,7 +637,7 @@ Windows Server 2003에서 **Everyone** 보안 그룹에 부여되는 권한은 �
 ### 도메인에 워크스테이션 추가
   
 **표 13: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -669,7 +669,7 @@ Windows Server 2003에서 **Everyone** 보안 그룹에 부여되는 권한은 �
   
 **표 14: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -701,7 +701,7 @@ Windows Server 2003에서 **Everyone** 보안 그룹에 부여되는 권한은 �
   
 **표 15: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -733,7 +733,7 @@ Windows Server 2003에서 **Everyone** 보안 그룹에 부여되는 권한은 �
   
 **표 16: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -765,7 +765,7 @@ Windows Server 2003에서 **Everyone** 보안 그룹에 부여되는 권한은 �
   
 **표 17: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -797,7 +797,7 @@ Windows Server 2003에서 **Everyone** 보안 그룹에 부여되는 권한은 �
   
 **표 18: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -831,7 +831,7 @@ Windows Server 2003에서 **Everyone** 보안 그룹에 부여되는 권한은 �
   
 **표 19: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -865,7 +865,7 @@ Windows Server 2003에서 **Everyone** 보안 그룹에 부여되는 권한은 �
   
 **표 20: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -899,7 +899,7 @@ Windows Server 2003에서 **Everyone** 보안 그룹에 부여되는 권한은 �
   
 **표 21: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -932,7 +932,7 @@ Windows Server 2003에서 **Everyone** 보안 그룹에 부여되는 권한은 �
 ### 컴퓨터 및 사용자 계정을 위임용으로 트러스트할 수 있음
   
 **표 22: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -968,7 +968,7 @@ Windows Server 2003에서 **Everyone** 보안 그룹에 부여되는 권한은 �
 ### 원격 시스템에서 강제 종료
 
 **표 23: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1004,7 +1004,7 @@ Administrators</td>
 ### 보안 감사 생성
 
 **표 24: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1040,7 +1040,7 @@ NETWORK SERVICE, LOCAL SERVICE</td>
 ### 인증 후 클라이언트로 가장
 
 **표 25: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1075,7 +1075,7 @@ Local Service; Network Service</td>
 ### 스케쥴링 우선 순위 증가
 
 **표 26: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1110,7 +1110,7 @@ Administrators</td>
 ### 장치 드라이버 로드 및 언로드
 
 **표 27: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1145,7 +1145,7 @@ Administrators</td>
 ### 메모리의 페이지 잠금
 
 **표 28: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1180,7 +1180,7 @@ Administrators</td>
 ### 일괄 작업으로 로그온
 
 **표 29: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1215,7 +1215,7 @@ SUPPORT_388945a0, LOCAL SERVICE</td>
 ### 감사 및 보안 로그 관리
 
 **표 30: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1250,7 +1250,7 @@ Administrators</td>
 ### 펌웨어 환경 값 수정
 
 **표 31: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1285,7 +1285,7 @@ Administrators</td>
 ### 볼륨 관리 작업을 수행
 
 **표 32: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1320,7 +1320,7 @@ Administrators</td>
 ### 단일 프로세스 프로필
 
 **표 33: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1355,7 +1355,7 @@ Administrators</td>
 ### 시스템 성능 프로필
 
 **표 34: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1390,7 +1390,7 @@ Administrators</td>
 ### 컴퓨터를 도킹 스테이션에서 제거
 
 **표 35: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1425,7 +1425,7 @@ Administrators</td>
 ### 프로세스 수준 토큰 대체
 
 **표 36: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1460,7 +1460,7 @@ LOCAL SERVICE, NETWORK SERVICE</td>
 ### 파일 및 디렉터리 복원
 
 **표 37: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1495,7 +1495,7 @@ Administrators</td>
 ### 시스템 종료
 
 **표 38: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1530,7 +1530,7 @@ Administrators</td>
 ### 디렉터리 서비스 데이터 동기화
 
 **표 39: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1565,7 +1565,7 @@ Administrators</td>
 ### 파일 또는 다른 개체의 소유권 가져오기
 
 **표 40: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1613,7 +1613,7 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 ### 계정: Guest 계정 상태
 
 **표 41: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1648,7 +1648,7 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 ### 계정: 콘솔 로그온 시 로컬 계정에서 빈 암호 사용 제한
 
 **표 42: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1683,7 +1683,7 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 ### 감사: 글로벌 시스템 개체에 대한 액세스 감사
 
 **표 43: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1720,7 +1720,7 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 ### 감사: 백업 및 복원 권한 사용을 감사
 
 **표 44: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1757,7 +1757,7 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 ### 감사: 보안 감사를 로그할 수 없는 경우 즉시 시스템 종료
 
 **표 45: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1792,7 +1792,7 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 ### 장치: 로그온할 필요 없이 도킹 해제 허용
 
 **표 46: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1827,7 +1827,7 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 ### 장치: 이동식 미디어 포맷 및 꺼내기 허용
 
 **표 47: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1862,7 +1862,7 @@ Administrators</td>
 ### 장치: 사용자가 프린터 드라이버를 설치할 수 없게 함
 
 **표 48: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1897,7 +1897,7 @@ Administrators</td>
 ### 장치: 로컬로 로그온한 사용자만이 CD?ROM에 액세스 가능
 
 **표 49: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1932,7 +1932,7 @@ Administrators</td>
 ### 장치: 로컬로 로그온한 사용자만이 플로피 드라이브에 액세스 가능
 
 **표 50: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1967,7 +1967,7 @@ Administrators</td>
 ### 장치: 서명되지 않은 드라이버 설치 동작
 
 **표 51: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2002,7 +2002,7 @@ Administrators</td>
 ### 도메인 컨트롤러: Server Operator가 작업을 스케줄하도록 허용
 
 **표 52: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2039,7 +2039,7 @@ Administrators</td>
 ### 도메인 컨트롤러: LDAP 서버 서명 필요
 
 **표 53: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2074,7 +2074,7 @@ Administrators</td>
 ### 도메인 컨트롤러: 컴퓨터 계정 암호 변경 거부
 
 **표 54: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2109,7 +2109,7 @@ Administrators</td>
 ### 도메인 구성원: 보안 채널 데이터를 디지털 암호화 또는 서명(항상)
 
 **표 55: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2146,7 +2146,7 @@ Administrators</td>
 ### 도메인 구성원: 보안 채널: 보안 채널 데이터를 디지털 암호화(가능하면)
 
 **표 56: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2181,7 +2181,7 @@ Administrators</td>
 ### 도메인 구성원: 보안 채널: 보안 채널 데이터를 디지털 서명(가능하면)
 
 **표 57: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2216,7 +2216,7 @@ Administrators</td>
 ### 도메인 구성원: 컴퓨터 계정 암호 변경 사용 안 함
 
 **표 58: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2251,7 +2251,7 @@ Administrators</td>
 ### 도메인 구성원: 컴퓨터 계정 암호 최대 사용 기간
 
 **표 59: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2286,7 +2286,7 @@ Administrators</td>
 ### 도메인 구성원: 고급 세션 키 요청(Windows 2000 또는 그 이상)
 
 **표 60: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2323,7 +2323,7 @@ Administrators</td>
 ### 대화형 로그온: 마지막 사용자 이름 표시 안 함
 
 **표 61: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2358,7 +2358,7 @@ Administrators</td>
 ### 대화형 로그온: \[CTRL+ALT+DEL\]을 사용할 필요 없음
 
 **표 62: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2393,7 +2393,7 @@ Administrators</td>
 ### 대화형 로그온: 로그온 시도하는 사용자에 대한 메시지 텍스트
 
 **표 63: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2428,7 +2428,7 @@ Administrators</td>
 ### 대화형 로그온: 로그온 시도하는 사용자에 대한 메시지 제목
 
 **표 64: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2465,7 +2465,7 @@ Administrators</td>
 ### 대화형 로그온: 캐시할 로그온의 횟수(도메인 컨트롤러가 사용 불가능할 경우)
 
 **표 65: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2500,7 +2500,7 @@ Administrators</td>
 ### 대화형 로그온: 암호 만료 전에 사용자에게 암호를 변경하도록 프롬프트
 
 **표 66: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2535,7 +2535,7 @@ Administrators</td>
 ### 대화형 로그온: 워크스테이션 잠금 해제를 위해 도메인 컨트롤러 인증 필요
 
 **표 67: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2572,7 +2572,7 @@ Administrators</td>
 ### 대화형 로그온: 스마트 카드 제거 동작
 
 **표 68: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2607,7 +2607,7 @@ Administrators</td>
 ### Microsoft 네트워크 클라이언트: 디지털 서명 통신(항상)
 
 **표 69: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2642,7 +2642,7 @@ Administrators</td>
 ### Microsoft 네트워크 클라이언트: 디지털 서명 통신(서버에서 동의한 경우)
 
 **표 70: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2677,7 +2677,7 @@ Administrators</td>
 ### Microsoft 네트워크 클라이언트: 타사 SMB 서버에 암호화되지 않은 암호를 보냄
 
 **표 71: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2712,7 +2712,7 @@ Administrators</td>
 ### Microsoft 네트워크 서버: 세션 연결을 중단하기 전에 필요한 유휴 시간
 
 **표 72: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2747,7 +2747,7 @@ Administrators</td>
 ### Microsoft 네트워크 서버: 디지털 서명 통신(항상)
 
 **표 73: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2782,7 +2782,7 @@ Administrators</td>
 ### Microsoft 네트워크 서버: 디지털 서명 통신(클라이언트에서 동의한 경우)
 
 **표 74: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2817,7 +2817,7 @@ Administrators</td>
 ### Microsoft 네트워크 서버: 로그온 시간이 만료되면 클라이언트 연결 끊기
 
 **표 75: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2852,7 +2852,7 @@ Administrators</td>
 ### 네트워크 액세스: SAM 계정의 익명 열거 허용 안 함
 
 **표 76: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2887,7 +2887,7 @@ Administrators</td>
 ### 네트워크 액세스: SAM 계정과 공유의 익명 열거 허용 안 함
 
 **표 77: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2922,7 +2922,7 @@ Administrators</td>
 ### 네트워크 액세스: 네트워크 인증에 대한 자격 증명의 저장소나 .NET Passports 허용 안 함
 
 **표 78: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2959,7 +2959,7 @@ Administrators</td>
 ### 네트워크 액세스: Everyone 사용 권한을 익명 사용자에게 적용
 
 **표 79: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2996,7 +2996,7 @@ Administrators</td>
 ### 네트워크 액세스: 익명으로 액세스할 수 있는 명명된 파이프
 
 **표 80: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -3033,7 +3033,7 @@ Administrators</td>
 ### 네트워크 액세스: 원격으로 액세스할 수 있는 레지스트리 경로
 
 **표 81: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -3086,7 +3086,7 @@ Software\Microsoft\Windows NT\CurrentVersion</td>
 ### 네트워크 액세스: 원격으로 액세스할 수 있는 레지스트리 경로 및 하위 경로
 
 **표 82: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -3273,7 +3273,7 @@ System\CurrentControlSet<br />
 ### 네트워크 액세스: 명명된 파이프 및 공유로 익명 액세스 제한
 
 **표 83: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -3317,7 +3317,7 @@ System\CurrentControlSet<br />
 ### 네트워크 액세스: 익명으로 액세스할 수 있는 공유
 
 **표 84: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -3354,7 +3354,7 @@ COMCFG,DFS$</td>
 ### 네트워크 액세스: 로컬 계정에 대한 공유 및 보안
 
 **표 85: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -3389,7 +3389,7 @@ COMCFG,DFS$</td>
 ### 네트워크 보안: 다음 암호 변경 시 Lan Manager 해시 값 저장 안 함
 
 **표 86: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -3426,7 +3426,7 @@ COMCFG,DFS$</td>
 ### 네트워크 보안: LAN Manager 인증 수준
 
 **표 87: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -3469,7 +3469,7 @@ Windows 9x 클라이언트가 있고 해당 클라이언트 모두에 DSClient�
 ### 네트워크 보안: LDAP 클라이언트 서명 필요
 
 **표 88: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -3504,7 +3504,7 @@ Windows 9x 클라이언트가 있고 해당 클라이언트 모두에 DSClient�
 ### 네트워크 보안: NTLM SSP 기반에 대한 최소 세션 보안 (보안 RPC 포함) 클라이언트
 
 **표 89: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -3539,7 +3539,7 @@ Windows 9x 클라이언트가 있고 해당 클라이언트 모두에 DSClient�
 ### 네트워크 보안: NTLM SSP 기반에 대한 최소 세션 보안 (보안 RPC 포함) 서버
 
 **표 90: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -3574,7 +3574,7 @@ Windows 9x 클라이언트가 있고 해당 클라이언트 모두에 DSClient�
 ### 복구 콘솔: 자동 관리 로그온 허용
 
 **표 91: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -3609,7 +3609,7 @@ Windows 9x 클라이언트가 있고 해당 클라이언트 모두에 DSClient�
 ### 복구 콘솔: 모든 드라이브 및 폴더에 플로피 복사 및 액세스 허용
 
 **표 92: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -3661,7 +3661,7 @@ Windows 9x 클라이언트가 있고 해당 클라이언트 모두에 DSClient�
 ### 시스템 종료: 로그온하지 않고 시스템 종료 허용
 
 **표 93: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -3696,7 +3696,7 @@ Windows 9x 클라이언트가 있고 해당 클라이언트 모두에 DSClient�
 ### 시스템 종료: 가상 메모리 페이지 파일 지움
 
 **표 94: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -3733,7 +3733,7 @@ Windows 9x 클라이언트가 있고 해당 클라이언트 모두에 DSClient�
 ### 시스템 암호화: 컴퓨터에 저장된 사용자 키에 대해 강력한 키 보호 사용
 
 **표 95: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -3768,7 +3768,7 @@ Windows 9x 클라이언트가 있고 해당 클라이언트 모두에 DSClient�
 ### 시스템 암호화: 암호화, 해시, 서명에 FIPS 호환 알고리즘 사용
 
 **표 96: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -3803,7 +3803,7 @@ Windows 9x 클라이언트가 있고 해당 클라이언트 모두에 DSClient�
 ### 시스템 개체: Administrators 그룹의 구성원에 의해 작성된 개체에 대한 기본 소유자
 
 **표 97: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -3838,7 +3838,7 @@ Administrators 그룹</td>
 ### 시스템 개체: 비 Windows 하위 시스템에 대한 대/소문자 구분 사용 안 함 필요
 
 **표 98: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -3873,7 +3873,7 @@ Administrators 그룹</td>
 ### 시스템 개체: 내부 시스템 개체(예: 심볼 링크)에 대한 기본 사용 권한을 강화
 
 **표 99: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -3908,7 +3908,7 @@ Administrators 그룹</td>
 ### 시스템 설정: 하위 시스템(옵션)
 
 **표 100: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -3956,7 +3956,7 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 ### 응용 프로그램 로그 최대 크기
 
 **표 101: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -3991,7 +3991,7 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 ### 보안 로그 최대 크기
 
 **표 102: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -4026,7 +4026,7 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 ### 시스템 로그 최대 크기
 
 **표 103: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -4061,7 +4061,7 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 ### 응용 프로그램 로그에 로컬 Guest 그룹 액세스 제한
 
 **표 104: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -4098,7 +4098,7 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 ### 보안 로그에 로컬 Guest 그룹 액세스 제한
 
 **표 105: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -4135,7 +4135,7 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 ### 시스템 로그에 로컬 Guest 그룹 액세스 제한
 
 **표 106: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -4172,7 +4172,7 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 ### 응용 프로그램 로그 보관 방법
 
 **표 107: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -4207,7 +4207,7 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 ### 보안 로그 보관 방법
 
 **표 108: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -4242,7 +4242,7 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 ### 시스템 로그 보관 방법
 
 **표 109: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -4298,7 +4298,7 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 ### Alerter
 
 **표 110: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -4339,7 +4339,7 @@ Windows Server 2003에서는 그룹 정책 개체 편집기 내의 다음 위치
 ### Application Layer Gateway Service
 
 **표 111: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -4378,7 +4378,7 @@ ALG</td>
 ### Application Management
 
 **표 112: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -4417,7 +4417,7 @@ AppMgmt</td>
 ### ASP .NET State Service
 
 **표 113: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -4456,7 +4456,7 @@ aspnet_state</td>
 ### Automatic Updates
 
 **표 114: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -4495,7 +4495,7 @@ wuauserv</td>
 ### Background Intelligent Transfer Service
 
 **표 115: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -4534,7 +4534,7 @@ BITS</td>
 ### Certificate Services
 
 **표 116: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -4613,7 +4613,7 @@ SwPrv</td>
 ### Client Service for Netware
   
 **표 118: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -4652,7 +4652,7 @@ NWCWorkstation</td>
 ### ClipBook
 
 **표 119: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -4693,7 +4693,7 @@ ClipSrv</td>
 ### Cluster Service
 
 **표 120: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -4732,7 +4732,7 @@ ClusSvc</td>
 ### COM+ Event System
 
 **표 121: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -4771,7 +4771,7 @@ COMSysApp</td>
 ### COM+ System Application
 
 **표 122: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -4810,7 +4810,7 @@ EventSystem</td>
 ### Computer Browser
 
 **표 123: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -4849,7 +4849,7 @@ EventSystem</td>
 ### Cryptographic Services
 
 **표 124: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -4888,7 +4888,7 @@ CryptSvc</td>
 ### DHCP Client
 
 **표 125: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -4927,7 +4927,7 @@ Dhcp</td>
 ### DHCP Server
 
 **표 126: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -4966,7 +4966,7 @@ DHCPServer</td>
 ### Distributed File System
 
 **표 127: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5005,7 +5005,7 @@ Dfs</td>
 ### Distributed Link Tracking Client
 
 **표 128: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5044,7 +5044,7 @@ TrkWks</td>
 ### Distributed Link Tracking Server
 
 **표 129: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5083,7 +5083,7 @@ TrkSvr</td>
 ### Distributed Transaction Coordinator
 
 **표 130: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5122,7 +5122,7 @@ MSDTC</td>
 ### DNS Client
 
 **표 131: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5161,7 +5161,7 @@ Dnscache</td>
 ### DNS Server
 
 **표 132: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5200,7 +5200,7 @@ DNS</td>
 ### Error Reporting Service
 
 **표 133: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5239,7 +5239,7 @@ ERSvc</td>
 ### Event Log
 
 **표 134: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5278,7 +5278,7 @@ Eventlog</td>
 ### Fax Service
 
 **표 135: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5317,7 +5317,7 @@ Fax</td>
 ### File Replication
 
 **표 136: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5356,7 +5356,7 @@ NtFrs</td>
 ### File Server for Macintosh
 
 **표 137: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5395,7 +5395,7 @@ MacFile</td>
 ### FTP Publishing Service
 
 **표 138: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5434,7 +5434,7 @@ MSFtpsvc</td>
 ### Help and Support
 
 **표 139: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5473,7 +5473,7 @@ helpsvc</td>
 ### HTTP SSL
 
 **표 140: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5512,7 +5512,7 @@ HTTPFilter</td>
 ### Human Interface Device Access
 
 **표 141: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5551,7 +5551,7 @@ HidServ</td>
 ### IAS Jet Database Access
 
 **표 142: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5590,7 +5590,7 @@ IASJet</td>
 ### IIS Admin Service
 
 **표 143: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5629,7 +5629,7 @@ IISADMIN</td>
 ### IMAPI CD?Burning COM Service
 
 **표 144: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5668,7 +5668,7 @@ ImapiService</td>
 ### Indexing Service
 
 **표 145: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5707,7 +5707,7 @@ cisvc</td>
 ### Infrared Monitor
 
 **표 146: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5748,7 +5748,7 @@ Irmon</td>
 ### Internet Authentication Service
 
 **표 147: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5787,7 +5787,7 @@ IAS</td>
 ### ICF(Internet Connection Firewall)/ICS(Internet Connection Sharing)
 
 **표 148: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5826,7 +5826,7 @@ SharedAccess</td>
 ### Intersite Messaging
 
 **표 149: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5865,7 +5865,7 @@ IsmServ</td>
 ### IP Version 6 Helper Service
 
 **표 150: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5904,7 +5904,7 @@ IsmServ</td>
 ### IPSEC 정책 에이전트(IPSec 서비스)
 
 **표 151: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5943,7 +5943,7 @@ PolicyAgent</td>
 ### Kerberos Key Distribution Center
 
 **표 152: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -5982,7 +5982,7 @@ Kdc</td>
 ### License Logging Service
 
 **표 153: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6021,7 +6021,7 @@ LicenseService</td>
 ### Logical Disk Manager
 
 **표 154: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6060,7 +6060,7 @@ dmserver</td>
 ### Logical Disk Manager Administrative Service
 
 **표 155: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6099,7 +6099,7 @@ dmadmin</td>
 ### Message Queuing
 
 **표 156: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6138,7 +6138,7 @@ msmq</td>
 ### Message Queuing Down Level Clients
 
 **표 157: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6177,7 +6177,7 @@ mqds</td>
 ### Message Queuing Triggers
 
 **표 158: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6216,7 +6216,7 @@ Mqtgsvc</td>
 ### Messenger
 
 **표 159: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6255,7 +6255,7 @@ Messenger</td>
 ### Microsoft POP3 Service
 
 **표 160: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6294,7 +6294,7 @@ POP3SVC</td>
 ### MSSQL$UDDI
 
 **표 161: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6333,7 +6333,7 @@ MSSQL$UDDI</td>
 ### MSSQLServerADHelper
 
 **표 162: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6372,7 +6372,7 @@ MSSQLServerADHelper</td>
 ### .NET Framework Support Service
 
 **표 163: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6411,7 +6411,7 @@ CORRTSvc</td>
 ### Netlogon
 
 **표 164: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6450,7 +6450,7 @@ Netlogon</td>
 ### NetMeeting Remote Desktop Sharing
 
 **표 165: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6489,7 +6489,7 @@ mnmsrvc</td>
 ### Network Connections
 
 **표 166: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6528,7 +6528,7 @@ Netman</td>
 ### Network DDE
 
 **표 167: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6567,7 +6567,7 @@ NetDDE</td>
 ### Network DDE DSDM
 
 **표 168: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6606,7 +6606,7 @@ NetDDEdsdm</td>
 ### NLA(Network Location Awareness)
 
 **표 169: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6645,7 +6645,7 @@ NLA</td>
 ### NNTP(Network News Transport Protocol)
 
 **표 170: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6684,7 +6684,7 @@ NntpSvc</td>
 ### NTLM Security Support Provider
 
 **표 171: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6723,7 +6723,7 @@ NtLmSsp</td>
 ### Performance Logs and Alerts
 
 **표 172: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6762,7 +6762,7 @@ SysmonLog</td>
 ### Plug and Play
 
 **표 173: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6801,7 +6801,7 @@ PlugPlay</td>
 ### Portable Media Serial Number
 
 **표 174: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6840,7 +6840,7 @@ WmdmPmSN</td>
 ### Print Server for Macintosh
 
 **표 175: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6879,7 +6879,7 @@ MacPrint</td>
 ### Print Spooler
 
 **표 176: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6918,7 +6918,7 @@ Spooler</td>
 ### Protected Storage
 
 **표 177: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6957,7 +6957,7 @@ ProtectedStorage</td>
 ### Remote Access Auto Connection Manager
 
 **표 178: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -6996,7 +6996,7 @@ RasAuto</td>
 ### Remote Access Connection Manager
 
 **표 179: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -7035,7 +7035,7 @@ RasMan</td>
 ### Remote Administration Service
 
 **표 180: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -7087,7 +7087,7 @@ SrvcSurg</td>
 ### Remote Desktop Help Session Manager
 
 **표 181: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -7126,7 +7126,7 @@ RDSessMgr</td>
 ### Remote Installation
 
 **표 182: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -7165,7 +7165,7 @@ BINLSVC</td>
 ### Remote Procedure Call(RPC)
 
 **표 183: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -7204,7 +7204,7 @@ RpcSs</td>
 ### Remote Procedure Call (RPC) Locator
 
 **표 184: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -7243,7 +7243,7 @@ RpcLocator</td>
 ### Remote Registry Service
 
 **표 185: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -7282,7 +7282,7 @@ RemoteRegistry</td>
 ### Remote Server Manager
 
 **표 186: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -7321,7 +7321,7 @@ AppMgr</td>
 ### Remote Server Monitor
 
 **표 187: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -7360,7 +7360,7 @@ Appmon</td>
 ### Remote Storage Notification
 
 **표 188: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -7399,7 +7399,7 @@ Remote_Storage_User_Link</td>
 ### Remote Storage Server
 
 **표 189: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -7438,7 +7438,7 @@ Remote_Storage_Server</td>
 ### Removable Storage
 
 **표 190: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -7479,7 +7479,7 @@ NtmsSvc</td>
 ### Resultant Set of Policy Provider
 
 **표 191: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -7518,7 +7518,7 @@ RSoPProv</td>
 ### Routing and Remote Access
 
 **표 192: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -7557,7 +7557,7 @@ RemoteAccess</td>
 ### SAP Agent
 
 **표 193: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -7596,7 +7596,7 @@ Nwsapagent</td>
 ### Secondary Logon
 
 **표 194: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -7635,7 +7635,7 @@ Seclogon</td>
 ### Security Accounts Manager
 
 **표 195: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -7674,7 +7674,7 @@ SamSs</td>
 ### Server
 
 **표 196: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -7713,7 +7713,7 @@ lanmanserver</td>
 ### Shell Hardware Detection
 
 **표 197: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -7752,7 +7752,7 @@ ShellHWDetection</td>
 ### Simple Mail Transport Protocol(SMTP)
 
 **표 198: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -7791,7 +7791,7 @@ SMTPSVC</td>
 ### Simple TCP/IP Services
 
 **표 199: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -7851,7 +7851,7 @@ SimpTcp</td>
 ### Single Instance Storage Groveler
 
 **표 200: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -7890,7 +7890,7 @@ Groveler</td>
 ### Smart Card
 
 **표 201: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -7931,7 +7931,7 @@ SCardSvr</td>
 ### SNMP Service
 
 **표 202: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -7970,7 +7970,7 @@ SNMP</td>
 ### SNMP Trap Service
 
 **표 203: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -8009,7 +8009,7 @@ SNMPTRAP</td>
 ### Special Administration Console Helper
 
 **표 204: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -8048,7 +8048,7 @@ Sacsvr</td>
 ### SQLAgent$\*(\*UDDI 또는 WebDB)
 
 **표 205: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -8087,7 +8087,7 @@ SQLAgent$WEBDB</td>
 ### System Event Notification
 
 **표 206: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -8126,7 +8126,7 @@ SENS</td>
 ### Task Scheduler
 
 **표 207: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -8167,7 +8167,7 @@ Schedule</td>
 ### TCP/IP NetBIOS Helper Service
 
 **표 208: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -8206,7 +8206,7 @@ LMHosts</td>
 ### TCP/IP Print Server
 
 **표 209: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -8245,7 +8245,7 @@ LPDSVC</td>
 ### Telephony
 
 **표 210: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -8284,7 +8284,7 @@ TapiSrv</td>
 ### Telnet
 
 **표 211: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -8323,7 +8323,7 @@ Windows용 **Telnet** 시스템 서비스는 텔넷 클라이언트에 ASCII 터
 ### Terminal Services
 
 **표 212: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -8364,7 +8364,7 @@ TermService</td>
 ### Terminal Services Licensing
 
 **표 213: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -8403,7 +8403,7 @@ TermServLicensing</td>
 ### Terminal Services Session Directory
 
 **표 214: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -8442,7 +8442,7 @@ Tssdis</td>
 ### Themes
 
 **표 215: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -8481,7 +8481,7 @@ Themes</td>
 ### Trivial FTP Daemon
 
 **표 216: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -8537,7 +8537,7 @@ tftpd</td>
 ### Uninterruptible Power Supply
 
 **표 217: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -8576,7 +8576,7 @@ UPS</td>
 ### Upload Manager
 
 **표 218: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -8615,7 +8615,7 @@ Uploadmgr</td>
 ### Virtual Disk Service
 
 **표 219: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -8654,7 +8654,7 @@ VDS</td>
 ### Volume Shadow Copy
 
 **표 220: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -8693,7 +8693,7 @@ VSS</td>
 ### WebClient
 
 **표 221: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -8732,7 +8732,7 @@ WebClient</td>
 ### Web Element Manager
 
 **표 222: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -8771,7 +8771,7 @@ elementmgr</td>
 ### Windows Audio
 
 **표 223: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -8810,7 +8810,7 @@ AudioSrv</td>
 ### Windows Image Acquisition (WIA)
 
 **표 224: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -8849,7 +8849,7 @@ StiSvc</td>
 ### Windows Installer
 
 **표 225: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -8888,7 +8888,7 @@ MSIServer</td>
 ### Windows Internet Name Service (WINS)
 
 **표 226: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -8927,7 +8927,7 @@ WINS</td>
 ### Windows Management Instrumentation
 
 **표 227: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -8966,7 +8966,7 @@ winmgmt</td>
 ### Windows Management Instrumentation Driver Extensions
 
 **표 228: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -9005,7 +9005,7 @@ Wmi</td>
 ### Windows 미디어 서비스
 
 **표 229: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -9044,7 +9044,7 @@ WMServer</td>
 ### Windows System Resource Manager
 
 **표 230: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -9083,7 +9083,7 @@ WindowsSystemResourceManager</td>
 ### Windows Time
 
 **표 231: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -9122,7 +9122,7 @@ W32Time</td>
 ### WinHTTP Web Proxy Auto?Discovery Service
 
 **표 232: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -9161,7 +9161,7 @@ WinHttpAutoProxySvc</td>
 ### Wireless Configuration
 
 **표 233: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -9200,7 +9200,7 @@ Standard, Enterprise 및 Datacenter Server의 경우 자동. Web Server의 경�
 ### WMI Performance Adapter
 
 **표 234: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -9239,7 +9239,7 @@ WmiApSrv</td>
 ### Workstation
 
 **표 235: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -9278,7 +9278,7 @@ Lanmanworkstation</td>
 ### World Wide Web Publishing Service
 
 **표 236: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -9330,7 +9330,7 @@ W3SVC</td>
 ### 네트워크 공격에 대한 보안 고려 사항
 
 **표 237: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -9479,7 +9479,7 @@ DoS(서비스 거부) 공격은 컴퓨터 또는 컴퓨터의 특정 서비스�
 ### AFD.SYS 설정
 
 **표 238: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -9556,7 +9556,7 @@ FTP 서버 및 웹 서버와 같은 Windows 소켓 응용 프로그램의 연결
 ### NetBIOS 이름 해제 보안 구성: (NoNameReleaseOnDemand) WINS 서버에서 제외되는 NetBIOS 이름 해제 요청을 컴퓨터에서 무시할 수 있도록 허용
 
 **표 239: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -9597,7 +9597,7 @@ DWORD</td>
 ### 8.3 파일 이름의 자동 생성 사용 안 함: 컴퓨터에서 8.3 스타일 파일 이름의 생성을 중지할 수 있음
 
 **표 240: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -9638,7 +9638,7 @@ DWORD</td>
 ### 자동 실행 사용 안 함: 모든 드라이버에 대해 자동 실행 사용 안 함
 
 **표 241: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -9679,7 +9679,7 @@ DWORD</td>
 ### 화면 보호기 암호 보호 즉시 적용: 화면 보호기 유예 기간 만료 시간(초)(0 권장)
 
 **표 242: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -9720,7 +9720,7 @@ String</td>
 ### 보안 로그 용량 경고: 시스템에서 경고를 생성할 보안 이벤트 로그 용량에 대한 백분율 임계값
 
 **표 243: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -9763,7 +9763,7 @@ DWORD</td>
 ### 안전한 DLL 검색 순서 사용: 안전한 DLL 검색 모드 사용(권장)
 
 **표 244: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -9831,7 +9831,7 @@ DWORD</td>
 또한 기본 제공 Administrator 계정은 위의 권장 구성을 기반으로 Administrator 계정의 이름을 변경하여 만든 새 이름을 가질 수 있습니다. 이 계정을 추가할 때는 새로 이름을 변경한 관리자 계정을 선택해야 합니다.
 
 **표 245: 수동으로 추가되는 사용자 권한 할당**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -9941,7 +9941,7 @@ Windows 2003 Server - 기반 시스템의 경우에는 다음 보안 템플릿�
 ### 터미널 서비스 설정
 
 **표 246: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -9982,7 +9982,7 @@ Windows 2003 Server - 기반 시스템의 경우에는 다음 보안 템플릿�
 아래 표에서 보여 주는 것처럼 세 가지 암호화 수준을 사용할 수 있습니다.
 
 **표 247: 터미널 서비스 암호화 수준**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -10021,7 +10021,7 @@ Windows 2003 Server - 기반 시스템의 경우에는 다음 보안 템플릿�
 ### 오류 보고
 
 **표 248: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -10114,5 +10114,5 @@ Windows Server 2003의 감사 정책에 대한 자세한 내용은 다음 위치
 
 오류 보고 기능을 비활성화하는 방법에 대한 자세한 내용은 다음 위치에서 볼 수 있습니다. <http://www.microsoft.com/technet/treeview/default.asp?url=/technet/prodtechnol/windowsserver2003/proddocs/standard/sysdm_advancd_exception_reporting.asp> ![](images/Dd547909.tous(ko-kr,TechNet.10).gif)
 
-Windows 기업 오류 보고에 대한 자세한 내용은 다음 위치에서 볼 수 있습니다. [http://www.google.co.uk/url?sa=U&start=1&q=http://www.microsoft.com/technet/prodtechnol/office/officexp/reskit/html/appa19.asp&e=7370](http://www.google.co.uk/url?sa=u&start=1&q=http://www.microsoft.com/technet/prodtechnol/office/officexp/reskit/html/appa19.asp&e=7370) ![](images/Dd547909.tous(ko-kr,TechNet.10).gif)
+Windows 기업 오류 보고에 대한 자세한 내용은 다음 위치에서 볼 수 있습니다. [http://www.google.co.uk/url?sa=U&start=1&q=http://www.microsoft.com/technet/prodtechnol/office/officexp/reskit/html/appa19.asp&e=7370](http://www.google.co.uk/url?sa=u&start=1&q=http://www.microsoft.com/technet/prodtechnol/office/officexp/reskit/html/appa19.asp&e=7370) ![](images/Dd547909.tous(ko-kr,TechNet.10).gif)  
 [](#mainsection)[페이지 위쪽](#mainsection)

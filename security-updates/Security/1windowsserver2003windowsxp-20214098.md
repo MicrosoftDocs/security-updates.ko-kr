@@ -111,7 +111,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Dd547943(v=TechNet.10)'
 
 ##### 이 페이지에서
 
-[](#ebaa)[장 요약](#ebaa)
+[](#ebaa)[장 요약](#ebaa)  
 [](#eaaa)[도구 및 템플릿](#eaaa)
 
 ### 장 요약

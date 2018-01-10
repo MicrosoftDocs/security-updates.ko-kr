@@ -15,10 +15,10 @@ Windows XP 보안 가이드
 
 ##### 이 페이지에서
 
-[](#edaa)[소개](#edaa)
-[](#ecaa)[테스트 환경](#ecaa)
-[](#ebaa)[테스트 방법](#ebaa)
-[](#eaaa)[요약](#eaaa)
+[](#edaa)[소개](#edaa)  
+[](#ecaa)[테스트 환경](#ecaa)  
+[](#ebaa)[테스트 방법](#ebaa)  
+[](#eaaa)[요약](#eaaa)  
 
 ### 소개
 
@@ -353,6 +353,7 @@ Windows XP 보안 가이드
 **표 B.1 버그 심각도 분류**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />

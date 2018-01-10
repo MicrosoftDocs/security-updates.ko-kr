@@ -19,12 +19,12 @@ Windows XP 보안 가이드
 
 ##### 이 페이지의 내용
 
-[](#efaa)[Windows XP SP2의 개요](#efaa)
-[](#eeaa)[보안 설정 변경 내용](#eeaa)
-[](#edaa)[관리 템플릿 변경 내용](#edaa)
-[](#ecaa)[컴퓨터 구성 설정](#ecaa)
-[](#ebaa)[사용자 구성 설정](#ebaa)
-[](#eaaa)[요약](#eaaa)
+[](#efaa)[Windows XP SP2의 개요](#efaa)  
+[](#eeaa)[보안 설정 변경 내용](#eeaa)  
+[](#edaa)[관리 템플릿 변경 내용](#edaa)  
+[](#ecaa)[컴퓨터 구성 설정](#ecaa)  
+[](#ebaa)[사용자 구성 설정](#ebaa)  
+[](#eaaa)[요약](#eaaa)  
 
 ### Windows XP SP2의 개요
 
@@ -89,6 +89,7 @@ Windows XP SP 2의 관리 템플릿에는 광범위한 내용이 변경되었습
 **표 A.1: 크래시 감지 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -123,6 +124,7 @@ Internet Explorer 크래시 보고 정보에는 컴퓨터 메모리에서 가져
 **표 A.2: 추가 기능 사용 또는 사용 안 함 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -177,6 +179,7 @@ SP2에서는 작업 환경에서 Internet Explorer 영역 구성의 보안을 �
 **표 A.3: 소프트웨어 실행 허용 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -221,6 +224,7 @@ Microsoft ActiveX 컨트롤 및 파일 다운로드에는 파일의 무결성과
 **표 A.4: MK 프로토콜 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -263,6 +267,7 @@ MK 프로토콜이 그리 폭넓게 사용되지는 않으므로 필요하지 �
 **표 A.5: 일관성 있는 MIME 핸들링 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -307,6 +312,7 @@ MIME 파일 형식 스푸핑은 조직에 위협이 될 수 있습니다. 이러
 **표 A.6: MIME 검색 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -349,6 +355,7 @@ MIME 파일 형식 스푸핑은 조직에 위협이 될 수 있습니다. 이러
 **표 A.7: Window 스크립트 보안 제한 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -391,6 +398,7 @@ Internet Explorer에서는 스크립트가 다양한 유형의 창을 프로그�
 **표 A.8: 영역 수준에 따른 보호 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -433,6 +441,7 @@ Internet Explorer에서 열리는 웹 페이지에는 제한 사항이 적용됩
 **표 A.9: ActiveX 설치 제한 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -479,6 +488,7 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 **표 A.10: 파일 다운로드 제한 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -521,6 +531,7 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 **표 A.11: 지정되지 않은 모든 추가 기능 거부 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -556,7 +567,7 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
   
 **표 A.12: 추가 기능 목록 설정**
 
- 
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -589,10 +600,10 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 -   **값 이름**. 목록에 추가하려는 추가 기능의 CLSID(클래스 식별자)입니다. CLSID는 {000000000-0000-0000-0000-0000000000000}과 같이 중괄호로 묶어야 합니다. 추가 기능의 CLSID는 추가 기능이 참조된 웹 페이지에서 OBJECT 태그를 읽어 알 수 있습니다.
   
 -   **값**. Internet Explorer가 로드될 추가 기능을 거부할지 또는 허용할지 나타내는 숫자입니다. 다음 값을 사용할 수 있습니다.
-  
+
     **표 A.13: 추가 기능 목록 설정 값**
 
- 
+    <p></p>
     <table style="border:1px solid black;">
     <colgroup>
     <col width="50%" />
@@ -619,7 +630,8 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
     </tr>
     </tbody>
     </table>
-  
+
+
 이 정책 설정을 비활성화하면 목록이 삭제됩니다.
   
 작업 환경에 사용될 수 있는 추가 기능을 제어하기 위해서는 **추가 기능 목록에 지정되지 않은 모든 추가 기능 거부** 설정과 **추가 기능 목록** 설정을 모두 사용하는 것이 좋습니다. 이렇게 하면 허가된 추가 기능만 사용될 수 있습니다.
@@ -635,6 +647,7 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 **표 A.14: 암호를 저장 안 함 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -675,6 +688,7 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 **표 A.15: 시스템 종료 옵션을 표시하지 않음 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -709,6 +723,7 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 **표 A.16: 시스템 종료 기본 옵션을 변경하지 않음 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -751,6 +766,7 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 **표 A.17: Windows Update 장치 드라이버 검색 확인 메시지 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -797,6 +813,7 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 **표 A.18: 인증되지 않은 RPC 클라이언트 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -839,6 +856,7 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 **표 A.19: 클라이언트 인증 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -879,6 +897,7 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 **표 A.20: 웹에 게시 항목을 사용할 수 없음 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -911,6 +930,7 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 **표 A.21: 인터넷 다운로드를 사용할 수 없음 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -943,6 +963,7 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 **표 A.22: Windows Messenger 고객 프로그램 사용 안 함 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -975,6 +996,7 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 **표 A.23: 검색 도우미를 업데이트하지 않음 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1009,6 +1031,7 @@ SUS에 대한 자세한 내용은 Software Update Services 페이지(<http://www
 **표 A.24: HTTP 인쇄 사용 안 함 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1045,6 +1068,7 @@ HTTP를 통해 전송되는 정보는 보호되지 않으므로 악의적인 사
 **표 A.25: HTTP로 인쇄 드라이버 다운로드 안 함 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1079,6 +1103,7 @@ HTTP를 통해 전송되는 정보는 보호되지 않으므로 악의적인 사
 **표 A.26: Windows Update 장치 드라이버 검색 안 함 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1125,6 +1150,7 @@ HTTP를 통해 전송되는 정보는 보호되지 않으므로 악의적인 사
 **표 A.27: 모든 네트워크 연결을 보호(도메인 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1161,6 +1187,7 @@ HTTP를 통해 전송되는 정보는 보호되지 않으므로 악의적인 사
 **표 A.28: 예외 허용 안 함(도메인 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1197,6 +1224,7 @@ HTTP를 통해 전송되는 정보는 보호되지 않으므로 악의적인 사
 **표 A.29: 예외 프로그램 정의(도메인 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1235,6 +1263,7 @@ HTTP를 통해 전송되는 정보는 보호되지 않으므로 악의적인 사
 **표 A.30: 예외 로컬 프로그램 허용(도메인 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1269,6 +1298,7 @@ HTTP를 통해 전송되는 정보는 보호되지 않으므로 악의적인 사
 **표 A.31: 원격 관리 허용(도메인 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1309,6 +1339,7 @@ HTTP를 통해 전송되는 정보는 보호되지 않으므로 악의적인 사
 **표 A.32: 파일 및 프린터 공유 허용(도메인 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1347,6 +1378,7 @@ Windows XP를 실행하는 컴퓨터는 일반적으로 파일 및 프린터를 
 **표 A.33: ICMP 허용(도메인 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1385,6 +1417,7 @@ Windows XP를 실행하는 컴퓨터는 일반적으로 파일 및 프린터를 
 **표 A.34: 원격 데스크톱 허용(도메인 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1423,6 +1456,7 @@ Windows XP를 실행하는 컴퓨터는 일반적으로 파일 및 프린터를 
 **표 A.35: UPnP 프레임워크 허용(도메인 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1459,6 +1493,7 @@ UPnP 네트워크 트래픽을 효과적으로 차단하면 작업 환경의 컴
 **표 A.36: 알림 금지(도메인 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1495,6 +1530,7 @@ Windows 방화벽은 특정 프로그램이 예외 프로그램 목록에 프로
 **표 A.37: 유니캐스트 응답 금지(도메인 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1531,6 +1567,7 @@ Windows 방화벽은 특정 프로그램이 예외 프로그램 목록에 프로
 **표 A.38: 예외 포트 정의(도메인 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1571,6 +1608,7 @@ Windows 방화벽 예외 포트 목록은 그룹 정책을 통해 정의되며 �
 **표 A.39: 예외 로컬 포트 허용(도메인 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1619,6 +1657,7 @@ Windows XP에서 NLA(Network Location Awareness)를 사용하여 연결된 네�
 **표 A.40: 모든 네트워크 연결을 보호(표준 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1655,6 +1694,7 @@ Windows XP에서 NLA(Network Location Awareness)를 사용하여 연결된 네�
 **표 A.41: 예외 허용 안 함(표준 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1689,6 +1729,7 @@ Windows XP에서 NLA(Network Location Awareness)를 사용하여 연결된 네�
 **표 A.42: 예외 프로그램 정의(표준 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1727,6 +1768,7 @@ Windows XP에서 NLA(Network Location Awareness)를 사용하여 연결된 네�
 **표 A.43: 예외 로컬 프로그램 허용(표준 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1759,6 +1801,7 @@ Windows XP에서 NLA(Network Location Awareness)를 사용하여 연결된 네�
 **표 A.44: 원격 관리 허용(도메인 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1799,6 +1842,7 @@ Windows XP에서 NLA(Network Location Awareness)를 사용하여 연결된 네�
 **표 A.45: 파일 및 프린터 공유 허용(표준 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1837,6 +1881,7 @@ Windows XP를 실행하는 컴퓨터는 일반적으로 파일 및 프린터를 
 **표 A.46: ICMP 허용(표준 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1875,6 +1920,7 @@ Windows XP를 실행하는 컴퓨터는 일반적으로 파일 및 프린터를 
 **표 A.47: 원격 데스크톱 허용(표준 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1913,6 +1959,7 @@ Windows XP를 실행하는 컴퓨터는 일반적으로 파일 및 프린터를 
 **표 A.48: UPnP 프레임워크 허용(표준 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1949,6 +1996,7 @@ UPnP 네트워크 트래픽을 효과적으로 차단하면 컴퓨터가 공격�
 **표 A.49: 알림 금지(표준 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1985,6 +2033,7 @@ Windows 방화벽은 특정 프로그램이 예외 프로그램 목록에 프로
 **표 A.50: 유니캐스트 응답 금지(표준 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2021,6 +2070,7 @@ Windows 방화벽은 특정 프로그램이 예외 프로그램 목록에 프로
 **표 A.51: 예외 포트 정의(표준 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2061,6 +2111,7 @@ Windows 방화벽 예외 포트 목록은 그룹 정책을 통해 정의되며 �
 **표 A.52: 예외 로컬 포트 허용(표준 프로필) 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2111,6 +2162,7 @@ Windows 방화벽 예외 포트 목록은 그룹 정책을 통해 정의되며 �
 **표 A.53: 영역 정보를 보존하지 않음 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -2139,6 +2191,7 @@ Windows 방화벽 예외 포트 목록은 그룹 정책을 통해 정의되며 �
 **표 A.54: 영역 정보를 제거하는 메커니즘 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -2169,6 +2222,7 @@ Windows 방화벽 예외 포트 목록은 그룹 정책을 통해 정의되며 �
 **표 A.55: 바이러스 백신 프로그램 알림 설정**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />

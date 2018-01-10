@@ -6,8 +6,6 @@ ms:contentKeyID: 61230683
 ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms06-sep(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2006 년 9 월 Microsoft 보안 공지 요약
 =====================================
 
@@ -35,7 +33,7 @@ Security Bulletin Summary
 긴급(2)
 -------
 
-<span></span>
+
 | 공지 번호                  | Microsoft 보안 공지 MS06-054                                                                                                                                        |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **공지 제목**              | [**Microsoft Publisher의 취약점으로 인한 원격 코드 실행 문제점(910729)**](http://technet.microsoft.com/security/bulletin/ms06-054)                                  |
@@ -55,7 +53,7 @@ Security Bulletin Summary
 중요(1)
 -------
 
-<span></span>
+
 | 공지 번호                  | Microsoft 보안 공지 MS06-052                                                                                                                                         |
 |----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **공지 제목**              | [**PGM(Pragmatic General Multicast)의 취약점으로 인한 원격 코드 실행 문제점(919007)**](http://technet.microsoft.com/security/bulletin/ms06-052)                      |
@@ -67,7 +65,7 @@ Security Bulletin Summary
 보통(1)
 -------
 
-<span></span>
+
 | 공지 번호                  | Microsoft 보안 공지 MS06-053:                                                                                                                                        |
 |----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **공지 제목**              | [**인덱싱 서비스 취약점으로 인한 사이트 간 스크립팅 문제점(920685)**](http://technet.microsoft.com/security/bulletin/ms06-053)                                       |
@@ -79,7 +77,7 @@ Security Bulletin Summary
 배포
 ----
 
-<span></span>
+
 **Software Update Services:**
 
 관리자는 Microsoft Software Update Services(SUS)를 사용하여 Windows 2000 및 Windows Server 2003 기반 서버 그리고 Windows 2000 Professional 또는 Windows XP Professional을 실행하는 데스크톱 시스템에 최신 중요 업데이트와 보안 업데이트를 신속하고 안전하게 배포할 수 있습니다.

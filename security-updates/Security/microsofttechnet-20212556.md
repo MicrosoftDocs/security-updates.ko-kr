@@ -15,12 +15,12 @@ Microsoft는 현재 이 교육 과정에 대한 추가 콘텐츠를 개발 중�
 
 ##### 이 페이지에서
 
-[](#ebaa)[관련 자료](#ebaa)
+[](#ebaa)[관련 자료](#ebaa)  
 [](#eaaa)[콘텐츠 형식 및 레벨 정의](#eaaa)
 
 ### 관련 자료
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -91,7 +91,7 @@ Microsoft는 현재 이 교육 과정에 대한 추가 콘텐츠를 개발 중�
 </tbody>
 </table>
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -547,7 +547,7 @@ Microsoft는 현재 이 교육 과정에 대한 추가 콘텐츠를 개발 중�
 </tbody>
 </table>
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -772,7 +772,7 @@ Microsoft는 현재 이 교육 과정에 대한 추가 콘텐츠를 개발 중�
 </tbody>
 </table>
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -1057,13 +1057,13 @@ Microsoft는 현재 이 교육 과정에 대한 추가 콘텐츠를 개발 중�
   
 ### 콘텐츠 형식 및 레벨 정의
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 콘텐츠 형식 키  
 </th>
-<th colspan="2">
+<th style="border:1px solid black;" colspan="2">
 레벨 키  
 </th>
 </tr>

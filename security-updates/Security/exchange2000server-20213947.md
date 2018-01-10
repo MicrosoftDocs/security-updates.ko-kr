@@ -11,13 +11,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Dd277368(v=TechNet.10)'
 
 ##### 이 페이지에서
 
-[](#xsltsection121121120120)[검사 목록 사용법](#xsltsection121121120120)
-[](#xsltsection122121120120)[그룹 정책 설정을 사용하여 Exchange 보안 유지](#xsltsection122121120120)
-[](#xsltsection124121120120)[Exchange 설치 및 업데이트](#xsltsection124121120120)
-[](#xsltsection126121120120)[추가 보안 작업](#xsltsection126121120120)
-[](#xsltsection128121120120)[OWA 프런트 엔드 서버의 저장소](#xsltsection128121120120)
-[](#xsltsection130121120120)[SMTP 배너](#xsltsection130121120120)
-[](#xsltsection132121120120)[Exchange Server 그룹 잠금](#xsltsection132121120120)
+[](#xsltsection121121120120)[검사 목록 사용법](#xsltsection121121120120)  
+[](#xsltsection122121120120)[그룹 정책 설정을 사용하여 Exchange 보안 유지](#xsltsection122121120120)  
+[](#xsltsection124121120120)[Exchange 설치 및 업데이트](#xsltsection124121120120)  
+[](#xsltsection126121120120)[추가 보안 작업](#xsltsection126121120120)  
+[](#xsltsection128121120120)[OWA 프런트 엔드 서버의 저장소](#xsltsection128121120120)  
+[](#xsltsection130121120120)[SMTP 배너](#xsltsection130121120120)  
+[](#xsltsection132121120120)[Exchange Server 그룹 잠금](#xsltsection132121120120)  
 
 검사 목록 사용법
 ----------------

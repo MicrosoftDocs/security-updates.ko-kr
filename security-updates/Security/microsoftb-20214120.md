@@ -37,18 +37,16 @@ HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\rqs
 
     사용자 지정 DLL을 만들어 차단 필터 제거 기능을 구현하면 다음과 같은 함수가 표시됩니다.
 
-    
-        ```
-            DWORD MprAdminConnectionRemoveQuarantine  
-            (HANDLE hRasServer,  HANDLE hRasConnection,  BOOL fIsIpAddress)  
-        ```
+    ```
+        DWORD MprAdminConnectionRemoveQuarantine  
+        (HANDLE hRasServer,  HANDLE hRasConnection,  BOOL fIsIpAddress)  
+    ```
 
 -   **Validator(REG\_SZ)**. 서명 문자열을 보낸 내 RQC가 적합한지 여부를 확인하는 모듈을 지정합니다. 기본적으로 RQS.exe는 AllowedSet 문자열을 비교합니다. 사용자 지정 authenticator dll은 다음과 같은 함수를 표시해야 합니다.
 
-    
-        ```
-            BOOL ClientAuthenticate(LPCWSTR lpwsString). 
-        ```
+    ```
+        BOOL ClientAuthenticate(LPCWSTR lpwsString). 
+    ```
     인증할 문자열을 포함하는 lpwsString
 
 [](#mainsection)[페이지 위쪽](#mainsection)

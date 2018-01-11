@@ -111,7 +111,7 @@ Windows Server 2003 파일 서버 강화
 
 **표 1: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -152,7 +152,7 @@ Windows Server 2003 파일 서버 강화
   
 **표 6.2: 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -227,7 +227,7 @@ IPSec 필터 사용에 대한 자세한 내용은 모듈 "추가 구성원 서�
   
 **표 3: 파일 서버 IPSec 네트워크 트래픽 맵**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="12%" />

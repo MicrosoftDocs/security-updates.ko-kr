@@ -11,18 +11,20 @@ Windows Server 2003 인프라 서버 강화
 
 ##### 이 페이지에서
 
-[](#xsltsection121121120120)[모듈 정보](#xsltsection121121120120)
-[](#xsltsection122121120120)[목표](#xsltsection122121120120)
-[](#xsltsection123121120120)[적용 범위](#xsltsection123121120120)
-[](#xsltsection124121120120)[모듈 사용법](#xsltsection124121120120)
-[](#xsltsection125121120120)[개요](#xsltsection125121120120)
-[](#xsltsection126121120120)[감사 정책 설정](#xsltsection126121120120)
-[](#xsltsection127121120120)[사용자 권한 할당](#xsltsection127121120120)
-[](#xsltsection128121120120)[보안 옵션](#xsltsection128121120120)
-[](#xsltsection129121120120)[이벤트 로그 설정](#xsltsection129121120120)
-[](#xsltsection130121120120)[시스템 서비스](#xsltsection130121120120)
-[](#xsltsection131121120120)[추가 보안 설정](#xsltsection131121120120)
-[](#xsltsection132121120120)[요약](#xsltsection132121120120)<span id="XSLTsection121121120120"></span>
+[](#xsltsection121121120120)[모듈 정보](#xsltsection121121120120)  
+[](#xsltsection122121120120)[목표](#xsltsection122121120120)  
+[](#xsltsection123121120120)[적용 범위](#xsltsection123121120120)  
+[](#xsltsection124121120120)[모듈 사용법](#xsltsection124121120120)  
+[](#xsltsection125121120120)[개요](#xsltsection125121120120)  
+[](#xsltsection126121120120)[감사 정책 설정](#xsltsection126121120120)  
+[](#xsltsection127121120120)[사용자 권한 할당](#xsltsection127121120120)  
+[](#xsltsection128121120120)[보안 옵션](#xsltsection128121120120)  
+[](#xsltsection129121120120)[이벤트 로그 설정](#xsltsection129121120120)  
+[](#xsltsection130121120120)[시스템 서비스](#xsltsection130121120120)  
+[](#xsltsection131121120120)[추가 보안 설정](#xsltsection131121120120)  
+[](#xsltsection132121120120)[요약](#xsltsection132121120120)
+
+<span id="XSLTsection121121120120"></span>
 모듈 정보
 ---------
 
@@ -119,7 +121,7 @@ Windows Server 2003 인프라 서버 강화
 ### DHCP 서버
 
 **표 1: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -160,7 +162,7 @@ IP 주소 구성을 클라이언트에 할당하려면 DHCP 서버에서 DHCP �
 ### WINS
 
 **표 2: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -282,7 +284,7 @@ IPSec 필터 사용에 대한 자세한 내용은 모듈 "추가 구성원 서�
 다음 표는 이 설명서에 정의된 고급 보안 환경에서 DHCP 서버에 만들 수 있는 모든 IPSec 필터를 나열합니다.
 
 **표 3: DHCP 서버 IPSec 네트워크 트래픽 맵**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="12%" />
@@ -422,7 +424,7 @@ ME</td>
 다음 표는 이 설명서에 정의된 고급 보안 환경에서 WINS 서버에 만들 수 있는 모든 IPSec 필터를 나열합니다.
 
 **표 4: WINS 서버 IPSec 네트워크 트래픽 맵**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="12%" />

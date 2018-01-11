@@ -13,12 +13,12 @@ Exchange Server 환경의 스팸 근절 방법
 
 ##### 이 페이지에서
 
-[](#efaa)[소개](#efaa)
-[](#eeaa)[정의](#eeaa)
-[](#edaa)[당면 과제](#edaa)
-[](#ecaa)[솔루션](#ecaa)
-[](#ebaa)[요약](#ebaa)
-[](#eaaa)[참고 자료](#eaaa)
+[](#efaa)[소개](#efaa)  
+[](#eeaa)[정의](#eeaa)  
+[](#edaa)[당면 과제](#edaa)  
+[](#ecaa)[솔루션](#ecaa)   
+[](#ebaa)[요약](#ebaa)  
+[](#eaaa)[참고 자료](#eaaa)  
 
 ### 소개
 

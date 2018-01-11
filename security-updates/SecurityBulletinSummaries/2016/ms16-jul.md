@@ -6,8 +6,6 @@ ms:contentKeyID: 73201113
 ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms16-jul(v=Security.10)'
 ---
 
-MSRC ppDocument 템플릿
-
 2016년 7월 Microsoft 보안 공지 요약
 ===================================
 

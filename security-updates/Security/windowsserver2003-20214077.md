@@ -17,7 +17,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Dd547922(v=TechNet.10)'
 
 ### Active Directory 도메인 컨트롤러 OU 준비:
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -72,7 +72,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Dd547922(v=TechNet.10)'
   
 ### 도메인 컨트롤러 강화 단계:
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />

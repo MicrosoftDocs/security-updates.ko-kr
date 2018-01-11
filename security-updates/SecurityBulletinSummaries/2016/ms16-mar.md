@@ -6,8 +6,6 @@ ms:contentKeyID: 72464137
 ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms16-mar(v=Security.10)'
 ---
 
-MSRC ppDocument 서식 파일
-
 2016년 3월 Microsoft 보안 공지 요약
 ===================================
 

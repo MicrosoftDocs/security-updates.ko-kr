@@ -16,7 +16,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Dd547926(v=TechNet.10)'
 
 ### Microsoft Active Directory IIS 서버 OU 구조 구성:
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -64,7 +64,7 @@ GPO를 IIS 서버 OU에 연결합니다.</td>
 
 ### IIS 서버 강화 단계:
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">

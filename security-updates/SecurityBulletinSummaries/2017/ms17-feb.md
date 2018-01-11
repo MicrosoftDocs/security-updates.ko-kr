@@ -29,7 +29,7 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 
 영향받는 소프트웨어에 대한 자세한 내용은 **영향받는 소프트웨어**라는 다음 절을 참조하십시오.
 
-<p> </p>
+<p></p>
 <table style="width:100%;">
 <colgroup>
 <col width="16%" />
@@ -77,7 +77,7 @@ Adobe Flash Player</td>
 
 아래 열에서 "최신 소프트웨어 릴리스"는 관련 소프트웨어를 나타내며 "이전 소프트웨어 릴리스"는 공지의 "영향받는 소프트웨어" 및 "영향받지 않는 소프트웨어" 표에 나열된 지원 대상인 관련 소프트웨어의 모든 이전 릴리스를 나타냅니다.
 
-<p> </p> 
+<p></p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;">
@@ -147,7 +147,7 @@ Adobe Flash Player</td>
 
 ### Windows 운영 체제 및 구성 요소
 
-<p> </p> 
+<p></p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">

@@ -21,9 +21,9 @@ Data Encryption Toolkit for Mobile PCs 계획 및 구현 가이드
 
 ##### 이 페이지에서
 
-[](#edae)[BitLocker 드라이브 암호화 시나리오](#edae)
-[](#ecae)[암호화 파일 시스템 시나리오](#ecae)
-[](#ebae)[자세한 정보](#ebae)
+[](#edae)[BitLocker 드라이브 암호화 시나리오](#edae)  
+[](#ecae)[암호화 파일 시스템 시나리오](#ecae)  
+[](#ebae)[자세한 정보](#ebae)  
 
 ### BitLocker 드라이브 암호화 시나리오
 

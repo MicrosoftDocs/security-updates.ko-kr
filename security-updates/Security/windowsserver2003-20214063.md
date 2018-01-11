@@ -11,17 +11,17 @@ Windows Server 2003 환경에서 도메인 인프라 구성
 
 ##### 이 페이지에서
 
-[](#xsltsection121121120120)[모듈 정보](#xsltsection121121120120)
-[](#xsltsection122121120120)[목표](#xsltsection122121120120)
-[](#xsltsection123121120120)[적용 범위](#xsltsection123121120120)
-[](#xsltsection124121120120)[모듈 사용법](#xsltsection124121120120)
-[](#xsltsection125121120120)[개요](#xsltsection125121120120)
-[](#xsltsection126121120120)[도메인 정책](#xsltsection126121120120)
-[](#xsltsection127121120120)[계정 정책](#xsltsection127121120120)
-[](#xsltsection128121120120)[암호 정책](#xsltsection128121120120)
-[](#xsltsection129121120120)[계정 잠금 정책](#xsltsection129121120120)
-[](#xsltsection130121120120)[Kerberos 정책](#xsltsection130121120120)
-[](#xsltsection131121120120)[보안 옵션](#xsltsection131121120120)
+[](#xsltsection121121120120)[모듈 정보](#xsltsection121121120120)  
+[](#xsltsection122121120120)[목표](#xsltsection122121120120)  
+[](#xsltsection123121120120)[적용 범위](#xsltsection123121120120)  
+[](#xsltsection124121120120)[모듈 사용법](#xsltsection124121120120)  
+[](#xsltsection125121120120)[개요](#xsltsection125121120120)  
+[](#xsltsection126121120120)[도메인 정책](#xsltsection126121120120)  
+[](#xsltsection127121120120)[계정 정책](#xsltsection127121120120)  
+[](#xsltsection128121120120)[암호 정책](#xsltsection128121120120)  
+[](#xsltsection129121120120)[계정 잠금 정책](#xsltsection129121120120)  
+[](#xsltsection130121120120)[Kerberos 정책](#xsltsection130121120120)  
+[](#xsltsection131121120120)[보안 옵션](#xsltsection131121120120)  
 [](#xsltsection132121120120)[요약](#xsltsection132121120120)<span id="XSLTsection121121120120"></span>
 모듈 정보
 ---------
@@ -409,7 +409,7 @@ net time \\\\&lt;timecomputer&gt; /set /yes
 이 보안 설명서는 몇 가지 서버 역할을 정의합니다. 다음 표에는 위 프로세스를 따를 경우 이 표에 나오는 각 서버 역할에 대한 보안을 개선하기 위해 만들어진 템플릿도 나옵니다.
 
 **표 1: Windows Server 2003 역할**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -515,7 +515,7 @@ OU 디자인 예
 앞에서 설명한 권장 OU와 그룹 정책은 Windows Server 2003을 실행하는 컴퓨터를 위해 회사의 기존 OU 구조를 다시 구성하는 토대로 사용하거나 새로운 환경을 만드는 기초로 사용할 수 있습니다. 뿐만 아니라 관리자는 자신이 미리 정의해 둔 관리 범위를 사용하여 각 관리 그룹을 만들 수 있습니다. 다음 표에는 각 그룹 및 그룹이 관리하는 OU의 상관 관계가 설명되어 있습니다.
 
 **표 2: OU 및 관리 그룹**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -666,7 +666,7 @@ Domain Engineering은 해당 GPO를 사용하여 각 관리 그룹을 적절한 
 ### 최근 암호 기억
 
 **표 3: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -703,7 +703,7 @@ Domain Engineering은 해당 GPO를 사용하여 각 관리 그룹을 적절한 
 ### 최대 암호 사용 기간
 
 **표 4: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -740,7 +740,7 @@ Domain Engineering은 해당 GPO를 사용하여 각 관리 그룹을 적절한 
 ### 최소 암호 사용 기간
 
 **표 5: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -783,7 +783,7 @@ Domain Engineering은 해당 GPO를 사용하여 각 관리 그룹을 적절한 
 ### 최소 암호 길이
 
 **표 6: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -832,7 +832,7 @@ Domain Engineering은 해당 GPO를 사용하여 각 관리 그룹을 적절한 
 ### 암호는 복잡성을 만족해야 함
 
 **표 7: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -873,7 +873,7 @@ Domain Engineering은 해당 GPO를 사용하여 각 관리 그룹을 적절한 
 ### 해독 가능한 암호화를 사용하여 암호 저장
 
 **표 8: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -938,7 +938,7 @@ Windows Server 2003은 보안 정책의 값 설정 충돌을 피하기 위해 �
 ### 계정 잠금 기간
 
 **표 9: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -977,7 +977,7 @@ Windows Server 2003은 보안 정책의 값 설정 충돌을 피하기 위해 �
 ### 계정 잠금 임계값
 
 **표 10: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1027,7 +1027,7 @@ Windows Server 2003은 보안 정책의 값 설정 충돌을 피하기 위해 �
 ### 다음 시간 후 계정 잠금 수를 원래대로 설정
 
 **표 11: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1086,7 +1086,7 @@ Kerberos 정책은 도메인 사용자 계정에 사용되며 티켓 수명 및 
 ### Microsoft 네트워크 서버: 로그온 시간이 만료되면 클라이언트 연결 끊기
 
 **표 12: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1125,7 +1125,7 @@ Kerberos 정책은 도메인 사용자 계정에 사용되며 티켓 수명 및 
 ### 네트워크 액세스: 익명 SID/이름 변환 허용
 
 **표 13: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1166,7 +1166,7 @@ Kerberos 정책은 도메인 사용자 계정에 사용되며 티켓 수명 및 
 ### 네트워크 보안: 로그온 시간이 만료되면 강제로 로그오프
 
 **표 14: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />

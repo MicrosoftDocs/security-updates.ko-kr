@@ -13,13 +13,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Cc875819(v=TechNet.10)'
 
 ##### 이 페이지에서
 
-[](#ehaa)[소개](#ehaa)
-[](#egaa)[시작하기 전에](#egaa)
-[](#efaa)[보안 패치 적용](#efaa)
-[](#eeaa)[기존 그룹 정책 개체 업데이트](#eeaa)
-[](#edaa)[그룹 정책 개체 구성](#edaa)
-[](#ecaa)[Internet Explorer 보안 설정 정보](#ecaa)
-[](#ebaa)[GPUpdate를 사용하여 새 구성 적용](#ebaa)
+[](#ehaa)[소개](#ehaa)  
+[](#egaa)[시작하기 전에](#egaa)  
+[](#efaa)[보안 패치 적용](#efaa)  
+[](#eeaa)[기존 그룹 정책 개체 업데이트](#eeaa)  
+[](#edaa)[그룹 정책 개체 구성](#edaa)  
+[](#ecaa)[Internet Explorer 보안 설정 정보](#ecaa)  
+[](#ebaa)[GPUpdate를 사용하여 새 구성 적용](#ebaa)  
 [](#eaaa)[관련 정보](#eaaa)
 
 ### 소개
@@ -110,7 +110,7 @@ Active Directory의 GPO를 관리하는 가장 좋은 방법은 Microsoft 웹 �
 
 **표 1. 중소기업용 Windows 방화벽 권장 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -212,7 +212,7 @@ Internet Explorer는 웹 사이트를 인터넷, 로컬 인트라넷, 신뢰할 
   
 **표 2. 보안 영역 설명 및 기본 보안 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -259,7 +259,7 @@ Internet Explorer는 웹 사이트를 인터넷, 로컬 인트라넷, 신뢰할 
   
 **표 3. 보안 영역 정책 설정**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />

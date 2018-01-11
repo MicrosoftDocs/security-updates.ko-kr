@@ -11,17 +11,17 @@ Windows Server 2003 도메인 컨트롤러 강화
 
 ##### 이 페이지에서
 
-[](#xsltsection121121120120)[모듈 정보](#xsltsection121121120120)
-[](#xsltsection122121120120)[목표](#xsltsection122121120120)
-[](#xsltsection123121120120)[적용 범위](#xsltsection123121120120)
-[](#xsltsection124121120120)[모듈 사용법](#xsltsection124121120120)
-[](#xsltsection125121120120)[개요](#xsltsection125121120120)
-[](#xsltsection126121120120)[감사 정책 설정](#xsltsection126121120120)
-[](#xsltsection127121120120)[사용자 권한 할당](#xsltsection127121120120)
-[](#xsltsection128121120120)[보안 옵션](#xsltsection128121120120)
-[](#xsltsection129121120120)[이벤트 로그 설정](#xsltsection129121120120)
-[](#xsltsection130121120120)[시스템 서비스](#xsltsection130121120120)
-[](#xsltsection131121120120)[추가 보안 설정](#xsltsection131121120120)
+[](#xsltsection121121120120)[모듈 정보](#xsltsection121121120120)  
+[](#xsltsection122121120120)[목표](#xsltsection122121120120)  
+[](#xsltsection123121120120)[적용 범위](#xsltsection123121120120)  
+[](#xsltsection124121120120)[모듈 사용법](#xsltsection124121120120)  
+[](#xsltsection125121120120)[개요](#xsltsection125121120120)  
+[](#xsltsection126121120120)[감사 정책 설정](#xsltsection126121120120)  
+[](#xsltsection127121120120)[사용자 권한 할당](#xsltsection127121120120)  
+[](#xsltsection128121120120)[보안 옵션](#xsltsection128121120120)  
+[](#xsltsection129121120120)[이벤트 로그 설정](#xsltsection129121120120)  
+[](#xsltsection130121120120)[시스템 서비스](#xsltsection130121120120)  
+[](#xsltsection131121120120)[추가 보안 설정](#xsltsection131121120120)  
 [](#xsltsection132121120120)[요약](#xsltsection132121120120)<span id="XSLTsection121121120120"></span>
 모듈 정보
 ---------
@@ -88,7 +88,7 @@ Windows Server 2003 도메인 컨트롤러 강화
 도메인 컨트롤러 템플릿은 이 설명서에 정의된 세 가지 환경의 보안 요구를 해결하도록 설계되었습니다. 다음 표는 이 설명서에 포함된 도메인 컨트롤러 .inf 파일과 이러한 환경 사이의 관계를 보여 줍니다. 예를 들어, Enterprise Client - Domain Controller.inf 파일은 엔터프라이즈 클라이언트 환경을 위한 보안 템플릿입니다.
 
 **표 1: 도메인 컨트롤러 기준 보안 템플릿**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -135,7 +135,7 @@ DCBP는 도메인 컨트롤러에 대한 여러 가지 사용자 권한 할당�
 ### 네트워크에서 이 컴퓨터 액세스
 
 **표 2: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -172,7 +172,7 @@ Administrators, Authenticated Users, ENTERPRISE DOMAIN CONTROLLERS</td>
 ### 도메인에 워크스테이션 추가
 
 **표 3: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -215,7 +215,7 @@ Active Directory 도메인에서는 각 컴퓨터 계정이 도메인 리소스�
 ### 로컬 로그온 허용
 
 **표 4: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -256,7 +256,7 @@ Administrators, Account Operators, Backup Operators, Print Operators 및 Server 
 ### 터미널 서비스를 통한 로그온 허용
 
 **표 5: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -297,7 +297,7 @@ Administrators, Account Operators, Backup Operators, Print Operators 및 Server 
 ### 시스템 시간 변경
 
 **표 6: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -340,7 +340,7 @@ Windows 시간 서비스에 대한 자세한 내용은 [http://support.microsoft
 ### 컴퓨터 및 사용자 계정을 위임용으로 트러스트할 수 있음
 
 **표 7: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -381,7 +381,7 @@ Windows 시간 서비스에 대한 자세한 내용은 [http://support.microsoft
 ### 장치 드라이버 로드 및 언로드
 
 **표 8: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -420,7 +420,7 @@ Administrators, Print Operators</td>
 ### 파일 및 디렉터리 복원
 
 **표 9: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -459,7 +459,7 @@ Administrators, Backup Operators, Server Operators</td>
 ### 시스템 종료
 
 **표 10: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -505,7 +505,7 @@ Administrators, Server Operators, Print Operators, Backup Operators</td>
 ### 네트워크 보안: 다음 암호 변경 시 Lan Manager 해시 값 저장 안 함
 
 **표 11: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -562,7 +562,7 @@ DCBP는 엔터프라이즈 클라이언트와 고급 보안 환경의 도메인 
 ### Distributed File System
 
 **표 12: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -603,7 +603,7 @@ Dfs</td>
 ### DNS Server
 
 **표 13: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -646,7 +646,7 @@ Active Directory의 안정성과 가용성은 **DNS Server** 서비스의 올바
 ### File Replication
 
 **표 14: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -687,7 +687,7 @@ NtFrs</td>
 ### Intersite Messaging
 
 **표 15: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -730,7 +730,7 @@ IsmServ</td>
 ### Kerberos Key Distribution Center
 
 **표 16: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -773,7 +773,7 @@ Kdc</td>
 ### Remote Procedure Call(RPC) Locator
 
 **표 17: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -829,7 +829,7 @@ DCBP를 통해 적용되는 대부분의 사용자 권한 할당은 [http://go.m
 또한 기본 제공 Administrator 계정 이름이 모듈 "Windows Server 2003 서버의 구성원 서버 기준 만들기"에서 설명하는 몇 가지 권장 사항을 바탕으로 변경되었을 수 있습니다. Administrator 계정을 추가할 때는 이름이 변경된 계정을 지정했는지 확인하십시오.
 
 **표 18: 수동으로 추가된 사용자 권한 할당**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -905,7 +905,7 @@ Active Directory의 무결성, 안정성 및 가용성을 효과적으로 모니
 시스템 키 유틸리티(Syskey)는 오프라인으로 암호를 알아내는 소프트웨어로부터 방어하는 추가 보안 기능을 제공합니다. Syskey는 강력한 암호화 기술을 사용하여 디렉터리 서비스에 저장된 계정 암호 정보를 보호합니다.
 
 **표 19: Syskey 모드**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -1061,7 +1061,7 @@ Windows Server 2003에는 삭제할 수 없지만 이름을 변경할 수는 있
 ### 터미널 서비스 설정
 
 **표 20: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1101,7 +1101,7 @@ Computer Configuration\\Administrative Templates\\Windows Components\\Terminal S
 사용할 수 있는 암호화 수준은 세 가지가 있습니다.
 
 **표 21: 터미널 서비스 암호화 수준**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -1139,7 +1139,7 @@ Computer Configuration\\Administrative Templates\\Windows Components\\Terminal S
 ### 오류 보고
 
 **표 22: 설정**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1188,7 +1188,7 @@ IPSec 필터 사용에 대한 자세한 내용은 모듈 "추가 구성원 서�
 다음 표는 이 설명서에 정의된 고급 보안 환경에서 도메인 컨트롤러에 만들어야 하는 모든 IPSec 필터를 나열합니다.
 
 **표 23: 도메인 컨트롤러 IPSec 필터 네트워크 트래픽 맵**
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="12%" />

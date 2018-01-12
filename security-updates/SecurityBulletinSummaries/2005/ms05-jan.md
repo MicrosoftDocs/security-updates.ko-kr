@@ -6,8 +6,6 @@ ms:contentKeyID: 61230666
 ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms05-jan(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2005 년 1 월 Microsoft 보안 공지 요약
 =====================================
 

@@ -6,8 +6,6 @@ ms:contentKeyID: 61230672
 ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms06-apr(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2006 년 4 월 Microsoft 보안 공지 요약
 =====================================
 

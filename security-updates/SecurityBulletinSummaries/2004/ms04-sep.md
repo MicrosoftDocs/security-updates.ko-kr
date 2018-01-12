@@ -6,8 +6,6 @@ ms:contentKeyID: 61230661
 ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms04-sep(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2004 년 9 월 Microsoft 보안 공지 요약
 =====================================
 

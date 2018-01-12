@@ -6,8 +6,6 @@ ms:contentKeyID: 61230665
 ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms05-feb(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2005 년 2 월 Microsoft 보안 공지 요약
 =====================================
 

@@ -1,0 +1,126 @@
+---
+TOCTitle: Windows XP 보안 가이드의 개요
+Title: Windows XP 보안 가이드의 개요
+ms:assetid: 'fb31fa9b-58c8-4b6c-aa93-f49128e79916'
+ms:contentKeyID: 20213964
+ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Cc163061(v=TechNet.10)'
+---
+
+Windows XP 보안 가이드
+======================
+
+개요
+
+게시 날짜: 2003년 5월 22일 | 업데이트 날짜: 2005년 10월 20일
+
+IT 환경의 보안 수준은 대단히 낮은 편입니다. 그러나 보안 프로젝트 중에 클라이언트 운영 체제가 간과되는 경우가 자주 있습니다. 따라서 조직에서 Microsoft® Windows® XP Professional SP2(서비스 팩 2)를 구현하려는 경우 배포 계획에 보안 측면을 반드시 포함시켜야 합니다.
+
+Windows XP 기본 설치는 상당히 안전한 편이지만 사용하는 클라이언트 컴퓨터의 보안, 사용 편의성 및 기능 간의 상충 관계를 잘 이해하는 것이 중요합니다. 이러한 관계를 명확히 이해하면 조직에 배포된 Windows XP의 보안을 최대화할 수 있습니다.
+
+이 가이드에서는 세 가지 다른 환경에서 Windows XP SP2 실행 컴퓨터의 보안을 강화하는 방법을 설명합니다.
+
+-   **EC(엔터프라이즈 클라이언트)**. 이 환경의 클라이언트 컴퓨터는 Active Directory® 디렉터리 서비스 도메인에 속하며 Windows 2000 이상의 Windows 운영 체제가 실행되는 시스템과만 통신하면 됩니다.
+
+-   **SA(독립 실행형)**. 이 환경의 클라이언트 컴퓨터는 Active Directory 도메인에 속하지 않으며 Windows NT® 4.0 실행 시스템과 통신해야 할 수 있습니다.
+
+-   **SSLF(특수 보안 – 기능 제한)**. 이 환경에서는 보안이 상당히 중요하므로 기능 및 관리 효율성 측면을 상당 부분 포기해야 합니다. 예를 들어 군사 기관 및 정보 기관의 컴퓨터는 이러한 유형의 환경에서 사용됩니다.
+
+##### 이 페이지에서
+
+[](#eeaa)[설명서가 필요한 사용자](#eeaa)  
+[](#edaa)[콘텐츠 로드맵](#edaa)  
+[](#ecaa)[관련 리소스](#ecaa)  
+[](#ebaa)[가이드에 대한 의견](#ebaa)  
+[](#eaaa)[컨설팅 및 지원 서비스](#eaaa)
+
+### 설명서가 필요한 사용자
+
+이 가이드는 주로 엔터프라이즈 환경에서 Windows XP 워크스테이션 응용 프로그램이나 인프라 개발 및 배포의 계획 단계를 담당하는 컨설턴트, 보안 전문가, 시스템 설계자, IT 전문가 등을 대상으로 하며 개인 사용자를 대상으로 하지 않습니다.
+
+보안 전문가와 IT 설계자는 이 가이드에 다룬 보안 설정에 대한 보다 자세한 정보를 원할 수 있습니다. 이 정보는 관련 가이드인 [위협 및 대책: Windows Server 2003 및 Windows XP의 보안 설정](http://www.microsoft.com/korea/technet/security/topics/serversecurity/tcg/tcgch00.mspx)(http://www.microsoft.com/korea/technet/security/topics/serversecurity/tcg/tcgch00.mspx)을 참조하십시오.
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+### 콘텐츠 로드맵
+
+Windows XP는 현재까지 보안 성능이 가장 뛰어난 Windows 클라이언트 운영 체제이며 향상된 보안 및 개인 정보 보호 기능을 갖추고 있습니다. Windows XP의 전체적 보안이 향상되어 조직 구성원들이 보다 안전한 보안 컴퓨팅 환경에서 작업할 수 있게 되었습니다. *Windows XP 보안 가이드*는 7개의 장으로 구성되며 2-6장에서는 이러한 환경을 만드는 데 필요한 절차를 설명합니다. 각 장은 Windows XP 기반 컴퓨터의 보안 설정을 위해 설계된 종단 간 프로세스를 기반으로 합니다.
+
+[![](images/Cc163061.default1(ko-kr,TechNet.10).gif)](https://technet.microsoft.com/ko-kr/cc163061.default1_big(ko-kr,technet.10).gif)
+
+**그림 1 Windows XP 보안 가이드의 장 개요**
+
+#### 1장: Windows XP 보안 설명서 소개
+
+이 장에는 본 가이드의 개요, 대상 사용자, 가이드에서 다룬 문제점 및 가이드의 전체적인 목적 등이 포함되어 있습니다.
+
+#### 2장: Active Directory 도메인 인프라 구성
+
+그룹 정책을 사용하여 Windows Server 2003 및 Windows 2000 도메인의 사용자 및 컴퓨터 환경을 관리할 수 있습니다. 그룹 정책은 Windows XP 보안에 반드시 필요한 도구로, 중앙의 한 위치에서 네트워크 전체에 일관된 보안 정책을 적용하고 유지 관리할 수 있습니다. 이 장에서는 Windows XP 클라이언트 컴퓨터에 그룹 정책을 적용하기 전에 도메인에서 수행해야 하는 준비 단계에 대해 설명합니다.
+
+그룹 정책 설정은 도메인 컨트롤러의 GPO(그룹 정책 개체)에 저장되며 GPO는 Active Directory 구조의 컨테이너, 사이트, 도메인 및 OU(조직 구성 단위)와 연결됩니다. 그룹 정책은 Active Directory와 긴밀하게 통합되므로 그룹 정책을 구현하기 전에 Active Directory 구조와 보안 구현에 대한 기본적인 이해가 필요합니다.
+
+#### 3장: Windows XP 클라이언트용 보안 설정
+
+이 장에서는 Windows 2000 또는 Windows Server 2003 Active Directory 도메인에서 그룹 정책을 통해 설정할 수 있는 Windows XP 클라이언트 컴퓨터용 보안 설정에 대해 설명합니다. 사용 가능한 모든 설정에 대한 지침이 제공되지는 않으며 최근에 나타나는 대부분의 위협으로부터 환경을 보호하는 데 도움이 되는 설정만 제공됩니다. 또한 사용자들은 보안 설정을 수행하면서 컴퓨터에서 일반적인 작업을 계속 진행할 수 있습니다. 이러한 설정은 조직의 보안 목표에 맞게 구성해야 합니다.
+
+#### 4장: Windows XP용 관리 템플릿
+
+이 장에서는 관리 템플릿을 사용하여 Windows XP에 추가할 수 있는 설정에 대해 설명합니다. 관리 템플릿은 여러 서비스, 응용 프로그램 및 운영 체제 구성 요소의 동작을 제어하는 레지스트리 기반 설정을 구성하는 데 사용할 수 있는 유니코드 파일입니다. Windows XP에서 사용할 수 있는 많은 관리 템플릿이 있으며 각 관리 템플릿은 수많은 설정을 포함합니다.
+
+#### 5장: 독립 실행형 Windows XP 클라이언트 보안
+
+이 가이드에 포함된 대부분의 내용이 EC(엔터프라이즈 클라이언트)와 SSLF(특수 보안 – 기능 제한) 환경을 중점적으로 다루지만 이 장에서는 독립 실행형 Windows XP 클라이언트 컴퓨터의 구성에 대해서도 소개합니다. Windows XP를 Active Directory 도메인 인프라에 배포하는 것이 좋지만 항상 가능한 것은 아닙니다. 이 장에서는 Windows 2000 또는 Windows Server 2003 도메인에 속하지 않은 Windows XP SP2 클라이언트 컴퓨터에 권장 구성을 적용하는 방법을 설명합니다.
+
+#### 6장: Windows XP 클라이언트에 대한 소프트웨어 제한 정책
+
+이 장에서는 관리자에게 도메인에서 실행될 수 있는 소프트웨어를 식별 및 제한할 수 있는 정책 기반 메커니즘을 제공하는 소프트웨어 제한 정책의 기본 사항을 대략적으로 설명합니다. 관리자는 소프트웨어 제한 정책을 사용하여 원치 않는 프로그램이 실행되지 않도록 하며 바이러스, 트로이 목마 또는 기타 악의적인 코드가 확산되지 않도록 방지할 수 있습니다. 소프트웨어 제한 정책은 Active Directory 및 그룹 정책과 완전하게 통합되며 로컬 컴퓨터에만 적용될 경우에는 Windows Server 2003 도메인 인프라가 없는 환경에서도 사용할 수 있습니다.
+
+#### 7장: 결론
+
+마지막 장에서는 이전 장에서 다룬 내용을 간단히 살펴 보면서 가이드의 핵심 사항을 검토합니다.
+
+#### 부록 A: 고려해야 할 중요한 설정
+
+이 가이드에서는 여러 가지 보안 대책과 보안 설정을 다루지만 몇 가지 핵심 사항이 특히 중요하다는 사실을 이해해야 합니다. 이 부록에서는 Windows XP SP2가 실행되는 컴퓨터의 보안에 가장 큰 영향을 주는 설정에 대해 설명합니다.
+
+#### 부록 B: Windows XP 보안 가이드 테스트
+
+이 부록에서는 *Windows XP 보안 가이드*의 지침이 적절한지 확인하기 위해 테스트 환경에서 어떠한 작업이 수행되었는지 설명합니다.
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+### 관련 리소스
+
+이 가이드에 설명된 보안 설정에 대한 자세한 내용은 관련 가이드 [위협 및 대책: Windows Server 2003 및 Windows XP의 보안 설정](http://go.microsoft.com/fwlink/?linkid=15159))(http://www.microsoft.com/korea/technet/security/topics/serversecurity/tcg/tcgch03.mspx)을 참조하십시오.
+
+MSSC(Microsoft Solutions for Security and Compliance) 팀에서 제공하는 [다른 보안 솔루션](http://www.microsoft.com/technet/community/columns/sectip/st0805.mspx)을 읽어보십시오.
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+### 가이드에 대한 의견
+
+MSSC(Microsoft Solutions for Security and Compliance) 팀에서는 이 가이드 및 기타 보안 솔루션에 대한 여러분의 의견을 기다립니다.
+
+의견이 있으면 [IT 전문가를 위한 보안 솔루션 블로그](http://blogs.technet.com/secguide)에 올려 주십시오.
+
+메일 주소 [SecWish@microsoft.com](mailto:secwish@microsoft.com?subject=windows%20xp%20security%20guide)으로 의견을 보내주셔도 됩니다. 성심 성의껏 답변해 드리겠습니다.
+
+Microsoft는 여러분의 의견을 기다리고 있습니다.
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+### 컨설팅 및 지원 서비스
+
+조직의 보안 노력을 지원하는 여러 가지 서비스가 제공되고 있습니다. 귀사에 필요한 서비스를 알아보려면 다음 링크를 사용하십시오.
+
+Microsoft Gold Certified Partners, Microsoft Certified Technical Education Centers, Microsoft Certified Partners 및 Microsoft 기술을 사용하여 ISV(Independent Software Vendor)에서 배포한 제품에 대해서는 [Microsoft 리소스 디렉터리](http://directory.microsoft.com/resourcedirectory/solutions.aspx)(http://directory.microsoft.com/resourcedirectory/Solutions.aspx)를 검색하십시오.
+
+조직의 요건에 적합한 컨설팅 및 지원 서비스를 찾으려면 [Microsoft Services](http://support.microsoft.com/msservices)(http://support.microsoft.com/msservices)를 방문하십시오.
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+##### 다운로드
+
+[Windows XP 보안 가이드 다운로드](http://go.microsoft.com/fwlink/?linkid=14840)
+
+[](#mainsection)[페이지 위쪽](#mainsection)

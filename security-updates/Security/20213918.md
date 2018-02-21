@@ -1,0 +1,431 @@
+---
+TOCTitle: 중소기업 환경에서 Windows XP SP2 네트워크 보호 기술 구성
+Title: 중소기업 환경에서 Windows XP SP2 네트워크 보호 기술 구성
+ms:assetid: 'c74175c6-46bd-4fd2-976f-9b89daf37348'
+ms:contentKeyID: 20213918
+ms:mtpsurl: 'https://technet.microsoft.com/ko-kr/library/Cc875819(v=TechNet.10)'
+---
+
+중소기업 환경에서 Windows XP SP2 네트워크 보호 기술을 구성하는 방법
+===================================================================
+
+게시 날짜: 2004년 12월 10일 | 업데이트 날짜: 2006년 7월 21일
+
+##### 이 페이지에서
+
+[](#ehaa)[소개](#ehaa)  
+[](#egaa)[시작하기 전에](#egaa)  
+[](#efaa)[보안 패치 적용](#efaa)  
+[](#eeaa)[기존 그룹 정책 개체 업데이트](#eeaa)  
+[](#edaa)[그룹 정책 개체 구성](#edaa)  
+[](#ecaa)[Internet Explorer 보안 설정 정보](#ecaa)  
+[](#ebaa)[GPUpdate를 사용하여 새 구성 적용](#ebaa)  
+[](#eaaa)[관련 정보](#eaaa)
+
+### 소개
+
+Active Directory 디렉터리 서비스에서는 중소기업 내 워크스테이션과 서버의 보안 구성을 중앙에서 관리하는 수단을 제공합니다. 이 서비스를 통해 워크스테이션 환경을 보다 안전하고 쉽게 관리할 수 있습니다.
+
+이 기사에서는 Microsoft Windows XP 서비스 팩 2(SP2)를 실행하는 워크스테이션에 대한 중앙 관리를 다룹니다. 보안 설정을 관리하는 작업은 워크스테이션에 GPO(그룹 정책 개체)를 적용하기 위해 Active Directory에 상당 부분 의존합니다.
+
+#### 목표
+
+각 조직에는 서로 다른 보안 요구 사항이 있습니다. 각 고객에 대한 보안 요구 사항의 수준에 관계없이 이 기사의 개념을 사용하여 워크스테이션 보안 관리를 지원할 수 있어야 합니다.
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+### 시작하기 전에
+
+다음 절차를 완료하려면 Domain Admins 그룹의 구성원으로 로그온해야 합니다.
+
+**참고**   워크스테이션이나 서버를 변경할 수 없는 경우 그룹 정책이 원인일 수 있으며 이 경우 그룹 정책 수준에서 변경을 수행해야 합니다.
+
+그룹 정책을 사용하여 Windows XP SP2 네트워크 보호 기술을 구성하려면 이 설명서의 작업을 완료하십시오.
+
+-   보안 패치 적용
+
+-   기존 GPO(그룹 정책 개체) 업데이트
+
+-   보안 센터 설정 구성
+
+-   그룹 정책을 사용하여 Windows 방화벽 설정 구성
+
+-   Internet Explorer 설정 구성
+
+-   인터넷 통신 관리 설정 구성
+
+-   GPUpdate를 사용하여 설정 적용
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+### 보안 패치 적용
+
+모든 Windows 워크스테이션과 서버에는 가장 최신의 보안 패치와 서비스 팩을 적용하는 것이 좋습니다. 패치하기 전에는 항상 컴퓨터나 중요한 파일을 백업해야 합니다.
+
+**참고**   이 기사의 일부 기능과 일부 중요한 보안 기능은 최근의 패치 및 핫픽스 일부에 따라 다릅니다. 도메인 컨트롤러가 최신이 아닌 경우 GPO 내에서 Windows XP SP2 워크스테이션에 필요한 관리 템플릿이 없을 수도 있으며 관리 템플릿이 없으면 새 SP2 보안 기능을 사용할 수 없습니다.
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+### 기존 그룹 정책 개체 업데이트
+
+Active Directory의 GPO를 관리하는 가장 좋은 방법은 Microsoft 웹 사이트(www.microsoft.com/windowsserver2003/gpmc/gpmcintro.mspx)에서 다운로드할 수 있는 [Microsoft GPMC(그룹 정책 관리 콘솔) (영문)](http://www.microsoft.com/windowsserver2003/gpmc/gpmcintro.mspx)를 참조하는 것이며 이것은 GPOE(그룹 정책 개체 편집기) 스냅인이 설치된 MMC(Microsoft Management Console) 사용을 대신하는 방법입니다.
+
+또한 GPMC는 그룹 정책 개체 편집기를 사용하여 GPO를 편집합니다.
+
+1.  GPMC 내에서 새 관리 템플릿을 사용하여 업데이트하려는 GPO를 두 번 클릭합니다. GPO가 GPOE에서 열립니다.
+
+2.  **확인**을 클릭한 다음 **마침**을 클릭합니다. 이를 통해 새 템플릿이 적용됩니다.
+
+3.  각 GPO에 대해 이 작업을 반복합니다.
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+### 그룹 정책 개체 구성
+
+다음 절차를 수행하여 사용자 환경에서 GPO를 구성합니다.
+
+#### 보안 센터 설정 구성
+
+그룹 정책 컨트롤에서 각 워크스테이션에 대한 보안 센터를 사용할 수 있습니다. 설치된 경우 보안 센터에서 각 워크스테이션 사용자에게 Windows 방화벽, 바이러스 백신 및 자동 업데이트 설정 상태를 알려줄 수 있습니다. 기본적으로 그룹 정책에서는 이 기능을 사용하도록 설정되어 있지 않습니다.
+
+1.  GPMC를 열고 사용할 GPO를 두 번 클릭하여 각 워크스테이션에 보안 센터를 적용합니다.
+
+2.  선택한 GPO 내에서 **컴퓨터 구성**, **관리 템플릿**, **Windows 구성 요소**를 차례로 연 다음 **보안 센터**를 엽니다.
+
+3.  **보안 센터 사용 (도메인 PC 컴퓨터 전용)**을 두 번 클릭합니다.
+
+4.  이 설정을 사용합니다.
+
+5.  **확인**을 클릭합니다.
+
+#### 그룹 정책을 사용하여 Windows 방화벽 설정 구성
+
+이 섹션에서는 GPO의 Windows 방화벽 설정과 중소기업 환경을 위한 권장 설정에 대해 설명합니다.
+
+1.  선택한 GPO 내에서 **컴퓨터 구성**, **관리 템플릿**, **네트워크**, **네트워크 연결**, **Windows 방화벽**을 차례로 연 다음 **도메인 프로필**을 엽니다.
+
+2.  각 설정을 두 번 클릭하고 다음 표의 정보에 따라 구성합니다.
+
+    **참고**   도메인 프로필에서 **예외 프로그램 정의**를 설정한 후 **확인**을 클릭하기 전에 컴퓨터에 연결할 수 있는 모든 프로그램을 입력해야 합니다.
+
+**표 1. 중소기업용 Windows 방화벽 권장 설정**
+
+<p> </p>
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >설정</th>
+<th style="border:1px solid black;" >설명</th>
+<th style="border:1px solid black;" >도메인 프로필</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">모든 네트워크 연결을 보호</td>
+<td style="border:1px solid black;">모든 네트워크 연결에서 Windows 방화벽을 사용하도록 지정합니다.</td>
+<td style="border:1px solid black;">사용</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">예외 허용 안 함</td>
+<td style="border:1px solid black;">예외 트래픽을 비롯하여 원치 않는 모든 트래픽이 삭제되도록 지정합니다.</td>
+<td style="border:1px solid black;">구성되지 않음</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">예외 프로그램 정의</td>
+<td style="border:1px solid black;">프로그램 파일 이름을 기준으로 예외 트래픽을 정의합니다.</td>
+<td style="border:1px solid black;">사용하며, 네트워크에서 Windows XP SP2 기반 컴퓨터가 사용하는 프로그램(응용 프로그램과 서비스)으로 구성되어 있습니다.</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">예외 로컬 프로그램 허용</td>
+<td style="border:1px solid black;">예외 로컬 프로그램 구성을 사용합니다.</td>
+<td style="border:1px solid black;">사용 안 함</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">원격 관리 허용</td>
+<td style="border:1px solid black;">도구를 사용하여 원격 구성을 사용합니다.</td>
+<td style="border:1px solid black;">MMC 스냅인을 사용하여 컴퓨터를 원격으로 관리하지 않을 경우 사용하지 않습니다.</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">파일 및 프린터 공유 허용</td>
+<td style="border:1px solid black;">파일 및 프린터 공유 트래픽을 허용할지 여부를 지정합니다.</td>
+<td style="border:1px solid black;">사용 안 함</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">ICMP 허용</td>
+<td style="border:1px solid black;">허용되는 ICMP 메시지의 유형을 지정합니다.</td>
+<td style="border:1px solid black;">사용 안 함</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">원격 데스크톱 허용</td>
+<td style="border:1px solid black;">컴퓨터가 원격 데스크톱 기반 연결 요청을 허용할 수 있는지 여부를 지정합니다.</td>
+<td style="border:1px solid black;">사용</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">UPnP 프레임워크 허용</td>
+<td style="border:1px solid black;">컴퓨터에서 요청하지 않은 UPnP 메시지를 받을 수 있는지 여부를 지정합니다.</td>
+<td style="border:1px solid black;">사용 안 함</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">알림 금지</td>
+<td style="border:1px solid black;">알림을 사용하지 않습니다.</td>
+<td style="border:1px solid black;">사용 안 함</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">로깅 허용</td>
+<td style="border:1px solid black;">트래픽 로그를 사용하고 로그 파일 설정을 구성합니다.</td>
+<td style="border:1px solid black;">구성되지 않음</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">멀티캐스트 또는 브로드캐스트 요청에 대한 유니캐스트 응답 금지</td>
+<td style="border:1px solid black;">멀티캐스트 또는 브로드캐스트 요청 메시지에 대한 응답으로 받은 유니캐스트 패킷을 무시합니다.</td>
+<td style="border:1px solid black;">사용</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">예외 포트 정의</td>
+<td style="border:1px solid black;">TCP와 UDP를 기준으로 예외 트래픽을 지정합니다.</td>
+<td style="border:1px solid black;">사용 안 함</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">예외 로컬 포트 허용</td>
+<td style="border:1px solid black;">예외 포트의 로컬 구성을 허용합니다.</td>
+<td style="border:1px solid black;">사용 안 함</td>
+</tr>
+</tbody>
+</table>
+  
+자세한 내용을 보려면 www.microsoft.com/korea/technet/security/smallbusiness/prodtech/windowsxp/fwgrppol.mspx 사이트에서 "[중소기업 환경에서 그룹 정책을 사용하여 Windows 방화벽을 구성하는 방법](http://www.microsoft.com/korea/technet/security/smallbusiness/prodtech/windowsxp/fwgrppol.mspx)"을 참조하십시오.
+  
+[](#mainsection)[페이지 위쪽](#mainsection)
+  
+### Internet Explorer 보안 설정 정보
+  
+보안 정책 설정을 사용하여 Internet Explorer의 보안에 영향을 주는 특정 시나리오를 관리할 수 있습니다. 대부분의 경우 특정 동작을 방지하려면 보안 기능이 설정되어 있어야 합니다. Internet Explorer 6의 경우 새 기능에서 브라우저의 보안이 강화되었으므로 Internet Explorer 6을 사용하는 것이 좋습니다.
+  
+#### 보안 영역
+  
+Internet Explorer는 웹 사이트를 인터넷, 로컬 인트라넷, 신뢰할 수 있는 사이트 및 제한된 사이트의 4개의 보안 영역으로 분류하며 각 보안 영역은 서로 다른 보안 수준을 제공합니다. 각 영역을 높음에서 낮음까지 미리 설정된 보안 수준으로 독립적으로 구성할 수 있습니다. 또한 Internet Explorer는 각 보안 영역에 대해 사용자 지정 보안 옵션 집합을 정의하는 기능을 제공합니다. Microsoft는 각 영역에 대한 기본 보안 설정을 정의한 바 있습니다. 다음 표에서는 각 보안 영역과 각 영역에 대한 기본 보안 설정에 대해 설명합니다.
+  
+**표 2. 보안 영역 설명 및 기본 보안 설정**
+
+<p> </p>
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >보안 영역</th>
+<th style="border:1px solid black;" >기본 보안 수준</th>
+<th style="border:1px solid black;" >설명</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">인터넷 영역</td>
+<td style="border:1px solid black;">보통</td>
+<td style="border:1px solid black;">인터넷 영역은 다른 영역에 포함되지 않은 모든 웹 사이트로 구성됩니다.<br />
+<br />
+<strong>참고</strong>   인터넷의 위협은 실재합니다. Microsoft는 고급 <strong>사용자 지정 수준</strong> 단추를 사용하더라도 실제로 보안 수준을 낮음으로 설정할 수 없는 인터넷 위협으로부터 사용자를 보호해야 할 필요성을 강하게 인식하고 있습니다.</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">로컬 인트라넷 영역</td>
+<td style="border:1px solid black;">보통-낮음</td>
+<td style="border:1px solid black;">이 영역의 모든 사이트는 방화벽 내에 있어야 합니다.</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">신뢰할 수 있는 사이트 영역</td>
+<td style="border:1px solid black;">낮음</td>
+<td style="border:1px solid black;">이 영역의 사이트에서는 광범위한 작업을 수행할 수 있으며 사용자에게 보안 수준 결정을 요청하는 메시지가 거의 나타나지 않습니다. 사이트의 모든 컨텐츠가 컴퓨터에 해로운 작업을 수행하지 않음을 신뢰하는 경우에만 이 영역에 해당 사이트를 추가해야 합니다.<br />
+신뢰할 수 있는 사이트 영역의 경우 HTTPS(Hypertext Transmission Protocol, Secure) 프로토콜을 사용하거나 그렇지 않은 경우 사이트에 대한 연결이 전적으로 안전한지 확인하는 것이 좋습니다.</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">제한된 사이트 영역</td>
+<td style="border:1px solid black;">높음</td>
+<td style="border:1px solid black;">이 영역은 신뢰할 수 없는 사이트를 추가할 수 있도록 설계되었습니다. 이 영역에서는 웹 기능을 제어하고 제한하지만 사이트 액세스는 차단하지 않으며, 사이트를 사용자가 추가하거나 그룹 정책에서 적용할 수 있습니다. 웹 사이트에 대한 액세스를 차단하려면 해당 기능을 지원하는 프록시 서버를 사용해야 합니다.</td>
+</tr>
+</tbody>
+</table>
+  
+#### 보안 강화
+  
+각 보안 영역에는 기능의 특정 영역을 강화하도록 개별적으로 수정 가능한 30개 이상의 설정이 있습니다. 대부분의 설정에는 사용하는 옵션, 사용하지 않는 옵션 또는 사용자에게 메시지를 표시하여 확인하는 옵션이 있습니다. 모든 보안 영역에서 사용자 확인 옵션 설정의 수를 제한하는 것이 좋습니다. 강력한 정보 보안 정책은 사용자 권한을 제한하고 사용자가 보안을 손상시킬 수 있는 작업을 수행하지 못하도록 합니다. 보안 영역 설정은 영역별로 정의하고 설정해야 합니다. 즉, 모든 영역에 대해 하나의 정의 집합만을 사용해서는 안 됩니다. 다음 표에서는 보안 영역 간의 몇 가지 기본 설정 “예제”를 제공합니다. 이러한 설정은 조직의 필요에 맞게 수정할 수 있습니다.
+  
+**표 3. 보안 영역 정책 설정**
+
+<p> </p>
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >보안 영역</th>
+<th style="border:1px solid black;" >정책 설정</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">인터넷 영역</td>
+<td style="border:1px solid black;">팝업 차단 사용 = 사용<br />
+ActiveX 컨트롤에 대해 자동으로 확인 = 사용 안 함<br />
+서명된 ActiveX 컨트롤 다운로드 = 확인<br />
+파일 다운로드 = 사용</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">로컬 인트라넷 영역</td>
+<td style="border:1px solid black;">팝업 차단 사용 = 사용 안 함<br />
+ActiveX 컨트롤에 대해 자동으로 확인 = 사용<br />
+서명된 ActiveX 컨트롤 다운로드 = 확인<br />
+파일 다운로드 = 사용</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">신뢰할 수 있는 사이트 영역</td>
+<td style="border:1px solid black;">팝업 차단 사용 = 사용 안 함<br />
+ActiveX 컨트롤에 대해 자동으로 확인 = 사용<br />
+서명된 ActiveX 컨트롤 다운로드 = 사용<br />
+파일 다운로드 = 사용</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">제한된 사이트 영역</td>
+<td style="border:1px solid black;">팝업 차단 사용 = 사용<br />
+ActiveX 컨트롤에 대해 자동으로 확인 = 사용 안 함<br />
+서명된 ActiveX 컨트롤 다운로드 = 사용 안 함<br />
+파일 다운로드 = 사용 안 함</td>
+</tr>
+</tbody>
+</table>
+ 
+
+ActiveX는 풍부한 사용자 온라인 환경을 제공하는 강력한 확장 가능 웹 개발 플랫폼입니다. 많은 기업 고객은 내부 업무용 응용 프로그램에 대한 ActiveX 컨트롤을 사용하므로 Internet Explorer 내에서 ActiveX가 설정되어 있어야 합니다. 이때 사용자 보안 표준과 사용 정책에서는 인터넷 영역에 대해 ActiveX를 사용하지 않도록 요구할 수 있습니다. 그룹 정책을 사용하거나 보안 영역 컨트롤을 높음으로 설정하여 ActiveX 컨트롤을 해제할 경우 웹 사이트가 제대로 작동하지 않을 수 있습니다. 조직에서는 정책을 정의하여 이 문제를 처리하고 비즈니스 합리성을 기반으로 액세스를 허용하는 전략을 준비하는 것이 좋습니다.
+
+브라우저 콘솔 내에서 명령을 실행하는 기능이 있으므로 ActiveX는 보안 관련 문제이며 신뢰할 수 있는 웹 사이트에서만 실행하는 것이 좋습니다.
+
+보안 영역과 구성 옵션에 대한 자세한 설명은 www.microsoft.com/windows/ie/using/howto/security/setup.mspx 사이트에서 "[보안 영역 설정 (영문)](http://www.microsoft.com/windows/ie/using/howto/security/setup.mspx)"을 참조하십시오.
+
+#### 개인 정보/쿠키
+
+보다 강력한 개인 온라인 환경을 제공하기 위해 일부 웹 사이트는 컴퓨터의 작은 텍스트 파일에 정보를 저장합니다. 이러한 파일을 쿠키라고 합니다. Internet Explorer 6에는 쿠키 사용을 제어하는 여러 메커니즘이 있습니다.
+
+쿠키에는 여러 가지 유형이 있습니다. 제 1 사 쿠키는 발생 사이트 이외의 웹 사이트에서는 읽을 수 없습니다. 다른 유형의 쿠키는 제 3 사 쿠키라고 하며 웹 엔터티에서 방문객에 대한 데이터를 기록하는 데 사용합니다. 제 3 사 쿠키는 여러 웹 사이트에서 사용되며 사용자 ID와 암호에서 우편 번호까지 다양한 정보가 포함될 수 있습니다.
+
+-   **제 1 사 쿠키**. 발생 사이트에서만 읽을 수 있습니다.
+
+-   **제 3 사 쿠키**. 여러 웹 사이트에서 읽고 쓸 수 있습니다.
+
+사용자는 쿠키 내에 저장되는 데이터에 대한 제어 권한이 있다는 사실을 모르는 경우가 많습니다. 청구서 발송 주소를 기억하기 위해 확인란을 클릭하기만 해도 제 1 사 쿠키나 제 3 사 쿠키에 사용자 동의 없이 설치된 데이터가 잠재적으로 저장될 수 있습니다.
+
+각 조직은 쿠키에 관한 고유 정책을 결정해야 하며 일반적으로 **보통** 이상의 설정을 사용하는 것이 좋습니다. 이렇게 하면 압축된 개인 정보 정책이 없는 제 3 사 쿠키를 차단하고 암시적인 동의 없이 개인적으로 확인 가능한 정보를 사용하는 제 3 사 쿠키를 차단하며 암시적인 동의 없이 개인적으로 확인 가능한 정보를 사용하는 제 1 사 쿠키를 제한합니다. **높음**으로 설정하면 모든 쿠키가 제한되며, 기타 설정을 통해 쿠키에 특정 조건을 부여할 수 있습니다. **낮음**으로 설정할 경우 조건 없이 모든 쿠키가 허용됩니다.
+
+전반적인 설정을 무시하기 위해 사이트를 추가할 수 있습니다. 사이트 추가 옵션은 **항상 차단** 또는 **항상 허용**입니다. 일반적인 보안 수준을 선택하든 낮은 보안 수준을 선택하든 관계없이 사이트를 추가할 수 있으며 그룹 정책은 쿠키 설정뿐만 아니라 사이트에도 적용됩니다.
+
+**참고**   쿠키는 각 영역 내에서 제어할 수 없으며 설정은 모든 4개의 보안 영역 전체에서 표현됩니다.
+
+#### 팝업 차단
+
+팝업 차단은 대부분의 사용자 동의 없이 설치된 팝업 창을 차단합니다. 이때 사용자가 링크를 클릭하여 열리는 팝업 창은 차단하지 않습니다. 팝업 차단의 경우 영역별 구성이 가능하므로 한 영역에서는 사이트를 차단하고 다른 영역에서는 사이트를 차단하지 않을 수 있습니다. 그룹 정책을사용하여 각 영역 내에서 팝업 차단을 적용하고 허용된 사이트 목록에 추가할 수 있습니다.
+
+팝업은 사용자의 작업을 방해하고 그 수가 많으며 지속적이므로 실제로 브라우저를 사용할 수 없게 됩니다. 팝업이 차단될 때마다 해당 차단 상태가 Internet Explorer 도구 모음 내에 표시됩니다.
+
+**참고**   팝업 차단을 각 영역에서 제어할 수 있지만 허용되는 사이트는 4개의 모든 영역에 추가됩니다.
+
+#### 인터넷 프로그램
+
+Internet Explorer는 다른 프로그램을 실행하여 전자 메일을 보내고 연락처를 관리하거나 페이지 원본을 보도록 구성할 수 있습니다. 예를 들어 사용자가 웹 페이지의 전자 메일 주소를 클릭하면 Internet Explorer는 미리 주소가 지정되어 있고 내보낼 새 전자 메일 메시지가 있는 정의된 전자 메일 프로그램을 엽니다. 이 기능은 다른 프로그램을 열어 전자 메일 주소를 수동으로 입력하지 않아도 전자 메일을 보낼 수 있는 효율적인 수단을 제공합니다. 그러나 이러한 추가된 기능을 사용할 경우 일부 잠재적 위험에 노출될 가능성이 있습니다. 이렇게 연결된 프로그램 중 하나가 조직 표준 응용 프로그램에서 변경된 경우 사용자가 예상치 못한 동작이나 기능이 발생할 수 있습니다. 그룹 정책을 사용하면 이러한 프로그램 목록에 대해 설정을 적용함으로써, 사용자 동의 없이 설치된 프로그램이 실행되지 않도록 어느 정도 수준까지 보증해 줍니다.
+
+#### 추가 기능
+
+추가 기능은 특정 기능을 수행하도록 설계된 작은 프로그램이며 필요 시 웹 페이지에서 로드할 수 있습니다. 도구 모음과 BHO(브라우저 도우미 개체)는 브라우저 내에서 기능을 확장하는 추가 단추 및 기능을 설치하는 다른 유형의 프로그램입니다. 조직에서는 적절한 도구 모음과 BHO 목록을 정의하고 그룹 정책을 사용하여 해당 설정을 적용하는 것이 좋습니다.
+
+많은 개발자는 ActiveX 플랫폼을 사용하여 도구를 만들어 생산성을 향상시키거나 기능을 강화합니다. Microsoft는 개발 커뮤니티에서 이러한 추가 기능을 계속 제하도록 장려하지만 다른 한편으로는 신뢰할 수 있는 원본에서 추가 기능을 배포할 필요가 있다는 점도 인식하고 있습니다. Internet Explorer 6은 Authenticode를 제공하여 디지털 서명을 통해 추가 기능의 인증에 대한 유효성을 검사합니다. 조직에서는 인터넷 영역에서 서명된 추가 기능만을 허용하는 것이 좋습니다. 로컬 인트라넷 영역의 사이트의 경우 신뢰할 수 있는 내부 개발자가 추가 기능을 개발했을 가능성이 크기 때문에 Authenticode 서명이 필요하지 않을 수 있습니다.
+
+#### Internet Explorer 6에 대한 그룹 정책 구성
+
+그룹 정책을 통해 모든 Internet Explorer 6 보안 기능을 구성하고 보호할 수 있습니다. 다양한 IE 구성 요소를 관리하는 많은 GPO 기반 보안 설정이 있으며 그 중 이 문서의 용도에 맞는 4개의 주요 분기(다음 절차의 a, b, c 및 d)에 초점을 두었습니다. 그룹 정책 개체 편집기는 4개의 분기에 있는 모든 설정의 결과에 대한 세부 정보를 제공합니다. 구현하기 전에 각 설명을 자세히 읽고 원하는 설정 효과를 테스트하십시오.
+
+1.  그룹 정책 관리 콘솔을 엽니다.
+
+2.  Internet Explorer 6과 같은 새 GPO(그룹 정책 개체)를 만듭니다.
+
+3.  Internet Explorer 정책은 그룹 정책 개체 편집기에 있는 정책 트리의 다음 4개 분기 내에 포함됩니다. 조직 요구 사항에 맞도록 모든 4개 분기의 각 정책 개체를 구성합니다.
+
+    1.  **컴퓨터 구성**, **관리 템플릿**, **Windows 구성 요소**, **Internet Explorer**
+
+        이 분기에는 브라우저 자체에서 이미 사용할 수 있는 보안 설정 이외의 보안 설정을 잠그는 추가 보안 정책이 있습니다. 더 유용한 정책 중 하나는 **보안 영역: 사용자가 정책을 변경할 수 없음**입니다. 이 정책은 기본적으로 GPO에서 사용되지 않습니다. 이 정책이 사용되면 사용자가 브라우저 설정 내에서 보안 설정을 변경할 수 없습니다. 이 정책은 **사용**으로 설정하는 것이 좋습니다. 그룹 정책에 의해 이러한 설정이 구성된 후에는 로컬 관리자라도 해당 설정을 변경할 수 없습니다. 사용할 수 있는 소규모의 다른 정책이 있으며 이 중 일부는 보안용이고 나머지는 보안용이 아닙니다. 사용하기 전에 설명을 자세히 읽으십시오.
+
+    2.  **컴퓨터 구성**, **관리 템플릿**, **시스템**, **인터넷 통신 설정**
+
+        이 분기는 특히 Window XP SP2용이며 웹 게시 기능에서 멀티미디어 지원에 이르기까지 20개의 새로운 정책이 있습니다. 하나의 정책인 **인터넷 파일 연결 서비스 사용 안 함**은 웹 사이트에서 내용을 다운로드할 때 브라우저가 파일 확장명과 연결된 응용 프로그램을 열지 못하도록 합니다. 이 기능은 .txt 파일 이름 확장명을 가진 파일에 대해 참고:pad.exe를 자동으로 여는 운영 체제의 기능과 유사합니다. 다른 정책인 **HTTP 인쇄 사용 안 함**은 사용자가 HTTP를 사용하는 인터넷/인트라넷상에서 인쇄를 할 수 없도록 설계되었습니다. 이 정책은 고유한 HTTP 프린터를 호스팅하는 기능에는 영향을 미치지 않습니다. 사용하기 전에 설명을 자세히 읽으십시오.
+
+    3.  **사용자 구성**, **Windows 설정**, **Internet Explorer 유지 관리**, **보안**, **프로그램**
+
+        이 두 섹션에는 브라우저 보안에 영향을 주는 설정/정책이 있으며 두 섹션 모두에 개인 브라우저 보안/개인 정책 설정 내에 있는 사용자 수준 설정이 있습니다. 최소 Microsoft 기본값을 사용하는 것이 좋지만 조직 요구 사항에 맞게 구성을 설정해야 합니다.
+
+        **참고**   사이트는 인터넷을 제외한 모든 영역에 추가될 수 있습니다. 로컬 인트라넷, 신뢰할 만한 영역 및 제한된 영역에 추가할 사이트는 GPO와 연결된 모든 워크스테이션과 서버에 적용되기 때문에 주의를 기울여 선택해야 합니다.
+
+    4.  **사용자 구성**, **관리 템플릿**, **Windows 구성 요소**, **Internet Explorer**
+
+        이 분기에는 사용자의 변경을 완전히 제한하는 대신 브라우저 설정 변경을 제한하는 자세한 설정이 있습니다. 이러한 설정은 임시 인터넷 파일 컨트롤과 같은 항목과 홈 페이지 변경에 적용됩니다. 이 분기에는 많은 설정 옵션이 있으므로 관리자는 프로덕션 환경에서 사용하기 전에 미치는 영향을 파악하고 테스트하는 것이 좋습니다.
+
+4.  정책 편집기를 사용하여 작업을 완료하면 Windows 워크스테이션과 서버를 사용하여 새 GPO를 모든 도메인에 연결합니다.
+
+5.  이 GPO에 의해 영향을 받는 그룹, 사용자 및 컴퓨터에 따라 GPO에 대한 **보안 필터링**을 구성합니다. 일부 정책은 컴퓨터용으로 설계되고 다른 정책은 사용자에게만 적용됩니다.
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+### GPUpdate를 사용하여 새 구성 적용
+
+GPUpdate 유틸리티는 Active Directory 기반 그룹 정책 설정을 새로 고칩니다. 그룹 정책을 구성한 후에는 표준 새로 고침 주기에 따라 설정이 클라이언트 컴퓨터에 적용될 때까지 기다릴 수 있습니다. 기본적으로 이러한 새로 고침 주기는 매 90분이며 30분의 임의 오프셋이 있습니다. 이 절차를 사용하여 워크스테이션에 대한 정책 푸시를 더 빠르게 테스트할 수 있습니다.
+
+표준 주기 사이에 그룹 정책을 새로 고치려면 다음과 같이 GPUpdate 유틸리티를 사용합니다.
+
+1.  Windows XP SP2 바탕 화면에서 **시작**을 클릭한 다음 **실행**을 클릭합니다.
+
+2.  **열기** 상자에 **cmd**를 입력한 다음 **확인**을 클릭합니다. 명령 프롬프트 창이 표시됩니다.
+
+3.  명령 프로프트 창에서 **GPUpdate**를 입력한 다음 **확인**을 클릭합니다. 다음 스크린 샷에 있는 메시지가 표시됩니다.
+
+    [![](images/Cc875819.XPNPT01(ko-kr,TechNet.10).gif)](https://technet.microsoft.com/ko-kr/cc875819.xpnpt01_big(ko-kr,technet.10).gif)
+
+    명령 프롬프트를 닫으려면 **exit**를 입력한 다음 Enter 키를 누릅니다.
+
+[](#mainsection)[페이지 위쪽](#mainsection)
+
+### 관련 정보
+
+보안 관련 항목의 정의를 보려면 다음을 참조하십시오.
+
+-   Microsoft 웹 사이트(http://www.microsoft.com/korea/security/glossary.mspx)의 [Microsoft Security 용어집](http://www.microsoft.com/korea/security/glossary.mspx)
+
+Windows XP SP2 네트워크 보호에 대한 자세한 내용은 다음을 참조하십시오.
+
+-   "Microsoft TechNet 웹 사이트(http://www.microsoft.com/korea/technet/prodtechnol/winxppro/maintain/sp2netwk.asp)의 [Microsoft Windows XP 서비스 팩 2에서의 기능 변화: 네트워크 보호 기술](http://www.microsoft.com/korea/technet/prodtechnol/winxppro/maintain/sp2netwk.asp)"
+
+-   Microsoft TechNet 웹 사이트(http://go.microsoft.com/fwlink/?linkid=35489)의 "[관리 환경에서 Windows XP Professional 서비스 팩 2 사용: 인터넷 통신 제어 (영문)](http://go.microsoft.com/fwlink/?linkid=35489)"
+
+-   Microsoft 다운로드 센터 웹 사이트(http://go.microsoft.com/fwlink/?linkid=35303)의 [Microsoft Windows XP 서비스 팩 2의 Windows 방화벽 정책 배포 (영문)](http://go.microsoft.com/fwlink/?linkid=35303)
+
+Windows XP SP2 보안에 대한 자세한 내용은 다음을 참조하십시오.
+
+-   Microsoft TechNet 웹 사이트(http://www.microsoft.com/korea/technet/security/prodtech/windowsxp/secwinxp/xpsgapxa.mspx)의 [Windows XP 보안 가이드 부록 A: 고려해야 할 중요한 설정](http://www.microsoft.com/korea/technet/security/prodtech/windowsxp/secwinxp/xpsgapxa.mspx)
+
+-   Microsoft 다운로드 센터 웹 사이트(http://go.microsoft.com/fwlink/?linkid=35309)의 [Windows XP 보안 가이드 (영문)](http://go.microsoft.com/fwlink/?linkid=35309)
+
+그룹 정책에 대한 자세한 내용은 다음을 참조하십시오.
+
+-   Microsoft Windows Server System 웹 사이트(http://www.microsoft.com/korea/windowsserver2003/gpmc/default.mspx)의 [그룹 정책 관리 콘솔에서 엔터프라이즈 관리](http://www.microsoft.com/korea/windowsserver2003/gpmc/default.mspx)
+
+-   "Microsoft 다운로드 센터 웹 사이트(http://go.microsoft.com/fwlink/?linkid=35481)의 [Microsoft Windows Server의 그룹 정책 문제 해결 (영문)](http://go.microsoft.com/fwlink/?linkid=35481)"
+
+**다운로드**
+
+[중소기업 환경에서 Windows XP SP2 네트워크 보호 기술을 구성하는 방법 (영문)](http://go.microsoft.com/fwlink/?linkid=70393)
+
+[](#mainsection)[페이지 위쪽](#mainsection)

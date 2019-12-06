@@ -13,18 +13,18 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms06-dec(v=Security.10)
 
 **버전:** 1.0
 
-이 정보의 최종 사용자 버전은 다음 [웹 사이트](http://www.microsoft.com/korea/security/default.mspx)에서 제공됩니다.
+이 정보의 최종 사용자 버전은 다음 [웹 사이트](https://www.microsoft.com/korea/security/default.mspx)에서 제공됩니다.
 
 **PC 보호:** 다음 웹 사이트에서 PC를 보호하는 데 유용한 정보를 볼 수 있습니다.
 
--   최종 사용자는 [PC 보호 웹 사이트](http://www.microsoft.com/korea/athome/security/default.mspx)를 방문하십시오.
--   IT 전문가는 [Security Guidance Center](http://www.microsoft.com/korea/technet/security/) 웹 사이트를 방문하십시오.
+-   최종 사용자는 [PC 보호 웹 사이트](https://www.microsoft.com/korea/athome/security/default.mspx)를 방문하십시오.
+-   IT 전문가는 [Security Guidance Center](https://www.microsoft.com/korea/technet/security/) 웹 사이트를 방문하십시오.
 
-**업데이트 관리 전략:**[패치 관리, 보안 업데이트 및 다운로드](http://www.microsoft.com/korea/technet/security/topics/patchmanagement.mspx) 웹 사이트에서는 보안 업데이트를 적용하기 위한 최선의 권장 사항과 관련된 자세한 내용을 볼 수 있습니다.
+**업데이트 관리 전략:**[패치 관리, 보안 업데이트 및 다운로드](https://www.microsoft.com/korea/technet/security/topics/patchmanagement.mspx) 웹 사이트에서는 보안 업데이트를 적용하기 위한 최선의 권장 사항과 관련된 자세한 내용을 볼 수 있습니다.
 
-**IT 전문가 보안 영역 커뮤니티:**[IT 전문가 보안 영역 웹 사이트](http://www.microsoft.com/korea/technet/security/community/)에서는 보안을 강화하고 IT 인프라를 최적화하는 방법에 대해 배우고 보안 항목에 대한 정보를 다른 IT 전문가와 공유할 수 있습니다.
+**IT 전문가 보안 영역 커뮤니티:**[IT 전문가 보안 영역 웹 사이트](https://www.microsoft.com/korea/technet/security/community/)에서는 보안을 강화하고 IT 인프라를 최적화하는 방법에 대해 배우고 보안 항목에 대한 정보를 다른 IT 전문가와 공유할 수 있습니다.
 
-**Microsoft 보안 알림 서비스:**[Microsoft 보안 알림 서비스](http://www.microsoft.com/korea/technet/security/bulletin/notify.asp)에 가입하면 Microsoft 보안 공지가 업데이트될 때마다 전자 메일 알림을 자동으로 받을 수 있습니다.
+**Microsoft 보안 알림 서비스:**[Microsoft 보안 알림 서비스](https://www.microsoft.com/korea/technet/security/bulletin/notify.asp)에 가입하면 Microsoft 보안 공지가 업데이트될 때마다 전자 메일 알림을 자동으로 받을 수 있습니다.
 
 #### 요약
 
@@ -37,27 +37,27 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms06-dec(v=Security.10)
 
 | 공지 번호                  | Microsoft 보안 공지 MS06-072                                                                                                                                                            |
 |----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **공지 제목**              | [**Internet Explorer 누적 보안 업데이트(925454)**](http://technet.microsoft.com/security/bulletin/ms06-072)                                                                             |
+| **공지 제목**              | [**Internet Explorer 누적 보안 업데이트(925454)**](https://technet.microsoft.com/security/bulletin/ms06-072)                                                                             |
 | **요약**                   | 이 업데이트는 원격 코드 실행을 허용할 수 있는 Internet Explorer 취약점을 해결합니다.                                                                                                    |
-| **최대 심각도**            | [긴급](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                           |
+| **최대 심각도**            | [긴급](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                           |
 | **취약점으로 인한 영향**   | 원격 코드 실행                                                                                                                                                                          |
-| **영향을 받는 소프트웨어** | **Windows, Internet Explorer.** 자세한 내용은 [전문가용 게시판](http://technet.microsoft.com/security/bulletin/ms06-072)에서 영향을 받는 소프트웨어 및 다운로드 위치 절을 참조하십시오. |
+| **영향을 받는 소프트웨어** | **Windows, Internet Explorer.** 자세한 내용은 [전문가용 게시판](https://technet.microsoft.com/security/bulletin/ms06-072)에서 영향을 받는 소프트웨어 및 다운로드 위치 절을 참조하십시오. |
 
 | 공지 번호                  | Microsoft 보안 공지 MS06-073                                                                                                                                                    |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **공지 제목**              | [**Visual Studio 2005 취약점으로 인한 원격 코드 실행 문제점(925674)**](http://technet.microsoft.com/security/bulletin/ms06-073)                                                 |
+| **공지 제목**              | [**Visual Studio 2005 취약점으로 인한 원격 코드 실행 문제점(925674)**](https://technet.microsoft.com/security/bulletin/ms06-073)                                                 |
 | **요약**                   | 이 업데이트는 원격 코드 실행을 허용할 수 있는 Visual Studio 2005 취약점을 해결합니다.                                                                                           |
-| **최대 심각도**            | [긴급](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                   |
+| **최대 심각도**            | [긴급](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                   |
 | **취약점으로 인한 영향**   | 원격 코드 실행                                                                                                                                                                  |
-| **영향을 받는 소프트웨어** | **Visual Studio 2005.** 자세한 내용은 [전문가용 게시판](http://technet.microsoft.com/security/bulletin/ms06-073)에서 영향을 받는 소프트웨어 및 다운로드 위치 절을 참조하십시오. |
+| **영향을 받는 소프트웨어** | **Visual Studio 2005.** 자세한 내용은 [전문가용 게시판](https://technet.microsoft.com/security/bulletin/ms06-073)에서 영향을 받는 소프트웨어 및 다운로드 위치 절을 참조하십시오. |
 
 | 공지 번호                  | Microsoft 보안 공지 MS06-078                                                                                                                                         |
 |----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **공지 제목**              | [**Windows Media Format의 취약점으로 인한 원격 코드 실행 문제점(923689)**](http://technet.microsoft.com/security/bulletin/ms06-078)                                  |
+| **공지 제목**              | [**Windows Media Format의 취약점으로 인한 원격 코드 실행 문제점(923689)**](https://technet.microsoft.com/security/bulletin/ms06-078)                                  |
 | **요약**                   | 이 업데이트는 원격 코드 실행을 허용할 수 있는 Windows Media Player의 취약점을 해결합니다.                                                                            |
-| **최대 심각도**            | [긴급](http://technet.microsoft.com/security/bulletin/rating)                                                                                                        |
+| **최대 심각도**            | [긴급](https://technet.microsoft.com/security/bulletin/rating)                                                                                                        |
 | **취약점으로 인한 영향**   | 원격 코드 실행                                                                                                                                                       |
-| **영향을 받는 소프트웨어** | **Windows.** 자세한 내용은 [전문가용 게시판](http://technet.microsoft.com/security/bulletin/ms06-078)에서 영향을 받는 소프트웨어 및 다운로드 위치 절을 참조하십시오. |
+| **영향을 받는 소프트웨어** | **Windows.** 자세한 내용은 [전문가용 게시판](https://technet.microsoft.com/security/bulletin/ms06-078)에서 영향을 받는 소프트웨어 및 다운로드 위치 절을 참조하십시오. |
 
 중요(4)
 -------
@@ -66,35 +66,35 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms06-dec(v=Security.10)
 
 | 공지 번호                  | Microsoft 보안 공지 MS06-074                                                                                                                                                           |
 |----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **공지 제목**              | [**SNMP의 취약점으로 인한 원격 코드 실행 문제점(926247)**](http://technet.microsoft.com/security/bulletin/ms06-074)                                                                    |
+| **공지 제목**              | [**SNMP의 취약점으로 인한 원격 코드 실행 문제점(926247)**](https://technet.microsoft.com/security/bulletin/ms06-074)                                                                    |
 | **요약**                   | 이 업데이트는 원격 코드 실행을 허용할 수 있는 SNMP(Simple Network Management Protocol)의 취약점을 해결합니다. SNMP 서비스는 지원되는 모든 Windows 버전에 기본적으로 설치되지 않습니다. |
-| **최대 심각도**            | [중요](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                          |
+| **최대 심각도**            | [중요](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                          |
 | **취약점으로 인한 영향**   | 원격 코드 실행                                                                                                                                                                         |
-| **영향을 받는 소프트웨어** | **Windows.** 자세한 내용은 [전문가용 게시판](http://technet.microsoft.com/security/bulletin/ms06-074)에서 영향을 받는 소프트웨어 및 다운로드 위치 절을 참조하십시오.                   |
+| **영향을 받는 소프트웨어** | **Windows.** 자세한 내용은 [전문가용 게시판](https://technet.microsoft.com/security/bulletin/ms06-074)에서 영향을 받는 소프트웨어 및 다운로드 위치 절을 참조하십시오.                   |
 
 | 공지 번호                  | Microsoft 보안 공지 MS06-075                                                                                                                                                               |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **공지 제목**              | [**Windows의 취약점으로 인한 권한 상승 문제점(926255)**](http://technet.microsoft.com/security/bulletin/ms06-075)                                                                          |
+| **공지 제목**              | [**Windows의 취약점으로 인한 권한 상승 문제점(926255)**](https://technet.microsoft.com/security/bulletin/ms06-075)                                                                          |
 | **요약**                   | 영향을 받는 시스템에서 권한 상승을 허용할 수 있는 취약점이 Windows에 존재합니다. 이 취약점을 악용하기 위해서는 공격자가 유효한 로그온 자격 증명을 가지고 로컬로 로그온할 수 있어야 합니다. |
-| **최대 심각도**            | [중요](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                              |
+| **최대 심각도**            | [중요](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                              |
 | **취약점으로 인한 영향**   | 권한 상승                                                                                                                                                                                  |
-| **영향을 받는 소프트웨어** | **Windows.** 자세한 내용은 [전문가용 게시판](http://technet.microsoft.com/security/bulletin/ms06-075)에서 영향을 받는 소프트웨어 및 다운로드 위치 절을 참조하십시오.                       |
+| **영향을 받는 소프트웨어** | **Windows.** 자세한 내용은 [전문가용 게시판](https://technet.microsoft.com/security/bulletin/ms06-075)에서 영향을 받는 소프트웨어 및 다운로드 위치 절을 참조하십시오.                       |
 
 | 공지 번호                  | Microsoft 보안 공지 MS06-076                                                                                                                                                          |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **공지 제목**              | [**Outlook Express 누적 보안 업데이트(923694)**](http://technet.microsoft.com/security/bulletin/ms06-076)                                                                             |
+| **공지 제목**              | [**Outlook Express 누적 보안 업데이트(923694)**](https://technet.microsoft.com/security/bulletin/ms06-076)                                                                             |
 | **요약**                   | 이 업데이트는 원격 코드 실행을 허용할 수 있는 Outlook Express의 취약점을 해결합니다. 공격자가 이 취약점을 악용하려면 사용자 조작이 필요합니다.                                        |
-| **최대 심각도**            | [중요](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                         |
+| **최대 심각도**            | [중요](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                         |
 | **취약점으로 인한 영향**   | 원격 코드 실행                                                                                                                                                                        |
-| **영향을 받는 소프트웨어** | **Windows, Outlook Express.** 자세한 내용은 [전문가용 게시판](http://technet.microsoft.com/security/bulletin/ms06-076)에서 영향을 받는 소프트웨어 및 다운로드 위치 절을 참조하십시오. |
+| **영향을 받는 소프트웨어** | **Windows, Outlook Express.** 자세한 내용은 [전문가용 게시판](https://technet.microsoft.com/security/bulletin/ms06-076)에서 영향을 받는 소프트웨어 및 다운로드 위치 절을 참조하십시오. |
 
 | 공지 번호                  | Microsoft 보안 공지 MS06-077                                                                                                                                         |
 |----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **공지 제목**              | [**원격 설치 서비스의 취약점으로 인한 원격 코드 실행 문제점(926121)**](http://technet.microsoft.com/security/bulletin/ms06-077)                                      |
+| **공지 제목**              | [**원격 설치 서비스의 취약점으로 인한 원격 코드 실행 문제점(926121)**](https://technet.microsoft.com/security/bulletin/ms06-077)                                      |
 | **요약**                   | 이 업데이트는 원격 코드 실행을 허용할 수 있는 RIS(Remote Installation Service)의 취약점을 해결합니다. RIS는 기본적으로 설치되지 않습니다.                            |
-| **최대 심각도**            | [중요](http://technet.microsoft.com/security/bulletin/rating)                                                                                                        |
+| **최대 심각도**            | [중요](https://technet.microsoft.com/security/bulletin/rating)                                                                                                        |
 | **취약점으로 인한 영향**   | 원격 코드 실행                                                                                                                                                       |
-| **영향을 받는 소프트웨어** | **Windows.** 자세한 내용은 [전문가용 게시판](http://technet.microsoft.com/security/bulletin/ms06-077)에서 영향을 받는 소프트웨어 및 다운로드 위치 절을 참조하십시오. |
+| **영향을 받는 소프트웨어** | **Windows.** 자세한 내용은 [전문가용 게시판](https://technet.microsoft.com/security/bulletin/ms06-077)에서 영향을 받는 소프트웨어 및 다운로드 위치 절을 참조하십시오. |
 
 배포
 ----
@@ -104,67 +104,67 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms06-dec(v=Security.10)
 
 관리자는 Microsoft Software Update Services(SUS)를 사용하여 Windows 2000 및 Windows Server 2003 기반 서버 그리고 Windows 2000 Professional 또는 Windows XP Professional을 실행하는 데스크톱 시스템에 최신 중요 업데이트와 보안 업데이트를 신속하고 안전하게 배포할 수 있습니다.
 
-Software Update Services에서 이 보안 업데이트를 배포하는 방법에 대한 자세한 내용은 [Software Update Services 웹 사이트](http://www.microsoft.com/korea/windowsserversystem/updateservices/evaluation/previous/default.mspx)를 참조하십시오.
+Software Update Services에서 이 보안 업데이트를 배포하는 방법에 대한 자세한 내용은 [Software Update Services 웹 사이트](https://www.microsoft.com/korea/windowsserversystem/updateservices/evaluation/previous/default.mspx)를 참조하십시오.
 
 **Windows Server Update Services:**
 
 관리자는 WSUS(Windows Server Update Services)를 사용하여 Windows 2000 이상 운영 체제, Office XP 이상, Exchange Server 2003 그리고 Windows 2000 이상 운영 체제에 설치된 SQL Server 2000에 최신 중요 업데이트 및 보안 업데이트를 신속하게 안정적으로 배포할 수 있습니다.
 
-Windows Server Update Services를 사용하여 보안 업데이트를 신속하게 배포하는 방법에 대한 자세한 내용은 [Windows Server Update Services 웹 사이트](http://www.microsoft.com/korea/windowsserversystem/updateservices/evaluation/overview.mspx)를 참조하십시오.
+Windows Server Update Services를 사용하여 보안 업데이트를 신속하게 배포하는 방법에 대한 자세한 내용은 [Windows Server Update Services 웹 사이트](https://www.microsoft.com/korea/windowsserversystem/updateservices/evaluation/overview.mspx)를 참조하십시오.
 
 **Systems Management Server:**
 
-Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 효율적으로 구성할 수 있는 솔루션입니다. 관리자는 SMS를 사용하여 보안 업데이트가 필요한 Windows 기반 시스템을 확인하고, 사용자의 업무 중단을 최소화하면서 기업 전체에 업데이트를 효율적으로 배포할 수 있습니다. 관리자가 SMS 2003을 사용하여 보안 업데이트를 배포하는 방법에 대한 자세한 내용은 [SMS 2003 보안 패치 관리 웹 사이트](http://www.microsoft.com/korea/smserver/evaluation/capabilities/patch.asp)를 참조하십시오. SMS 2.0 사용자는 [Software Updates Service 기능 팩 (영문)](http://go.microsoft.com/fwlink/?linkid=33340)을 사용하여 보안 업데이트를 배포할 수도 있습니다. SMS에 대한 자세한 내용은 [SMS 웹 사이트](http://www.microsoft.com/korea/smserver/)를 참조하십시오.
+Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 효율적으로 구성할 수 있는 솔루션입니다. 관리자는 SMS를 사용하여 보안 업데이트가 필요한 Windows 기반 시스템을 확인하고, 사용자의 업무 중단을 최소화하면서 기업 전체에 업데이트를 효율적으로 배포할 수 있습니다. 관리자가 SMS 2003을 사용하여 보안 업데이트를 배포하는 방법에 대한 자세한 내용은 [SMS 2003 보안 패치 관리 웹 사이트](https://www.microsoft.com/korea/smserver/evaluation/capabilities/patch.asp)를 참조하십시오. SMS 2.0 사용자는 [Software Updates Service 기능 팩 (영문)](https://go.microsoft.com/fwlink/?linkid=33340)을 사용하여 보안 업데이트를 배포할 수도 있습니다. SMS에 대한 자세한 내용은 [SMS 웹 사이트](https://www.microsoft.com/korea/smserver/)를 참조하십시오.
 
-**참고** SMS는 Microsoft Baseline Security Analyzer와 Microsoft Office 검색 도구를 사용하여 보안 공지 업데이트 검색 및 배포와 관련된 다양한 기능을 지원합니다. 일부 소프트웨어 업데이트는 이러한 도구로 검색하지 못할 수도 있습니다. 이러한 경우 관리자는 SMS의 인벤토리 기능을 사용하여 특정 시스템을 대상으로 업데이트를 수행할 수 있습니다. 이 절차에 대한 자세한 내용은 [여기 (영문)](http://go.microsoft.com/fwlink/?linkid=33341)를 참조하십시오. 일부 보안 업데이트 작업을 수행하려면 관리자 권한이 필요하며 컴퓨터를 다시 시작해야 할 수 있습니다. 관리자는 [SMS 2003 Administration Feature Pack (영문)](http://go.microsoft.com/fwlink/?linkid=33387) 및 [SMS 2.0 Administration Feature Pack (영문)](http://go.microsoft.com/fwlink/?linkid=21161)에서 제공되는 Elevated Rights Deployment Tool을 사용하여 이러한 업데이트를 설치할 수 있습니다.
+**참고** SMS는 Microsoft Baseline Security Analyzer와 Microsoft Office 검색 도구를 사용하여 보안 공지 업데이트 검색 및 배포와 관련된 다양한 기능을 지원합니다. 일부 소프트웨어 업데이트는 이러한 도구로 검색하지 못할 수도 있습니다. 이러한 경우 관리자는 SMS의 인벤토리 기능을 사용하여 특정 시스템을 대상으로 업데이트를 수행할 수 있습니다. 이 절차에 대한 자세한 내용은 [여기 (영문)](https://go.microsoft.com/fwlink/?linkid=33341)를 참조하십시오. 일부 보안 업데이트 작업을 수행하려면 관리자 권한이 필요하며 컴퓨터를 다시 시작해야 할 수 있습니다. 관리자는 [SMS 2003 Administration Feature Pack (영문)](https://go.microsoft.com/fwlink/?linkid=33387) 및 [SMS 2.0 Administration Feature Pack (영문)](https://go.microsoft.com/fwlink/?linkid=21161)에서 제공되는 Elevated Rights Deployment Tool을 사용하여 이러한 업데이트를 설치할 수 있습니다.
 
 **QChain.exe 및 Update.exe:**
 
-Microsoft에서 제공하는 명령 줄 도구인 QChain.exe를 사용하면 관리자는 보안 업데이트를 안전하게 체인화할 수 있습니다. 체인 작업은 각 업데이트마다 다시 시작할 필요 없이 여러 개의 업데이트를 설치하는 것을 의미합니다. 여기에 설명되어 있는 업데이트에 사용되는 Update.exe는 체인 기능을 기본적으로 포함하고 있으므로 Windows 2000 서비스 팩 2 이상, Windows XP 또는 Windows Server 2003을 사용하는 고객은 Qchain.exe를 사용하여 이러한 업데이트를 체인화하지 않아도 됩니다. 그러나 Qchain.exe는 관리자가 모든 플랫폼에 대해 일관된 배포 스크립트를 만들 수 있도록 Windows Updates에 대한 체인화를 지원합니다. Qchain에 대한 자세한 내용은 이 [웹 사이트 (영문)](http://go.microsoft.com/fwlink/?linkid=21156)를 참조하십시오.
+Microsoft에서 제공하는 명령 줄 도구인 QChain.exe를 사용하면 관리자는 보안 업데이트를 안전하게 체인화할 수 있습니다. 체인 작업은 각 업데이트마다 다시 시작할 필요 없이 여러 개의 업데이트를 설치하는 것을 의미합니다. 여기에 설명되어 있는 업데이트에 사용되는 Update.exe는 체인 기능을 기본적으로 포함하고 있으므로 Windows 2000 서비스 팩 2 이상, Windows XP 또는 Windows Server 2003을 사용하는 고객은 Qchain.exe를 사용하여 이러한 업데이트를 체인화하지 않아도 됩니다. 그러나 Qchain.exe는 관리자가 모든 플랫폼에 대해 일관된 배포 스크립트를 만들 수 있도록 Windows Updates에 대한 체인화를 지원합니다. Qchain에 대한 자세한 내용은 이 [웹 사이트 (영문)](https://go.microsoft.com/fwlink/?linkid=21156)를 참조하십시오.
 
 **Microsoft Baseline Security Analyzer:**
 
-관리자는 MBSA(Microsoft Baseline Security Analyzer)를 사용하여 로컬 및 원격 시스템에서 누락된 보안 업데이트 및 일반적인 보안 설정 오류를 검색할 수 있습니다. MBSA에 대한 자세한 내용을 보려면 [Microsoft Baseline Security Analyzer 웹 사이트](http://www.microsoft.com/korea/technet/security/tools/mbsahome.asp)를 방문하십시오.
+관리자는 MBSA(Microsoft Baseline Security Analyzer)를 사용하여 로컬 및 원격 시스템에서 누락된 보안 업데이트 및 일반적인 보안 설정 오류를 검색할 수 있습니다. MBSA에 대한 자세한 내용을 보려면 [Microsoft Baseline Security Analyzer 웹 사이트](https://www.microsoft.com/korea/technet/security/tools/mbsahome.asp)를 방문하십시오.
 
 **검색 및 배포 지침:**
 
-Microsoft는 이 달의 보안 업데이트를 위한 검색 및 배포 지침을 제공하였습니다. 이 지침은 IT 전문가가 Windows Update, Microsoft Update, Office 업데이트, MBSA(Microsoft Baseline Security Analyzer), Office Detection Tool, Microsoft Systems Management Server(SMS), Extended Security Update Inventory Tool 및 Enterprise Update Scan Tool(EST) 등의 다양한 도구를 사용하여 보안 업데이트를 용이하게 배포하는 방법을 이해하는 데 도움이 됩니다. 자세한 내용은 [Microsoft 기술 자료 문서 910723](http://support.microsoft.com/kb/910723)을 참조하십시오.
+Microsoft는 이 달의 보안 업데이트를 위한 검색 및 배포 지침을 제공하였습니다. 이 지침은 IT 전문가가 Windows Update, Microsoft Update, Office 업데이트, MBSA(Microsoft Baseline Security Analyzer), Office Detection Tool, Microsoft Systems Management Server(SMS), Extended Security Update Inventory Tool 및 Enterprise Update Scan Tool(EST) 등의 다양한 도구를 사용하여 보안 업데이트를 용이하게 배포하는 방법을 이해하는 데 도움이 됩니다. 자세한 내용은 [Microsoft 기술 자료 문서 910723](https://support.microsoft.com/kb/910723)을 참조하십시오.
 
 #### 기타 정보:
 
 **감사의 말**
 
-고객 보호를 위해 협력해 주신 다음 분들께 [감사](http://www.microsoft.com/korea/technet/security/bulletin/policy.asp)드립니다.
+고객 보호를 위해 협력해 주신 다음 분들께 [감사](https://www.microsoft.com/korea/technet/security/bulletin/policy.asp)드립니다.
 
--   [MS06-072](http://technet.microsoft.com/security/bulletin/ms06-072)에서 설명한 문제점을 보고해 주신 [Secunia Research (영문)](http://secunia.com/)의 Jakob Balle 및 Carsten Eiram
--   [MS06-072](http://technet.microsoft.com/security/bulletin/ms06-072)에서 설명한 문제점을 보고해 주신 [Zero Day Initiative (영문)](http://www.zerodayinitiative.com/) 및 [TippingPoint (영문)](http://www.tippingpoint.com/)와 협력해 주신 Sam Thomas
--   [MS06-072](http://technet.microsoft.com/security/bulletin/ms06-072)에서 설명한 문제점을 보고해 주신 [ITsec Security Services (영문)](http://www.itsec-ss.nl/)의 Yorick Koster
--   [MS06-074](http://technet.microsoft.com/security/bulletin/ms06-074)에서 설명한 문제점을 보고해 주신 [TippingPoint (영문)](http://www.tippingpoint.com/) 및 [Zero Day Initiative (영문)](http://www.zerodayinitiative.com/)
--   [MS06-075](http://technet.microsoft.com/security/bulletin/ms06-075)에서 설명한 문제점을 보고해 주신 [European Aeronautic Defense and Space Company (영문)](http://www.eads.com/)의 Kostya Kortchinsky
--   [MS06-078](http://technet.microsoft.com/security/bulletin/ms06-078)에서 설명한 문제점을 보고해 주신 Nicolas Ruff
+-   [MS06-072](https://technet.microsoft.com/security/bulletin/ms06-072)에서 설명한 문제점을 보고해 주신 [Secunia Research (영문)](https://secunia.com/)의 Jakob Balle 및 Carsten Eiram
+-   [MS06-072](https://technet.microsoft.com/security/bulletin/ms06-072)에서 설명한 문제점을 보고해 주신 [Zero Day Initiative (영문)](https://www.zerodayinitiative.com/) 및 [TippingPoint (영문)](https://www.tippingpoint.com/)와 협력해 주신 Sam Thomas
+-   [MS06-072](https://technet.microsoft.com/security/bulletin/ms06-072)에서 설명한 문제점을 보고해 주신 [ITsec Security Services (영문)](https://www.itsec-ss.nl/)의 Yorick Koster
+-   [MS06-074](https://technet.microsoft.com/security/bulletin/ms06-074)에서 설명한 문제점을 보고해 주신 [TippingPoint (영문)](https://www.tippingpoint.com/) 및 [Zero Day Initiative (영문)](https://www.zerodayinitiative.com/)
+-   [MS06-075](https://technet.microsoft.com/security/bulletin/ms06-075)에서 설명한 문제점을 보고해 주신 [European Aeronautic Defense and Space Company (영문)](https://www.eads.com/)의 Kostya Kortchinsky
+-   [MS06-078](https://technet.microsoft.com/security/bulletin/ms06-078)에서 설명한 문제점을 보고해 주신 Nicolas Ruff
 
 **기타 보안 관련 업데이트 받기:**
 
 기타 보안 문제 관련 업데이트는 다음 사이트에서 구할 수 있습니다.
 
--   보안 업데이트는 [Microsoft 다운로드 센터](http://www.microsoft.com/downloads/results.aspx?displaylang=ko&freetext=security_patch)에서 다운로드할 수 있으며 "security\_patch"라는 키워드를 사용하여 쉽게 찾을 수 있습니다.
--   각 사용자 플랫폼에 맞는 업데이트는 [Microsoft Update 웹 사이트](http://update.microsoft.com/microsoftupdate)에서 구할 수 있습니다.
+-   보안 업데이트는 [Microsoft 다운로드 센터](https://www.microsoft.com/downloads/results.aspx?displaylang=ko&freetext=security_patch)에서 다운로드할 수 있으며 "security\_patch"라는 키워드를 사용하여 쉽게 찾을 수 있습니다.
+-   각 사용자 플랫폼에 맞는 업데이트는 [Microsoft Update 웹 사이트](https://update.microsoft.com/microsoftupdate)에서 구할 수 있습니다.
 
 **지원:**
 
--   기술 지원은 1577-9700을 통해 [Microsoft 고객지원센터](http://go.microsoft.com/fwlink/?linkid=21131)에서 받을 수 있습니다. 보안 업데이트와 관련된 기술 지원 통화는 무료입니다.
--   기타 지역에 거주하는 고객은 해당 Microsoft 지사에서 지원을 받을 수 있습니다. 보안 업데이트와 관련된 기술 지원은 무료입니다. Microsoft 지원 부서에 연락하는 방법에 대한 자세한 내용은 [국가별 기술 지원 웹 사이트](http://go.microsoft.com/fwlink/?linkid=21155)에 나와 있습니다.
+-   기술 지원은 1577-9700을 통해 [Microsoft 고객지원센터](https://go.microsoft.com/fwlink/?linkid=21131)에서 받을 수 있습니다. 보안 업데이트와 관련된 기술 지원 통화는 무료입니다.
+-   기타 지역에 거주하는 고객은 해당 Microsoft 지사에서 지원을 받을 수 있습니다. 보안 업데이트와 관련된 기술 지원은 무료입니다. Microsoft 지원 부서에 연락하는 방법에 대한 자세한 내용은 [국가별 기술 지원 웹 사이트](https://go.microsoft.com/fwlink/?linkid=21155)에 나와 있습니다.
 
 **보안 관련 자료:**
 
--   [Microsoft TechNet Security](http://www.microsoft.com/korea/technet/security/) 웹 사이트에서 Microsoft 제품의 보안에 관한 추가 정보를 제공합니다.
--   [Microsoft Software Update Services](http://www.microsoft.com/korea/windowsserversystem/updateservices/evaluation/previous/default.mspx)
--   [Microsoft Windows Server Update Services](http://www.microsoft.com/korea/windowsserversystem/updateservices/evaluation/overview.mspx)
--   [MBSA(Microsoft Baseline Security Analyzer)](http://www.microsoft.com/korea/technet/security/tools/mbsahome.asp)
--   [Windows Update](http://update.microsoft.com/microsoftupdate/)
--   [Microsoft Update](http://update.microsoft.com/microsoftupdate/)
--   Windows Update 카탈로그: Windows Update 카탈로그에 대한 자세한 내용은 Microsoft 기술 자료 문서 [323166](http://support.microsoft.com/kb/323166/ko)을 참조하십시오.
--   [Office 업데이트](http://office.microsoft.com/ko-kr/officeupdate/default.aspx)
+-   [Microsoft TechNet Security](https://www.microsoft.com/korea/technet/security/) 웹 사이트에서 Microsoft 제품의 보안에 관한 추가 정보를 제공합니다.
+-   [Microsoft Software Update Services](https://www.microsoft.com/korea/windowsserversystem/updateservices/evaluation/previous/default.mspx)
+-   [Microsoft Windows Server Update Services](https://www.microsoft.com/korea/windowsserversystem/updateservices/evaluation/overview.mspx)
+-   [MBSA(Microsoft Baseline Security Analyzer)](https://www.microsoft.com/korea/technet/security/tools/mbsahome.asp)
+-   [Windows Update](https://update.microsoft.com/microsoftupdate/)
+-   [Microsoft Update](https://update.microsoft.com/microsoftupdate/)
+-   Windows Update 카탈로그: Windows Update 카탈로그에 대한 자세한 내용은 Microsoft 기술 자료 문서 [323166](https://support.microsoft.com/kb/323166/ko)을 참조하십시오.
+-   [Office 업데이트](https://office.microsoft.com/ko-kr/officeupdate/default.aspx)
 
 **부인:**
 

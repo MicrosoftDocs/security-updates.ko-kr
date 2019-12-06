@@ -15,7 +15,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms17-mar(v=Security.10)
 
 이 공지 요약 목록에는 2017년 3월 발표된 보안 공지가 포함되어 있습니다.
 
-Microsoft 보안 공지가 게시될 때 자동 알림을 받는 방법은 [Microsoft 기술 보안 알림](http://go.microsoft.com/fwlink/?linkid=21163)을 참조하십시오.
+Microsoft 보안 공지가 게시될 때 자동 알림을 받는 방법은 [Microsoft 기술 보안 알림](https://go.microsoft.com/fwlink/?linkid=21163)을 참조하십시오.
 
 Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비보안 업데이트와 보안 업데이트의 우선 순위를 고객이 결정하는 데 도움이 되는 정보도 제공합니다. **기타 정보** 절을 참조하십시오.
 
@@ -54,7 +54,7 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 <td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=842208">MS17-006</a></td>
 <td style="border:1px solid black;"><strong>Internet Explorer용 누적 보안 업데이트(4013073)<br />
 </strong>이 보안 업데이트는 Internet Explorer의 취약성을 해결합니다. 이 중에서 가장 심각한 취약성은 사용자가 Internet Explorer를 사용하여 특수 제작된 웹 페이지를 볼 경우 원격 코드 실행을 허용할 수 있습니다. 이 취약성 악용에 성공한 공격자는 현재 사용자와 동일한 사용자 권한을 얻을 수 있습니다. 현재 사용자가 관리자 권한으로 로그온한 경우, 이 취약성 악용에 성공한 공격자는 영향받는 시스템을 제어할 수 있습니다. 이렇게 되면 공격자가 프로그램을 설치하거나, 데이터를 보거나 변경하거나 삭제하거나, 모든 사용자 권한이 있는 새 계정을 만들 수 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급(영문)</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급(영문)</a> <br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">다시 시작해야 함</td>
 <td style="border:1px solid black;">---------</td>
@@ -65,7 +65,7 @@ Microsoft Internet Explorer</td>
 <td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=842207">MS17-007</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Edge용 누적 보안 업데이트(4013071)<br />
 </strong>이 보안 업데이트는 Microsoft Edge의 취약성을 해결합니다. 이 취약성은 사용자가 특수 제작된 웹 페이지를 Microsoft Edge를 사용하여 보는 경우 원격 코드 실행을 허용할 수 있습니다. 이러한 취약성 악용에 성공한 공격자는 영향받는 시스템을 제어할 수 있습니다. 이렇게 되면 공격자가 프로그램을 설치하거나, 데이터를 보거나 변경하거나 삭제하거나, 모든 사용자 권한이 있는 새 계정을 만들 수 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급(영문)</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급(영문)</a> <br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">다시 시작해야 함</td>
 <td style="border:1px solid black;">---------</td>
@@ -76,7 +76,7 @@ Microsoft Edge</td>
 <td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=842215">MS17-008</a></td>
 <td style="border:1px solid black;"><strong>Windows Hyper-V용 보안 업데이트(4013082)<br />
 </strong>이 보안 업데이트는 Microsoft Windows의 취약성을 해결합니다. 이 중에서 가장 심각한 취약성은 게스트 운영 체제의 인증된 공격자가 Hyper-V 호스트 운영 체제에서 임의의 코드를 실행하게 하는 특수 제작된 응용 프로그램을 실행할 경우 원격 코드 실행을 허용할 수 있습니다. Hyper-V 역할을 사용하지 않는 고객은 영향을 받지 않습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급(영문)</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급(영문)</a> <br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">다시 시작해야 함</td>
 <td style="border:1px solid black;">---------</td>
@@ -86,7 +86,7 @@ Microsoft Edge</td>
 <td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=839436">MS17-009</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Windows PDF 라이브러리용 보안 업데이트(4010319)<br />
 </strong>이 보안 업데이트는 Microsoft Windows의 취약성을 해결합니다. 이 취약성으로 인해 사용자가 특수 제작된 PDF 콘텐츠를 온라인으로 보거나 특수 제작된 PDF 문서를 열 경우 원격 코드 실행이 허용될 수 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급(영문)</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급(영문)</a> <br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">다시 시작해야 함</td>
 <td style="border:1px solid black;">---------</td>
@@ -96,7 +96,7 @@ Microsoft Edge</td>
 <td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=843149">MS17-010</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Windows SMB Server용 보안 업데이트(4013389)<br />
 </strong>이 보안 업데이트는 Microsoft Windows의 취약성을 해결합니다. 이 중에서 가장 심각한 취약성으로 인해 공격자가 Microsoft SMBv1(서버 메시지 블록 1.0) 서버에 특수 제작된 메시지를 보낼 경우 원격 코드 실행이 허용될 수 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급(영문)</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급(영문)</a> <br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">다시 시작해야 함</td>
 <td style="border:1px solid black;">---------</td>
@@ -106,7 +106,7 @@ Microsoft Edge</td>
 <td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=842211">MS17-011</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Uniscribe용 보안 업데이트(4013076)<br />
 </strong>이 보안 업데이트는 Microsoft Uniscribe의 취약성을 해결합니다. 이 중에서 가장 심각한 취약성은 사용자가 특수 제작된 웹 사이트를 방문하거나 특수 제작된 문서를 열 경우 원격 코드 실행을 허용할 수 있습니다. 시스템에서 더 낮은 사용자 권한을 가지도록 구성된 계정의 사용자는 관리자 권한으로 작업하는 사용자보다 영향을 덜 받을 수 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급(영문)</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급(영문)</a> <br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">다시 시작해야 함</td>
 <td style="border:1px solid black;">---------</td>
@@ -116,7 +116,7 @@ Microsoft Edge</td>
 <td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=842212">MS17-012</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Windows용 보안 업데이트(4013078)<br />
 </strong>이 보안 업데이트는 Microsoft Windows의 취약성을 해결합니다. 이 중에서 가장 심각한 취약성으로 인해 공격자가 iSNS Server에 연결한 후 서버에 대해 악성 요청을 실행하는 특수 제작된 응용 프로그램을 실행하는 경우 원격 코드 실행이 허용될 수 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급(영문)</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급(영문)</a> <br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">다시 시작해야 함</td>
 <td style="border:1px solid black;">---------</td>
@@ -126,7 +126,7 @@ Microsoft Edge</td>
 <td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=842210">MS17-013</a></td>
 <td style="border:1px solid black;"><strong>Microsoft 그래픽 구성 요소용 보안 업데이트(4013075)<br />
 </strong>이 보안 업데이트는 Microsoft Windows, Microsoft Office, 비즈니스용 Skype, Microsoft Lync 및 Microsoft Silverlight의 취약성을 해결합니다. 이 중에서 가장 심각한 취약성은 사용자가 특수 제작된 웹 사이트를 방문하거나 특수 제작된 문서를 열 경우 원격 코드 실행을 허용할 수 있습니다. 시스템에서 더 낮은 사용자 권한을 가지도록 구성된 계정의 사용자는 관리자 권한으로 작업하는 사용자보다 영향을 덜 받을 수 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급(영문)</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급(영문)</a> <br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">다시 시작해야 함</td>
 <td style="border:1px solid black;">---------</td>
@@ -140,7 +140,7 @@ Microsoft Silverlight</td>
 <td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=842278">MS17-014</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Office용 보안 업데이트(4013241)</strong><br />
 이 보안 업데이트는 Microsoft Office의 취약성을 해결합니다. 이 중에서 가장 심각한 취약성은 사용자가 특수 제작된 Microsoft Office 파일을 열 경우 원격 코드 실행을 허용할 수 있습니다. 이러한 취약성 악용에 성공한 공격자는 현재 사용자의 컨텍스트에서 임의의 코드를 실행할 수 있습니다. 시스템에 대한 사용자 권한이 적게 구성된 계정의 고객은 관리자 권한으로 작업하는 고객보다 영향을 덜 받을 수 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">중요(영문)</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">중요(영문)</a> <br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">다시 시작해야 할 수 있음</td>
 <td style="border:1px solid black;">---------</td>
@@ -153,7 +153,7 @@ Microsoft 통신 플랫폼 및 소프트웨어</td>
 <td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=842279">MS17-015</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Exchange Server용 보안 업데이트(4013242)<br />
 </strong>이 보안 업데이트는 Microsoft Exchange OWA(Outlook Web Access)의 취약성을 해결합니다. 이 취약성은 공격자가 특수 제작된 첨부 파일이 포함된 전자 메일을 취약한 Exchange Server에 전송할 경우 Exchange Server에서 원격 코드 실행을 허용할 수 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">중요(영문)</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">중요(영문)</a> <br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">다시 시작해야 함</td>
 <td style="border:1px solid black;">---------</td>
@@ -163,7 +163,7 @@ Microsoft 통신 플랫폼 및 소프트웨어</td>
 <td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=842209">MS17-016</a></td>
 <td style="border:1px solid black;"><strong>Windows IIS용 보안 업데이트(4013074)<br />
 </strong>이 보안 업데이트는 Microsoft IIS(Internet Information Services)의 취약성을 해결합니다. 이 취약성으로 인해 사용자가 영향받은 Microsoft IIS Server에서 호스트되는 특수 제작된 URL을 클릭하는 경우 권한 상승이 허용될 수 있습니다. 이 취약성 악용에 성공한 공격자는 사용자의 브라우저에서 스크립트를 실행하여 웹 세션에서 정보를 가져올 수 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">중요(영문)</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">중요(영문)</a> <br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">다시 시작해야 함</td>
 <td style="border:1px solid black;">---------</td>
@@ -173,7 +173,7 @@ Microsoft 통신 플랫폼 및 소프트웨어</td>
 <td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=842216">MS17-017</a></td>
 <td style="border:1px solid black;"><strong>Windows 커널용 보안 업데이트(4013081)<br />
 </strong>이 보안 업데이트는 Microsoft Windows의 취약성을 해결합니다. 공격자가 특수 제작된 응용 프로그램을 실행할 경우 이 취약성으로 인해 권한 상승이 허용될 수 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">중요(영문)</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">중요(영문)</a> <br />
 권한 상승</td>
 <td style="border:1px solid black;">다시 시작해야 함</td>
 <td style="border:1px solid black;">---------</td>
@@ -183,7 +183,7 @@ Microsoft 통신 플랫폼 및 소프트웨어</td>
 <td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=842217">MS17-018</a></td>
 <td style="border:1px solid black;"><strong>Windows 커널 모드 드라이버용 보안 업데이트(4013083)<br />
 </strong>이 보안 업데이트는 Microsoft Windows의 취약성을 해결합니다. 이러한 취약성으로 인해 공격자가 영향받는 시스템에 로그온하여 취약성을 악용하고 영향받는 시스템을 제어할 수 있는 특수 제작된 응용 프로그램을 실행할 경우 권한 상승이 허용될 수 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">중요(영문)</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">중요(영문)</a> <br />
 권한 상승</td>
 <td style="border:1px solid black;">다시 시작해야 함</td>
 <td style="border:1px solid black;">---------</td>
@@ -193,7 +193,7 @@ Microsoft 통신 플랫폼 및 소프트웨어</td>
 <td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=839438">MS17-019</a></td>
 <td style="border:1px solid black;"><strong>Active Directory Federation Services용 보안 업데이트(4010320)<br />
 </strong>이 보안 업데이트는 ADFS(Active Directory Federation Services)의 취약성을 해결합니다. 이 취약성으로 인해 공격자가 ADFS 서버에 특수 제작된 요청을 전송하여 대상 시스템의 중요한 파일을 읽을 수 있게 되는 경우 정보가 유출될 수 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">중요(영문)</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">중요(영문)</a> <br />
 정보 유출</td>
 <td style="border:1px solid black;">다시 시작해야 함</td>
 <td style="border:1px solid black;">---------</td>
@@ -203,7 +203,7 @@ Microsoft 통신 플랫폼 및 소프트웨어</td>
 <td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=836272">MS17-020</a></td>
 <td style="border:1px solid black;"><strong>Windows DVD Maker용 보안 업데이트(3208223)<br />
 </strong>이 보안 업데이트는 Windows DVD Maker의 정보 유출 취약성을 해결합니다. 공격자는 이 취약성을 통해 대상 시스템을 추가로 손상시킬 수 있는 정보를 얻을 수 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">중요(영문)</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">중요(영문)</a> <br />
 정보 유출</td>
 <td style="border:1px solid black;">다시 시작해야 함</td>
 <td style="border:1px solid black;">---------</td>
@@ -213,7 +213,7 @@ Microsoft 통신 플랫폼 및 소프트웨어</td>
 <td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=839434">MS17-021</a></td>
 <td style="border:1px solid black;"><strong>Windows DirectShow용 보안 업데이트(4010318)<br />
 </strong>이 보안 업데이트는 Microsoft Windows의 취약성을 해결합니다. 이 취약성으로 인해 Windows DirectShow가 악의적인 웹 사이트에서 호스팅되는 특수 제작된 미디어 콘텐츠를 여는 경우 정보가 유출될 수 있습니다. 이 취약성 악용에 성공한 공격자는 대상 시스템을 더 손상시킬 수 있는 정보를 얻을 수 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">중요(영문)</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">중요(영문)</a> <br />
 정보 유출</td>
 <td style="border:1px solid black;">다시 시작해야 함</td>
 <td style="border:1px solid black;">---------</td>
@@ -223,7 +223,7 @@ Microsoft 통신 플랫폼 및 소프트웨어</td>
 <td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=839435">MS17-022</a></td>
 <td style="border:1px solid black;"><strong>Microsoft XML Core Services용 보안 업데이트(4010321)<br />
 </strong>이 보안 업데이트는 Microsoft Windows의 취약성을 해결합니다. 이 취약성으로 인해 사용자가 악의적인 웹 사이트를 방문할 경우 정보가 유출될 수 있습니다. 하지만 어떠한 경우에도 공격자는 강제로 사용자가 특수 제작된 링크를 클릭하도록 만들 수 없습니다. 공격자는 일반적으로 전자 메일 또는 인스턴트 메신저 메시지에서 유인물을 이용하여 사용자가 이 링크를 클릭하도록 유도해야 합니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">중요(영문)</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">중요(영문)</a> <br />
 정보 유출</td>
 <td style="border:1px solid black;">다시 시작해야 함</td>
 <td style="border:1px solid black;">---------</td>
@@ -233,7 +233,7 @@ Microsoft 통신 플랫폼 및 소프트웨어</td>
 <td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=844066">MS17-023</a></td>
 <td style="border:1px solid black;"><strong>Adobe Flash Player용 보안 업데이트(</strong>4014329)<br />
 이 보안 업데이트는 지원되는 모든 버전의 Windows 8.1, Windows Server 2012, Windows Server 2012 R2, Windows RT 8.1, Windows 10 및 Windows Server 2016에 설치된 Adobe Flash Player의 취약성을 해결합니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급(영문)</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급(영문)</a> <br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">다시 시작해야 함</td>
 <td style="border:1px solid black;">---------</td>
@@ -252,7 +252,7 @@ Adobe Flash Player</td>
 
 **이 표를 어떻게 사용합니까?**
 
-이 표를 사용하여 설치해야 할 수 있는 각 보안 업데이트에 대한 보안 공지 발표 후 30일 내 코드 실행 및 서비스 거부 악용 가능성에 대해 자세히 알아볼 수 있습니다. 이달의 업데이트 배포의 우선 순위를 정하려면 사용자의 특정 구성에 따라 아래의 각 평가를 검토하십시오. 이러한 등급의 의미와 등급이 결정되는 방법에 대한 자세한 내용은 [Microsoft 악용 가능성 인덱스](http://technet.microsoft.com/ko-kr/security/cc998259)를 참조하십시오.
+이 표를 사용하여 설치해야 할 수 있는 각 보안 업데이트에 대한 보안 공지 발표 후 30일 내 코드 실행 및 서비스 거부 악용 가능성에 대해 자세히 알아볼 수 있습니다. 이달의 업데이트 배포의 우선 순위를 정하려면 사용자의 특정 구성에 따라 아래의 각 평가를 검토하십시오. 이러한 등급의 의미와 등급이 결정되는 방법에 대한 자세한 내용은 [Microsoft 악용 가능성 인덱스](https://technet.microsoft.com/ko-kr/security/cc998259)를 참조하십시오.
 
 아래 열에서 "최신 소프트웨어 릴리스"는 관련 소프트웨어를 나타내며 "이전 소프트웨어 릴리스"는 공지의 "영향받는 소프트웨어" 및 "영향받지 않는 소프트웨어" 표에 나열된 지원 대상인 관련 소프트웨어의 모든 이전 릴리스를 나타냅니다.
 
@@ -291,7 +291,7 @@ Adobe Flash Player</td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0008(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0008)
+[CVE-2017-0008(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0008)
 
 </td>
 <td style="border:1px solid black;">
@@ -313,7 +313,7 @@ Internet Explorer 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0009(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0009)
+[CVE-2017-0009(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0009)
 
 </td>
 <td style="border:1px solid black;">
@@ -335,7 +335,7 @@ Microsoft 브라우저 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0012(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0012)
+[CVE-2017-0012(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0012)
 
 </td>
 <td style="border:1px solid black;">
@@ -357,7 +357,7 @@ Microsoft 브라우저 스푸핑 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0018(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0018)
+[CVE-2017-0018(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0018)
 
 </td>
 <td style="border:1px solid black;">
@@ -379,7 +379,7 @@ Internet Explorer 메모리 손상 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0033(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0033)
+[CVE-2017-0033(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0033)
 
 </td>
 <td style="border:1px solid black;">
@@ -401,7 +401,7 @@ Microsoft 브라우저 스푸핑 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0037(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0037)
+[CVE-2017-0037(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0037)
 
 </td>
 <td style="border:1px solid black;">
@@ -423,7 +423,7 @@ Microsoft 브라우저 메모리 손상 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0040(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0040)
+[CVE-2017-0040(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0040)
 
 </td>
 <td style="border:1px solid black;">
@@ -445,7 +445,7 @@ Microsoft 브라우저 메모리 손상 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0049(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0049)
+[CVE-2017-0049(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0049)
 
 </td>
 <td style="border:1px solid black;">
@@ -467,7 +467,7 @@ Microsoft 브라우저 메모리 손상 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0059(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0059)
+[CVE-2017-0059(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0059)
 
 </td>
 <td style="border:1px solid black;">
@@ -489,7 +489,7 @@ Internet Explorer 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0130(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0130)
+[CVE-2017-0130(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0130)
 
 </td>
 <td style="border:1px solid black;">
@@ -511,7 +511,7 @@ Internet Explorer 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0149(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0149)
+[CVE-2017-0149(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0149)
 
 </td>
 <td style="border:1px solid black;">
@@ -533,7 +533,7 @@ Internet Explorer 메모리 손상 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0154(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0154)
+[CVE-2017-0154(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0154)
 
 </td>
 <td style="border:1px solid black;">
@@ -561,7 +561,7 @@ Internet Explorer 권한 상승 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0009(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0009)
+[CVE-2017-0009(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0009)
 
 </td>
 <td style="border:1px solid black;">
@@ -583,7 +583,7 @@ Microsoft 브라우저 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0010(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0010)
+[CVE-2017-0010(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0010)
 
 </td>
 <td style="border:1px solid black;">
@@ -605,7 +605,7 @@ Microsoft 브라우저 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0011(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0011)
+[CVE-2017-0011(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0011)
 
 </td>
 <td style="border:1px solid black;">
@@ -627,7 +627,7 @@ Microsoft Edge 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0012(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0012)
+[CVE-2017-0012(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0012)
 
 </td>
 <td style="border:1px solid black;">
@@ -649,7 +649,7 @@ Microsoft 브라우저 스푸핑 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0015(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0015)
+[CVE-2017-0015(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0015)
 
 </td>
 <td style="border:1px solid black;">
@@ -671,7 +671,7 @@ Microsoft 브라우저 스푸핑 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0017(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0017)
+[CVE-2017-0017(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0017)
 
 </td>
 <td style="border:1px solid black;">
@@ -693,7 +693,7 @@ Microsoft Edge 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0023(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0023)
+[CVE-2017-0023(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0023)
 
 </td>
 <td style="border:1px solid black;">
@@ -715,7 +715,7 @@ Microsoft PDF 메모리 손상 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0032(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0032)
+[CVE-2017-0032(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0032)
 
 </td>
 <td style="border:1px solid black;">
@@ -737,7 +737,7 @@ Microsoft PDF 메모리 손상 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0033(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0033)
+[CVE-2017-0033(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0033)
 
 </td>
 <td style="border:1px solid black;">
@@ -759,7 +759,7 @@ Microsoft 브라우저 스푸핑 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0034(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0034)
+[CVE-2017-0034(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0034)
 
 </td>
 <td style="border:1px solid black;">
@@ -781,7 +781,7 @@ Microsoft Edge 메모리 손상 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0035(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0035)
+[CVE-2017-0035(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0035)
 
 </td>
 <td style="border:1px solid black;">
@@ -803,7 +803,7 @@ Microsoft Edge 메모리 손상 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0037(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0037)
+[CVE-2017-0037(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0037)
 
 </td>
 <td style="border:1px solid black;">
@@ -825,7 +825,7 @@ Microsoft 브라우저 메모리 손상 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0065(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0065)
+[CVE-2017-0065(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0065)
 
 </td>
 <td style="border:1px solid black;">
@@ -847,7 +847,7 @@ Microsoft 브라우저 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0066(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0066)
+[CVE-2017-0066(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0066)
 
 </td>
 <td style="border:1px solid black;">
@@ -869,7 +869,7 @@ Microsoft Edge 보안 기능 우회 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0067(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0067)
+[CVE-2017-0067(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0067)
 
 </td>
 <td style="border:1px solid black;">
@@ -891,7 +891,7 @@ Microsoft Edge 보안 기능 우회 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0068(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0068)
+[CVE-2017-0068(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0068)
 
 </td>
 <td style="border:1px solid black;">
@@ -913,7 +913,7 @@ Microsoft Edge 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0069(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0069)
+[CVE-2017-0069(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0069)
 
 </td>
 <td style="border:1px solid black;">
@@ -935,7 +935,7 @@ Microsoft Edge 스푸핑 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0070(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0070)
+[CVE-2017-0070(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0070)
 
 </td>
 <td style="border:1px solid black;">
@@ -957,7 +957,7 @@ Microsoft Edge 스푸핑 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0071(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0071)
+[CVE-2017-0071(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0071)
 
 </td>
 <td style="border:1px solid black;">
@@ -979,7 +979,7 @@ Microsoft Edge 스푸핑 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0094(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0094)
+[CVE-2017-0094(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0094)
 
 </td>
 <td style="border:1px solid black;">
@@ -1001,7 +1001,7 @@ Microsoft Edge 스푸핑 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0131(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0131)
+[CVE-2017-0131(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0131)
 
 </td>
 <td style="border:1px solid black;">
@@ -1023,7 +1023,7 @@ Microsoft Edge 스푸핑 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0132(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0132)
+[CVE-2017-0132(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0132)
 
 </td>
 <td style="border:1px solid black;">
@@ -1045,7 +1045,7 @@ Microsoft Edge 스푸핑 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0133(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0133)
+[CVE-2017-0133(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0133)
 
 </td>
 <td style="border:1px solid black;">
@@ -1067,7 +1067,7 @@ Microsoft Edge 스푸핑 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0134(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0134)
+[CVE-2017-0134(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0134)
 
 </td>
 <td style="border:1px solid black;">
@@ -1089,7 +1089,7 @@ Microsoft Edge 스푸핑 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0135(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0135)
+[CVE-2017-0135(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0135)
 
 </td>
 <td style="border:1px solid black;">
@@ -1111,7 +1111,7 @@ Microsoft Edge 보안 기능 우회
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0136(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0136)
+[CVE-2017-0136(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0136)
 
 </td>
 <td style="border:1px solid black;">
@@ -1133,7 +1133,7 @@ Microsoft Edge 보안 기능 우회
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0137(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0137)
+[CVE-2017-0137(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0137)
 
 </td>
 <td style="border:1px solid black;">
@@ -1155,7 +1155,7 @@ Microsoft Edge 보안 기능 우회
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0138(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0138)
+[CVE-2017-0138(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0138)
 
 </td>
 <td style="border:1px solid black;">
@@ -1177,7 +1177,7 @@ Microsoft Edge 보안 기능 우회
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0140(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0140)
+[CVE-2017-0140(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0140)
 
 </td>
 <td style="border:1px solid black;">
@@ -1199,7 +1199,7 @@ Microsoft Edge 보안 기능 우회
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0141(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0141)
+[CVE-2017-0141(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0141)
 
 </td>
 <td style="border:1px solid black;">
@@ -1221,7 +1221,7 @@ Microsoft Edge 보안 기능 우회
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0150(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0150)
+[CVE-2017-0150(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0150)
 
 </td>
 <td style="border:1px solid black;">
@@ -1243,7 +1243,7 @@ Microsoft Edge 보안 기능 우회
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0151(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0151)
+[CVE-2017-0151(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0151)
 
 </td>
 <td style="border:1px solid black;">
@@ -1271,7 +1271,7 @@ Microsoft Edge 보안 기능 우회
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0021(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0021)
+[CVE-2017-0021(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0021)
 
 </td>
 <td style="border:1px solid black;">
@@ -1293,7 +1293,7 @@ Hyper-V vSMB 원격 코드 실행 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0051(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0051)
+[CVE-2017-0051(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0051)
 
 </td>
 <td style="border:1px solid black;">
@@ -1315,7 +1315,7 @@ Microsoft Hyper-V 네트워크 스위치 서비스 거부 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0074(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0074)
+[CVE-2017-0074(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0074)
 
 </td>
 <td style="border:1px solid black;">
@@ -1337,7 +1337,7 @@ Hyper-V 서비스 거부 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0075(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0075)
+[CVE-2017-0075(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0075)
 
 </td>
 <td style="border:1px solid black;">
@@ -1359,7 +1359,7 @@ Hyper-V 원격 코드 실행 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0076(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0076)
+[CVE-2017-0076(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0076)
 
 </td>
 <td style="border:1px solid black;">
@@ -1381,7 +1381,7 @@ Hyper-V 서비스 거부 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0095(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0095)
+[CVE-2017-0095(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0095)
 
 </td>
 <td style="border:1px solid black;">
@@ -1403,7 +1403,7 @@ Hyper-V vSMB 원격 코드 실행 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0096(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0096)
+[CVE-2017-0096(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0096)
 
 </td>
 <td style="border:1px solid black;">
@@ -1425,7 +1425,7 @@ Hyper-V 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0097(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0097)
+[CVE-2017-0097(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0097)
 
 </td>
 <td style="border:1px solid black;">
@@ -1447,7 +1447,7 @@ Hyper-V 서비스 거부 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0098(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0098)
+[CVE-2017-0098(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0098)
 
 </td>
 <td style="border:1px solid black;">
@@ -1469,7 +1469,7 @@ Hyper-V 서비스 거부 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0099(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0099)
+[CVE-2017-0099(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0099)
 
 </td>
 <td style="border:1px solid black;">
@@ -1491,7 +1491,7 @@ Hyper-V 서비스 거부 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0109(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0109)
+[CVE-2017-0109(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0109)
 
 </td>
 <td style="border:1px solid black;">
@@ -1519,7 +1519,7 @@ Hyper-V 원격 코드 실행 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0023(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0023)
+[CVE-2017-0023(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0023)
 
 </td>
 <td style="border:1px solid black;">
@@ -1547,7 +1547,7 @@ Microsoft PDF 메모리 손상 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0143(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0143)
+[CVE-2017-0143(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0143)
 
 </td>
 <td style="border:1px solid black;">
@@ -1569,7 +1569,7 @@ Windows SMB 원격 코드 실행 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0144(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0144)
+[CVE-2017-0144(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0144)
 
 </td>
 <td style="border:1px solid black;">
@@ -1591,7 +1591,7 @@ Windows SMB 원격 코드 실행 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0145(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0145)
+[CVE-2017-0145(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0145)
 
 </td>
 <td style="border:1px solid black;">
@@ -1613,7 +1613,7 @@ Windows SMB 원격 코드 실행 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0146(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0146)
+[CVE-2017-0146(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0146)
 
 </td>
 <td style="border:1px solid black;">
@@ -1635,7 +1635,7 @@ Windows SMB 원격 코드 실행 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0147(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0147)
+[CVE-2017-0147(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0147)
 
 </td>
 <td style="border:1px solid black;">
@@ -1657,7 +1657,7 @@ Windows SMB 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0148(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0148)
+[CVE-2017-0148(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0148)
 
 </td>
 <td style="border:1px solid black;">
@@ -1685,7 +1685,7 @@ Windows SMB 원격 코드 실행 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0072(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0072)
+[CVE-2017-0072(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0072)
 
 </td>
 <td style="border:1px solid black;">
@@ -1707,7 +1707,7 @@ Uniscribe 원격 코드 실행 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0083(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0083)
+[CVE-2017-0083(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0083)
 
 </td>
 <td style="border:1px solid black;">
@@ -1729,7 +1729,7 @@ Uniscribe 원격 코드 실행 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0084(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0084)
+[CVE-2017-0084(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0084)
 
 </td>
 <td style="border:1px solid black;">
@@ -1751,7 +1751,7 @@ Uniscribe 원격 코드 실행 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0085(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0085)
+[CVE-2017-0085(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0085)
 
 </td>
 <td style="border:1px solid black;">
@@ -1773,7 +1773,7 @@ Uniscribe 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0086(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0086)
+[CVE-2017-0086(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0086)
 
 </td>
 <td style="border:1px solid black;">
@@ -1795,7 +1795,7 @@ Uniscribe 원격 코드 실행 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0087(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0087)
+[CVE-2017-0087(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0087)
 
 </td>
 <td style="border:1px solid black;">
@@ -1817,7 +1817,7 @@ Uniscribe 원격 코드 실행 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0088(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0088)
+[CVE-2017-0088(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0088)
 
 </td>
 <td style="border:1px solid black;">
@@ -1839,7 +1839,7 @@ Uniscribe 원격 코드 실행 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0089(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0089)
+[CVE-2017-0089(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0089)
 
 </td>
 <td style="border:1px solid black;">
@@ -1861,7 +1861,7 @@ Uniscribe 원격 코드 실행 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0090(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0090)
+[CVE-2017-0090(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0090)
 
 </td>
 <td style="border:1px solid black;">
@@ -1883,7 +1883,7 @@ Uniscribe 원격 코드 실행 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0091(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0091)
+[CVE-2017-0091(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0091)
 
 </td>
 <td style="border:1px solid black;">
@@ -1905,7 +1905,7 @@ Uniscribe 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0092(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0092)
+[CVE-2017-0092(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0092)
 
 </td>
 <td style="border:1px solid black;">
@@ -1927,7 +1927,7 @@ Uniscribe 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0111(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0111)
+[CVE-2017-0111(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0111)
 
 </td>
 <td style="border:1px solid black;">
@@ -1949,7 +1949,7 @@ Uniscribe 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0112(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0112)
+[CVE-2017-0112(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0112)
 
 </td>
 <td style="border:1px solid black;">
@@ -1971,7 +1971,7 @@ Uniscribe 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0113(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0113)
+[CVE-2017-0113(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0113)
 
 </td>
 <td style="border:1px solid black;">
@@ -1993,7 +1993,7 @@ Uniscribe 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0114(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0114)
+[CVE-2017-0114(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0114)
 
 </td>
 <td style="border:1px solid black;">
@@ -2015,7 +2015,7 @@ Uniscribe 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0115(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0115)
+[CVE-2017-0115(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0115)
 
 </td>
 <td style="border:1px solid black;">
@@ -2037,7 +2037,7 @@ Uniscribe 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0116(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0116)
+[CVE-2017-0116(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0116)
 
 </td>
 <td style="border:1px solid black;">
@@ -2059,7 +2059,7 @@ Uniscribe 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0117(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0117)
+[CVE-2017-0117(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0117)
 
 </td>
 <td style="border:1px solid black;">
@@ -2081,7 +2081,7 @@ Uniscribe 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0118(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0118)
+[CVE-2017-0118(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0118)
 
 </td>
 <td style="border:1px solid black;">
@@ -2103,29 +2103,7 @@ Uniscribe 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0119(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0119)
-
-</td>
-<td style="border:1px solid black;">
-Uniscribe 정보 유출 취약성
-
-</td>
-<td style="border:1px solid black;">
-4 - 영향을 받지 않음
-
-</td>
-<td style="border:1px solid black;">
-3 - 악용 불가능
-
-</td>
-<td style="border:1px solid black;">
-해당 없음
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2017-0120(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0120)
+[CVE-2017-0119(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0119)
 
 </td>
 <td style="border:1px solid black;">
@@ -2147,7 +2125,29 @@ Uniscribe 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0121(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0121)
+[CVE-2017-0120(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0120)
+
+</td>
+<td style="border:1px solid black;">
+Uniscribe 정보 유출 취약성
+
+</td>
+<td style="border:1px solid black;">
+4 - 영향을 받지 않음
+
+</td>
+<td style="border:1px solid black;">
+3 - 악용 불가능
+
+</td>
+<td style="border:1px solid black;">
+해당 없음
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[CVE-2017-0121(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0121)
 
 </td>
 <td style="border:1px solid black;">
@@ -2169,7 +2169,7 @@ Uniscribe 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0122(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0122)
+[CVE-2017-0122(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0122)
 
 </td>
 <td style="border:1px solid black;">
@@ -2191,7 +2191,7 @@ Uniscribe 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0123(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0123)
+[CVE-2017-0123(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0123)
 
 </td>
 <td style="border:1px solid black;">
@@ -2213,7 +2213,7 @@ Uniscribe 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0124(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0124)
+[CVE-2017-0124(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0124)
 
 </td>
 <td style="border:1px solid black;">
@@ -2235,7 +2235,7 @@ Uniscribe 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0125(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0125)
+[CVE-2017-0125(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0125)
 
 </td>
 <td style="border:1px solid black;">
@@ -2257,7 +2257,7 @@ Uniscribe 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0126(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0125)
+[CVE-2017-0126(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0125)
 
 </td>
 <td style="border:1px solid black;">
@@ -2279,7 +2279,7 @@ Uniscribe 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0127(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0127)
+[CVE-2017-0127(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0127)
 
 </td>
 <td style="border:1px solid black;">
@@ -2301,7 +2301,7 @@ Uniscribe 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0128(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0128)
+[CVE-2017-0128(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0128)
 
 </td>
 <td style="border:1px solid black;">
@@ -2329,7 +2329,7 @@ Uniscribe 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0007(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0007)
+[CVE-2017-0007(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0007)
 
 </td>
 <td style="border:1px solid black;">
@@ -2351,7 +2351,7 @@ Device Guard 보안 기능 우회 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0016(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0016)
+[CVE-2017-0016(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0016)
 
 </td>
 <td style="border:1px solid black;">
@@ -2373,7 +2373,7 @@ SMBv2/SMBv3 Null 역참조 서비스 거부 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0039(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0039)
+[CVE-2017-0039(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0039)
 
 </td>
 <td style="border:1px solid black;">
@@ -2395,7 +2395,7 @@ Windows DLL 로드 원격 코드 실행 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0057(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0057)
+[CVE-2017-0057(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0057)
 
 </td>
 <td style="border:1px solid black;">
@@ -2417,7 +2417,7 @@ Windows DNS 쿼리 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0100(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0100)
+[CVE-2017-0100(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0100)
 
 </td>
 <td style="border:1px solid black;">
@@ -2439,7 +2439,7 @@ Windows 도움말 창 권한 상승 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0104(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0104)
+[CVE-2017-0104(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0104)
 
 </td>
 <td style="border:1px solid black;">
@@ -2467,7 +2467,7 @@ iSNS Server 메모리 손상 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0001(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0001)
+[CVE-2017-0001(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0001)
 
 </td>
 <td style="border:1px solid black;">
@@ -2489,7 +2489,7 @@ Windows GDI 권한 상승 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0005(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0005)
+[CVE-2017-0005(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0005)
 
 </td>
 <td style="border:1px solid black;">
@@ -2511,7 +2511,7 @@ Windows GDI 권한 상승 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0014(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0014)
+[CVE-2017-0014(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0014)
 
 </td>
 <td style="border:1px solid black;">
@@ -2533,7 +2533,7 @@ GDI+ 원격 코드 실행 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0025(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0025)
+[CVE-2017-0025(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0025)
 
 </td>
 <td style="border:1px solid black;">
@@ -2555,7 +2555,7 @@ Windows GDI 권한 상승 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0038(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0038)
+[CVE-2017-0038(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0038)
 
 </td>
 <td style="border:1px solid black;">
@@ -2577,7 +2577,7 @@ Windows 그래픽 구성 요소 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0047(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0047)
+[CVE-2017-0047(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0047)
 
 </td>
 <td style="border:1px solid black;">
@@ -2599,7 +2599,7 @@ Windows GDI 권한 상승 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0060(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0060)
+[CVE-2017-0060(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0060)
 
 </td>
 <td style="border:1px solid black;">
@@ -2621,7 +2621,7 @@ GDI+ 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0061(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0061)
+[CVE-2017-0061(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0061)
 
 </td>
 <td style="border:1px solid black;">
@@ -2643,7 +2643,7 @@ Microsoft 색 관리 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0062(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0062)
+[CVE-2017-0062(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0062)
 
 </td>
 <td style="border:1px solid black;">
@@ -2665,7 +2665,7 @@ GDI+ 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0063(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0063)
+[CVE-2017-0063(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0063)
 
 </td>
 <td style="border:1px solid black;">
@@ -2687,7 +2687,7 @@ Microsoft 색 관리 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0073(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0073)
+[CVE-2017-0073(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0073)
 
 </td>
 <td style="border:1px solid black;">
@@ -2709,7 +2709,7 @@ Windows GDI+ 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0108(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0108)
+[CVE-2017-0108(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0108)
 
 </td>
 <td style="border:1px solid black;">
@@ -2737,7 +2737,7 @@ Windows 그래픽 구성 요소 원격 코드 실행 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0006(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0006)
+[CVE-2017-0006(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0006)
 
 </td>
 <td style="border:1px solid black;">
@@ -2759,7 +2759,7 @@ Microsoft Office 메모리 손상 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0019(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0019)
+[CVE-2017-0019(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0019)
 
 </td>
 <td style="border:1px solid black;">
@@ -2781,7 +2781,7 @@ Microsoft Office 메모리 손상 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0020(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0020)
+[CVE-2017-0020(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0020)
 
 </td>
 <td style="border:1px solid black;">
@@ -2803,7 +2803,7 @@ Microsoft Office 메모리 손상 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0027(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0027)
+[CVE-2017-0027(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0027)
 
 </td>
 <td style="border:1px solid black;">
@@ -2825,7 +2825,7 @@ Microsoft Office 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0029(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0029)
+[CVE-2017-0029(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0029)
 
 </td>
 <td style="border:1px solid black;">
@@ -2847,7 +2847,7 @@ Microsoft Office 서비스 거부 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0030(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0030)
+[CVE-2017-0030(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0030)
 
 </td>
 <td style="border:1px solid black;">
@@ -2869,7 +2869,7 @@ Microsoft Office 메모리 손상 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0031(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0031)
+[CVE-2017-0031(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0031)
 
 </td>
 <td style="border:1px solid black;">
@@ -2891,7 +2891,7 @@ Microsoft Office 메모리 손상 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0052(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0052)
+[CVE-2017-0052(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0052)
 
 </td>
 <td style="border:1px solid black;">
@@ -2913,7 +2913,7 @@ Microsoft Office 메모리 손상 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0053(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0053)
+[CVE-2017-0053(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0053)
 
 </td>
 <td style="border:1px solid black;">
@@ -2935,7 +2935,7 @@ Microsoft Office 메모리 손상 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0105(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0105)
+[CVE-2017-0105(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0105)
 
 </td>
 <td style="border:1px solid black;">
@@ -2957,7 +2957,7 @@ Microsoft Office 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0107(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0107)
+[CVE-2017-0107(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0107)
 
 </td>
 <td style="border:1px solid black;">
@@ -2979,7 +2979,7 @@ Microsoft SharePoint XSS 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0129(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0129)
+[CVE-2017-0129(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0129)
 
 </td>
 <td style="border:1px solid black;">
@@ -3007,7 +3007,7 @@ Mac용 Microsoft Lync 인증서 유효성 검사 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0110(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0110)
+[CVE-2017-0110(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0110)
 
 </td>
 <td style="border:1px solid black;">
@@ -3035,7 +3035,7 @@ Microsoft Exchange Server 권한 상승 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0055(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0055)
+[CVE-2017-0055(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0055)
 
 </td>
 <td style="border:1px solid black;">
@@ -3063,7 +3063,7 @@ Microsoft IIS Server XSS 권한 상승 취약성(영문)
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0050(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0050)
+[CVE-2017-0050(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0050)
 
 </td>
 <td style="border:1px solid black;">
@@ -3085,7 +3085,7 @@ Windows 커널 권한 상승 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0101(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0101)
+[CVE-2017-0101(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0101)
 
 </td>
 <td style="border:1px solid black;">
@@ -3107,7 +3107,7 @@ Windows 권한 상승 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0102(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0102)
+[CVE-2017-0102(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0102)
 
 </td>
 <td style="border:1px solid black;">
@@ -3129,7 +3129,7 @@ Windows 권한 상승 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0103(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0103)
+[CVE-2017-0103(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0103)
 
 </td>
 <td style="border:1px solid black;">
@@ -3157,7 +3157,7 @@ Windows 레지스트리 권한 상승 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0024(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0024)
+[CVE-2017-0024(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0024)
 
 </td>
 <td style="border:1px solid black;">
@@ -3179,7 +3179,7 @@ Win32k 권한 상승 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0026(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0026)
+[CVE-2017-0026(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0026)
 
 </td>
 <td style="border:1px solid black;">
@@ -3201,7 +3201,7 @@ Win32k 권한 상승 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0056(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0056)
+[CVE-2017-0056(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0056)
 
 </td>
 <td style="border:1px solid black;">
@@ -3223,7 +3223,7 @@ Win32k 권한 상승 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0078(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0078)
+[CVE-2017-0078(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0078)
 
 </td>
 <td style="border:1px solid black;">
@@ -3245,7 +3245,7 @@ Win32k 권한 상승 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0079(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0079)
+[CVE-2017-0079(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0079)
 
 </td>
 <td style="border:1px solid black;">
@@ -3267,7 +3267,7 @@ Win32k 권한 상승 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0080(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0080)
+[CVE-2017-0080(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0080)
 
 </td>
 <td style="border:1px solid black;">
@@ -3289,7 +3289,7 @@ Win32k 권한 상승 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0081(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0081)
+[CVE-2017-0081(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0081)
 
 </td>
 <td style="border:1px solid black;">
@@ -3311,7 +3311,7 @@ Win32k 권한 상승 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0082(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0082)
+[CVE-2017-0082(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0082)
 
 </td>
 <td style="border:1px solid black;">
@@ -3339,7 +3339,7 @@ Win32k 권한 상승 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0043(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0043)
+[CVE-2017-0043(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0043)
 
 </td>
 <td style="border:1px solid black;">
@@ -3367,7 +3367,7 @@ Microsoft Active Directory Federation Services 정보 공개 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0045(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0045)
+[CVE-2017-0045(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0045)
 
 </td>
 <td style="border:1px solid black;">
@@ -3395,7 +3395,7 @@ Windows DVD Maker 교차 사이트 요청 위조 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0042(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0042)
+[CVE-2017-0042(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0042)
 
 </td>
 <td style="border:1px solid black;">
@@ -3423,7 +3423,7 @@ Windows DirectShow 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2017-0022(영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0022)
+[CVE-2017-0022(영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2017-0022)
 
 </td>
 <td style="border:1px solid black;">
@@ -3451,11 +3451,11 @@ Microsoft XML Core Services 정보 유출 취약성
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[APSB17-07](http://helpx.adobe.com/kr/security/products/flash-player/apsb17-07.html)
+[APSB17-07](https://helpx.adobe.com/kr/security/products/flash-player/apsb17-07.html)
 
 </td>
 <td style="border:1px solid black;">
-취약성 심각도 및 업데이트 우선 순위 등급은 Adobe 보안 공지 [APSB17-07](http://helpx.adobe.com/kr/security/products/flash-player/apsb17-07.html)을 참조하십시오.
+취약성 심각도 및 업데이트 우선 순위 등급은 Adobe 보안 공지 [APSB17-07](https://helpx.adobe.com/kr/security/products/flash-player/apsb17-07.html)을 참조하십시오.
 
 </td>
 <td style="border:1px solid black;">
@@ -3538,7 +3538,7 @@ Microsoft XML Core Services 정보 유출 취약성
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -3546,7 +3546,7 @@ Microsoft XML Core Services 정보 유출 취약성
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -3554,19 +3554,19 @@ Microsoft XML Core Services 정보 유출 취약성
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -3736,7 +3736,7 @@ Windows Vista x64 Edition 서비스 팩 2
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -3744,7 +3744,7 @@ Windows Vista x64 Edition 서비스 팩 2
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -3752,19 +3752,19 @@ Windows Vista x64 Edition 서비스 팩 2
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -3992,7 +3992,7 @@ Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -4000,7 +4000,7 @@ Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -4008,19 +4008,19 @@ Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -4274,7 +4274,7 @@ Windows 7(x64 기반 시스템용) 서비스 팩 1
 
 </td>
 <td style="border:1px solid black;">
-[**보통(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**보통(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -4282,7 +4282,7 @@ Windows 7(x64 기반 시스템용) 서비스 팩 1
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -4290,19 +4290,19 @@ Windows 7(x64 기반 시스템용) 서비스 팩 1
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -4552,7 +4552,7 @@ Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -4560,27 +4560,27 @@ Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -4842,7 +4842,7 @@ Windows 8.1(x64 기반 시스템용)
 
 </td>
 <td style="border:1px solid black;">
-[**보통(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**보통(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -4850,27 +4850,27 @@ Windows 8.1(x64 기반 시스템용)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -5136,7 +5136,7 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -5148,23 +5148,23 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -5269,35 +5269,35 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -5749,35 +5749,35 @@ Microsoft Edge
 
 </td>
 <td style="border:1px solid black;">
-[**보통(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**보통(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**보통(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**보통(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -5893,7 +5893,7 @@ Windows Server 2016(x64 기반 시스템용)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -5901,19 +5901,19 @@ Windows Server 2016(x64 기반 시스템용)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -6441,15 +6441,15 @@ Windows Server 2016(x64 기반 시스템용)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -6457,15 +6457,15 @@ Windows Server 2016(x64 기반 시스템용)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -6623,19 +6623,19 @@ Microsoft XML Core Services 3.0
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -6643,11 +6643,11 @@ Microsoft XML Core Services 3.0
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -6855,15 +6855,15 @@ Microsoft XML Core Services 3.0
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -6871,15 +6871,15 @@ Microsoft XML Core Services 3.0
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -7141,19 +7141,19 @@ Microsoft XML Core Services 3.0
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -7161,11 +7161,11 @@ Microsoft XML Core Services 3.0
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -7427,15 +7427,15 @@ Microsoft XML Core Services 3.0
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -7447,15 +7447,15 @@ Microsoft XML Core Services 3.0
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -7709,19 +7709,19 @@ Microsoft XML Core Services 3.0
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -7729,15 +7729,15 @@ Microsoft XML Core Services 3.0
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -7999,15 +7999,15 @@ Microsoft XML Core Services 3.0
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -8019,15 +8019,15 @@ Microsoft XML Core Services 3.0
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -8132,15 +8132,15 @@ Adobe Flash Player
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -8152,15 +8152,15 @@ Adobe Flash Player
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -8590,19 +8590,19 @@ Windows 10 버전 1703(x64 기반 시스템용)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -8610,15 +8610,15 @@ Windows 10 버전 1703(x64 기반 시스템용)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -8724,19 +8724,19 @@ Adobe Flash Player
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -8748,7 +8748,7 @@ Adobe Flash Player
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -9233,11 +9233,11 @@ Microsoft XML Core Services 3.0
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -9291,11 +9291,11 @@ Microsoft Word 2007 서비스 팩 3
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -9383,7 +9383,7 @@ Microsoft Word 2010 서비스 팩 2(64비트 버전)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -9455,7 +9455,7 @@ Microsoft Word 2013 서비스 팩 1(64비트 버전)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -9508,7 +9508,7 @@ Microsoft Word 2013 RT 서비스 팩 1
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -9580,7 +9580,7 @@ Microsoft Word 2016(64비트 버전)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -9636,7 +9636,7 @@ Mac용 Microsoft Word 2011
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -9683,11 +9683,11 @@ Mac용 Microsoft Excel 2016
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -9781,7 +9781,7 @@ Microsoft Word Viewer
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -9831,7 +9831,7 @@ Excel Services(64비트 버전)
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -9872,7 +9872,7 @@ Word Automation Services
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -9910,7 +9910,7 @@ Excel Services
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -9948,7 +9948,7 @@ Microsoft Office Web Apps 2010 서비스 팩 2
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -10002,7 +10002,7 @@ Microsoft Office Web Apps Server 2013 서비스 팩 1
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -10056,7 +10056,7 @@ Microsoft SharePoint Foundation 2013 서비스 팩 1
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -10122,7 +10122,7 @@ Microsoft Exchange Server 2013 누적 업데이트 14
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -10180,7 +10180,7 @@ Microsoft Exchange Server 2016 누적 업데이트 3
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -10278,7 +10278,7 @@ Microsoft Exchange Server 2016 누적 업데이트 3
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -10384,7 +10384,7 @@ Microsoft Lync Basic 2013 서비스 팩 1(64비트)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -10486,7 +10486,7 @@ Microsoft Lync 2010 Attendee
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -10536,7 +10536,7 @@ Microsoft Live Meeting 2007 콘솔
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -10590,7 +10590,7 @@ Microsoft Live Meeting 2007 추가 기능
 
 </td>
 <td style="border:1px solid black;">
-[**중요(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -10644,7 +10644,7 @@ Mac 2011용 Microsoft Lync
 
 </td>
 <td style="border:1px solid black;">
-[**긴급(영문)**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급(영문)**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -10716,7 +10716,7 @@ Mac 2011용 Microsoft Lync
 
 ACT(Application Compatibility Toolkit)에 포함되어 있는 UCE(Update Compatibility Evaluator) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사가 간소화됩니다.
 
-여기에 나온 도구 및 사용 가능한 기타 도구에 대한 자세한 내용은 [보안 도구](http://technet.microsoft.com/ko-kr/security/cc297183)를 참조하십시오. 
+여기에 나온 도구 및 사용 가능한 기타 도구에 대한 자세한 내용은 [보안 도구](https://technet.microsoft.com/ko-kr/security/cc297183)를 참조하십시오. 
 
 감사의 말
 ---------
@@ -10737,39 +10737,39 @@ Microsoft는 신뢰할 수 있는 취약성 공개를 통해 고객을 보호하
 Windows Update 및 Microsoft Update의 비보안 릴리스에 대한 자세한 내용은 다음을 참조하십시오.
 
 -   [Microsoft 기술 자료 문서 894199](https://support.microsoft.com/ko-kr/kb/894199): 변경된 Software Update Services 및 Windows Server Update Services 내용에 대한 설명. 모든 Windows 콘텐츠 포함.
--   [Windows Server Update Services용으로 지난 몇 달간 배포된 업데이트](http://technet.microsoft.com/ko-kr/wsus/bb456965)(영문). Microsoft Windows가 아닌 Microsoft 제품용 신규, 개정 및 재출시 업데이트를 전부 표시합니다.
+-   [Windows Server Update Services용으로 지난 몇 달간 배포된 업데이트](https://technet.microsoft.com/ko-kr/wsus/bb456965)(영문). Microsoft Windows가 아닌 Microsoft 제품용 신규, 개정 및 재출시 업데이트를 전부 표시합니다.
 
 ### MAPP(Microsoft Active Protections Program)
 
-고객을 위한 보안을 강화하기 위해 Microsoft는 각각의 월별 보안 업데이트를 발표하기 전에 주요 보안 소프트웨어 제공업체에 취약성 정보를 제공합니다. 보안 소프트웨어 제공업체는 이 취약점 정보를 사용하여 바이러스 백신, 네트워크 기반 침입 탐지 시스템 또는 호스트 기반 침임 방지 시스템 등 자사의 보안 소프트웨어나 장치를 통해 업데이트된 보호 기능을 고객에게 제공할 수 있습니다. 보안 소프트웨어 제공업체가 활성 보호 기능을 제공하는지 확인하려면 [Microsoft MAPP(Active Protections Program) 파트너](http://go.microsoft.com/fwlink/?linkid=215201)(영문)에 나열된 프로그램 파트너가 제공하는 활성 보호 기능 웹 사이트를 참조하십시오.
+고객을 위한 보안을 강화하기 위해 Microsoft는 각각의 월별 보안 업데이트를 발표하기 전에 주요 보안 소프트웨어 제공업체에 취약성 정보를 제공합니다. 보안 소프트웨어 제공업체는 이 취약점 정보를 사용하여 바이러스 백신, 네트워크 기반 침입 탐지 시스템 또는 호스트 기반 침임 방지 시스템 등 자사의 보안 소프트웨어나 장치를 통해 업데이트된 보호 기능을 고객에게 제공할 수 있습니다. 보안 소프트웨어 제공업체가 활성 보호 기능을 제공하는지 확인하려면 [Microsoft MAPP(Active Protections Program) 파트너](https://go.microsoft.com/fwlink/?linkid=215201)(영문)에 나열된 프로그램 파트너가 제공하는 활성 보호 기능 웹 사이트를 참조하십시오.
 
 ### 보안 전략 및 커뮤니티
 
 **업데이트 관리 전략**
 
-[업데이트 관리를 위한 보안 가이드(중요)](http://go.microsoft.com/fwlink/?linkid=21168)(영문)는 보안 업데이트 적용에 대해 Microsoft가 권장하는 모범 사례와 관련한 추가 정보를 제공합니다.
+[업데이트 관리를 위한 보안 가이드(중요)](https://go.microsoft.com/fwlink/?linkid=21168)(영문)는 보안 업데이트 적용에 대해 Microsoft가 권장하는 모범 사례와 관련한 추가 정보를 제공합니다.
 
 **기타 보안 업데이트 받기**
 
 기타 보안 문제 관련 업데이트는 다음 사이트에서 제공됩니다.
 
--   보안 업데이트는 [Microsoft 다운로드 센터](http://go.microsoft.com/fwlink/?linkid=21129)에서 제공됩니다. "보안 업데이트"라는 키워드 검색을 수행하면 가장 쉽게 찾을 수 있습니다.
--   소비자 플랫폼용 업데이트는 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747)에서 제공됩니다.
+-   보안 업데이트는 [Microsoft 다운로드 센터](https://go.microsoft.com/fwlink/?linkid=21129)에서 제공됩니다. "보안 업데이트"라는 키워드 검색을 수행하면 가장 쉽게 찾을 수 있습니다.
+-   소비자 플랫폼용 업데이트는 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747)에서 제공됩니다.
 -   이달에 제공되는 보안 업데이트는 Windows Update를 통해서 또는 다운로드 센터에서 제공되는 보안 및 긴급 릴리스 ISO CD 이미지 파일로 받을 수 있습니다. 자세한 내용은 [Microsoft 기술 자료 문서 913086](https://support.microsoft.com/ko-kr/kb/913086)을 참조하십시오.
 
 **IT Pro Security Community(IT 전문가 보안 커뮤니티)**
 
-[IT 전문가 보안 커뮤니티](http://go.microsoft.com/fwlink/?linkid=21164)에서는 보안을 강화하고 IT 인프라를 최적화하는 방법에 대해 알아보고 보안 항목에 대한 정보를 다른 IT 전문가와 공유할 수 있습니다.
+[IT 전문가 보안 커뮤니티](https://go.microsoft.com/fwlink/?linkid=21164)에서는 보안을 강화하고 IT 인프라를 최적화하는 방법에 대해 알아보고 보안 항목에 대한 정보를 다른 IT 전문가와 공유할 수 있습니다.
 
 ### 지원
 
-나열된 영향받는 소프트웨어는 테스트를 거쳐 영향받는 버전이 확인되었습니다. 다른 버전은 지원 기간이 끝났습니다. 사용 중인 소프트웨어 버전에 대한 지원 기간을 확인하려면 [Microsoft 지원 주기](http://go.microsoft.com/fwlink/?linkid=21742)를 참조하십시오.
+나열된 영향받는 소프트웨어는 테스트를 거쳐 영향받는 버전이 확인되었습니다. 다른 버전은 지원 기간이 끝났습니다. 사용 중인 소프트웨어 버전에 대한 지원 기간을 확인하려면 [Microsoft 지원 주기](https://go.microsoft.com/fwlink/?linkid=21742)를 참조하십시오.
 
-IT 전문가용 보안 솔루션: [TechNet 보안 문제 해결 및 지원](http://technet.microsoft.com/ko-kr/security/bb980617)
+IT 전문가용 보안 솔루션: [TechNet 보안 문제 해결 및 지원](https://technet.microsoft.com/ko-kr/security/bb980617)
 
-Windows가 실행되는 컴퓨터를 바이러스 및 맬웨어로부터 보호: [바이러스 솔루션 및 보안 센터](http://support.microsoft.com/ko-kr/contactus/cu_sc_virsec_master)
+Windows가 실행되는 컴퓨터를 바이러스 및 맬웨어로부터 보호: [바이러스 솔루션 및 보안 센터](https://support.microsoft.com/ko-kr/contactus/cu_sc_virsec_master)
 
-지역별 지원 정보: [국가별 지원](http://support.microsoft.com/ko-kr/common/international.aspx)
+지역별 지원 정보: [국가별 지원](https://support.microsoft.com/ko-kr/common/international.aspx)
 
 ### 고지 사항
 

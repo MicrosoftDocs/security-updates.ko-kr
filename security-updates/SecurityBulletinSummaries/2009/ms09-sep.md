@@ -16,11 +16,11 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms09-sep(v=Security.10)
 
 이 공지 요약 목록에는 2009년 9월 발표된 보안 공지가 포함되어 있습니다.
 
-2009년 9월 공지 발표와 함께 이 공지 요약이 2009년 9월 3일 게시된 공지 사전 알림을 대체합니다. 보안 사전 알림 서비스에 대한 자세한 내용은 [Microsoft 보안 공지 사전 알림](http://technet.microsoft.com/security/bulletin/advance)을 참조하십시오.
+2009년 9월 공지 발표와 함께 이 공지 요약이 2009년 9월 3일 게시된 공지 사전 알림을 대체합니다. 보안 사전 알림 서비스에 대한 자세한 내용은 [Microsoft 보안 공지 사전 알림](https://technet.microsoft.com/security/bulletin/advance)을 참조하십시오.
 
-Microsoft 보안 공지가 게시될 때 자동 알림을 받는 방법은 [Microsoft 기술 보안 알림](http://go.microsoft.com/fwlink/?linkid=21163)을 참조하십시오.
+Microsoft 보안 공지가 게시될 때 자동 알림을 받는 방법은 [Microsoft 기술 보안 알림](https://go.microsoft.com/fwlink/?linkid=21163)을 참조하십시오.
 
-Microsoft는 2009년 9월 9일 수요일(태평양 표준시, 미국 및 캐나다)에 이 공지에 대한 고객 문의 사항에 답변을 제공하는 웹캐스트를 진행합니다. [9월 보안 공지 웹캐스트에 지금 등록하십시오](http://msevents.microsoft.com/cui/webcasteventdetails.aspx?eventid=1032407486&eventcategory=4&culture=en-us&countrycode=us). 이 날짜 이후 이 웹캐스트는 주문형으로 제공됩니다. 자세한 내용은 [Microsoft 보안 공지 요약 (영문)](http://technet.microsoft.com/security/bulletin/summary) 및 웹캐스트를 참조하십시오.
+Microsoft는 2009년 9월 9일 수요일(태평양 표준시, 미국 및 캐나다)에 이 공지에 대한 고객 문의 사항에 답변을 제공하는 웹캐스트를 진행합니다. [9월 보안 공지 웹캐스트에 지금 등록하십시오](https://msevents.microsoft.com/cui/webcasteventdetails.aspx?eventid=1032407486&eventcategory=4&culture=en-us&countrycode=us). 이 날짜 이후 이 웹캐스트는 주문형으로 제공됩니다. 자세한 내용은 [Microsoft 보안 공지 요약 (영문)](https://technet.microsoft.com/security/bulletin/summary) 및 웹캐스트를 참조하십시오.
 
 Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비보안, 중요 업데이트와 보안 업데이트의 우선 순위를 고객이 결정하는 데 도움이 되는 정보도 제공합니다. **기타 정보** 섹션을 참조하십시오.
 
@@ -47,51 +47,51 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-045">MS09-045</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-045">MS09-045</a></td>
 <td style="border:1px solid black;"><strong>JScript 스크립팅 엔진의 취약점으로 인한 원격 코드 실행 문제점(971961)</strong><br />
 <br />
 이 보안 업데이트는 비공개적으로 보고된 취약점 1건을 해결합니다. 사용자가 특수하게 조작된 파일을 열거나 특수하게 조작된 웹 사이트를 방문하여 조작된 스크립트를 실행하면 이 JScript 스크립팅 엔진의 취약점을 통해 원격 코드 실행이 허용될 수 있습니다. 사용자가 관리자 권한으로 로그온한 경우, 이 취약점을 악용한 공격자는 영향을 받는 시스템을 완전히 제어할 수 있습니다. 이렇게 되면 공격자가 프로그램을 설치할 수 있을 뿐 아니라 데이터를 보거나 변경하거나 삭제할 수 있고 모든 사용자 권한이 있는 새 계정을 만들 수도 있습니다. 시스템에 대한 사용자 권한이 적게 구성된 계정의 사용자는 관리자 권한으로 작업하는 사용자에 비해 영향을 적게 받습니다.</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">긴급</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">긴급</a><br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-049">MS09-049</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-049">MS09-049</a></td>
 <td style="border:1px solid black;"><strong>무선 LAN 자동 구성 서비스의 취약점으로 인한 원격 코드 실행 문제점 (970710)</strong><br />
 <br />
 이 보안 업데이트는 무선 LAN 자동 구성 서비스에서 발견되어 비공개적으로 보고된 취약점을 해결합니다. 이 취약점으로 인해 무선 네트워크 인터페이스가 사용되는 클라이언트나 서버에서 특수하게 조작된 무선 프레임을 수신하는 경우 원격 코드 실행이 발생할 수 있습니다. 무선 카드를 사용하지 않는 시스템은 이 취약점으로 인한 위험에 노출되지 않습니다.</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">긴급</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">긴급</a><br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-047">MS09-047</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-047">MS09-047</a></td>
 <td style="border:1px solid black;"><strong>Windows Media Format의 취약점으로 인한 원격 코드 실행 문제점 (973812)</strong><br />
 <br />
 이 보안 업데이트는 Windows Media Format에서 발견되어 비공개적으로 보고된 취약점 2건을 해결합니다. 이러한 취약점으로 인해 사용자가 특수하게 조작된 미디어 파일을 열 경우 원격 코드 실행이 발생할 수 있습니다. 사용자가 관리자 권한으로 로그온한 경우, 이 취약점을 악용한 공격자는 영향을 받는 시스템을 완전히 제어할 수 있습니다. 이렇게 되면 공격자가 프로그램을 설치할 수 있을 뿐 아니라 데이터를 보거나 변경하거나 삭제할 수 있고 모든 사용자 권한이 있는 새 계정을 만들 수도 있습니다. 시스템에 대한 사용자 권한이 적게 구성된 계정의 사용자는 관리자 권한으로 작업하는 사용자에 비해 영향을 적게 받습니다.</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">긴급</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">긴급</a><br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-048">MS09-048</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-048">MS09-048</a></td>
 <td style="border:1px solid black;"><strong>Windows TCP/IP의 취약점으로 인한 원격 코드 실행 문제점 (967723)</strong><br />
 <br />
 이 보안 업데이트는 비공개적으로 보고된 TCP/IP(Transmission Control Protocol/Internet Protocol) 처리의 몇 가지 취약점을 해결합니다. 이 취약점으로 인해 공격자가 특수하게 조작된 TCP/IP 패킷을 네트워크를 통해 수신하는 서비스가 있는 컴퓨터로 전송하는 경우 원격 코드 실행이 발생할 수 있습니다. 최선의 방화벽 구성 방법과 표준 기본 방화벽 구성을 이용하면 기업 경계 외부에서 들어오는 공격으로부터 네트워크를 보호할 수 있습니다. 인터넷과 연결되는 시스템의 경우, 필요한 포트만 최소한으로 열어 두는 것이 안전합니다.</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">긴급</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">긴급</a><br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-046">MS09-046</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-046">MS09-046</a></td>
 <td style="border:1px solid black;"><strong>DHTML Editing Component ActiveX 컨트롤의 취약점으로 인한 원격 코드 실행 문제점 (956844)</strong><br />
 <br />
 이 보안 업데이트는 DHTML Editing Component ActiveX 컨트롤에서 발견되어 비공개적으로 보고된 취약점 1건을 해결합니다. 공격자는 특수하게 조작된 웹 페이지를 구성하여 이러한 취약점을 악용할 수 있습니다. 사용자가 해당 웹 페이지를 볼 경우 이 취약점으로 인해 원격 코드 실행이 허용될 수 있습니다. 취약점 악용에 성공한 공격자는 로그온한 사용자와 동일한 권한을 얻을 수 있습니다. 시스템에 대한 사용자 권한이 적게 구성된 계정의 사용자는 관리자 권한으로 작업하는 사용자에 비해 영향을 적게 받습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
@@ -106,18 +106,18 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
   
 **이 표를 어떻게 사용합니까?**
   
-이 표를 사용하여 30일 이내의 설치해야 하는 각 보안 업데이트에 발표된 기능 악용 코드의 가능성에 대해 자세히 알아볼 수 있습니다. 배포의 우선 순위를 정하려면 사용자의 특정 구성에 따라 아래의 각 평가를 검토해야 합니다. 이러한 등급의 의미와 등급이 결정되는 방법에 대한 자세한 내용은 [Microsoft 악용 가능성 인덱스 (영문)](http://technet.microsoft.com/en-us/security/cc998259.aspx)를 참조하십시오.
+이 표를 사용하여 30일 이내의 설치해야 하는 각 보안 업데이트에 발표된 기능 악용 코드의 가능성에 대해 자세히 알아볼 수 있습니다. 배포의 우선 순위를 정하려면 사용자의 특정 구성에 따라 아래의 각 평가를 검토해야 합니다. 이러한 등급의 의미와 등급이 결정되는 방법에 대한 자세한 내용은 [Microsoft 악용 가능성 인덱스 (영문)](https://technet.microsoft.com/en-us/security/cc998259.aspx)를 참조하십시오.
   
 | 공지 번호                                                           | 공지 제목                                                                              | CVE ID                                                                                  | 악용 가능성 인덱스 평가                                                                               | 주요 정보                                                                                                 |  
 |---------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|  
-| [MS09-045](http://technet.microsoft.com/security/bulletin/ms09-045) | JScript 스크립팅 엔진의 취약점으로 인한 원격 코드 실행 문제점 (971961)                 | [CVE-2009-1920 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1920) | [**1 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | (없음)                                                                                                    |  
-| [MS09-046](http://technet.microsoft.com/security/bulletin/ms09-046) | DHTML Editing Component ActiveX 컨트롤의 취약점으로 인한 원격 코드 실행 문제점(956844) | [CVE-2009-2519 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2519) | [**2 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | (없음)                                                                                                    |  
-| [MS09-047](http://technet.microsoft.com/security/bulletin/ms09-047) | Windows Media Format의 취약점으로 인한 원격 코드 실행 문제점 (973812)                  | [CVE-2009-2498 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2498) | [**1 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | (없음)                                                                                                    |  
-| [MS09-047](http://technet.microsoft.com/security/bulletin/ms09-047) | Windows Media Format의 취약점으로 인한 원격 코드 실행 문제점 (973812)                  | [CVE-2009-2499 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2499) | [**1 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | (없음)                                                                                                    |  
-| [MS09-048](http://technet.microsoft.com/security/bulletin/ms09-048) | Windows TCP/IP의 취약점으로 인한 원격 코드 실행 문제점 (967723)                        | [CVE-2008-4609 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4609) | [**3 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 악용 코드 기능 불가능     | 이는 메모리 사용 유형의 서비스 거부입니다.                                                                |  
-| [MS09-048](http://technet.microsoft.com/security/bulletin/ms09-048) | Windows TCP/IP의 취약점으로 인한 원격 코드 실행 문제점 (967723)                        | [CVE-2009-1925 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1925) | [**2 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | 악용 코드 기능이 가능하지만 일관적이지 않을 가능성이 높습니다. 서비스 거부가 발생할 가능성이 더 높습니다. |  
-| [MS09-048](http://technet.microsoft.com/security/bulletin/ms09-048) | Windows TCP/IP의 취약점으로 인한 원격 코드 실행 문제점 (967723)                        | [CVE-2009-1926 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1926) | [**3 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 악용 코드 기능 불가능     | 이는 메모리 사용 유형의 서비스 거부입니다.                                                                |  
-| [MS09-049](http://technet.microsoft.com/security/bulletin/ms09-049) | 무선 LAN 자동 구성 서비스의 취약점으로 인한 원격 코드 실행 문제점(970710)              | [CVE-2009-1132 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1132) | [**2 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | 힙 보호로 인해 이 취약점은 일관적으로 악용하기 어렵습니다.                                                |
+| [MS09-045](https://technet.microsoft.com/security/bulletin/ms09-045) | JScript 스크립팅 엔진의 취약점으로 인한 원격 코드 실행 문제점 (971961)                 | [CVE-2009-1920 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1920) | [**1 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | (없음)                                                                                                    |  
+| [MS09-046](https://technet.microsoft.com/security/bulletin/ms09-046) | DHTML Editing Component ActiveX 컨트롤의 취약점으로 인한 원격 코드 실행 문제점(956844) | [CVE-2009-2519 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2519) | [**2 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | (없음)                                                                                                    |  
+| [MS09-047](https://technet.microsoft.com/security/bulletin/ms09-047) | Windows Media Format의 취약점으로 인한 원격 코드 실행 문제점 (973812)                  | [CVE-2009-2498 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2498) | [**1 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | (없음)                                                                                                    |  
+| [MS09-047](https://technet.microsoft.com/security/bulletin/ms09-047) | Windows Media Format의 취약점으로 인한 원격 코드 실행 문제점 (973812)                  | [CVE-2009-2499 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2499) | [**1 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | (없음)                                                                                                    |  
+| [MS09-048](https://technet.microsoft.com/security/bulletin/ms09-048) | Windows TCP/IP의 취약점으로 인한 원격 코드 실행 문제점 (967723)                        | [CVE-2008-4609 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4609) | [**3 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 악용 코드 기능 불가능     | 이는 메모리 사용 유형의 서비스 거부입니다.                                                                |  
+| [MS09-048](https://technet.microsoft.com/security/bulletin/ms09-048) | Windows TCP/IP의 취약점으로 인한 원격 코드 실행 문제점 (967723)                        | [CVE-2009-1925 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1925) | [**2 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | 악용 코드 기능이 가능하지만 일관적이지 않을 가능성이 높습니다. 서비스 거부가 발생할 가능성이 더 높습니다. |  
+| [MS09-048](https://technet.microsoft.com/security/bulletin/ms09-048) | Windows TCP/IP의 취약점으로 인한 원격 코드 실행 문제점 (967723)                        | [CVE-2009-1926 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1926) | [**3 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 악용 코드 기능 불가능     | 이는 메모리 사용 유형의 서비스 거부입니다.                                                                |  
+| [MS09-049](https://technet.microsoft.com/security/bulletin/ms09-049) | 무선 LAN 자동 구성 서비스의 취약점으로 인한 원격 코드 실행 문제점(970710)              | [CVE-2009-1132 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1132) | [**2 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | 힙 보호로 인해 이 취약점은 일관적으로 악용하기 어렵습니다.                                                |
   
 영향을 받는 소프트웨어 및 다운로드 위치  
 ---------------------------------------
@@ -159,19 +159,19 @@ Microsoft Windows 2000
 **공지 번호**
 </td>
 <td style="border:1px solid black;">
-[**MS09-045**](http://technet.microsoft.com/security/bulletin/ms09-045)
+[**MS09-045**](https://technet.microsoft.com/security/bulletin/ms09-045)
 </td>
 <td style="border:1px solid black;">
-[**MS09-049**](http://technet.microsoft.com/security/bulletin/ms09-049)
+[**MS09-049**](https://technet.microsoft.com/security/bulletin/ms09-049)
 </td>
 <td style="border:1px solid black;">
-[**MS09-047**](http://technet.microsoft.com/security/bulletin/ms09-047)
+[**MS09-047**](https://technet.microsoft.com/security/bulletin/ms09-047)
 </td>
 <td style="border:1px solid black;">
-[**MS09-048**](http://technet.microsoft.com/security/bulletin/ms09-048)
+[**MS09-048**](https://technet.microsoft.com/security/bulletin/ms09-048)
 </td>
 <td style="border:1px solid black;">
-[**MS09-046**](http://technet.microsoft.com/security/bulletin/ms09-046)
+[**MS09-046**](https://technet.microsoft.com/security/bulletin/ms09-046)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -179,19 +179,19 @@ Microsoft Windows 2000
 **전체 심각도**
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://technet.microsoft.com/security/bulletin/rating)
+[**긴급**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 없음
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://technet.microsoft.com/security/bulletin/rating)
+[**긴급**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://technet.microsoft.com/security/bulletin/rating)
+[**중요**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://technet.microsoft.com/security/bulletin/rating)
+[**긴급**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -199,14 +199,14 @@ Microsoft Windows 2000
 Microsoft Windows 2000 서비스 팩 4
 </td>
 <td style="border:1px solid black;">
-[JScript 5.1 및 JScript 5.6](http://www.microsoft.com/downloads/details.aspx?familyid=2bb3af8d-f36c-4497-9f48-fc59bcff2583&displaylang=ko)  
+[JScript 5.1 및 JScript 5.6](https://www.microsoft.com/download/details.aspx?familyid=2bb3af8d-f36c-4497-9f48-fc59bcff2583&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Media Format Runtime 9.0](http://www.microsoft.com/downloads/details.aspx?familyid=02b9dc42-38c2-44b1-a77c-34854f4a86c4&displaylang=ko)  
+[Windows Media Format Runtime 9.0](https://www.microsoft.com/download/details.aspx?familyid=02b9dc42-38c2-44b1-a77c-34854f4a86c4&displaylang=ko)  
 (KB968816)  
 (긴급)
 </td>
@@ -215,7 +215,7 @@ Microsoft Windows 2000 서비스 팩 4<sup>[3]</sup>
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=6dd4b0f8-6b54-49a6-a6df-9420f9fd3333&displaylang=ko)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=6dd4b0f8-6b54-49a6-a6df-9420f9fd3333&displaylang=ko)  
 (긴급)
 </td>
 </tr>
@@ -229,19 +229,19 @@ Windows XP
 **공지 번호**
 </td>
 <td style="border:1px solid black;">
-[**MS09-045**](http://technet.microsoft.com/security/bulletin/ms09-045)
+[**MS09-045**](https://technet.microsoft.com/security/bulletin/ms09-045)
 </td>
 <td style="border:1px solid black;">
-[**MS09-049**](http://technet.microsoft.com/security/bulletin/ms09-049)
+[**MS09-049**](https://technet.microsoft.com/security/bulletin/ms09-049)
 </td>
 <td style="border:1px solid black;">
-[**MS09-047**](http://technet.microsoft.com/security/bulletin/ms09-047)
+[**MS09-047**](https://technet.microsoft.com/security/bulletin/ms09-047)
 </td>
 <td style="border:1px solid black;">
-[**MS09-048**](http://technet.microsoft.com/security/bulletin/ms09-048)
+[**MS09-048**](https://technet.microsoft.com/security/bulletin/ms09-048)
 </td>
 <td style="border:1px solid black;">
-[**MS09-046**](http://technet.microsoft.com/security/bulletin/ms09-046)
+[**MS09-046**](https://technet.microsoft.com/security/bulletin/ms09-046)
 </td>
 </tr>
 <tr>
@@ -249,19 +249,19 @@ Windows XP
 **전체 심각도**
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 없음
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**낮음**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**낮음**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -269,24 +269,24 @@ Windows XP
 Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2의 JScript 5.6](http://www.microsoft.com/downloads/details.aspx?familyid=0af373b2-2240-4079-a748-a38d1bc06f39&displaylang=ko)  
+[Windows XP 서비스 팩 2의 JScript 5.6](https://www.microsoft.com/download/details.aspx?familyid=0af373b2-2240-4079-a748-a38d1bc06f39&displaylang=ko)  
 (긴급)  
-[Windows XP 서비스 팩 2의 JScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=c933377d-e0bc-4334-bc75-029045d7a62a&displaylang=ko)<sup>[1]</sup>
+[Windows XP 서비스 팩 2의 JScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=c933377d-e0bc-4334-bc75-029045d7a62a&displaylang=ko)<sup>[1]</sup>
 (긴급)  
-[Windows XP 서비스 팩 3의 JScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=c933377d-e0bc-4334-bc75-029045d7a62a&displaylang=ko)  
+[Windows XP 서비스 팩 3의 JScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=c933377d-e0bc-4334-bc75-029045d7a62a&displaylang=ko)  
 (긴급)  
-[JScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=992602d8-d857-41cf-b7b1-527afdc1dc0f&displaylang=ko)<sup>[2]</sup>
+[JScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=992602d8-d857-41cf-b7b1-527afdc1dc0f&displaylang=ko)<sup>[2]</sup>
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Media Format Runtime 9.0, Windows Media Format Runtime 9.5 및 Windows Media Format Runtime 11](http://www.microsoft.com/downloads/details.aspx?familyid=6ffc081e-f892-4818-acb9-6d79e15d473c&displaylang=ko)  
+[Windows Media Format Runtime 9.0, Windows Media Format Runtime 9.5 및 Windows Media Format Runtime 11](https://www.microsoft.com/download/details.aspx?familyid=6ffc081e-f892-4818-acb9-6d79e15d473c&displaylang=ko)  
 (KB968816)  
 (긴급)  
 (Windows XP 서비스 팩 2만 해당)  
-[Windows Media Format Runtime 9.0, Windows Media Format Runtime 9.5, and Windows Media Format Runtime 11](http://www.microsoft.com/downloads/details.aspx?familyid=31585f5a-9aaa-40da-b15a-11284b4b800c&displaylang=ko)  
+[Windows Media Format Runtime 9.0, Windows Media Format Runtime 9.5, and Windows Media Format Runtime 11](https://www.microsoft.com/download/details.aspx?familyid=31585f5a-9aaa-40da-b15a-11284b4b800c&displaylang=ko)  
 (KB968816)  
 (긴급)  
 (Windows XP 서비스 팩 3만 해당)
@@ -296,7 +296,7 @@ Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3<sup>[3]</sup>
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=8523d5be-88a2-4124-9b02-660f612e2a12&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=8523d5be-88a2-4124-9b02-660f612e2a12&displaylang=ko)  
 (긴급)
 </td>
 </tr>
@@ -305,24 +305,24 @@ Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3<sup>[3]</sup>
 Windows XP Professional x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[JScript 5.6](http://www.microsoft.com/downloads/details.aspx?familyid=0d671004-da4e-4dbd-a066-861b53b0c59c)  
+[JScript 5.6](https://www.microsoft.com/download/details.aspx?familyid=0d671004-da4e-4dbd-a066-861b53b0c59c)  
 (긴급)  
-[JScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=9aae426d-ee9a-4736-b0a2-e0f8890a6895)<sup>[1]</sup>
+[JScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=9aae426d-ee9a-4736-b0a2-e0f8890a6895)<sup>[1]</sup>
 (긴급)  
-[JScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=00bae02a-64eb-4b91-965f-da2dc987a2ff)<sup>[2]</sup>
+[JScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=00bae02a-64eb-4b91-965f-da2dc987a2ff)<sup>[2]</sup>
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Media Format Runtime 9.5](http://www.microsoft.com/downloads/details.aspx?familyid=3780d565-d027-4f54-8fc0-05f5c3c6ba1a)  
+[Windows Media Format Runtime 9.5](https://www.microsoft.com/download/details.aspx?familyid=3780d565-d027-4f54-8fc0-05f5c3c6ba1a)  
 (KB968816)  
 (긴급)  
-[Windows Media Format Runtime 9.5 x64 Edition](http://www.microsoft.com/downloads/details.aspx?familyid=ce515188-db3c-4694-85da-177c8f76b68c)  
+[Windows Media Format Runtime 9.5 x64 Edition](https://www.microsoft.com/download/details.aspx?familyid=ce515188-db3c-4694-85da-177c8f76b68c)  
 (KB968816)  
 (긴급)  
-[Windows Media Format Runtime 11](http://www.microsoft.com/downloads/details.aspx?familyid=9a465f92-3067-4a5a-9882-1fc2cf796c99)  
+[Windows Media Format Runtime 11](https://www.microsoft.com/download/details.aspx?familyid=9a465f92-3067-4a5a-9882-1fc2cf796c99)  
 (KB968816)  
 (긴급)
 </td>
@@ -331,7 +331,7 @@ Windows XP Professional x64 Edition 서비스 팩 2<sup>[3]</sup>
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=dbc33f6b-61bf-409a-89b5-60002192e0e0)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=dbc33f6b-61bf-409a-89b5-60002192e0e0)  
 (긴급)
 </td>
 </tr>
@@ -345,19 +345,19 @@ Windows Server 2003
 **공지 번호**
 </td>
 <td style="border:1px solid black;">
-[**MS09-045**](http://technet.microsoft.com/security/bulletin/ms09-045)
+[**MS09-045**](https://technet.microsoft.com/security/bulletin/ms09-045)
 </td>
 <td style="border:1px solid black;">
-[**MS09-049**](http://technet.microsoft.com/security/bulletin/ms09-049)
+[**MS09-049**](https://technet.microsoft.com/security/bulletin/ms09-049)
 </td>
 <td style="border:1px solid black;">
-[**MS09-047**](http://technet.microsoft.com/security/bulletin/ms09-047)
+[**MS09-047**](https://technet.microsoft.com/security/bulletin/ms09-047)
 </td>
 <td style="border:1px solid black;">
-[**MS09-048**](http://technet.microsoft.com/security/bulletin/ms09-048)
+[**MS09-048**](https://technet.microsoft.com/security/bulletin/ms09-048)
 </td>
 <td style="border:1px solid black;">
-[**MS09-046**](http://technet.microsoft.com/security/bulletin/ms09-046)
+[**MS09-046**](https://technet.microsoft.com/security/bulletin/ms09-046)
 </td>
 </tr>
 <tr>
@@ -365,19 +365,19 @@ Windows Server 2003
 **전체 심각도**
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 없음
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**보통**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**보통**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -385,30 +385,30 @@ Windows Server 2003
 Windows Server 2003 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[JScript 5.6](http://www.microsoft.com/downloads/details.aspx?familyid=6acc9d2d-b71f-4b5c-9aea-b217b6ae240b&displaylang=ko)  
+[JScript 5.6](https://www.microsoft.com/download/details.aspx?familyid=6acc9d2d-b71f-4b5c-9aea-b217b6ae240b&displaylang=ko)  
 (긴급)  
-[JScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=6af5d034-fd89-42e2-bc18-d44b7a6b0a85&displaylang=ko)<sup>[1]</sup>
+[JScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=6af5d034-fd89-42e2-bc18-d44b7a6b0a85&displaylang=ko)<sup>[1]</sup>
 (긴급)  
-[JScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=ecf9f7e2-3104-4de2-8b3d-99dcdcae6e62&displaylang=ko)<sup>[2]</sup>
+[JScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=ecf9f7e2-3104-4de2-8b3d-99dcdcae6e62&displaylang=ko)<sup>[2]</sup>
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Media Format Runtime 9.5](http://www.microsoft.com/downloads/details.aspx?familyid=4ab34e3d-34cb-4e35-a2da-b348ace8a8f7)  
+[Windows Media Format Runtime 9.5](https://www.microsoft.com/download/details.aspx?familyid=4ab34e3d-34cb-4e35-a2da-b348ace8a8f7)  
 (KB968816)  
 (긴급)  
-[Windows Media Services 9.1](http://www.microsoft.com/downloads/details.aspx?familyid=61cd0581-c36e-4da6-ae95-41609adbe922)  
+[Windows Media Services 9.1](https://www.microsoft.com/download/details.aspx?familyid=61cd0581-c36e-4da6-ae95-41609adbe922)  
 (KB972554)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=48d82036-2fde-4bb0-a60e-92eed83ddc3f&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=48d82036-2fde-4bb0-a60e-92eed83ddc3f&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=7478f73f-dd20-4cfa-a650-4c84f37ada2f&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=7478f73f-dd20-4cfa-a650-4c84f37ada2f&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -417,33 +417,33 @@ Windows Server 2003 서비스 팩 2
 Windows Server 2003 x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[JScript 5.6](http://www.microsoft.com/downloads/details.aspx?familyid=d0de3ab1-73e9-4a09-841f-81ade41a8c81&displaylang=ko)  
+[JScript 5.6](https://www.microsoft.com/download/details.aspx?familyid=d0de3ab1-73e9-4a09-841f-81ade41a8c81&displaylang=ko)  
 (긴급)  
-[JScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=8f48bc05-ffac-4a21-8d21-dd20355cda8a&displaylang=ko)<sup>[1]</sup>
+[JScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=8f48bc05-ffac-4a21-8d21-dd20355cda8a&displaylang=ko)<sup>[1]</sup>
 (긴급)  
-[JScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=643f9e2f-2e5b-48dd-b1a0-22ccb633ed18&displaylang=ko)<sup>[2]</sup>
+[JScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=643f9e2f-2e5b-48dd-b1a0-22ccb633ed18&displaylang=ko)<sup>[2]</sup>
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Media Format Runtime 9.5](http://www.microsoft.com/downloads/details.aspx?familyid=8654ee33-6083-447f-ae5b-43ef8d8b613d&displaylang=ko)  
+[Windows Media Format Runtime 9.5](https://www.microsoft.com/download/details.aspx?familyid=8654ee33-6083-447f-ae5b-43ef8d8b613d&displaylang=ko)  
 (KB968816)  
 (긴급)  
-[Windows Media Format Runtime 9.5 x64 Edition](http://www.microsoft.com/downloads/details.aspx?familyid=ce515188-db3c-4694-85da-177c8f76b68c&displaylang=ko)  
+[Windows Media Format Runtime 9.5 x64 Edition](https://www.microsoft.com/download/details.aspx?familyid=ce515188-db3c-4694-85da-177c8f76b68c&displaylang=ko)  
 (KB968816)  
 (긴급)  
-[Windows Media Services 9.1](http://www.microsoft.com/downloads/details.aspx?familyid=67c46f26-e6df-4ba2-9c03-1590b31e454c&displaylang=ko)  
+[Windows Media Services 9.1](https://www.microsoft.com/download/details.aspx?familyid=67c46f26-e6df-4ba2-9c03-1590b31e454c&displaylang=ko)  
 (KB972554)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=e0298ddf-026e-4137-8197-ed9d9b889825&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=e0298ddf-026e-4137-8197-ed9d9b889825&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=88bf502d-1a7c-447a-ac4c-401e1698669b&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=88bf502d-1a7c-447a-ac4c-401e1698669b&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -452,10 +452,10 @@ Windows Server 2003 x64 Edition 서비스 팩 2
 Windows Server 2003 SP2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[JScript 5.6](http://www.microsoft.com/downloads/details.aspx?familyid=e78cf021-54f5-4526-b5f0-f781aebf9d72)  
+[JScript 5.6](https://www.microsoft.com/download/details.aspx?familyid=e78cf021-54f5-4526-b5f0-f781aebf9d72)  
 (KB971961)  
 (긴급)  
-[JScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=fb1ca290-cea4-49c0-a37e-613a654bff3c)<sup>[1]</sup>
+[JScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=fb1ca290-cea4-49c0-a37e-613a654bff3c)<sup>[1]</sup>
 (KB971961)  
 (긴급)
 </td>
@@ -466,11 +466,11 @@ Windows Server 2003 SP2(Itanium 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=c948c4d8-5788-4c1a-9fb6-a969b06a888d)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=c948c4d8-5788-4c1a-9fb6-a969b06a888d)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=8d881ff8-f51f-4476-8cb6-2bebd5b2047f)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=8d881ff8-f51f-4476-8cb6-2bebd5b2047f)  
 (보통)
 </td>
 </tr>
@@ -484,19 +484,19 @@ Windows Vista
 **공지 번호**
 </td>
 <td style="border:1px solid black;">
-[**MS09-045**](http://technet.microsoft.com/security/bulletin/ms09-045)
+[**MS09-045**](https://technet.microsoft.com/security/bulletin/ms09-045)
 </td>
 <td style="border:1px solid black;">
-[**MS09-049**](http://technet.microsoft.com/security/bulletin/ms09-049)
+[**MS09-049**](https://technet.microsoft.com/security/bulletin/ms09-049)
 </td>
 <td style="border:1px solid black;">
-[**MS09-047**](http://technet.microsoft.com/security/bulletin/ms09-047)
+[**MS09-047**](https://technet.microsoft.com/security/bulletin/ms09-047)
 </td>
 <td style="border:1px solid black;">
-[**MS09-048**](http://technet.microsoft.com/security/bulletin/ms09-048)
+[**MS09-048**](https://technet.microsoft.com/security/bulletin/ms09-048)
 </td>
 <td style="border:1px solid black;">
-[**MS09-046**](http://technet.microsoft.com/security/bulletin/ms09-046)
+[**MS09-046**](https://technet.microsoft.com/security/bulletin/ms09-046)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -504,16 +504,16 @@ Windows Vista
 **전체 심각도**
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 없음
@@ -524,22 +524,22 @@ Windows Vista
 Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[JScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=bcb12e57-f5d6-4b4e-88ab-13c28137f11a&displaylang=ko)  
+[JScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=bcb12e57-f5d6-4b4e-88ab-13c28137f11a&displaylang=ko)  
 (긴급)  
-[JScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=80e7390f-df39-4d99-b2e1-01c7f6a951bb&displaylang=ko)<sup>[2]</sup>
+[JScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=80e7390f-df39-4d99-b2e1-01c7f6a951bb&displaylang=ko)<sup>[2]</sup>
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=e9fe967f-d78d-43c2-bbcc-5098bd20267e&displaylang=ko)  
+[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=e9fe967f-d78d-43c2-bbcc-5098bd20267e&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Media Format Runtime 11](http://www.microsoft.com/downloads/details.aspx?familyid=d2bdefcc-f6b9-47c3-a55d-a4f33f967828&displaylang=ko)  
+[Windows Media Format Runtime 11](https://www.microsoft.com/download/details.aspx?familyid=d2bdefcc-f6b9-47c3-a55d-a4f33f967828&displaylang=ko)  
 (KB968816)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=7d72f845-9feb-4685-a669-f9d6ab54f9ed&displaylang=ko)  
+[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=7d72f845-9feb-4685-a669-f9d6ab54f9ed&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
@@ -551,22 +551,22 @@ Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2
 Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[JScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=8b1b76d5-a6b0-4c2f-8768-e55e82c2c118&displaylang=ko)  
+[JScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=8b1b76d5-a6b0-4c2f-8768-e55e82c2c118&displaylang=ko)  
 (긴급)  
-[JScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=24457cdd-1973-40c9-9c2d-c1a75fdfa7fa&displaylang=ko)<sup>[2]</sup>
+[JScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=24457cdd-1973-40c9-9c2d-c1a75fdfa7fa&displaylang=ko)<sup>[2]</sup>
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=f93470bd-2e6d-4340-88c6-bb212baf750a&displaylang=ko)  
+[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=f93470bd-2e6d-4340-88c6-bb212baf750a&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Media Format Runtime 11](http://www.microsoft.com/downloads/details.aspx?familyid=97f00b25-fb8f-4300-80c0-c63179f32182&displaylang=ko)  
+[Windows Media Format Runtime 11](https://www.microsoft.com/download/details.aspx?familyid=97f00b25-fb8f-4300-80c0-c63179f32182&displaylang=ko)  
 (KB968816)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b2930ff1-5f0a-4a5d-bf2a-9fb76dd8da63&displaylang=ko)  
+[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b2930ff1-5f0a-4a5d-bf2a-9fb76dd8da63&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
@@ -583,19 +583,19 @@ Windows Server 2008
 **공지 번호**
 </td>
 <td style="border:1px solid black;">
-[**MS09-045**](http://technet.microsoft.com/security/bulletin/ms09-045)
+[**MS09-045**](https://technet.microsoft.com/security/bulletin/ms09-045)
 </td>
 <td style="border:1px solid black;">
-[**MS09-049**](http://technet.microsoft.com/security/bulletin/ms09-049)
+[**MS09-049**](https://technet.microsoft.com/security/bulletin/ms09-049)
 </td>
 <td style="border:1px solid black;">
-[**MS09-047**](http://technet.microsoft.com/security/bulletin/ms09-047)
+[**MS09-047**](https://technet.microsoft.com/security/bulletin/ms09-047)
 </td>
 <td style="border:1px solid black;">
-[**MS09-048**](http://technet.microsoft.com/security/bulletin/ms09-048)
+[**MS09-048**](https://technet.microsoft.com/security/bulletin/ms09-048)
 </td>
 <td style="border:1px solid black;">
-[**MS09-046**](http://technet.microsoft.com/security/bulletin/ms09-046)
+[**MS09-046**](https://technet.microsoft.com/security/bulletin/ms09-046)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -603,16 +603,16 @@ Windows Server 2008
 **전체 심각도**
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 없음
@@ -623,25 +623,25 @@ Windows Server 2008
 Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[JScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=df88e6e5-78d3-4fa6-858d-b935d812cada&displaylang=ko)\*  
+[JScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=df88e6e5-78d3-4fa6-858d-b935d812cada&displaylang=ko)\*  
 (긴급)  
-[JScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=e7b07be6-a4f8-4847-9c55-9b3d2965fa77&displaylang=ko)\*,<sup>[2]</sup>
+[JScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=e7b07be6-a4f8-4847-9c55-9b3d2965fa77&displaylang=ko)\*,<sup>[2]</sup>
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=ac3f6800-bc3e-4b35-a482-54e1a2da1ab5&displaylang=ko)\*\*  
+[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=ac3f6800-bc3e-4b35-a482-54e1a2da1ab5&displaylang=ko)\*\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Media Format Runtime 11 및 Microsoft Media Foundation](http://www.microsoft.com/downloads/details.aspx?familyid=9c111bff-aff6-4ff7-81f6-e736cfcbe3ed&displaylang=ko)\*\*  
+[Windows Media Format Runtime 11 및 Microsoft Media Foundation](https://www.microsoft.com/download/details.aspx?familyid=9c111bff-aff6-4ff7-81f6-e736cfcbe3ed&displaylang=ko)\*\*  
 (KB968816)  
 (긴급)  
-[Windows Media Services 2008](http://www.microsoft.com/downloads/details.aspx?familyid=2801f69b-37d0-4d0f-9632-31382b824d36&displaylang=ko)\*  
+[Windows Media Services 2008](https://www.microsoft.com/download/details.aspx?familyid=2801f69b-37d0-4d0f-9632-31382b824d36&displaylang=ko)\*  
 (KB972554)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=35c1d5a9-a953-4fc6-90c0-d2358c7b89e6&displaylang=ko)\*  
+[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=35c1d5a9-a953-4fc6-90c0-d2358c7b89e6&displaylang=ko)\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
@@ -653,25 +653,25 @@ Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시�
 Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[JScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=f584f8ca-f6b1-4285-a44c-3df5e51e75de&displaylang=ko)\*  
+[JScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=f584f8ca-f6b1-4285-a44c-3df5e51e75de&displaylang=ko)\*  
 (긴급)  
-[JScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=9eddbb89-4178-49c2-836a-2d292fe50936&displaylang=ko)\*,<sup>[2]</sup>
+[JScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=9eddbb89-4178-49c2-836a-2d292fe50936&displaylang=ko)\*,<sup>[2]</sup>
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=7d1b9b4f-bf35-44aa-a660-afb2ef2c9e30&displaylang=ko)\*\*  
+[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=7d1b9b4f-bf35-44aa-a660-afb2ef2c9e30&displaylang=ko)\*\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Media Format Runtime 11 및 Microsoft Media Foundation](http://www.microsoft.com/downloads/details.aspx?familyid=59615c8b-a07f-4326-836d-f17b2fcc4695&displaylang=ko)\*\*  
+[Windows Media Format Runtime 11 및 Microsoft Media Foundation](https://www.microsoft.com/download/details.aspx?familyid=59615c8b-a07f-4326-836d-f17b2fcc4695&displaylang=ko)\*\*  
 (KB968816)  
 (긴급)  
-[Windows Media Services 2008](http://www.microsoft.com/downloads/details.aspx?familyid=7fad3793-174f-46db-9d0a-873a0ea8be65&displaylang=ko)\*  
+[Windows Media Services 2008](https://www.microsoft.com/download/details.aspx?familyid=7fad3793-174f-46db-9d0a-873a0ea8be65&displaylang=ko)\*  
 (KB972554)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=6e46822e-f79d-492d-ad01-ee680ad324f5&displaylang=ko)\*  
+[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=6e46822e-f79d-492d-ad01-ee680ad324f5&displaylang=ko)\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
@@ -683,7 +683,7 @@ Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 
 Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[JScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=b84fca1d-914d-45af-a48c-d9bc5d20c6b7)  
+[JScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=b84fca1d-914d-45af-a48c-d9bc5d20c6b7)  
 (KB971961)  
 (긴급)
 </td>
@@ -694,7 +694,7 @@ Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=2ac76ee2-b1b6-4300-9cba-af33d9dd54eb)  
+[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=2ac76ee2-b1b6-4300-9cba-af33d9dd54eb)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
@@ -705,9 +705,9 @@ Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium
  
 **Windows Server 2008 참고 사항**
 
-**\*Windows Server 2008 Server Core 설치가 영향을 받습니다.** 지원 대상인 Windows Server 2008 에디션에 대해 이 업데이트의 심각도는 Windows Server 2008에 Server Core 설치 옵션의 사용 여부와 상관없이 동일하게 적용됩니다. 이 설치 옵션에 대한 자세한 내용은 [Server Core (영문)](http://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx)를 참조하십시오. 참고: Server Core 설치 옵션은 Windows Server 2008의 특정 에디션에 적용되지 않습니다. [Server Core 설치 옵션 비교](http://www.microsoft.com/korea/windowsserver2008/compare-core-installation.aspx)를 참조하십시오.
+**\*Windows Server 2008 Server Core 설치가 영향을 받습니다.** 지원 대상인 Windows Server 2008 에디션에 대해 이 업데이트의 심각도는 Windows Server 2008에 Server Core 설치 옵션의 사용 여부와 상관없이 동일하게 적용됩니다. 이 설치 옵션에 대한 자세한 내용은 [Server Core (영문)](https://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx)를 참조하십시오. 참고: Server Core 설치 옵션은 Windows Server 2008의 특정 에디션에 적용되지 않습니다. [Server Core 설치 옵션 비교](https://www.microsoft.com/korea/windowsserver2008/compare-core-installation.aspx)를 참조하십시오.
 
-**\*\*Windows Server 2008 Server Core 설치는 영향을 받지 않습니다.** Server Core 설치 옵션을 사용하여 Windows Server 2008이 설치된 경우 이 업데이트에서 해결하는 취약점은 지원되는 모든 Windows Server 2008 에디션에 영향을 주지 않습니다. 이 설치 옵션에 대한 자세한 내용은 [Server Core (영문)](http://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx)를 참조하십시오. 참고: Server Core 설치 옵션은 Windows Server 2008의 특정 에디션에 적용되지 않습니다. [Server Core 설치 옵션 비교](http://www.microsoft.com/korea/windowsserver2008/compare-core-installation.aspx)를 참조하십시오.
+**\*\*Windows Server 2008 Server Core 설치는 영향을 받지 않습니다.** Server Core 설치 옵션을 사용하여 Windows Server 2008이 설치된 경우 이 업데이트에서 해결하는 취약점은 지원되는 모든 Windows Server 2008 에디션에 영향을 주지 않습니다. 이 설치 옵션에 대한 자세한 내용은 [Server Core (영문)](https://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx)를 참조하십시오. 참고: Server Core 설치 옵션은 Windows Server 2008의 특정 에디션에 적용되지 않습니다. [Server Core 설치 옵션 비교](https://www.microsoft.com/korea/windowsserver2008/compare-core-installation.aspx)를 참조하십시오.
 
 **MS09-045 참고 사항**
 
@@ -717,44 +717,44 @@ Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium
 
 **MS09-048 참고 사항**
 
-<sup>[3]</sup>사용 가능한 업데이트 없음 자세한 내용은 [MS09-048](http://technet.microsoft.com/security/bulletin/ms09-048)에서 **이 보안 업데이트와 관련된 자주 제기되는 질문 사항** 항목을 참조하십시오.
+<sup>[3]</sup>사용 가능한 업데이트 없음 자세한 내용은 [MS09-048](https://technet.microsoft.com/security/bulletin/ms09-048)에서 **이 보안 업데이트와 관련된 자주 제기되는 질문 사항** 항목을 참조하십시오.
 
 검색, 배포 도구 및 지침
 -----------------------
 
 **보안 센터**
 
-해당 조직에서 서버, 데스크톱, 모바일 컴퓨터에 적용해야 하는 소프트웨어 및 보안 업데이트를 관리합니다. 자세한 내용은 [TechNet Update Management Center](http://technet.microsoft.com/ko-kr/updatemanagement/default.aspx)를 참조하십시오. [TechNet Security Center](http://go.microsoft.com/fwlink/?linkid=21171)는 Microsoft 제품의 보안에 대한 추가 정보를 제공합니다. 일반 사용자는 [가정의 보안](http://www.microsoft.com/korea/protect/default.mspx)을 방문하거나 "최신 보안 업데이트"를 클릭하여 이 정보를 볼 수도 있습니다.
+해당 조직에서 서버, 데스크톱, 모바일 컴퓨터에 적용해야 하는 소프트웨어 및 보안 업데이트를 관리합니다. 자세한 내용은 [TechNet Update Management Center](https://technet.microsoft.com/ko-kr/updatemanagement/default.aspx)를 참조하십시오. [TechNet Security Center](https://go.microsoft.com/fwlink/?linkid=21171)는 Microsoft 제품의 보안에 대한 추가 정보를 제공합니다. 일반 사용자는 [가정의 보안](https://www.microsoft.com/korea/protect/default.mspx)을 방문하거나 "최신 보안 업데이트"를 클릭하여 이 정보를 볼 수도 있습니다.
 
-보안 업데이트는 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747) 및 [Windows Update](http://go.microsoft.com/fwlink/?linkid=21130)를 통해 제공됩니다. 보안 업데이트는 [Microsoft 다운로드 센터](http://go.microsoft.com/fwlink/?linkid=21129)에서도 다운로드할 수 있으며 "security update"라는 키워드를 사용하여 쉽게 찾을 수 있습니다.
+보안 업데이트는 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747) 및 [Windows Update](https://go.microsoft.com/fwlink/?linkid=21130)를 통해 제공됩니다. 보안 업데이트는 [Microsoft 다운로드 센터](https://go.microsoft.com/fwlink/?linkid=21129)에서도 다운로드할 수 있으며 "security update"라는 키워드를 사용하여 쉽게 찾을 수 있습니다.
 
-마지막으로, 보안 업데이트는 [Microsoft Update 카탈로그](http://go.microsoft.com/fwlink/?linkid=96155)에서 다운로드할 수 있습니다. Microsoft Update 카탈로그는 보안 업데이트, 드라이버, 서비스 팩을 포함하여 Windows Update 및 Microsoft Update에서 제공하는 콘텐츠의 검색 가능한 목록입니다. 보안 공지 번호(예: "MS07-036")를 사용하여 검색하면 적용 가능한 모든 업데이트(다른 언어의 업데이트 포함)를 장바구니에 추가하고, 선택한 업데이트를 로컬 폴더에 다운로드할 수 있습니다. Microsoft Update 카탈로그에 대한 자세한 내용은 [Microsoft Update 카탈로그 FAQ](http://go.microsoft.com/fwlink/?linkid=97900)를 참조하십시오.
+마지막으로, 보안 업데이트는 [Microsoft Update 카탈로그](https://go.microsoft.com/fwlink/?linkid=96155)에서 다운로드할 수 있습니다. Microsoft Update 카탈로그는 보안 업데이트, 드라이버, 서비스 팩을 포함하여 Windows Update 및 Microsoft Update에서 제공하는 콘텐츠의 검색 가능한 목록입니다. 보안 공지 번호(예: "MS07-036")를 사용하여 검색하면 적용 가능한 모든 업데이트(다른 언어의 업데이트 포함)를 장바구니에 추가하고, 선택한 업데이트를 로컬 폴더에 다운로드할 수 있습니다. Microsoft Update 카탈로그에 대한 자세한 내용은 [Microsoft Update 카탈로그 FAQ](https://go.microsoft.com/fwlink/?linkid=97900)를 참조하십시오.
 
-**참고** 2009년 8월 1일부터 Microsoft는 Office 업데이트와 Office 업데이트 인벤토리 도구에 대한 지원을 중단합니다. 계속해서 Microsoft Office 제품에 필요한 최신 업데이트를 받으려면 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747)를 사용하십시오. 자세한 내용은 [Microsoft Office 업데이트 정보: 자주 제기되는 질문 사항(FAQ) (영문)](http://office.microsoft.com/en-us/downloads/fx010402221033.aspx)을 참조하십시오.
+**참고** 2009년 8월 1일부터 Microsoft는 Office 업데이트와 Office 업데이트 인벤토리 도구에 대한 지원을 중단합니다. 계속해서 Microsoft Office 제품에 필요한 최신 업데이트를 받으려면 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747)를 사용하십시오. 자세한 내용은 [Microsoft Office 업데이트 정보: 자주 제기되는 질문 사항(FAQ) (영문)](https://office.microsoft.com/en-us/downloads/fx010402221033.aspx)을 참조하십시오.
 
 **검색 및 배포 지침**
 
-Microsoft는 보안 업데이트를 위한 검색 및 배포 지침을 제공합니다. 이 지침에는 IT 전문가가 다양한 도구를 사용하여 보안 업데이트를 검색하고 배포하는 방법을 이해하는 데 도움이 되는 권장 사항과 정보가 포함되어 있습니다. 자세한 내용은 [Microsoft 기술 자료 문서 961747](http://support.microsoft.com/kb/961747)을 참조하십시오.
+Microsoft는 보안 업데이트를 위한 검색 및 배포 지침을 제공합니다. 이 지침에는 IT 전문가가 다양한 도구를 사용하여 보안 업데이트를 검색하고 배포하는 방법을 이해하는 데 도움이 되는 권장 사항과 정보가 포함되어 있습니다. 자세한 내용은 [Microsoft 기술 자료 문서 961747](https://support.microsoft.com/kb/961747)을 참조하십시오.
 
 **Microsoft Baseline Security Analyzer**
 
-관리자는 MBSA(Microsoft Baseline Security Analyzer)를 사용하여 로컬 및 원격 시스템에서 누락된 보안 업데이트 및 일반적인 보안 설정 오류를 검색할 수 있습니다. MBSA에 대한 자세한 내용을 보려면 [Microsoft Baseline Security Analyzer](http://go.microsoft.com/fwlink/?linkid=21134)를 방문하십시오.
+관리자는 MBSA(Microsoft Baseline Security Analyzer)를 사용하여 로컬 및 원격 시스템에서 누락된 보안 업데이트 및 일반적인 보안 설정 오류를 검색할 수 있습니다. MBSA에 대한 자세한 내용을 보려면 [Microsoft Baseline Security Analyzer](https://go.microsoft.com/fwlink/?linkid=21134)를 방문하십시오.
 
 **Windows Server Update Services**
 
 관리자는 WSUS(Windows Server Update Services)를 사용하여 Windows 2000 이상 운영 체제, Office XP 이상, Exchange Server 2003 그리고 Windows 2000 이상 운영 체제에 설치된 SQL Server 2000에 최신 중요 업데이트 및 보안 업데이트를 신속하게 안정적으로 배포할 수 있습니다.
 
-Windows Server Update Services를 사용하여 이 보안 업데이트를 신속하게 배포하는 방법에 대한 자세한 내용은 [Windows Server Update Services](http://www.microsoft.com/korea/windowsserversystem/updateservices/evaluation/overview.mspx)를 참조하십시오.
+Windows Server Update Services를 사용하여 이 보안 업데이트를 신속하게 배포하는 방법에 대한 자세한 내용은 [Windows Server Update Services](https://www.microsoft.com/korea/windowsserversystem/updateservices/evaluation/overview.mspx)를 참조하십시오.
 
 **Systems Management Server**
 
-Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 효율적으로 구성할 수 있는 솔루션입니다. 관리자는 SMS를 사용하여 보안 업데이트가 필요한 Windows 기반 시스템을 확인하고, 사용자의 업무 중단을 최소화하면서 기업 전체에 업데이트를 효율적으로 배포할 수 있습니다. SMS의 차기 릴리스인 System Center Configuration Manager 2007을 지금 사용할 수 있습니다([System Center Configuration Manager 2007 (영문)](http://technet.microsoft.com/en-us/library/bb735860.aspx) 참조). 관리자가 SMS 2003을 사용하여 보안 업데이트를 배포하는 방법에 대한 자세한 내용은 [SMS 2003 보안 패치 관리](http://www.microsoft.com/korea/smserver/evaluation/capabilities/patch.mspx)를 참조하십시오. SMS 2.0 사용자는 SUIT(Security Update Inventory Tool)을 사용하여 보안 업데이트 배포를 지원할 수도 있습니다. SMS에 대한 자세한 내용은 [Microsoft Systems Management Server](http://www.microsoft.com/korea/smserver/default.mspx)를 참조하십시오.
+Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 효율적으로 구성할 수 있는 솔루션입니다. 관리자는 SMS를 사용하여 보안 업데이트가 필요한 Windows 기반 시스템을 확인하고, 사용자의 업무 중단을 최소화하면서 기업 전체에 업데이트를 효율적으로 배포할 수 있습니다. SMS의 차기 릴리스인 System Center Configuration Manager 2007을 지금 사용할 수 있습니다([System Center Configuration Manager 2007 (영문)](https://technet.microsoft.com/en-us/library/bb735860.aspx) 참조). 관리자가 SMS 2003을 사용하여 보안 업데이트를 배포하는 방법에 대한 자세한 내용은 [SMS 2003 보안 패치 관리](https://www.microsoft.com/korea/smserver/evaluation/capabilities/patch.mspx)를 참조하십시오. SMS 2.0 사용자는 SUIT(Security Update Inventory Tool)을 사용하여 보안 업데이트 배포를 지원할 수도 있습니다. SMS에 대한 자세한 내용은 [Microsoft Systems Management Server](https://www.microsoft.com/korea/smserver/default.mspx)를 참조하십시오.
 
-**참고** SMS는 Microsoft Baseline Security Analyzer를 사용하여 보안 공지 업데이트 검색 및 배포에 대한 다양한 지원을 제공합니다. 일부 소프트웨어 업데이트는 이러한 도구로 검색하지 못할 수도 있습니다. 이러한 경우 관리자는 SMS의 인벤토리 기능을 사용하여 특정 시스템을 대상으로 업데이트를 수행할 수 있습니다. 이 절차에 대한 자세한 내용은 [SMS 소프트웨어 배포 기능을 사용한 소프트웨어 업데이트 배포 (영문)](http://go.microsoft.com/fwlink/?linkid=33341)를 참조하십시오. 일부 보안 업데이트 작업을 수행하려면 관리자 권한이 필요하며 컴퓨터를 다시 시작해야 할 수 있습니다. 관리자는 [SMS 2003 Administration Feature Pack (영문)](http://go.microsoft.com/fwlink/?linkid=33387) 및 [SMS 2.0 Administration Feature Pack (영문)](http://go.microsoft.com/fwlink/?linkid=21161)에서 제공되는 Elevated Rights Deployment Tool을 사용하여 이러한 업데이트를 설치할 수 있습니다.
+**참고** SMS는 Microsoft Baseline Security Analyzer를 사용하여 보안 공지 업데이트 검색 및 배포에 대한 다양한 지원을 제공합니다. 일부 소프트웨어 업데이트는 이러한 도구로 검색하지 못할 수도 있습니다. 이러한 경우 관리자는 SMS의 인벤토리 기능을 사용하여 특정 시스템을 대상으로 업데이트를 수행할 수 있습니다. 이 절차에 대한 자세한 내용은 [SMS 소프트웨어 배포 기능을 사용한 소프트웨어 업데이트 배포 (영문)](https://go.microsoft.com/fwlink/?linkid=33341)를 참조하십시오. 일부 보안 업데이트 작업을 수행하려면 관리자 권한이 필요하며 컴퓨터를 다시 시작해야 할 수 있습니다. 관리자는 [SMS 2003 Administration Feature Pack (영문)](https://go.microsoft.com/fwlink/?linkid=33387) 및 [SMS 2.0 Administration Feature Pack (영문)](https://go.microsoft.com/fwlink/?linkid=21161)에서 제공되는 Elevated Rights Deployment Tool을 사용하여 이러한 업데이트를 설치할 수 있습니다.
 
 **UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)**
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](https://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Microsoft Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 
@@ -768,47 +768,47 @@ Microsoft는 Windows Update, Microsoft Update, Windows Server Update Services, �
 
 Windows Update 및 Microsoft update의 비보안 릴리스에 대한 자세한 내용은 다음을 참조하십시오.
 
--   [Microsoft 기술 자료 문서 894199](http://support.microsoft.com/kb/894199): 변경된 Software Update Services 및 Windows Server Update Services 내용에 대한 설명. 모든 Windows 콘텐츠 포함.
--   [Windows Server Update Services를 위해 지난 몇 달간 배포된 업데이트 (영문)](http://technet.microsoft.com/en-us/wsus/bb456965.aspx). Microsoft Windows가 아닌 Microsoft 제품용 신규, 개정 및 출시 업데이트를 전부 표시합니다.
+-   [Microsoft 기술 자료 문서 894199](https://support.microsoft.com/kb/894199): 변경된 Software Update Services 및 Windows Server Update Services 내용에 대한 설명. 모든 Windows 콘텐츠 포함.
+-   [Windows Server Update Services를 위해 지난 몇 달간 배포된 업데이트 (영문)](https://technet.microsoft.com/en-us/wsus/bb456965.aspx). Microsoft Windows가 아닌 Microsoft 제품용 신규, 개정 및 출시 업데이트를 전부 표시합니다.
 
 #### MAPP(Microsoft Active Protections Program)
 
-고객에 대한 보안을 강화하기 위해 Microsoft는 월별 보안 업데이트를 배포하기 전에 주요 보안 소프트웨어 제공업체에 취약점 정보를 제공합니다. 보안 소프트웨어 제공업체는 이 취약점 정보를 사용하여 안티바이러스, 네트워크 기반 침입 탐지 시스템 또는 호스트 기반 침임 방지 시스템 등 자사의 보안 소프트웨어나 장치를 통해 업데이트된 보호 기능을 고객에게 제공할 수 있습니다. 보안 소프트웨어 제공업체가 활성 보호 기능을 제공하는지 확인하려면 [Microsoft MAPP(Active Protections Program) 파트너 (영문)](http://www.microsoft.com/security/msrc/mapp/partners.mspx)에 나열된 프로그램 파트너가 제공하는 활성 보호 기능 웹 사이트를 참조하십시오.
+고객에 대한 보안을 강화하기 위해 Microsoft는 월별 보안 업데이트를 배포하기 전에 주요 보안 소프트웨어 제공업체에 취약점 정보를 제공합니다. 보안 소프트웨어 제공업체는 이 취약점 정보를 사용하여 안티바이러스, 네트워크 기반 침입 탐지 시스템 또는 호스트 기반 침임 방지 시스템 등 자사의 보안 소프트웨어나 장치를 통해 업데이트된 보호 기능을 고객에게 제공할 수 있습니다. 보안 소프트웨어 제공업체가 활성 보호 기능을 제공하는지 확인하려면 [Microsoft MAPP(Active Protections Program) 파트너 (영문)](https://www.microsoft.com/security/msrc/mapp/partners.mspx)에 나열된 프로그램 파트너가 제공하는 활성 보호 기능 웹 사이트를 참조하십시오.
 
 #### 보안 전략 및 커뮤니티
 
 **업데이트 관리 전략**
 
-[업데이트 관리를 위한 보안 가이드 (영문)](http://go.microsoft.com/fwlink/?linkid=21168)는 보안 업데이트 적용에 대해 Microsoft가 권장하는 최선의 방법과 관련 정보를 제공합니다.
+[업데이트 관리를 위한 보안 가이드 (영문)](https://go.microsoft.com/fwlink/?linkid=21168)는 보안 업데이트 적용에 대해 Microsoft가 권장하는 최선의 방법과 관련 정보를 제공합니다.
 
 **기타 보안 관련 업데이트 받기**
 
 기타 보안 문제 관련 업데이트는 다음 사이트에서 구할 수 있습니다.
 
--   보안 업데이트는 [Microsoft 다운로드 센터](http://go.microsoft.com/fwlink/?linkid=21129)에서 다운로드할 수 있으며 "security update"라는 키워드를 사용하여 쉽게 찾을 수 있습니다.
--   일반 사용자용 업데이트는 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747)에서 사용할 수 있습니다.
--   이 달에 제공되는 보안 업데이트는 Windows Update를 통해서 또는 다운로드 센터에서 제공되는 보안 및 중요 릴리스 ISO CD 이미지 파일로 받을 수 있습니다. 자세한 내용은 [Microsoft 기술 자료 문서 913086](http://support.microsoft.com/kb/913086)을 참조하십시오.
+-   보안 업데이트는 [Microsoft 다운로드 센터](https://go.microsoft.com/fwlink/?linkid=21129)에서 다운로드할 수 있으며 "security update"라는 키워드를 사용하여 쉽게 찾을 수 있습니다.
+-   일반 사용자용 업데이트는 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747)에서 사용할 수 있습니다.
+-   이 달에 제공되는 보안 업데이트는 Windows Update를 통해서 또는 다운로드 센터에서 제공되는 보안 및 중요 릴리스 ISO CD 이미지 파일로 받을 수 있습니다. 자세한 내용은 [Microsoft 기술 자료 문서 913086](https://support.microsoft.com/kb/913086)을 참조하십시오.
 
 **IT Pro Security Zone Community(IT 전문가 보안 영역 커뮤니티)**
 
-[IT Pro Security Community(IT 전문가 보안 커뮤니티)](http://go.microsoft.com/fwlink/?linkid=21164)에서는 보안을 강화하고 IT 인프라를 최적화하는 방법에 대해 배우고 보안 항목에 대한 정보를 다른 IT 전문가와 공유할 수 있습니다.
+[IT Pro Security Community(IT 전문가 보안 커뮤니티)](https://go.microsoft.com/fwlink/?linkid=21164)에서는 보안을 강화하고 IT 인프라를 최적화하는 방법에 대해 배우고 보안 항목에 대한 정보를 다른 IT 전문가와 공유할 수 있습니다.
 
 #### 감사의 말
 
-고객 보호를 위해 협력해 주신 다음 분들께 [감사](http://go.microsoft.com/fwlink/?linkid=21127)드립니다.
+고객 보호를 위해 협력해 주신 다음 분들께 [감사](https://go.microsoft.com/fwlink/?linkid=21127)드립니다.
 
--   MS09-045에서 설명한 문제점을 Tipping Point 및 [Zero Day Initiative](http://www.zerodayinitiative.com/)와 협력하여 보고해 주신 [team509](http://www.team509.com/)의 Ling 및 Wushi
--   MS09-046에서 설명한 문제점을 보고해 주신 [Google Inc. (영문)](http://www.google.com/)의 Tavis Ormandy
--   MS09-047에서 설명한 문제점을 보고해 주신 [NGS Software (영문)](http://www.ngssoftware.com/)의 Peter Winter-Smith.
+-   MS09-045에서 설명한 문제점을 Tipping Point 및 [Zero Day Initiative](https://www.zerodayinitiative.com/)와 협력하여 보고해 주신 [team509](https://www.team509.com/)의 Ling 및 Wushi
+-   MS09-046에서 설명한 문제점을 보고해 주신 [Google Inc. (영문)](https://www.google.com/)의 Tavis Ormandy
+-   MS09-047에서 설명한 문제점을 보고해 주신 [NGS Software (영문)](https://www.ngssoftware.com/)의 Peter Winter-Smith.
 -   MS09-047에서 설명한 문제점을 보고해 주신 Alice Carroll 팬 클럽의 Hiroshi Noguchi
--   MS09-048에서 설명한 문제점을 보고해 주신 [Outpost24 (영문)](http://www.outpost24.com/)의 Jack C. Louis
--   MS09-048에서 설명한 문제점을 보고해 주신 [Recurity Labs GmbH (영문)](http://www.recurity-labs.com/)의 Felix Lindner
+-   MS09-048에서 설명한 문제점을 보고해 주신 [Outpost24 (영문)](https://www.outpost24.com/)의 Jack C. Louis
+-   MS09-048에서 설명한 문제점을 보고해 주신 [Recurity Labs GmbH (영문)](https://www.recurity-labs.com/)의 Felix Lindner
 
 #### 지원
 
--   나열된 영향을 받는 소프트웨어는 테스트를 거쳐 영향을 받는 버전이 확인되었습니다. 다른 버전은 지원 기간이 끝났습니다. 사용 중인 소프트웨어 버전에 대한 지원 기간을 확인하려면 [Microsoft 지원 기간 정책 웹 사이트](http://go.microsoft.com/fwlink/?linkid=21742)를 참조하십시오.
--   기술 지원은 [보안 지원](http://go.microsoft.com/fwlink/?linkid=21131) 또는 1577-9700을 통해 받을 수 있습니다. 보안 업데이트와 관련된 기술 지원 통화는 무료입니다. 사용 가능한 지원 옵션을 자세히 보려면 [Microsoft 도움말 및 지원](http://support.microsoft.com/) 웹 사이트를 참조하십시오.
--   기타 지역에 거주하는 고객은 해당 Microsoft 지사에서 지원을 받을 수 있습니다. 보안 업데이트와 관련된 기술 지원은 무료입니다. Microsoft 지원 부서에 연락하는 방법에 대한 자세한 내용은 [국가별 지원](http://go.microsoft.com/fwlink/?linkid=21155)에 나와 있습니다.
+-   나열된 영향을 받는 소프트웨어는 테스트를 거쳐 영향을 받는 버전이 확인되었습니다. 다른 버전은 지원 기간이 끝났습니다. 사용 중인 소프트웨어 버전에 대한 지원 기간을 확인하려면 [Microsoft 지원 기간 정책 웹 사이트](https://go.microsoft.com/fwlink/?linkid=21742)를 참조하십시오.
+-   기술 지원은 [보안 지원](https://go.microsoft.com/fwlink/?linkid=21131) 또는 1577-9700을 통해 받을 수 있습니다. 보안 업데이트와 관련된 기술 지원 통화는 무료입니다. 사용 가능한 지원 옵션을 자세히 보려면 [Microsoft 도움말 및 지원](https://support.microsoft.com/) 웹 사이트를 참조하십시오.
+-   기타 지역에 거주하는 고객은 해당 Microsoft 지사에서 지원을 받을 수 있습니다. 보안 업데이트와 관련된 기술 지원은 무료입니다. Microsoft 지원 부서에 연락하는 방법에 대한 자세한 내용은 [국가별 지원](https://go.microsoft.com/fwlink/?linkid=21155)에 나와 있습니다.
 
 #### 부인
 

@@ -16,11 +16,11 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms09-oct(v=Security.10)
 
 이 공지 요약 목록에는 2009년 10월 발표된 보안 공지가 포함되어 있습니다.
 
-2009년 10월 공지 발표와 함께 이 공지 요약이 2009년 10월 8일 게시된 공지 사전 알림을 대체합니다. 보안 사전 알림 서비스에 대한 자세한 내용은 [Microsoft 보안 공지 사전 알림](http://technet.microsoft.com/security/bulletin/advance)을 참조하십시오.
+2009년 10월 공지 발표와 함께 이 공지 요약이 2009년 10월 8일 게시된 공지 사전 알림을 대체합니다. 보안 사전 알림 서비스에 대한 자세한 내용은 [Microsoft 보안 공지 사전 알림](https://technet.microsoft.com/security/bulletin/advance)을 참조하십시오.
 
-Microsoft 보안 공지가 게시될 때 자동 알림을 받는 방법은 [Microsoft 기술 보안 알림](http://go.microsoft.com/fwlink/?linkid=21163)을 참조하십시오.
+Microsoft 보안 공지가 게시될 때 자동 알림을 받는 방법은 [Microsoft 기술 보안 알림](https://go.microsoft.com/fwlink/?linkid=21163)을 참조하십시오.
 
-Microsoft는 2009년 10월 14일 수요일 오전 11:00(태평양 표준시, 미국 및 캐나다)에 이 공지에 대한 고객 문의 사항에 답변을 제공하는 웹캐스트를 진행합니다. [10월 보안 공지 웹캐스트에 지금 등록하십시오 (영문)](http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032407488&culture=en-us). 이 날짜 이후 이 웹캐스트는 주문형으로 제공됩니다. 자세한 내용은 [Microsoft 보안 공지 요약 (영문)](http://technet.microsoft.com/security/bulletin/summary) 및 웹캐스트를 참조하십시오.
+Microsoft는 2009년 10월 14일 수요일 오전 11:00(태평양 표준시, 미국 및 캐나다)에 이 공지에 대한 고객 문의 사항에 답변을 제공하는 웹캐스트를 진행합니다. [10월 보안 공지 웹캐스트에 지금 등록하십시오 (영문)](https://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032407488&culture=en-us). 이 날짜 이후 이 웹캐스트는 주문형으로 제공됩니다. 자세한 내용은 [Microsoft 보안 공지 요약 (영문)](https://technet.microsoft.com/security/bulletin/summary) 및 웹캐스트를 참조하십시오.
 
 Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비보안, 중요 업데이트와 보안 업데이트의 우선 순위를 고객이 결정하는 데 도움이 되는 정보도 제공합니다. **기타 정보** 섹션을 참조하십시오.
 
@@ -47,72 +47,72 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-050">MS09-050</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-050">MS09-050</a></td>
 <td style="border:1px solid black;"><strong>SMBv2의 취약점으로 인한 원격 코드 실행 문제점(975517)</strong><br />
 <br />
 이 보안 업데이트는 SMBv2(Server Message Block Version 2)에서 발견되어 공개적으로 보고된 취약점 1건과 비공개적으로 보고된 취약점 2건을 해결합니다. 가장 위험한 취약점은 공격자가 서버 서비스를 실행하는 컴퓨터로 특수하게 조작된 SMB 패킷을 전송할 경우 원격 코드 실행을 허용할 수 있습니다. 최선의 방화벽 구성 방법과 표준 기본 방화벽 구성을 이용하면 기업 경계 외부에서 들어오는 공격으로부터 네트워크를 보호할 수 있습니다. 인터넷과 연결되는 시스템의 경우, 필요한 포트만 최소한으로 열어 두는 것이 안전합니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-051">MS09-051</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-051">MS09-051</a></td>
 <td style="border:1px solid black;"><strong>Windows Media Runtime의 취약점으로 인한 원격 코드 실행 문제점(975682)</strong><br />
 <br />
 이 보안 업데이트는 Windows Media Runtime에서 발견되어 비공개적으로 보고된 취약점 2건을 해결합니다. 이 취약점으로 인해 사용자가 특수하게 조작된 미디어 파일을 열거나, 웹 사이트 또는 웹 콘텐츠를 제공하는 응용 프로그램으로부터 특수하게 조작된 스트리밍 콘텐츠를 받을 경우 원격 코드 실행이 발생할 수 있습니다. 취약점 악용에 성공한 공격자는 로컬 사용자와 동일한 권한을 얻을 수 있습니다. 시스템에 대한 사용자 권한이 적게 구성된 계정의 사용자는 관리자 권한으로 작업하는 사용자에 비해 영향을 적게 받습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-052">MS09-052</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-052">MS09-052</a></td>
 <td style="border:1px solid black;"><strong>Windows Media Player의 취약점으로 인한 원격 코드 실행 문제점(974112)</strong><br />
 <br />
 이 보안 업데이트는 비공개적으로 보고된 Windows Media Player의 취약점을 해결합니다. 이 취약점으로 인해 Windows Media Player 6.4를 사용하여 특수하게 조작된 ASF 파일을 재생할 경우 원격 코드 실행이 발생할 수 있습니다. 취약점 악용에 성공한 공격자는 로컬 사용자와 동일한 권한을 얻을 수 있습니다. 시스템에 대한 사용자 권한이 적게 구성된 계정의 사용자는 관리자 권한으로 작업하는 사용자에 비해 영향을 적게 받습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-054">MS09-054</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-054">MS09-054</a></td>
 <td style="border:1px solid black;"><strong>Internet Explorer 누적 보안 업데이트(974455)</strong><br />
 <br />
 이 보안 업데이트는 Internet Explorer에 대해 비공개적으로 보고된 취약점 3건과 공개된 취약점 1건을 해결합니다. 이 취약점들은 모두 사용자가 Internet Explorer를 사용하여 특수하게 조작된 웹 페이지를 볼 경우 원격 코드 실행을 허용할 수 있습니다. 시스템에 대한 사용자 권한이 적게 구성된 계정의 사용자는 관리자 권한으로 작업하는 사용자에 비해 영향을 적게 받습니다. WPF(Windows Presentation Foundation) 플러그인을 비활성화하지 않고 실행하는 Firefox 사용자도 이 보안 업데이트를 적용해야 합니다. 이 문제점에 대한 자세한 내용은 HTML 구성 요소 처리 취약점(CVE-2009-2529)에 대한 FAQ 항목을 참조하십시오.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows,<br />
 Internet Explorer</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-055">MS09-055</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-055">MS09-055</a></td>
 <td style="border:1px solid black;"><strong>ActiveX 킬(Kill) 비트 누적 보안 업데이트(973525)</strong><br />
 <br />
 이 보안 업데이트는 현재 악용되고 있는 ActiveX 컨트롤에서 비공개적으로 보고된 취약점 1건을 해결합니다. 취약한 버전의 Microsoft ATL(액티브 템플릿 라이브러리)을 사용하여 컴파일된 ActiveX 컨트롤의 취약점으로 인해 사용자가 Internet Explorer로 ActiveX 컨트롤을 인스턴스화하는 특수하게 조작된 웹 페이지를 볼 경우 원격 코드 실행을 허용할 수 있습니다. 시스템에 대한 사용자 권한이 적게 구성된 계정의 사용자는 관리자 권한으로 작업하는 사용자에 비해 영향을 적게 받습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-060">MS09-060</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-060">MS09-060</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Office용 Microsoft ATL(액티브 템플릿 라이브러리) ActiveX 컨트롤의 취약점으로 인한 원격 코드 실행 문제점(973965)</strong><br />
 <br />
 이 보안 업데이트는 취약한 버전의 Microsoft ATL(액티브 템플릿 라이브러리)을 사용하여 컴파일된 Microsoft Office용 ActiveX 컨트롤에서 발견되어 비공개적으로 보고된 여러 취약점을 해결합니다. 이 취약점으로 인해 사용자가 특수하게 조작된 구성 요소 또는 컨트롤을 로드하는 경우 원격 코드 실행이 발생할 수 있습니다. 시스템에 대한 사용자 권한이 적게 구성된 계정의 사용자는 관리자 권한으로 작업하는 사용자에 비해 영향을 적게 받습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Office</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-061">MS09-061</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-061">MS09-061</a></td>
 <td style="border:1px solid black;"><strong>Microsoft .NET 공용 언어 런타임의 취약점으로 인한 원격 코드 실행 문제점(974378)</strong><br />
 <br />
 이 보안 업데이트는 Microsoft .NET Framework 및 Microsoft Silverlight에서 비공개적으로 보고된 취약점 3건을 해결합니다. 사용자가 XBAP(XAML 브라우저 응용 프로그램) 또는 Silverlight 응용 프로그램을 실행할 수 있는 웹 브라우저를 사용하여 특수하게 조작된 웹 페이지를 보거나, 공격자가 특수하게 조작한 Microsoft .NET 응용 프로그램을 실행하도록 사용자를 유인하는 데 성공할 경우 이 취약점으로 인해 클라이언트 시스템에 원격 코드 실행이 발생할 수 있습니다. 시스템에 대한 사용자 권한이 적게 구성된 계정의 사용자는 관리자 권한으로 작업하는 사용자에 비해 영향을 적게 받습니다. 서버에서 ASP.NET 페이지 처리를 허용하고 공격자가 해당 서버에 특수하게 조작한 ASP.NET 페이지를 성공적으로 업로드하여 실행할 경우 이 취약점으로 인해 IIS를 실행하는 서버 시스템에 원격 코드 실행이 발생할 수 있습니다. 이러한 경우는 웹 호스팅 시나리오에서 발생할 수 있습니다. 악의적이지 않은 Microsoft .NET 응용 프로그램, Silverlight 응용 프로그램, XBAP 및 ASP.NET 페이지는 이 취약점으로 인해 공격을 받을 위험이 없습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows,<br />
@@ -120,11 +120,11 @@ Microsoft .NET Framework,<br />
 Microsoft Silverlight</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-062">MS09-062</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-062">MS09-062</a></td>
 <td style="border:1px solid black;"><strong>GDI+의 취약점으로 인한 원격 코드 실행 문제점(957488)</strong><br />
 <br />
 이 보안 업데이트는 Microsoft Windows GDI+에서 발견되어 비공개적으로 보고된 여러 취약점을 해결합니다. 이 취약점으로 인해 사용자가 영향을 받는 소프트웨어를 사용하여 특수하게 조작된 이미지를 보거나 특수하게 조작된 콘텐츠가 포함된 웹사이트를 탐색할 경우 원격 코드 실행이 허용될 수 있습니다. 시스템에 대한 사용자 권한이 적게 구성된 계정의 사용자는 관리자 권한으로 작업하는 사용자에 비해 영향을 적게 받습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows,<br />
@@ -136,51 +136,51 @@ Microsoft 개발자 도구,<br />
 Microsoft Forefront</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-053">MS09-053</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-053">MS09-053</a></td>
 <td style="border:1px solid black;"><strong>IIS(인터넷 정보 서비스) FTP 서비스의 취약점으로 인한 원격 코드 실행 문제점(975254)</strong><br />
 <br />
 이 보안 업데이트는 Microsoft IIS(인터넷 정보 서비스) 5.0, Microsoft IIS(인터넷 정보 서비스) 5.1, Microsoft IIS(인터넷 정보 서비스) 6.0 및 Microsoft IIS(인터넷 정보 서비스) 7.0의 FTP 서비스에 대해 공개적으로 보고된 취약점 2건을 해결합니다. IIS 7.0에서는 FTP 서비스 6.0만 영향을 받습니다. 이 취약점으로 인해 IIS 5.0에서 FTP 서비스를 실행하고 있는 시스템에 원격 코드 실행(RCE)이 발생하거나 IIS 5.0, IIS 5.1, IIS 6.0 또는 IIS 7.0에서 FTP 서비스를 실행하고 있는 시스템에 서비스 거부(DoS)가 발생할 수 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">중요</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">중요</a><br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-056">MS09-056</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-056">MS09-056</a></td>
 <td style="border:1px solid black;"><strong>Windows CryptoAPI의 취약점으로 인한 스푸핑 허용 문제점(974571)</strong><br />
 <br />
 이 보안 업데이트는 Microsoft Windows에서 발견되어 공개적으로 보고된 취약점 2건을 해결합니다. 최종 사용자가 인증에 사용한 인증서에 공격자가 액세스할 수 있는 경우 이 취약점으로 인해 스푸핑이 허용됩니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">중요</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">중요</a><br />
 스푸핑</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-057">MS09-057</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-057">MS09-057</a></td>
 <td style="border:1px solid black;"><strong>인덱싱 서비스의 취약점으로 인한 원격 코드 실행 문제(969059)</strong><br />
 <br />
 이 보안 업데이트는 비공개적으로 보고된 Microsoft Windows의 취약점을 해결합니다. 이 취약점으로 인해 공격자가 ActiveX 구성 요소에 대한 호출을 통해 인덱싱 서비스를 실행하는 악의적인 웹 페이지를 설정할 경우 원격 코드 실행을 허용할 수 있습니다. 이 호출은 악의적인 URL을 포함할 수 있으며, 취약점을 악용하여 웹 페이지를 검색하는 사용자의 권한으로 클라이언트 시스템에 액세스할 수 있는 권한을 공격자에게 부여합니다. 시스템에 대한 사용자 권한이 적게 구성된 계정의 사용자는 관리자 권한으로 작업하는 사용자에 비해 영향을 적게 받습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">중요</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">중요</a><br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-058">MS09-058</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-058">MS09-058</a></td>
 <td style="border:1px solid black;"><strong>Windows 커널의 취약점으로 인한 권한 상승 문제점(971486)</strong><br />
 <br />
 이 보안 업데이트는 Windows 커널에서 발견되어 비공개적으로 보고된 여러 취약점을 해결합니다. 가장 위험한 취약점은 공격자가 시스템에 로그온하여 특수하게 조작한 응용 프로그램을 실행할 경우 권한 상승을 허용할 수 있습니다. 이러한 취약점을 악용하려면 공격자가 유효한 로그온 자격 증명을 가지고 로컬로 로그온할 수 있어야 합니다. 익명의 사용자에 의해서나 원격으로는 이 취약점을 악용할 수 없습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">중요</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">중요</a><br />
 권한 상승</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-059">MS09-059</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-059">MS09-059</a></td>
 <td style="border:1px solid black;"><strong>로컬 보안 기관 하위 시스템 서비스의 취약점으로 인한 서비스 거부 문제(975467)</strong><br />
 <br />
 이 보안 업데이트는 비공개적으로 보고된 Microsoft Windows의 취약점을 해결합니다. NTLM 인증 프로세스 중에 공격자가 악의적으로 조작된 패킷을 보낼 경우 이 취약점으로 인해 서비스 거부가 발생할 수 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">중요</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">중요</a><br />
 서비스 거부</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
@@ -195,44 +195,44 @@ Microsoft Forefront</td>
   
 **이 표를 어떻게 사용합니까?**
   
-이 표를 사용하여 30일 이내의 설치해야 하는 각 보안 업데이트에 발표된 기능 악용 코드의 가능성에 대해 자세히 알아볼 수 있습니다. 배포의 우선 순위를 정하려면 사용자의 특정 구성에 따라 아래의 각 평가를 검토해야 합니다. 이러한 등급의 의미와 등급이 결정되는 방법에 대한 자세한 내용은 [Microsoft 악용 가능성 인덱스 (영문)](http://technet.microsoft.com/en-us/security/cc998259.aspx)를 참조하십시오.
+이 표를 사용하여 30일 이내의 설치해야 하는 각 보안 업데이트에 발표된 기능 악용 코드의 가능성에 대해 자세히 알아볼 수 있습니다. 배포의 우선 순위를 정하려면 사용자의 특정 구성에 따라 아래의 각 평가를 검토해야 합니다. 이러한 등급의 의미와 등급이 결정되는 방법에 대한 자세한 내용은 [Microsoft 악용 가능성 인덱스 (영문)](https://technet.microsoft.com/en-us/security/cc998259.aspx)를 참조하십시오.
   
 | 공지 번호                                                           | 공지 제목                                                                                                                 | CVE ID                                                                                  | 악용 가능성 인덱스 평가                                                                               | 주요 정보                                                                                                                                                                                                                                                                                                                                                                 |  
 |---------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
-| [MS09-050](http://technet.microsoft.com/security/bulletin/ms09-050) | SMBv2의 취약점으로 인한 원격 코드 실행 문제점(975517)                                                                     | [CVE-2009-2526 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2526) | [**3 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 악용 코드 기능 불가능     | 이는 제한적인 서비스 거부 취약점입니다.                                                                                                                                                                                                                                                                                                                                   |  
-| [MS09-050](http://technet.microsoft.com/security/bulletin/ms09-050) | SMBv2의 취약점으로 인한 원격 코드 실행 문제점(975517)                                                                     | [CVE-2009-2532 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2532) | [**1 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
-| [MS09-050](http://technet.microsoft.com/security/bulletin/ms09-050) | SMBv2의 취약점으로 인한 원격 코드 실행 문제점(975517)                                                                     | [CVE-2009-3103 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-3103) | [**1 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | 악용 코드가 일반에 공개되었습니다.                                                                                                                                                                                                                                                                                                                                        |  
-| [MS09-051](http://technet.microsoft.com/security/bulletin/ms09-051) | Windows Media Runtime의 취약점으로 인한 원격 코드 실행 문제점(975682)                                                     | [CVE-2009-0555 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0555) | [**1 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
-| [MS09-051](http://technet.microsoft.com/security/bulletin/ms09-051) | Windows Media Runtime의 취약점으로 인한 원격 코드 실행 문제점(975682)                                                     | [CVE-2009-2525 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2525) | [**2 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
-| [MS09-052](http://technet.microsoft.com/security/bulletin/ms09-052) | Windows Media Player의 취약점으로 인한 원격 코드 실행 문제점(974112)                                                      | [CVE-2009-2527 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2527) | [**1 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
-| [MS09-053](http://technet.microsoft.com/security/bulletin/ms09-053) | IIS(인터넷 정보 서비스) FTP 서비스의 취약점으로 인한 원격 코드 실행 문제점(975254)                                        | [CVE-2009-2521 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2521) | [**3 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 악용 코드 기능 불가능     | 이것은 서비스 거부 취약점입니다. 악용 코드가 일반에 공개되었습니다.                                                                                                                                                                                                                                                                                                       |  
-| [MS09-053](http://technet.microsoft.com/security/bulletin/ms09-053) | IIS(인터넷 정보 서비스) FTP 서비스의 취약점으로 인한 원격 코드 실행 문제점(975254)                                        | [CVE-2009-3023 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-3023) | [**1 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | 악용 코드가 일반에 공개되었습니다.                                                                                                                                                                                                                                                                                                                                        |  
-| [MS09-054](http://technet.microsoft.com/security/bulletin/ms09-054) | Internet Explorer 누적 보안 업데이트(974455)                                                                              | [CVE-2009-1547 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1547) | [**2 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
-| [MS09-054](http://technet.microsoft.com/security/bulletin/ms09-054) | Internet Explorer 누적 보안 업데이트(974455)                                                                              | [CVE-2009-2529 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2529) | [**1 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
-| [MS09-054](http://technet.microsoft.com/security/bulletin/ms09-054) | Internet Explorer 누적 보안 업데이트(974455)                                                                              | [CVE-2009-2530 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2530) | [**2 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | Microsoft Windows 2000 시스템의 경우 힙 보호를 사용하지 않으면 악용 가능성 인덱스 평가가 [**1 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능으로 증가합니다.                                                                                                                                                              |  
-| [MS09-054](http://technet.microsoft.com/security/bulletin/ms09-054) | Internet Explorer 누적 보안 업데이트(974455)                                                                              | [CVE-2009-2531 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2531) | [**2 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 |                                                                                                                                                                                                                                                                                                                                                                           |  
-| [MS09-055](http://technet.microsoft.com/security/bulletin/ms09-055) | ActiveX 킬(Kill) 비트 누적 보안 업데이트(973525)                                                                          | [CVE-2009-2493 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2493) | 없음                                                                                                  | (이 취약점은 이미 [7월 공지 요약](http://technet.microsoft.com/security/bulletin/ms09-jul)의 악용 가능성 인덱스 평가에 지정되어 있습니다. [MS09-035](http://technet.microsoft.com/security/bulletin/ms09-035)에서 처음으로 이 취약점이 해결되었기 때문입니다.) [MS09-060](http://technet.microsoft.com/security/bulletin/ms09-060)에 있는 동일한 CVE 번호도 참조하십시오. |  
-| [MS09-056](http://technet.microsoft.com/security/bulletin/ms09-056) | Windows CryptoAPI의 취약점으로 인한 스푸핑 허용 문제점(974571)                                                            | [CVE-2009-2510 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2510) | [**3 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 악용 코드 기능 불가능     | 이 취약점은 스푸핑 취약점입니다.                                                                                                                                                                                                                                                                                                                                          |  
-| [MS09-056](http://technet.microsoft.com/security/bulletin/ms09-056) | Windows CryptoAPI의 취약점으로 인한 스푸핑 허용 문제점(974571)                                                            | [CVE-2009-2511 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2511) | [**3 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 악용 코드 기능 불가능     | 이 취약점은 스푸핑 취약점입니다.                                                                                                                                                                                                                                                                                                                                          |  
-| [MS09-057](http://technet.microsoft.com/security/bulletin/ms09-057) | 인덱싱 서비스의 취약점으로 인한 원격 코드 실행 문제(969059)                                                               | [CVE-2009-2507 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2507) | [**2 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
-| [MS09-058](http://technet.microsoft.com/security/bulletin/ms09-058) | Windows 커널의 취약점으로 인한 권한 상승 문제점(971486)                                                                   | [CVE-2009-2515 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2515) | [**2 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
-| [MS09-058](http://technet.microsoft.com/security/bulletin/ms09-058) | Windows 커널의 취약점으로 인한 권한 상승 문제점(971486)                                                                   | [CVE-2009-2516 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2516) | [**3 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 악용 코드 기능 불가능     | 네트워크 공유를 사용하여 대상을 지정한 경우 이 취약점으로 인해 서비스 거부가 발생할 수 있으며, 로컬에서 로컬 시스템을 대상으로 지정한 경우 이 취약점으로 인해 권한 상승 상태가 발생할 수 있습니다.                                                                                                                                                                        |  
-| [MS09-058](http://technet.microsoft.com/security/bulletin/ms09-058) | Windows 커널의 취약점으로 인한 권한 상승 문제점(971486)                                                                   | [CVE-2009-2517 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2517) | [**3 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 악용 코드 기능 불가능     | 이것은 서비스 거부 취약점입니다.                                                                                                                                                                                                                                                                                                                                          |  
-| [MS09-059](http://technet.microsoft.com/security/bulletin/ms09-059) | 로컬 보안 기관 하위 시스템 서비스의 취약점으로 인한 서비스 거부 문제점(975467)                                            | [CVE-2009-2524 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2524) | [**3 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 악용 코드 기능 불가능     | 이는 제한적인 서비스 거부 취약점입니다.                                                                                                                                                                                                                                                                                                                                   |  
-| [MS09-060](http://technet.microsoft.com/security/bulletin/ms09-060) | Microsoft Office용 Microsoft ATL(액티브 템플릿 라이브러리) ActiveX 컨트롤의 취약점으로 인한 원격 코드 실행 문제점(973965) | [CVE-2009-0901 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0901) | 없음                                                                                                  | (이 취약점은 이미 [7월 공지 요약](http://technet.microsoft.com/security/bulletin/ms09-jul)의 악용 가능성 인덱스 평가에 지정되어 있습니다. 그 이유는 이 취약점이 [MS09-035](http://technet.microsoft.com/security/bulletin/ms09-035)에서 처음 해결되었기 때문입니다.)                                                                                                      |  
-| [MS09-060](http://technet.microsoft.com/security/bulletin/ms09-060) | Microsoft Office용 Microsoft ATL(액티브 템플릿 라이브러리) ActiveX 컨트롤의 취약점으로 인한 원격 코드 실행 문제점(973965) | [CVE-2009-2493 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2493) | 없음                                                                                                  | (이 취약점은 이미 [7월 공지 요약](http://technet.microsoft.com/security/bulletin/ms09-jul)의 악용 가능성 인덱스 평가에 지정되어 있습니다. [MS09-035](http://technet.microsoft.com/security/bulletin/ms09-035)에서 처음으로 이 취약점이 해결되었기 때문입니다.) [MS09-055](http://technet.microsoft.com/security/bulletin/ms09-055)에 있는 동일한 CVE 번호도 참조하십시오. |  
-| [MS09-060](http://technet.microsoft.com/security/bulletin/ms09-060) | Microsoft Office용 Microsoft ATL(액티브 템플릿 라이브러리) ActiveX 컨트롤의 취약점으로 인한 원격 코드 실행 문제점(973965) | [CVE-2009-2495 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2495) | [**3 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 악용 코드 기능 불가능     | 이는 정보 유출 취약점입니다.                                                                                                                                                                                                                                                                                                                                              |  
-| [MS09-061](http://technet.microsoft.com/security/bulletin/ms09-061) | Microsoft .NET 공용 언어 런타임의 취약점으로 인한 원격 코드 실행 문제점(974378)                                           | [CVE-2009-0090 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0090) | [**1 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
-| [MS09-061](http://technet.microsoft.com/security/bulletin/ms09-061) | Microsoft .NET 공용 언어 런타임의 취약점으로 인한 원격 코드 실행 문제점(974378)                                           | [CVE-2009-0091 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0091) | [**1 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
-| [MS09-061](http://technet.microsoft.com/security/bulletin/ms09-061) | Microsoft .NET 공용 언어 런타임의 취약점으로 인한 원격 코드 실행 문제점(974378)                                           | [CVE-2009-2497 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2497) | [**1 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | 인터넷에 영향을 주는 공격 가능성이 있습니다.                                                                                                                                                                                                                                                                                                                              |  
-| [MS09-062](http://technet.microsoft.com/security/bulletin/ms09-062) | GDI+의 취약점으로 인한 원격 코드 실행 문제점(957488)                                                                      | [CVE-2009-2500 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2500) | [**2 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
-| [MS09-062](http://technet.microsoft.com/security/bulletin/ms09-062) | GDI+의 취약점으로 인한 원격 코드 실행 문제점(957488)                                                                      | [CVE-2009-2501 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2501) | [**2 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
-| [MS09-062](http://technet.microsoft.com/security/bulletin/ms09-062) | GDI+의 취약점으로 인한 원격 코드 실행 문제점(957488)                                                                      | [CVE-2009-2502 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2502) | [**2 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
-| [MS09-062](http://technet.microsoft.com/security/bulletin/ms09-062) | GDI+의 취약점으로 인한 원격 코드 실행 문제점(957488)                                                                      | [CVE-2009-2503 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2503) | [**1 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
-| [MS09-062](http://technet.microsoft.com/security/bulletin/ms09-062) | GDI+의 취약점으로 인한 원격 코드 실행 문제점(957488)                                                                      | [CVE-2009-2504 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2504) | [**2 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
-| [MS09-062](http://technet.microsoft.com/security/bulletin/ms09-062) | GDI+의 취약점으로 인한 원격 코드 실행 문제점(957488)                                                                      | [CVE-2009-2518 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2518) | [**2 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
-| [MS09-062](http://technet.microsoft.com/security/bulletin/ms09-062) | GDI+의 취약점으로 인한 원격 코드 실행 문제점(957488)                                                                      | [CVE-2009-2528 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2528) | [**1 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
-| [MS09-062](http://technet.microsoft.com/security/bulletin/ms09-062) | GDI+의 취약점으로 인한 원격 코드 실행 문제점(957488)                                                                      | [CVE-2009-3126 (영문)](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-3126) | [**2 (영문)**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | (없음)                                                                                                                                                                                                                                                                                                                                                                    |
+| [MS09-050](https://technet.microsoft.com/security/bulletin/ms09-050) | SMBv2의 취약점으로 인한 원격 코드 실행 문제점(975517)                                                                     | [CVE-2009-2526 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2526) | [**3 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 악용 코드 기능 불가능     | 이는 제한적인 서비스 거부 취약점입니다.                                                                                                                                                                                                                                                                                                                                   |  
+| [MS09-050](https://technet.microsoft.com/security/bulletin/ms09-050) | SMBv2의 취약점으로 인한 원격 코드 실행 문제점(975517)                                                                     | [CVE-2009-2532 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2532) | [**1 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
+| [MS09-050](https://technet.microsoft.com/security/bulletin/ms09-050) | SMBv2의 취약점으로 인한 원격 코드 실행 문제점(975517)                                                                     | [CVE-2009-3103 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-3103) | [**1 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | 악용 코드가 일반에 공개되었습니다.                                                                                                                                                                                                                                                                                                                                        |  
+| [MS09-051](https://technet.microsoft.com/security/bulletin/ms09-051) | Windows Media Runtime의 취약점으로 인한 원격 코드 실행 문제점(975682)                                                     | [CVE-2009-0555 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0555) | [**1 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
+| [MS09-051](https://technet.microsoft.com/security/bulletin/ms09-051) | Windows Media Runtime의 취약점으로 인한 원격 코드 실행 문제점(975682)                                                     | [CVE-2009-2525 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2525) | [**2 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
+| [MS09-052](https://technet.microsoft.com/security/bulletin/ms09-052) | Windows Media Player의 취약점으로 인한 원격 코드 실행 문제점(974112)                                                      | [CVE-2009-2527 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2527) | [**1 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
+| [MS09-053](https://technet.microsoft.com/security/bulletin/ms09-053) | IIS(인터넷 정보 서비스) FTP 서비스의 취약점으로 인한 원격 코드 실행 문제점(975254)                                        | [CVE-2009-2521 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2521) | [**3 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 악용 코드 기능 불가능     | 이것은 서비스 거부 취약점입니다. 악용 코드가 일반에 공개되었습니다.                                                                                                                                                                                                                                                                                                       |  
+| [MS09-053](https://technet.microsoft.com/security/bulletin/ms09-053) | IIS(인터넷 정보 서비스) FTP 서비스의 취약점으로 인한 원격 코드 실행 문제점(975254)                                        | [CVE-2009-3023 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-3023) | [**1 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | 악용 코드가 일반에 공개되었습니다.                                                                                                                                                                                                                                                                                                                                        |  
+| [MS09-054](https://technet.microsoft.com/security/bulletin/ms09-054) | Internet Explorer 누적 보안 업데이트(974455)                                                                              | [CVE-2009-1547 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1547) | [**2 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
+| [MS09-054](https://technet.microsoft.com/security/bulletin/ms09-054) | Internet Explorer 누적 보안 업데이트(974455)                                                                              | [CVE-2009-2529 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2529) | [**1 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
+| [MS09-054](https://technet.microsoft.com/security/bulletin/ms09-054) | Internet Explorer 누적 보안 업데이트(974455)                                                                              | [CVE-2009-2530 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2530) | [**2 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | Microsoft Windows 2000 시스템의 경우 힙 보호를 사용하지 않으면 악용 가능성 인덱스 평가가 [**1 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능으로 증가합니다.                                                                                                                                                              |  
+| [MS09-054](https://technet.microsoft.com/security/bulletin/ms09-054) | Internet Explorer 누적 보안 업데이트(974455)                                                                              | [CVE-2009-2531 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2531) | [**2 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 |                                                                                                                                                                                                                                                                                                                                                                           |  
+| [MS09-055](https://technet.microsoft.com/security/bulletin/ms09-055) | ActiveX 킬(Kill) 비트 누적 보안 업데이트(973525)                                                                          | [CVE-2009-2493 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2493) | 없음                                                                                                  | (이 취약점은 이미 [7월 공지 요약](https://technet.microsoft.com/security/bulletin/ms09-jul)의 악용 가능성 인덱스 평가에 지정되어 있습니다. [MS09-035](https://technet.microsoft.com/security/bulletin/ms09-035)에서 처음으로 이 취약점이 해결되었기 때문입니다.) [MS09-060](https://technet.microsoft.com/security/bulletin/ms09-060)에 있는 동일한 CVE 번호도 참조하십시오. |  
+| [MS09-056](https://technet.microsoft.com/security/bulletin/ms09-056) | Windows CryptoAPI의 취약점으로 인한 스푸핑 허용 문제점(974571)                                                            | [CVE-2009-2510 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2510) | [**3 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 악용 코드 기능 불가능     | 이 취약점은 스푸핑 취약점입니다.                                                                                                                                                                                                                                                                                                                                          |  
+| [MS09-056](https://technet.microsoft.com/security/bulletin/ms09-056) | Windows CryptoAPI의 취약점으로 인한 스푸핑 허용 문제점(974571)                                                            | [CVE-2009-2511 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2511) | [**3 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 악용 코드 기능 불가능     | 이 취약점은 스푸핑 취약점입니다.                                                                                                                                                                                                                                                                                                                                          |  
+| [MS09-057](https://technet.microsoft.com/security/bulletin/ms09-057) | 인덱싱 서비스의 취약점으로 인한 원격 코드 실행 문제(969059)                                                               | [CVE-2009-2507 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2507) | [**2 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
+| [MS09-058](https://technet.microsoft.com/security/bulletin/ms09-058) | Windows 커널의 취약점으로 인한 권한 상승 문제점(971486)                                                                   | [CVE-2009-2515 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2515) | [**2 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
+| [MS09-058](https://technet.microsoft.com/security/bulletin/ms09-058) | Windows 커널의 취약점으로 인한 권한 상승 문제점(971486)                                                                   | [CVE-2009-2516 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2516) | [**3 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 악용 코드 기능 불가능     | 네트워크 공유를 사용하여 대상을 지정한 경우 이 취약점으로 인해 서비스 거부가 발생할 수 있으며, 로컬에서 로컬 시스템을 대상으로 지정한 경우 이 취약점으로 인해 권한 상승 상태가 발생할 수 있습니다.                                                                                                                                                                        |  
+| [MS09-058](https://technet.microsoft.com/security/bulletin/ms09-058) | Windows 커널의 취약점으로 인한 권한 상승 문제점(971486)                                                                   | [CVE-2009-2517 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2517) | [**3 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 악용 코드 기능 불가능     | 이것은 서비스 거부 취약점입니다.                                                                                                                                                                                                                                                                                                                                          |  
+| [MS09-059](https://technet.microsoft.com/security/bulletin/ms09-059) | 로컬 보안 기관 하위 시스템 서비스의 취약점으로 인한 서비스 거부 문제점(975467)                                            | [CVE-2009-2524 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2524) | [**3 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 악용 코드 기능 불가능     | 이는 제한적인 서비스 거부 취약점입니다.                                                                                                                                                                                                                                                                                                                                   |  
+| [MS09-060](https://technet.microsoft.com/security/bulletin/ms09-060) | Microsoft Office용 Microsoft ATL(액티브 템플릿 라이브러리) ActiveX 컨트롤의 취약점으로 인한 원격 코드 실행 문제점(973965) | [CVE-2009-0901 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0901) | 없음                                                                                                  | (이 취약점은 이미 [7월 공지 요약](https://technet.microsoft.com/security/bulletin/ms09-jul)의 악용 가능성 인덱스 평가에 지정되어 있습니다. 그 이유는 이 취약점이 [MS09-035](https://technet.microsoft.com/security/bulletin/ms09-035)에서 처음 해결되었기 때문입니다.)                                                                                                      |  
+| [MS09-060](https://technet.microsoft.com/security/bulletin/ms09-060) | Microsoft Office용 Microsoft ATL(액티브 템플릿 라이브러리) ActiveX 컨트롤의 취약점으로 인한 원격 코드 실행 문제점(973965) | [CVE-2009-2493 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2493) | 없음                                                                                                  | (이 취약점은 이미 [7월 공지 요약](https://technet.microsoft.com/security/bulletin/ms09-jul)의 악용 가능성 인덱스 평가에 지정되어 있습니다. [MS09-035](https://technet.microsoft.com/security/bulletin/ms09-035)에서 처음으로 이 취약점이 해결되었기 때문입니다.) [MS09-055](https://technet.microsoft.com/security/bulletin/ms09-055)에 있는 동일한 CVE 번호도 참조하십시오. |  
+| [MS09-060](https://technet.microsoft.com/security/bulletin/ms09-060) | Microsoft Office용 Microsoft ATL(액티브 템플릿 라이브러리) ActiveX 컨트롤의 취약점으로 인한 원격 코드 실행 문제점(973965) | [CVE-2009-2495 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2495) | [**3 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 악용 코드 기능 불가능     | 이는 정보 유출 취약점입니다.                                                                                                                                                                                                                                                                                                                                              |  
+| [MS09-061](https://technet.microsoft.com/security/bulletin/ms09-061) | Microsoft .NET 공용 언어 런타임의 취약점으로 인한 원격 코드 실행 문제점(974378)                                           | [CVE-2009-0090 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0090) | [**1 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
+| [MS09-061](https://technet.microsoft.com/security/bulletin/ms09-061) | Microsoft .NET 공용 언어 런타임의 취약점으로 인한 원격 코드 실행 문제점(974378)                                           | [CVE-2009-0091 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0091) | [**1 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
+| [MS09-061](https://technet.microsoft.com/security/bulletin/ms09-061) | Microsoft .NET 공용 언어 런타임의 취약점으로 인한 원격 코드 실행 문제점(974378)                                           | [CVE-2009-2497 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2497) | [**1 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | 인터넷에 영향을 주는 공격 가능성이 있습니다.                                                                                                                                                                                                                                                                                                                              |  
+| [MS09-062](https://technet.microsoft.com/security/bulletin/ms09-062) | GDI+의 취약점으로 인한 원격 코드 실행 문제점(957488)                                                                      | [CVE-2009-2500 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2500) | [**2 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
+| [MS09-062](https://technet.microsoft.com/security/bulletin/ms09-062) | GDI+의 취약점으로 인한 원격 코드 실행 문제점(957488)                                                                      | [CVE-2009-2501 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2501) | [**2 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
+| [MS09-062](https://technet.microsoft.com/security/bulletin/ms09-062) | GDI+의 취약점으로 인한 원격 코드 실행 문제점(957488)                                                                      | [CVE-2009-2502 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2502) | [**2 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
+| [MS09-062](https://technet.microsoft.com/security/bulletin/ms09-062) | GDI+의 취약점으로 인한 원격 코드 실행 문제점(957488)                                                                      | [CVE-2009-2503 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2503) | [**1 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
+| [MS09-062](https://technet.microsoft.com/security/bulletin/ms09-062) | GDI+의 취약점으로 인한 원격 코드 실행 문제점(957488)                                                                      | [CVE-2009-2504 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2504) | [**2 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
+| [MS09-062](https://technet.microsoft.com/security/bulletin/ms09-062) | GDI+의 취약점으로 인한 원격 코드 실행 문제점(957488)                                                                      | [CVE-2009-2518 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2518) | [**2 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
+| [MS09-062](https://technet.microsoft.com/security/bulletin/ms09-062) | GDI+의 취약점으로 인한 원격 코드 실행 문제점(957488)                                                                      | [CVE-2009-2528 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2528) | [**1 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 일관적인 악용 코드 가능   | (없음)                                                                                                                                                                                                                                                                                                                                                                    |  
+| [MS09-062](https://technet.microsoft.com/security/bulletin/ms09-062) | GDI+의 취약점으로 인한 원격 코드 실행 문제점(957488)                                                                      | [CVE-2009-3126 (영문)](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-3126) | [**2 (영문)**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 비일관적인 악용 코드 가능 | (없음)                                                                                                                                                                                                                                                                                                                                                                    |
   
 영향을 받는 소프트웨어 및 다운로드 위치  
 ---------------------------------------
@@ -288,40 +288,40 @@ Microsoft Windows 2000
 **공지 번호**
 </td>
 <td style="border:1px solid black;">
-[**MS09-050**](http://technet.microsoft.com/security/bulletin/ms09-050)
+[**MS09-050**](https://technet.microsoft.com/security/bulletin/ms09-050)
 </td>
 <td style="border:1px solid black;">
-[**MS09-051**](http://technet.microsoft.com/security/bulletin/ms09-051)
+[**MS09-051**](https://technet.microsoft.com/security/bulletin/ms09-051)
 </td>
 <td style="border:1px solid black;">
-[**MS09-052**](http://technet.microsoft.com/security/bulletin/ms09-052)
+[**MS09-052**](https://technet.microsoft.com/security/bulletin/ms09-052)
 </td>
 <td style="border:1px solid black;">
-[**MS09-054**](http://technet.microsoft.com/security/bulletin/ms09-054)
+[**MS09-054**](https://technet.microsoft.com/security/bulletin/ms09-054)
 </td>
 <td style="border:1px solid black;">
-[**MS09-055**](http://technet.microsoft.com/security/bulletin/ms09-055)
+[**MS09-055**](https://technet.microsoft.com/security/bulletin/ms09-055)
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://technet.microsoft.com/security/bulletin/ms09-061)
+[**MS09-061**](https://technet.microsoft.com/security/bulletin/ms09-061)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 <td style="border:1px solid black;">
-[**MS09-053**](http://technet.microsoft.com/security/bulletin/ms09-053)
+[**MS09-053**](https://technet.microsoft.com/security/bulletin/ms09-053)
 </td>
 <td style="border:1px solid black;">
-[**MS09-056**](http://technet.microsoft.com/security/bulletin/ms09-056)
+[**MS09-056**](https://technet.microsoft.com/security/bulletin/ms09-056)
 </td>
 <td style="border:1px solid black;">
-[**MS09-057**](http://technet.microsoft.com/security/bulletin/ms09-057)
+[**MS09-057**](https://technet.microsoft.com/security/bulletin/ms09-057)
 </td>
 <td style="border:1px solid black;">
-[**MS09-058**](http://technet.microsoft.com/security/bulletin/ms09-058)
+[**MS09-058**](https://technet.microsoft.com/security/bulletin/ms09-058)
 </td>
 <td style="border:1px solid black;">
-[**MS09-059**](http://technet.microsoft.com/security/bulletin/ms09-059)
+[**MS09-059**](https://technet.microsoft.com/security/bulletin/ms09-059)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -332,37 +332,37 @@ Microsoft Windows 2000
 없음
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**없음**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**없음**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -449,40 +449,40 @@ Windows XP
 **공지 번호**
 </td>
 <td style="border:1px solid black;">
-[**MS09-050**](http://technet.microsoft.com/security/bulletin/ms09-050)
+[**MS09-050**](https://technet.microsoft.com/security/bulletin/ms09-050)
 </td>
 <td style="border:1px solid black;">
-[**MS09-051**](http://technet.microsoft.com/security/bulletin/ms09-051)
+[**MS09-051**](https://technet.microsoft.com/security/bulletin/ms09-051)
 </td>
 <td style="border:1px solid black;">
-[**MS09-052**](http://technet.microsoft.com/security/bulletin/ms09-052)
+[**MS09-052**](https://technet.microsoft.com/security/bulletin/ms09-052)
 </td>
 <td style="border:1px solid black;">
-[**MS09-054**](http://technet.microsoft.com/security/bulletin/ms09-054)
+[**MS09-054**](https://technet.microsoft.com/security/bulletin/ms09-054)
 </td>
 <td style="border:1px solid black;">
-[**MS09-055**](http://technet.microsoft.com/security/bulletin/ms09-055)
+[**MS09-055**](https://technet.microsoft.com/security/bulletin/ms09-055)
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://technet.microsoft.com/security/bulletin/ms09-061)
+[**MS09-061**](https://technet.microsoft.com/security/bulletin/ms09-061)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 <td style="border:1px solid black;">
-[**MS09-053**](http://technet.microsoft.com/security/bulletin/ms09-053)
+[**MS09-053**](https://technet.microsoft.com/security/bulletin/ms09-053)
 </td>
 <td style="border:1px solid black;">
-[**MS09-056**](http://technet.microsoft.com/security/bulletin/ms09-056)
+[**MS09-056**](https://technet.microsoft.com/security/bulletin/ms09-056)
 </td>
 <td style="border:1px solid black;">
-[**MS09-057**](http://technet.microsoft.com/security/bulletin/ms09-057)
+[**MS09-057**](https://technet.microsoft.com/security/bulletin/ms09-057)
 </td>
 <td style="border:1px solid black;">
-[**MS09-058**](http://technet.microsoft.com/security/bulletin/ms09-058)
+[**MS09-058**](https://technet.microsoft.com/security/bulletin/ms09-058)
 </td>
 <td style="border:1px solid black;">
-[**MS09-059**](http://technet.microsoft.com/security/bulletin/ms09-059)
+[**MS09-059**](https://technet.microsoft.com/security/bulletin/ms09-059)
 </td>
 </tr>
 <tr>
@@ -493,37 +493,37 @@ Windows XP
 없음
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -685,40 +685,40 @@ Windows Server 2003
 **공지 번호**
 </td>
 <td style="border:1px solid black;">
-[**MS09-050**](http://technet.microsoft.com/security/bulletin/ms09-050)
+[**MS09-050**](https://technet.microsoft.com/security/bulletin/ms09-050)
 </td>
 <td style="border:1px solid black;">
-[**MS09-051**](http://technet.microsoft.com/security/bulletin/ms09-051)
+[**MS09-051**](https://technet.microsoft.com/security/bulletin/ms09-051)
 </td>
 <td style="border:1px solid black;">
-[**MS09-052**](http://technet.microsoft.com/security/bulletin/ms09-052)
+[**MS09-052**](https://technet.microsoft.com/security/bulletin/ms09-052)
 </td>
 <td style="border:1px solid black;">
-[**MS09-054**](http://technet.microsoft.com/security/bulletin/ms09-054)
+[**MS09-054**](https://technet.microsoft.com/security/bulletin/ms09-054)
 </td>
 <td style="border:1px solid black;">
-[**MS09-055**](http://technet.microsoft.com/security/bulletin/ms09-055)
+[**MS09-055**](https://technet.microsoft.com/security/bulletin/ms09-055)
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://technet.microsoft.com/security/bulletin/ms09-061)
+[**MS09-061**](https://technet.microsoft.com/security/bulletin/ms09-061)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 <td style="border:1px solid black;">
-[**MS09-053**](http://technet.microsoft.com/security/bulletin/ms09-053)
+[**MS09-053**](https://technet.microsoft.com/security/bulletin/ms09-053)
 </td>
 <td style="border:1px solid black;">
-[**MS09-056**](http://technet.microsoft.com/security/bulletin/ms09-056)
+[**MS09-056**](https://technet.microsoft.com/security/bulletin/ms09-056)
 </td>
 <td style="border:1px solid black;">
-[**MS09-057**](http://technet.microsoft.com/security/bulletin/ms09-057)
+[**MS09-057**](https://technet.microsoft.com/security/bulletin/ms09-057)
 </td>
 <td style="border:1px solid black;">
-[**MS09-058**](http://technet.microsoft.com/security/bulletin/ms09-058)
+[**MS09-058**](https://technet.microsoft.com/security/bulletin/ms09-058)
 </td>
 <td style="border:1px solid black;">
-[**MS09-059**](http://technet.microsoft.com/security/bulletin/ms09-059)
+[**MS09-059**](https://technet.microsoft.com/security/bulletin/ms09-059)
 </td>
 </tr>
 <tr>
@@ -729,37 +729,37 @@ Windows Server 2003
 없음
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**보통**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**보통**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -965,40 +965,40 @@ Windows Vista
 **공지 번호**
 </td>
 <td style="border:1px solid black;">
-[**MS09-050**](http://technet.microsoft.com/security/bulletin/ms09-050)
+[**MS09-050**](https://technet.microsoft.com/security/bulletin/ms09-050)
 </td>
 <td style="border:1px solid black;">
-[**MS09-051**](http://technet.microsoft.com/security/bulletin/ms09-051)
+[**MS09-051**](https://technet.microsoft.com/security/bulletin/ms09-051)
 </td>
 <td style="border:1px solid black;">
-[**MS09-052**](http://technet.microsoft.com/security/bulletin/ms09-052)
+[**MS09-052**](https://technet.microsoft.com/security/bulletin/ms09-052)
 </td>
 <td style="border:1px solid black;">
-[**MS09-054**](http://technet.microsoft.com/security/bulletin/ms09-054)
+[**MS09-054**](https://technet.microsoft.com/security/bulletin/ms09-054)
 </td>
 <td style="border:1px solid black;">
-[**MS09-055**](http://technet.microsoft.com/security/bulletin/ms09-055)
+[**MS09-055**](https://technet.microsoft.com/security/bulletin/ms09-055)
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://technet.microsoft.com/security/bulletin/ms09-061)
+[**MS09-061**](https://technet.microsoft.com/security/bulletin/ms09-061)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 <td style="border:1px solid black;">
-[**MS09-053**](http://technet.microsoft.com/security/bulletin/ms09-053)
+[**MS09-053**](https://technet.microsoft.com/security/bulletin/ms09-053)
 </td>
 <td style="border:1px solid black;">
-[**MS09-056**](http://technet.microsoft.com/security/bulletin/ms09-056)
+[**MS09-056**](https://technet.microsoft.com/security/bulletin/ms09-056)
 </td>
 <td style="border:1px solid black;">
-[**MS09-057**](http://technet.microsoft.com/security/bulletin/ms09-057)
+[**MS09-057**](https://technet.microsoft.com/security/bulletin/ms09-057)
 </td>
 <td style="border:1px solid black;">
-[**MS09-058**](http://technet.microsoft.com/security/bulletin/ms09-058)
+[**MS09-058**](https://technet.microsoft.com/security/bulletin/ms09-058)
 </td>
 <td style="border:1px solid black;">
-[**MS09-059**](http://technet.microsoft.com/security/bulletin/ms09-059)
+[**MS09-059**](https://technet.microsoft.com/security/bulletin/ms09-059)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1006,40 +1006,40 @@ Windows Vista
 **전체 심각도**
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-없음
-</td>
-<td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 없음
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+없음
+</td>
+<td style="border:1px solid black;">
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -1354,40 +1354,40 @@ Windows Server 2008
 **공지 번호**
 </td>
 <td style="border:1px solid black;">
-[**MS09-050**](http://technet.microsoft.com/security/bulletin/ms09-050)
+[**MS09-050**](https://technet.microsoft.com/security/bulletin/ms09-050)
 </td>
 <td style="border:1px solid black;">
-[**MS09-051**](http://technet.microsoft.com/security/bulletin/ms09-051)
+[**MS09-051**](https://technet.microsoft.com/security/bulletin/ms09-051)
 </td>
 <td style="border:1px solid black;">
-[**MS09-052**](http://technet.microsoft.com/security/bulletin/ms09-052)
+[**MS09-052**](https://technet.microsoft.com/security/bulletin/ms09-052)
 </td>
 <td style="border:1px solid black;">
-[**MS09-054**](http://technet.microsoft.com/security/bulletin/ms09-054)
+[**MS09-054**](https://technet.microsoft.com/security/bulletin/ms09-054)
 </td>
 <td style="border:1px solid black;">
-[**MS09-055**](http://technet.microsoft.com/security/bulletin/ms09-055)
+[**MS09-055**](https://technet.microsoft.com/security/bulletin/ms09-055)
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://technet.microsoft.com/security/bulletin/ms09-061)
+[**MS09-061**](https://technet.microsoft.com/security/bulletin/ms09-061)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 <td style="border:1px solid black;">
-[**MS09-053**](http://technet.microsoft.com/security/bulletin/ms09-053)
+[**MS09-053**](https://technet.microsoft.com/security/bulletin/ms09-053)
 </td>
 <td style="border:1px solid black;">
-[**MS09-056**](http://technet.microsoft.com/security/bulletin/ms09-056)
+[**MS09-056**](https://technet.microsoft.com/security/bulletin/ms09-056)
 </td>
 <td style="border:1px solid black;">
-[**MS09-057**](http://technet.microsoft.com/security/bulletin/ms09-057)
+[**MS09-057**](https://technet.microsoft.com/security/bulletin/ms09-057)
 </td>
 <td style="border:1px solid black;">
-[**MS09-058**](http://technet.microsoft.com/security/bulletin/ms09-058)
+[**MS09-058**](https://technet.microsoft.com/security/bulletin/ms09-058)
 </td>
 <td style="border:1px solid black;">
-[**MS09-059**](http://technet.microsoft.com/security/bulletin/ms09-059)
+[**MS09-059**](https://technet.microsoft.com/security/bulletin/ms09-059)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1395,40 +1395,40 @@ Windows Server 2008
 **전체 심각도**
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-없음
-</td>
-<td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-[**낮음**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 없음
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**낮음**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+없음
+</td>
+<td style="border:1px solid black;">
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -1761,40 +1761,40 @@ Windows 7
 **공지 번호**
 </td>
 <td style="border:1px solid black;">
-[**MS09-050**](http://technet.microsoft.com/security/bulletin/ms09-050)
+[**MS09-050**](https://technet.microsoft.com/security/bulletin/ms09-050)
 </td>
 <td style="border:1px solid black;">
-[**MS09-051**](http://technet.microsoft.com/security/bulletin/ms09-051)
+[**MS09-051**](https://technet.microsoft.com/security/bulletin/ms09-051)
 </td>
 <td style="border:1px solid black;">
-[**MS09-052**](http://technet.microsoft.com/security/bulletin/ms09-052)
+[**MS09-052**](https://technet.microsoft.com/security/bulletin/ms09-052)
 </td>
 <td style="border:1px solid black;">
-[**MS09-054**](http://technet.microsoft.com/security/bulletin/ms09-054)
+[**MS09-054**](https://technet.microsoft.com/security/bulletin/ms09-054)
 </td>
 <td style="border:1px solid black;">
-[**MS09-055**](http://technet.microsoft.com/security/bulletin/ms09-055)
+[**MS09-055**](https://technet.microsoft.com/security/bulletin/ms09-055)
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://technet.microsoft.com/security/bulletin/ms09-061)
+[**MS09-061**](https://technet.microsoft.com/security/bulletin/ms09-061)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 <td style="border:1px solid black;">
-[**MS09-053**](http://technet.microsoft.com/security/bulletin/ms09-053)
+[**MS09-053**](https://technet.microsoft.com/security/bulletin/ms09-053)
 </td>
 <td style="border:1px solid black;">
-[**MS09-056**](http://technet.microsoft.com/security/bulletin/ms09-056)
+[**MS09-056**](https://technet.microsoft.com/security/bulletin/ms09-056)
 </td>
 <td style="border:1px solid black;">
-[**MS09-057**](http://technet.microsoft.com/security/bulletin/ms09-057)
+[**MS09-057**](https://technet.microsoft.com/security/bulletin/ms09-057)
 </td>
 <td style="border:1px solid black;">
-[**MS09-058**](http://technet.microsoft.com/security/bulletin/ms09-058)
+[**MS09-058**](https://technet.microsoft.com/security/bulletin/ms09-058)
 </td>
 <td style="border:1px solid black;">
-[**MS09-059**](http://technet.microsoft.com/security/bulletin/ms09-059)
+[**MS09-059**](https://technet.microsoft.com/security/bulletin/ms09-059)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1811,13 +1811,10 @@ Windows 7
 없음
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-없음
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 없음
@@ -1826,16 +1823,19 @@ Windows 7
 없음
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+없음
+</td>
+<td style="border:1px solid black;">
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 없음
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -1938,40 +1938,40 @@ Windows Server 2008 R2
 **공지 번호**
 </td>
 <td style="border:1px solid black;">
-[**MS09-050**](http://technet.microsoft.com/security/bulletin/ms09-050)
+[**MS09-050**](https://technet.microsoft.com/security/bulletin/ms09-050)
 </td>
 <td style="border:1px solid black;">
-[**MS09-051**](http://technet.microsoft.com/security/bulletin/ms09-051)
+[**MS09-051**](https://technet.microsoft.com/security/bulletin/ms09-051)
 </td>
 <td style="border:1px solid black;">
-[**MS09-052**](http://technet.microsoft.com/security/bulletin/ms09-052)
+[**MS09-052**](https://technet.microsoft.com/security/bulletin/ms09-052)
 </td>
 <td style="border:1px solid black;">
-[**MS09-054**](http://technet.microsoft.com/security/bulletin/ms09-054)
+[**MS09-054**](https://technet.microsoft.com/security/bulletin/ms09-054)
 </td>
 <td style="border:1px solid black;">
-[**MS09-055**](http://technet.microsoft.com/security/bulletin/ms09-055)
+[**MS09-055**](https://technet.microsoft.com/security/bulletin/ms09-055)
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://technet.microsoft.com/security/bulletin/ms09-061)
+[**MS09-061**](https://technet.microsoft.com/security/bulletin/ms09-061)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 <td style="border:1px solid black;">
-[**MS09-053**](http://technet.microsoft.com/security/bulletin/ms09-053)
+[**MS09-053**](https://technet.microsoft.com/security/bulletin/ms09-053)
 </td>
 <td style="border:1px solid black;">
-[**MS09-056**](http://technet.microsoft.com/security/bulletin/ms09-056)
+[**MS09-056**](https://technet.microsoft.com/security/bulletin/ms09-056)
 </td>
 <td style="border:1px solid black;">
-[**MS09-057**](http://technet.microsoft.com/security/bulletin/ms09-057)
+[**MS09-057**](https://technet.microsoft.com/security/bulletin/ms09-057)
 </td>
 <td style="border:1px solid black;">
-[**MS09-058**](http://technet.microsoft.com/security/bulletin/ms09-058)
+[**MS09-058**](https://technet.microsoft.com/security/bulletin/ms09-058)
 </td>
 <td style="border:1px solid black;">
-[**MS09-059**](http://technet.microsoft.com/security/bulletin/ms09-059)
+[**MS09-059**](https://technet.microsoft.com/security/bulletin/ms09-059)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1988,13 +1988,10 @@ Windows Server 2008 R2
 없음
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**낮음**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-없음
+[**낮음**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 없음
@@ -2003,16 +2000,19 @@ Windows Server 2008 R2
 없음
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+없음
+</td>
+<td style="border:1px solid black;">
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 없음
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -2109,9 +2109,9 @@ Windows Server 2008 R2(Itanium 기반 시스템용)
  
 **Windows Server 2008 및 Windows Server 2008 R2 참고 사항**
 
-**\*Server Core 설치가 영향을 받습니다.** 이 업데이트는 Server Core 설치 옵션의 사용 여부에 관계없이 동일한 심각도로 지원 대상인 Windows Server 2008 또는 Windows Server 2008 R2에 적용됩니다. 이 설치 옵션에 대한 자세한 내용은 MSDN 문서, [Server Core(영문)](http://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx) 및 [Windows Server 2008 R2용 Server Core(영문)](http://msdn.microsoft.com/en-us/library/ee391631(vs.85).aspx)를 참조하십시오. 참고: Server Core 설치 옵션은 Windows Server 2008 및 Windows Server 2008 R2의 특정 에디션에 적용되지 않습니다. [Server Core 설치 옵션 비교(영문)](http://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx)를 참조하십시오.
+**\*Server Core 설치가 영향을 받습니다.** 이 업데이트는 Server Core 설치 옵션의 사용 여부에 관계없이 동일한 심각도로 지원 대상인 Windows Server 2008 또는 Windows Server 2008 R2에 적용됩니다. 이 설치 옵션에 대한 자세한 내용은 MSDN 문서, [Server Core(영문)](https://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx) 및 [Windows Server 2008 R2용 Server Core(영문)](https://msdn.microsoft.com/en-us/library/ee391631(vs.85).aspx)를 참조하십시오. 참고: Server Core 설치 옵션은 Windows Server 2008 및 Windows Server 2008 R2의 특정 에디션에 적용되지 않습니다. [Server Core 설치 옵션 비교(영문)](https://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx)를 참조하십시오.
 
-**\*\*Server Core 설치는 영향을 받지 않습니다.** Server Core 설치 옵션을 사용하여 설치한 경우 이 업데이트에서 해결하는 취약점은 지원 대상인 Windows Server 2008 또는 Windows Server 2008 R2 에디션에 영향을 주지 않습니다. 이 설치 옵션에 대한 자세한 내용은 MSDN 문서, [Server Core(영문)](http://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx) 및 [Windows Server 2008 R2용 Server Core(영문)](http://msdn.microsoft.com/en-us/library/ee391631(vs.85).aspx)를 참조하십시오. 참고: Server Core 설치 옵션은 Windows Server 2008 및 Windows Server 2008 R2의 특정 에디션에 적용되지 않습니다. [Server Core 설치 옵션 비교(영문)](http://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx)를 참조하십시오.
+**\*\*Server Core 설치는 영향을 받지 않습니다.** Server Core 설치 옵션을 사용하여 설치한 경우 이 업데이트에서 해결하는 취약점은 지원 대상인 Windows Server 2008 또는 Windows Server 2008 R2 에디션에 영향을 주지 않습니다. 이 설치 옵션에 대한 자세한 내용은 MSDN 문서, [Server Core(영문)](https://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx) 및 [Windows Server 2008 R2용 Server Core(영문)](https://msdn.microsoft.com/en-us/library/ee391631(vs.85).aspx)를 참조하십시오. 참고: Server Core 설치 옵션은 Windows Server 2008 및 Windows Server 2008 R2의 특정 에디션에 적용되지 않습니다. [Server Core 설치 옵션 비교(영문)](https://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx)를 참조하십시오.
 
 **MS09-061 참고 사항**
 
@@ -2123,7 +2123,7 @@ Windows Server 2008 R2(Itanium 기반 시스템용)
 
 **MS09-059 참고 사항**
 
-<sup>[1]</sup>이 운영 체제는 KB968389, 인증에 대한 확장된 보호([Microsoft Security Advisory 973811](http://technet.microsoft.com/security/advisory/973811) 참조)가 설치된 경우에만 영향을 받습니다. 자세한 내용은 [MS09-059의 이 보안 업데이트와 관련된 자주 제기되는 질문 사항](http://technet.microsoft.com/security/bulletin/ms09-059) 섹션을 참조하십시오.
+<sup>[1]</sup>이 운영 체제는 KB968389, 인증에 대한 확장된 보호([Microsoft Security Advisory 973811](https://technet.microsoft.com/security/advisory/973811) 참조)가 설치된 경우에만 영향을 받습니다. 자세한 내용은 [MS09-059의 이 보안 업데이트와 관련된 자주 제기되는 질문 사항](https://technet.microsoft.com/security/bulletin/ms09-059) 섹션을 참조하십시오.
 
 #### Microsoft Office 제품군 및 소프트웨어
 
@@ -2148,10 +2148,10 @@ Microsoft Office 제품군, 시스템 및 구성 요소
 **공지 번호**
 </td>
 <td style="border:1px solid black;">
-[**MS09-060**](http://technet.microsoft.com/security/bulletin/ms09-060)
+[**MS09-060**](https://technet.microsoft.com/security/bulletin/ms09-060)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2159,10 +2159,10 @@ Microsoft Office 제품군, 시스템 및 구성 요소
 **전체 심각도**
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -2220,10 +2220,10 @@ Microsoft Office 2003
 **공지 번호**
 </td>
 <td style="border:1px solid black;">
-[**MS09-060**](http://technet.microsoft.com/security/bulletin/ms09-060)
+[**MS09-060**](https://technet.microsoft.com/security/bulletin/ms09-060)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 </tr>
 <tr>
@@ -2231,10 +2231,10 @@ Microsoft Office 2003
 **전체 심각도**
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2364,7 +2364,7 @@ Microsoft SQL Server
 **공지 번호**
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2372,7 +2372,7 @@ Microsoft SQL Server
 **전체 심각도**
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -2511,10 +2511,10 @@ Microsoft Silverlight
 **공지 번호**
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://technet.microsoft.com/security/bulletin/ms09-061)
+[**MS09-061**](https://technet.microsoft.com/security/bulletin/ms09-061)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2522,7 +2522,7 @@ Microsoft Silverlight
 **전체 심각도**
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 없음
@@ -2533,7 +2533,7 @@ Microsoft Silverlight
 Microsoft Silverlight
 </td>
 <td style="border:1px solid black;">
-[Mac에 설치된 Microsoft Silverlight 2 (영문)](http://www.microsoft.com/silverlight/get-started/install/default.aspx)<sup>[1]</sup>
+[Mac에 설치된 Microsoft Silverlight 2 (영문)](https://www.microsoft.com/silverlight/get-started/install/default.aspx)<sup>[1]</sup>
 (KB970363)  
 (긴급)
 </td>
@@ -2546,7 +2546,7 @@ Microsoft Silverlight
 Microsoft Silverlight
 </td>
 <td style="border:1px solid black;">
-[Microsoft Silverlight 2](http://www.microsoft.com/silverlight/get-started/install/default.aspx)<sup>[1]</sup>(모든 Microsoft Windows 클라이언트 릴리스에 설치된 경우)  
+[Microsoft Silverlight 2](https://www.microsoft.com/silverlight/get-started/install/default.aspx)<sup>[1]</sup>(모든 Microsoft Windows 클라이언트 릴리스에 설치된 경우)  
 (KB970363)  
 (긴급)
 </td>
@@ -2559,7 +2559,7 @@ Microsoft Silverlight
 Microsoft Silverlight
 </td>
 <td style="border:1px solid black;">
-[Microsoft Silverlight 2](http://www.microsoft.com/silverlight/get-started/install/default.aspx)<sup>[1]</sup>(모든 Microsoft Windows 서버\*\* 릴리스에 설치된 경우)  
+[Microsoft Silverlight 2](https://www.microsoft.com/silverlight/get-started/install/default.aspx)<sup>[1]</sup>(모든 Microsoft Windows 서버\*\* 릴리스에 설치된 경우)  
 (KB970363)  
 (보통)
 </td>
@@ -2577,10 +2577,10 @@ Microsoft Visual Studio
 **공지 번호**
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://technet.microsoft.com/security/bulletin/ms09-061)
+[**MS09-061**](https://technet.microsoft.com/security/bulletin/ms09-061)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 </tr>
 <tr>
@@ -2686,10 +2686,10 @@ Microsoft Report Viewer
 **공지 번호**
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://technet.microsoft.com/security/bulletin/ms09-061)
+[**MS09-061**](https://technet.microsoft.com/security/bulletin/ms09-061)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 </tr>
 <tr>
@@ -2700,7 +2700,7 @@ Microsoft Report Viewer
 없음
 </td>
 <td style="border:1px solid black;">
-[**긴급**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**긴급**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2761,7 +2761,7 @@ Microsoft Platform SDK 재배포 가능 파일: GDI+
 
 <sup>[1]</sup>이 다운로드는 Microsoft Silverlight 2를 취약점이 해결된 Microsoft Silverlight 3으로 업그레이드합니다.
 
-**\*\*Server Core 설치는 영향을 받지 않습니다.** Server Core 설치 옵션을 사용하여 설치한 경우 이 업데이트에서 해결하는 취약점은 지원 대상인 Windows Server 2008 또는 Windows Server 2008 R2 에디션에 영향을 주지 않습니다. 이 설치 옵션에 대한 자세한 내용은 MSDN 문서, [Server Core(영문)](http://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx) 및 [Windows Server 2008 R2용 Server Core(영문)](http://msdn.microsoft.com/en-us/library/ee391631(vs.85).aspx)를 참조하십시오. Server Core 설치 옵션은 Windows Server 2008 및 Windows Server 2008 R2의 특정 에디션에 적용되지 않습니다. [Server Core 설치 옵션 비교(영문)](http://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx)를 참조하십시오
+**\*\*Server Core 설치는 영향을 받지 않습니다.** Server Core 설치 옵션을 사용하여 설치한 경우 이 업데이트에서 해결하는 취약점은 지원 대상인 Windows Server 2008 또는 Windows Server 2008 R2 에디션에 영향을 주지 않습니다. 이 설치 옵션에 대한 자세한 내용은 MSDN 문서, [Server Core(영문)](https://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx) 및 [Windows Server 2008 R2용 Server Core(영문)](https://msdn.microsoft.com/en-us/library/ee391631(vs.85).aspx)를 참조하십시오. Server Core 설치 옵션은 Windows Server 2008 및 Windows Server 2008 R2의 특정 에디션에 적용되지 않습니다. [Server Core 설치 옵션 비교(영문)](https://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx)를 참조하십시오
 
 동일한 공지 ID의 추가 업데이트 파일에 대해서는 **영향을 받는 소프트웨어 및 다운로드 위치** 섹션의 다른 소프트웨어 범주를 참조하십시오. 이 공지는 둘 이상의 소프트웨어 범주에 해당합니다.
 
@@ -2792,7 +2792,7 @@ Microsoft Forefront Security
 **공지 번호**
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2800,7 +2800,7 @@ Microsoft Forefront Security
 **전체 심각도**
 </td>
 <td style="border:1px solid black;">
-[**중요**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**중요**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -2825,37 +2825,37 @@ Microsoft Windows 2000 서비스 팩 4에 설치 시
 
 **보안 센터**
 
-해당 조직에서 서버, 데스크톱, 모바일 컴퓨터에 적용해야 하는 소프트웨어 및 보안 업데이트를 관리합니다. 자세한 내용은 [TechNet Update Management Center](http://go.microsoft.com/fwlink/?linkid=69903)를 참조하십시오. [TechNet Security Center](http://go.microsoft.com/fwlink/?linkid=21171)는 Microsoft 제품의 보안에 대한 추가 정보를 제공합니다. 일반 사용자는 [가정의 보안](http://go.microsoft.com/fwlink/?linkid=85102)을 방문하거나 "최신 보안 업데이트"를 클릭하여 이 정보를 볼 수도 있습니다.
+해당 조직에서 서버, 데스크톱, 모바일 컴퓨터에 적용해야 하는 소프트웨어 및 보안 업데이트를 관리합니다. 자세한 내용은 [TechNet Update Management Center](https://go.microsoft.com/fwlink/?linkid=69903)를 참조하십시오. [TechNet Security Center](https://go.microsoft.com/fwlink/?linkid=21171)는 Microsoft 제품의 보안에 대한 추가 정보를 제공합니다. 일반 사용자는 [가정의 보안](https://go.microsoft.com/fwlink/?linkid=85102)을 방문하거나 "최신 보안 업데이트"를 클릭하여 이 정보를 볼 수도 있습니다.
 
-보안 업데이트는 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747) 및 [Windows Update](http://go.microsoft.com/fwlink/?linkid=21130)를 통해 제공됩니다. 보안 업데이트는 [Microsoft 다운로드 센터](http://go.microsoft.com/fwlink/?linkid=21129)에서도 다운로드할 수 있으며 "security update"라는 키워드를 사용하여 쉽게 찾을 수 있습니다.
+보안 업데이트는 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747) 및 [Windows Update](https://go.microsoft.com/fwlink/?linkid=21130)를 통해 제공됩니다. 보안 업데이트는 [Microsoft 다운로드 센터](https://go.microsoft.com/fwlink/?linkid=21129)에서도 다운로드할 수 있으며 "security update"라는 키워드를 사용하여 쉽게 찾을 수 있습니다.
 
-마지막으로, 보안 업데이트는 [Microsoft Update 카탈로그](http://go.microsoft.com/fwlink/?linkid=96155)에서 다운로드할 수 있습니다. Microsoft Update 카탈로그는 보안 업데이트, 드라이버, 서비스 팩을 포함하여 Windows Update 및 Microsoft Update에서 제공하는 콘텐츠의 검색 가능한 목록입니다. 보안 공지 번호(예: "MS07-036")를 사용하여 검색하면 적용 가능한 모든 업데이트(다른 언어의 업데이트 포함)를 장바구니에 추가하고, 선택한 업데이트를 로컬 폴더에 다운로드할 수 있습니다. Microsoft Update 카탈로그에 대한 자세한 내용은 [Microsoft Update 카탈로그 FAQ](http://go.microsoft.com/fwlink/?linkid=97900)를 참조하십시오.
+마지막으로, 보안 업데이트는 [Microsoft Update 카탈로그](https://go.microsoft.com/fwlink/?linkid=96155)에서 다운로드할 수 있습니다. Microsoft Update 카탈로그는 보안 업데이트, 드라이버, 서비스 팩을 포함하여 Windows Update 및 Microsoft Update에서 제공하는 콘텐츠의 검색 가능한 목록입니다. 보안 공지 번호(예: "MS07-036")를 사용하여 검색하면 적용 가능한 모든 업데이트(다른 언어의 업데이트 포함)를 장바구니에 추가하고, 선택한 업데이트를 로컬 폴더에 다운로드할 수 있습니다. Microsoft Update 카탈로그에 대한 자세한 내용은 [Microsoft Update 카탈로그 FAQ](https://go.microsoft.com/fwlink/?linkid=97900)를 참조하십시오.
 
-**참고** 2009년 8월 1일부터 Microsoft는 Office 업데이트와 Office 업데이트 인벤토리 도구에 대한 지원을 중단합니다. 계속해서 Microsoft Office 제품에 필요한 최신 업데이트를 받으려면 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747)를 사용하십시오. 자세한 내용은 [Microsoft Office 업데이트 정보: 자주 제기되는 질문 사항(FAQ) (영문)](http://office.microsoft.com/en-us/downloads/fx010402221033.aspx)을 참조하십시오.
+**참고** 2009년 8월 1일부터 Microsoft는 Office 업데이트와 Office 업데이트 인벤토리 도구에 대한 지원을 중단합니다. 계속해서 Microsoft Office 제품에 필요한 최신 업데이트를 받으려면 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747)를 사용하십시오. 자세한 내용은 [Microsoft Office 업데이트 정보: 자주 제기되는 질문 사항(FAQ) (영문)](https://office.microsoft.com/en-us/downloads/fx010402221033.aspx)을 참조하십시오.
 
 **검색 및 배포 지침**
 
-Microsoft는 보안 업데이트를 위한 검색 및 배포 지침을 제공합니다. 이 지침에는 IT 전문가가 다양한 도구를 사용하여 보안 업데이트를 검색하고 배포하는 방법을 이해하는 데 도움이 되는 권장 사항과 정보가 포함되어 있습니다. 자세한 내용은 [Microsoft 기술 자료 문서 961747](http://support.microsoft.com/kb/961747)을 참조하십시오.
+Microsoft는 보안 업데이트를 위한 검색 및 배포 지침을 제공합니다. 이 지침에는 IT 전문가가 다양한 도구를 사용하여 보안 업데이트를 검색하고 배포하는 방법을 이해하는 데 도움이 되는 권장 사항과 정보가 포함되어 있습니다. 자세한 내용은 [Microsoft 기술 자료 문서 961747](https://support.microsoft.com/kb/961747)을 참조하십시오.
 
 **Microsoft Baseline Security Analyzer**
 
-관리자는 MBSA(Microsoft Baseline Security Analyzer)를 사용하여 로컬 및 원격 시스템에서 누락된 보안 업데이트 및 일반적인 보안 설정 오류를 검색할 수 있습니다. MBSA에 대한 자세한 내용을 보려면 [Microsoft Baseline Security Analyzer](http://go.microsoft.com/fwlink/?linkid=21134)를 방문하십시오.
+관리자는 MBSA(Microsoft Baseline Security Analyzer)를 사용하여 로컬 및 원격 시스템에서 누락된 보안 업데이트 및 일반적인 보안 설정 오류를 검색할 수 있습니다. MBSA에 대한 자세한 내용을 보려면 [Microsoft Baseline Security Analyzer](https://go.microsoft.com/fwlink/?linkid=21134)를 방문하십시오.
 
 **Windows Server Update Services**
 
 관리자는 WSUS(Windows Server Update Services)를 사용하여 Windows 2000 이상 운영 체제, Office XP 이상, Exchange Server 2003 그리고 Windows 2000 이상 운영 체제에 설치된 SQL Server 2000에 최신 중요 업데이트 및 보안 업데이트를 신속하게 안정적으로 배포할 수 있습니다.
 
-Windows Server Update Services를 사용하여 이 보안 업데이트를 신속하게 배포하는 방법에 대한 자세한 내용은 [Windows Server Update Services](http://go.microsoft.com/fwlink/?linkid=50120)를 참조하십시오.
+Windows Server Update Services를 사용하여 이 보안 업데이트를 신속하게 배포하는 방법에 대한 자세한 내용은 [Windows Server Update Services](https://go.microsoft.com/fwlink/?linkid=50120)를 참조하십시오.
 
 **Systems Management Server**
 
-Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 효율적으로 구성할 수 있는 솔루션입니다. 관리자는 SMS를 사용하여 보안 업데이트가 필요한 Windows 기반 시스템을 확인하고, 사용자의 업무 중단을 최소화하면서 기업 전체에 업데이트를 효율적으로 배포할 수 있습니다. SMS의 차기 릴리스인 System Center Configuration Manager 2007을 지금 사용할 수 있습니다([System Center Configuration Manager 2007 (영문)](http://technet.microsoft.com/en-us/library/bb735860.aspx) 참조). 관리자가 SMS 2003을 사용하여 보안 업데이트를 배포하는 방법에 대한 자세한 내용은 [SMS 2003 보안 패치 관리](http://go.microsoft.com/fwlink/?linkid=22939)를 참조하십시오. SMS 2.0 사용자는 SUIT(Security Update Inventory Tool)을 사용하여 보안 업데이트 배포를 지원할 수도 있습니다. SMS에 대한 자세한 내용은 [Microsoft Systems Management Server](http://go.microsoft.com/fwlink/?linkid=21158)를 참조하십시오.
+Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 효율적으로 구성할 수 있는 솔루션입니다. 관리자는 SMS를 사용하여 보안 업데이트가 필요한 Windows 기반 시스템을 확인하고, 사용자의 업무 중단을 최소화하면서 기업 전체에 업데이트를 효율적으로 배포할 수 있습니다. SMS의 차기 릴리스인 System Center Configuration Manager 2007을 지금 사용할 수 있습니다([System Center Configuration Manager 2007 (영문)](https://technet.microsoft.com/en-us/library/bb735860.aspx) 참조). 관리자가 SMS 2003을 사용하여 보안 업데이트를 배포하는 방법에 대한 자세한 내용은 [SMS 2003 보안 패치 관리](https://go.microsoft.com/fwlink/?linkid=22939)를 참조하십시오. SMS 2.0 사용자는 SUIT(Security Update Inventory Tool)을 사용하여 보안 업데이트 배포를 지원할 수도 있습니다. SMS에 대한 자세한 내용은 [Microsoft Systems Management Server](https://go.microsoft.com/fwlink/?linkid=21158)를 참조하십시오.
 
-**참고** SMS는 Microsoft Baseline Security Analyzer를 사용하여 보안 공지 업데이트 검색 및 배포에 대한 다양한 지원을 제공합니다. 일부 소프트웨어 업데이트는 이러한 도구로 검색하지 못할 수도 있습니다. 이러한 경우 관리자는 SMS의 인벤토리 기능을 사용하여 특정 시스템을 대상으로 업데이트를 수행할 수 있습니다. 이 절차에 대한 자세한 내용은 [SMS 소프트웨어 배포 기능을 사용한 소프트웨어 업데이트 배포](http://go.microsoft.com/fwlink/?linkid=33341)를 참조하십시오. 일부 보안 업데이트 작업을 수행하려면 관리자 권한이 필요하며 컴퓨터를 다시 시작해야 할 수 있습니다. 관리자는 [SMS 2003 Administration Feature Pack (영문)](http://go.microsoft.com/fwlink/?linkid=33387) 및 [SMS 2.0 Administration Feature Pack (영문)](http://go.microsoft.com/fwlink/?linkid=21161)에서 제공되는 Elevated Rights Deployment Tool을 사용하여 이러한 업데이트를 설치할 수 있습니다.
+**참고** SMS는 Microsoft Baseline Security Analyzer를 사용하여 보안 공지 업데이트 검색 및 배포에 대한 다양한 지원을 제공합니다. 일부 소프트웨어 업데이트는 이러한 도구로 검색하지 못할 수도 있습니다. 이러한 경우 관리자는 SMS의 인벤토리 기능을 사용하여 특정 시스템을 대상으로 업데이트를 수행할 수 있습니다. 이 절차에 대한 자세한 내용은 [SMS 소프트웨어 배포 기능을 사용한 소프트웨어 업데이트 배포](https://go.microsoft.com/fwlink/?linkid=33341)를 참조하십시오. 일부 보안 업데이트 작업을 수행하려면 관리자 권한이 필요하며 컴퓨터를 다시 시작해야 할 수 있습니다. 관리자는 [SMS 2003 Administration Feature Pack (영문)](https://go.microsoft.com/fwlink/?linkid=33387) 및 [SMS 2.0 Administration Feature Pack (영문)](https://go.microsoft.com/fwlink/?linkid=21161)에서 제공되는 Elevated Rights Deployment Tool을 사용하여 이러한 업데이트를 설치할 수 있습니다.
 
 **UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)**
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](https://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Microsoft Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 
@@ -2869,66 +2869,66 @@ Microsoft는 Windows Update, Microsoft Update, Windows Server Update Services, �
 
 Windows Update 및 Microsoft update의 비보안 릴리스에 대한 자세한 내용은 다음을 참조하십시오.
 
--   [Microsoft 기술 자료 문서 894199](http://support.microsoft.com/kb/894199): 변경된 Software Update Services 및 Windows Server Update Services 내용에 대한 설명. 모든 Windows 콘텐츠 포함.
--   [Windows Server Update Services를 위해 지난 몇 달간 배포된 업데이트 (영문)](http://technet.microsoft.com/en-us/wsus/bb456965.aspx). Microsoft Windows가 아닌 Microsoft 제품용 신규, 개정 및 출시 업데이트를 전부 표시합니다.
+-   [Microsoft 기술 자료 문서 894199](https://support.microsoft.com/kb/894199): 변경된 Software Update Services 및 Windows Server Update Services 내용에 대한 설명. 모든 Windows 콘텐츠 포함.
+-   [Windows Server Update Services를 위해 지난 몇 달간 배포된 업데이트 (영문)](https://technet.microsoft.com/en-us/wsus/bb456965.aspx). Microsoft Windows가 아닌 Microsoft 제품용 신규, 개정 및 출시 업데이트를 전부 표시합니다.
 
 #### MAPP(Microsoft Active Protections Program)
 
-고객에 대한 보안을 강화하기 위해 Microsoft는 월별 보안 업데이트를 배포하기 전에 주요 보안 소프트웨어 제공업체에 취약점 정보를 제공합니다. 보안 소프트웨어 제공업체는 이 취약점 정보를 사용하여 안티바이러스, 네트워크 기반 침입 탐지 시스템 또는 호스트 기반 침임 방지 시스템 등 자사의 보안 소프트웨어나 장치를 통해 업데이트된 보호 기능을 고객에게 제공할 수 있습니다. 보안 소프트웨어 제공업체가 활성 보호 기능을 제공하는지 확인하려면 [Microsoft MAPP(Active Protections Program) 파트너 (영문)](http://www.microsoft.com/security/msrc/mapp/partners.mspx)에 나열된 프로그램 파트너가 제공하는 활성 보호 기능 웹 사이트를 참조하십시오.
+고객에 대한 보안을 강화하기 위해 Microsoft는 월별 보안 업데이트를 배포하기 전에 주요 보안 소프트웨어 제공업체에 취약점 정보를 제공합니다. 보안 소프트웨어 제공업체는 이 취약점 정보를 사용하여 안티바이러스, 네트워크 기반 침입 탐지 시스템 또는 호스트 기반 침임 방지 시스템 등 자사의 보안 소프트웨어나 장치를 통해 업데이트된 보호 기능을 고객에게 제공할 수 있습니다. 보안 소프트웨어 제공업체가 활성 보호 기능을 제공하는지 확인하려면 [Microsoft MAPP(Active Protections Program) 파트너 (영문)](https://www.microsoft.com/security/msrc/mapp/partners.mspx)에 나열된 프로그램 파트너가 제공하는 활성 보호 기능 웹 사이트를 참조하십시오.
 
 #### 보안 전략 및 커뮤니티
 
 **업데이트 관리 전략**
 
-[업데이트 관리를 위한 보안 가이드 (영문)](http://go.microsoft.com/fwlink/?linkid=21168)는 보안 업데이트 적용에 대해 Microsoft가 권장하는 최선의 방법과 관련 정보를 제공합니다.
+[업데이트 관리를 위한 보안 가이드 (영문)](https://go.microsoft.com/fwlink/?linkid=21168)는 보안 업데이트 적용에 대해 Microsoft가 권장하는 최선의 방법과 관련 정보를 제공합니다.
 
 **기타 보안 관련 업데이트 받기**
 
 기타 보안 문제 관련 업데이트는 다음 사이트에서 구할 수 있습니다.
 
--   보안 업데이트는 [Microsoft 다운로드 센터](http://go.microsoft.com/fwlink/?linkid=21129)에서 다운로드할 수 있으며 "security update"라는 키워드를 사용하여 쉽게 찾을 수 있습니다.
--   일반 사용자용 업데이트는 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747)에서 사용할 수 있습니다.
--   이 달에 제공되는 보안 업데이트는 Windows Update를 통해서 또는 다운로드 센터에서 제공되는 보안 및 중요 릴리스 ISO CD 이미지 파일로 받을 수 있습니다. 자세한 내용은 [Microsoft 기술 자료 문서 913086](http://support.microsoft.com/kb/913086)을 참조하십시오.
+-   보안 업데이트는 [Microsoft 다운로드 센터](https://go.microsoft.com/fwlink/?linkid=21129)에서 다운로드할 수 있으며 "security update"라는 키워드를 사용하여 쉽게 찾을 수 있습니다.
+-   일반 사용자용 업데이트는 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747)에서 사용할 수 있습니다.
+-   이 달에 제공되는 보안 업데이트는 Windows Update를 통해서 또는 다운로드 센터에서 제공되는 보안 및 중요 릴리스 ISO CD 이미지 파일로 받을 수 있습니다. 자세한 내용은 [Microsoft 기술 자료 문서 913086](https://support.microsoft.com/kb/913086)을 참조하십시오.
 
 **IT Pro Security Zone Community(IT 전문가 보안 영역 커뮤니티)**
 
-[IT Pro Security Community(IT 전문가 보안 커뮤니티)](http://go.microsoft.com/fwlink/?linkid=21164)에서는 보안을 강화하고 IT 인프라를 최적화하는 방법에 대해 배우고 보안 항목에 대한 정보를 다른 IT 전문가와 공유할 수 있습니다.
+[IT Pro Security Community(IT 전문가 보안 커뮤니티)](https://go.microsoft.com/fwlink/?linkid=21164)에서는 보안을 강화하고 IT 인프라를 최적화하는 방법에 대해 배우고 보안 항목에 대한 정보를 다른 IT 전문가와 공유할 수 있습니다.
 
 #### 감사의 말
 
-고객 보호를 위해 협력해 주신 다음 분들께 [감사](http://go.microsoft.com/fwlink/?linkid=21127)드립니다.
+고객 보호를 위해 협력해 주신 다음 분들께 [감사](https://go.microsoft.com/fwlink/?linkid=21127)드립니다.
 
--   MS09-050에서 설명한 문제점을 보고해 주신 [Netherlands Forensics Institute (영문)](http://www.nederlandsforensischinstituut.nl/)의 [Matthieu Suiche (영문)](http://www.msuiche.net/)
--   MS09-051에서 설명한 문제점을 보고해 주신 [Zero Day Initiative (영문)](http://www.zerodayinitiative.com/)의 Ivan Fratric및 [McAfee Avert Labs (영문)](http://www.avertlabs.com/)의 Jun Xie
--   MS09-051에서 설명한 문제점을 보고해 주신 [Adobe Systems, Inc. (영문)](http://www.adobe.com/)의 Vinay Anantharaman
--   MS09-052에서 설명한 문제점을 보고해 주신 [Palo Alto Networks (영문)](http://www.paloaltonetworks.com/)의 Yamata Li
--   MS09-054에서 설명한 문제점을 보고해 주신 [Google Inc.](http://www.google.com/)의 SkyLined
--   MS09-054에서 설명한 문제점을 보고해 주신 [IBM ISS X-Force](http://www.iss.net/)의 Mark Dowd
--   MS09-054에서 설명한 문제점을 보고해 주신 [TippingPoint](http://www.tippingpoint.com/) 및 [Zero Day Initiative](http://www.zerodayinitiative.com/)
--   MS09-054에서 설명한 문제점을 [Zero Day Initiative](http://www.zerodayinitiative.com/) 및 [TippingPoint](http://www.tippingpoint.com/)와 협력하여 보고해 주신 Sam Thomas(http://eshu.co.uk/)
--   MS09-056에서 설명한 문제점을 해결하기 위해 협력해 주신 [Citrix (영문)](http://www.citrix.com/)의 Ian Wright 및 Jean-Luc Giraud
--   MS09-056에서 설명한 두 가지 문제점을 보고해 주신 [IOActive (영문)](http://www.ioactive.com/)의 Dan Kaminsky
--   MS09-057에서 설명한 문제점을 보고해 주신 [Palo Alto Networks (영문)](http://www.paloaltonetworks.com/)의 Yamata Li
--   MS09-058에서 설명한 두 가지 문제점을 보고해 주신 [Google Inc.](http://www.google.com/)의 Tavis Ormandy 및 Neel Mehta
--   MS09-058에서 설명한 문제점을 보고해 주신 [NSFocus Security Team (영문)](http://www.nsfocus.com/)
--   MS09-060에서 설명한 문제점을 보고해 주신 [IBM ISS X-Force](http://www.iss.net/)의 David Dewey
--   MS09-060에서 설명한 두 가지 문제점을 보고해 주신 [VeriSign iDefense Labs (영문)](http://labs.idefense.com/)의 Ryan Smith
--   MS09-061에서 설명한 문제점을 보고해 주신 [Pavel Minaev (영문)](http://int19h.org/)
--   MS09-061에서 설명한 문제점을 보고해 주신 [Sumatra (영문)](http://www.sumatra.nl/)의 Jeroen Frijters
--   MS09-062에서 설명한 문제점을 보고해 주신 [Palo Alto Networks (영문)](http://www.paloaltonetworks.com/)의 Yamata Li
--   MS09-062에서 설명한 문제점을 보고해 주신 [SkyRecon (영문)](http://www.skyrecon.com/)의 Thomas Garnier
--   MS09-062에서 설명한 문제점을 보고해 주신 [VeriSign iDefense Labs (영문)](http://labs.idefense.com/)의 Wushi
--   MS09-062에서 설명한 문제점을 보고해 주신 [Zero Day Initiative (영문)](http://www.zerodayinitiative.com/)의 Ivan Fratric
--   MS09-062에서 설명한 두 가지 문제점을 보고해 주신 [Google Inc.](http://www.google.com/)의 Tavis Ormandy
+-   MS09-050에서 설명한 문제점을 보고해 주신 [Netherlands Forensics Institute (영문)](https://www.nederlandsforensischinstituut.nl/)의 [Matthieu Suiche (영문)](https://www.msuiche.net/)
+-   MS09-051에서 설명한 문제점을 보고해 주신 [Zero Day Initiative (영문)](https://www.zerodayinitiative.com/)의 Ivan Fratric및 [McAfee Avert Labs (영문)](https://www.avertlabs.com/)의 Jun Xie
+-   MS09-051에서 설명한 문제점을 보고해 주신 [Adobe Systems, Inc. (영문)](https://www.adobe.com/)의 Vinay Anantharaman
+-   MS09-052에서 설명한 문제점을 보고해 주신 [Palo Alto Networks (영문)](https://www.paloaltonetworks.com/)의 Yamata Li
+-   MS09-054에서 설명한 문제점을 보고해 주신 [Google Inc.](https://www.google.com/)의 SkyLined
+-   MS09-054에서 설명한 문제점을 보고해 주신 [IBM ISS X-Force](https://www.iss.net/)의 Mark Dowd
+-   MS09-054에서 설명한 문제점을 보고해 주신 [TippingPoint](https://www.tippingpoint.com/) 및 [Zero Day Initiative](https://www.zerodayinitiative.com/)
+-   MS09-054에서 설명한 문제점을 [Zero Day Initiative](https://www.zerodayinitiative.com/) 및 [TippingPoint](https://www.tippingpoint.com/)와 협력하여 보고해 주신 Sam Thomas(https://eshu.co.uk/)
+-   MS09-056에서 설명한 문제점을 해결하기 위해 협력해 주신 [Citrix (영문)](https://www.citrix.com/)의 Ian Wright 및 Jean-Luc Giraud
+-   MS09-056에서 설명한 두 가지 문제점을 보고해 주신 [IOActive (영문)](https://www.ioactive.com/)의 Dan Kaminsky
+-   MS09-057에서 설명한 문제점을 보고해 주신 [Palo Alto Networks (영문)](https://www.paloaltonetworks.com/)의 Yamata Li
+-   MS09-058에서 설명한 두 가지 문제점을 보고해 주신 [Google Inc.](https://www.google.com/)의 Tavis Ormandy 및 Neel Mehta
+-   MS09-058에서 설명한 문제점을 보고해 주신 [NSFocus Security Team (영문)](https://www.nsfocus.com/)
+-   MS09-060에서 설명한 문제점을 보고해 주신 [IBM ISS X-Force](https://www.iss.net/)의 David Dewey
+-   MS09-060에서 설명한 두 가지 문제점을 보고해 주신 [VeriSign iDefense Labs (영문)](https://labs.idefense.com/)의 Ryan Smith
+-   MS09-061에서 설명한 문제점을 보고해 주신 [Pavel Minaev (영문)](https://int19h.org/)
+-   MS09-061에서 설명한 문제점을 보고해 주신 [Sumatra (영문)](https://www.sumatra.nl/)의 Jeroen Frijters
+-   MS09-062에서 설명한 문제점을 보고해 주신 [Palo Alto Networks (영문)](https://www.paloaltonetworks.com/)의 Yamata Li
+-   MS09-062에서 설명한 문제점을 보고해 주신 [SkyRecon (영문)](https://www.skyrecon.com/)의 Thomas Garnier
+-   MS09-062에서 설명한 문제점을 보고해 주신 [VeriSign iDefense Labs (영문)](https://labs.idefense.com/)의 Wushi
+-   MS09-062에서 설명한 문제점을 보고해 주신 [Zero Day Initiative (영문)](https://www.zerodayinitiative.com/)의 Ivan Fratric
+-   MS09-062에서 설명한 두 가지 문제점을 보고해 주신 [Google Inc.](https://www.google.com/)의 Tavis Ormandy
 -   MS09-062에서 설명한 문제점을 보고해 주신 Carlo Di Dato(다른 이름: shinnai)
--   MS09-062에서 문제점을 보고해 주신 [VeriSign iDefense Labs (영문)](http://labs.idefense.com/)의 Marsu Pilami
--   MS09-062에서 설명한 문제점을 보고해 주신 [Secunia (영문)](http://secunia.com/)의 Carsten H. Eiram
+-   MS09-062에서 문제점을 보고해 주신 [VeriSign iDefense Labs (영문)](https://labs.idefense.com/)의 Marsu Pilami
+-   MS09-062에서 설명한 문제점을 보고해 주신 [Secunia (영문)](https://secunia.com/)의 Carsten H. Eiram
 
 #### 지원
 
--   나열된 영향을 받는 소프트웨어는 테스트를 거쳐 영향을 받는 버전이 확인되었습니다. 다른 버전은 지원 기간이 끝났습니다. 사용 중인 소프트웨어 버전에 대한 지원 기간을 확인하려면 [Microsoft 지원 기간 정책 웹 사이트](http://go.microsoft.com/fwlink/?linkid=21742)를 참조하십시오.
--   미국 및 캐나다 고객은 [보안 지원](http://go.microsoft.com/fwlink/?linkid=21131) 또는 1577-9700을 통해 기술 지원을 받을 수 있습니다. 보안 업데이트와 관련된 기술 지원 통화는 무료입니다. 사용 가능한 지원 옵션을 자세히 보려면 [Microsoft 도움말 및 지원](http://support.microsoft.com/) 웹 사이트를 참조하십시오.
--   기타 지역에 거주하는 고객은 해당 Microsoft 지사에서 지원을 받을 수 있습니다. 보안 업데이트와 관련된 기술 지원은 무료입니다. Microsoft 지원 부서에 연락하는 방법에 대한 자세한 내용은 [국가별 지원](http://go.microsoft.com/fwlink/?linkid=21155)에 나와 있습니다.
+-   나열된 영향을 받는 소프트웨어는 테스트를 거쳐 영향을 받는 버전이 확인되었습니다. 다른 버전은 지원 기간이 끝났습니다. 사용 중인 소프트웨어 버전에 대한 지원 기간을 확인하려면 [Microsoft 지원 기간 정책 웹 사이트](https://go.microsoft.com/fwlink/?linkid=21742)를 참조하십시오.
+-   미국 및 캐나다 고객은 [보안 지원](https://go.microsoft.com/fwlink/?linkid=21131) 또는 1577-9700을 통해 기술 지원을 받을 수 있습니다. 보안 업데이트와 관련된 기술 지원 통화는 무료입니다. 사용 가능한 지원 옵션을 자세히 보려면 [Microsoft 도움말 및 지원](https://support.microsoft.com/) 웹 사이트를 참조하십시오.
+-   기타 지역에 거주하는 고객은 해당 Microsoft 지사에서 지원을 받을 수 있습니다. 보안 업데이트와 관련된 기술 지원은 무료입니다. Microsoft 지원 부서에 연락하는 방법에 대한 자세한 내용은 [국가별 지원](https://go.microsoft.com/fwlink/?linkid=21155)에 나와 있습니다.
 
 #### 부인
 

@@ -16,11 +16,11 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms11-jun(v=Security.10)
 
 이 공지 요약 목록에는 2011년 6월 발표된 보안 공지가 포함되어 있습니다.
 
-2011년 6월 보안 공지 발표와 함께 이 공지 요약이 2011년 6월 9일 게시된 공지 사전 알림을 대체합니다. 보안 사전 알림 서비스에 대한 자세한 내용은 [Microsoft 보안 공지 사전 알림](http://go.microsoft.com/fwlink/?linkid=217213)을 참조하십시오.
+2011년 6월 보안 공지 발표와 함께 이 공지 요약이 2011년 6월 9일 게시된 공지 사전 알림을 대체합니다. 보안 사전 알림 서비스에 대한 자세한 내용은 [Microsoft 보안 공지 사전 알림](https://go.microsoft.com/fwlink/?linkid=217213)을 참조하십시오.
 
-Microsoft 보안 공지가 게시될 때 자동 알림을 받는 방법은 [Microsoft 기술 보안 알림](http://go.microsoft.com/fwlink/?linkid=21163)을 참조하십시오.
+Microsoft 보안 공지가 게시될 때 자동 알림을 받는 방법은 [Microsoft 기술 보안 알림](https://go.microsoft.com/fwlink/?linkid=21163)을 참조하십시오.
 
-Microsoft는 2011년 6월 15일 오전 11시(태평양 표준시, 미국 및 캐나다)에 이 공지에 대한 고객 문의 사항에 답변을 제공하는 웹캐스트를 진행할 예정입니다. [6월 보안 공지 웹캐스트에 지금 등록하십시오](https://msevents.microsoft.com/cui/webcasteventdetails.aspx?culture=en-us&eventid=1032455073&eventcategory=4). 이 날짜 이후 이 웹캐스트는 주문형으로 제공됩니다. 자세한 내용은 [Microsoft 보안 공지 요약](http://go.microsoft.com/fwlink/?linkid=217214) 및 웹캐스트를 참조하십시오.
+Microsoft는 2011년 6월 15일 오전 11시(태평양 표준시, 미국 및 캐나다)에 이 공지에 대한 고객 문의 사항에 답변을 제공하는 웹캐스트를 진행할 예정입니다. [6월 보안 공지 웹캐스트에 지금 등록하십시오](https://msevents.microsoft.com/cui/webcasteventdetails.aspx?culture=en-us&eventid=1032455073&eventcategory=4). 이 날짜 이후 이 웹캐스트는 주문형으로 제공됩니다. 자세한 내용은 [Microsoft 보안 공지 요약](https://go.microsoft.com/fwlink/?linkid=217214) 및 웹캐스트를 참조하십시오.
 
 Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비보안 업데이트와 보안 업데이트의 우선 순위를 고객이 결정하는 데 도움이 되는 정보도 제공합니다. 기타 정보 섹션을 참조하십시오.
 
@@ -47,21 +47,21 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-038">MS11-038</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-038">MS11-038</a></td>
 <td style="border:1px solid black;">OLE 자동화의 취약점으로 인한 원격 코드 실행 문제점(2476490) <br />
 <br />
 이 보안 업데이트는 비공개적으로 보고된 Microsoft Windows OLE(Object Linking and Embedding) 자동화의 취약점을 해결합니다. 사용자가 특수하게 조작된 Windows 메타파일(WMF) 이미지가 포함된 웹 사이트를 방문할 경우 취약점으로 인해 원격 코드 실행이 허용될 수 있습니다. 그러나 어떠한 경우에도 공격자는 강제로 사용자가 이러한 웹 사이트를 방문하도록 만들 수 없습니다. 대신 공격자는 사용자가 전자 메일 메시지 또는 메신저 요청의 링크를 클릭하여 악의적인 웹 사이트를 방문하도록 유도하는 것이 일반적입니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-039">MS11-039</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-039">MS11-039</a></td>
 <td style="border:1px solid black;">.NET Framework 및 Microsoft Silverlight의 취약점으로 인한 원격 코드 실행 문제점(2514842) <br />
 <br />
 이 보안 업데이트는 Microsoft .NET Framework 및 Microsoft Silverlight에서 비공개적으로 보고된 취약점을 해결합니다. 사용자가 XBAP(XAML 브라우저 응용 프로그램) 또는 Silverlight 응용 프로그램을 실행할 수 있는 웹 브라우저를 사용하여 특수하게 조작된 웹 페이지를 볼 경우 이 취약점으로 인해 클라이언트 시스템에서 원격 코드가 실행될 수 있습니다. 시스템에 대한 사용자 권한이 적게 구성된 계정의 사용자는 관리자 권한으로 작업하는 사용자에 비해 영향을 적게 받습니다. 서버에서 ASP.NET 페이지 처리를 허용하고 공격자가 해당 서버에 특수하게 조작한 ASP.NET 페이지를 성공적으로 업로드하여 실행할 경우 이 취약점으로 인해 IIS를 실행하는 서버 시스템에서 원격 코드 실행이 허용될 수 있습니다. 이러한 경우는 웹 호스팅 시나리오에서 발생할 수 있습니다. 이 취약점은 CAS(코드 액세스 보안) 제한을 우회하기 위해 Windows .NET 응용 프로그램에서 사용될 수도 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows,<br />
@@ -69,136 +69,136 @@ Microsoft .NET Framework,<br />
 Microsoft Silverlight</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-040">MS11-040</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-040">MS11-040</a></td>
 <td style="border:1px solid black;">Threat Management Gateway 방화벽 클라이언트의 취약점으로 인한 원격 코드 실행 문제점(2520426) <br />
 <br />
 이 보안 업데이트는 Microsoft Forefront Threat Management Gateway(TMG) 2010 클라이언트(이전의 Microsoft Forefront Threat Management Gateway 방화벽 클라이언트)의 비공개적으로 보고된 취약점 1건을 해결합니다. 공격자는 클라이언트 컴퓨터를 통해 TMG 방화벽 클라이언트가 사용되는 시스템에 대한 특정 요청을 하도록 유도할 경우 취약점으로 인해 원격 코드 실행이 허용될 수 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Forefront Threat Management Gateway</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-041">MS11-041</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-041">MS11-041</a></td>
 <td style="border:1px solid black;">Windows 커널 모드 드라이버의 취약점으로 인한 원격 코드 실행 문제점(2525694) <br />
 <br />
 이 보안 업데이트는 비공개적으로 보고된 Microsoft Windows의 취약점을 해결합니다. 사용자가 특수하게 조작된 OpenType 글꼴(OTF)이 포함된 네트워크 공유 위치(또는 네트워크 공유 위치를 가리키는 웹 사이트)를 방문할 경우 취약점으로 인해 원격 코드 실행이 허용될 수 있습니다. 그러나 어떠한 경우에도 공격자는 강제로 사용자가 웹 사이트나 네트워크 공유 위치를 방문하도록 만들 수 없습니다. 대신, 공격자는 사용자가 전자 메일 메시지 또는 인스턴트 메신저 메시지의 링크를 클릭하도록 하여 웹 사이트나 네트워크 공유 위치를 방문하도록 만들어야 합니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-042">MS11-042</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-042">MS11-042</a></td>
 <td style="border:1px solid black;">분산 파일 시스템의 취약점으로 인한 원격 코드 실행 문제점(2535512) <br />
 <br />
 이 보안 업데이트는 Microsoft 분산 파일 시스템(DFS)의 비공개적으로 보고된 취약점 2건을 해결합니다. 가장 위험한 취약점으로 인해 공격자가 특수하게 조작된 DFS 응답을 클라이언트가 시작한 DFS 요청에 보낼 경우 원격 코드 실행이 허용될 수 있습니다. 이 취약점 악용에 성공한 공격자는 임의 코드를 실행하여 영향을 받는 시스템을 완전히 제어할 수 있습니다. 최선의 방화벽 구성 방법과 표준 기본 방화벽 구성을 이용하면 기업 경계 외부에서 들어오는 공격으로부터 네트워크를 보호할 수 있습니다. 인터넷과 연결되는 시스템의 경우, 필요한 포트만 최소한으로 열어 두는 것이 안전합니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-043">MS11-043</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-043">MS11-043</a></td>
 <td style="border:1px solid black;">SMB 클라이언트의 취약점으로 인한 원격 코드 실행 문제점(2536276) <br />
 <br />
 이 보안 업데이트는 비공개적으로 보고된 Microsoft Windows의 취약점을 해결합니다. 이 취약점으로 인해 공격자가 특수하게 조작된 SMB 응답을 클라이언트가 시작한 SMB 요청에 보낼 경우 원격 코드 실행이 허용될 수 있습니다. 이 취약점을 악용하려면 공격자는 사용자가 특수하게 조작된 SMB 서버에 SMB 연결을 시작하도록 유도해야 합니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-044">MS11-044</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-044">MS11-044</a></td>
 <td style="border:1px solid black;">.NET Framework의 취약점으로 인한 원격 코드 실행 문제점(2538814) <br />
 <br />
 이 보안 업데이트는 Microsoft .NET Framework의 공개된 취약점을 해결합니다. 사용자가 XBAP(XAML 브라우저 응용 프로그램)을 실행할 수 있는 웹 브라우저를 사용하여 특수하게 조작된 웹 페이지를 볼 경우 이 취약점으로 인해 클라이언트 시스템에서 원격 코드가 실행될 수 있습니다. 시스템에 대한 사용자 권한이 적게 구성된 계정의 사용자는 관리자 권한으로 작업하는 사용자에 비해 영향을 적게 받습니다. 서버에서 ASP.NET 페이지 처리를 허용하고 공격자가 해당 서버에 특수하게 조작한 ASP.NET 페이지를 성공적으로 업로드하여 실행할 경우 이 취약점으로 인해 IIS를 실행하는 서버 시스템에서 원격 코드 실행이 허용될 수 있습니다. 이러한 경우는 웹 호스팅 시나리오에서 발생할 수 있습니다. 이 취약점은 CAS(코드 액세스 보안) 제한을 우회하기 위해 Windows .NET 응용 프로그램에서 사용될 수도 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows,<br />
 Microsoft .NET Framework</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-050">MS11-050</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-050">MS11-050</a></td>
 <td style="border:1px solid black;">Internet Explorer 누적 보안 업데이트(2530548) <br />
 <br />
 이 보안 업데이트는 Internet Explorer의 비공개적으로 보고된 취약점 11건을 해결합니다. 가장 위험한 취약점으로 인해 사용자가 Internet Explorer를 사용하여 특수하게 조작된 웹 페이지를 볼 경우 원격 코드 실행이 허용될 수 있습니다. 이러한 취약점 중 하나를 성공적으로 악용한 공격자는 로컬 사용자와 동일한 권한을 얻을 수 있습니다. 시스템에 대한 사용자 권한이 적게 구성된 계정의 사용자는 관리자 권한으로 작업하는 사용자에 비해 영향을 적게 받습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows,<br />
 Internet Explorer</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-052">MS11-052</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-052">MS11-052</a></td>
 <td style="border:1px solid black;">벡터 표시 언어의 취약점으로 인한 원격 코드 실행 문제점(2544521) <br />
 <br />
 이 보안 업데이트는 Microsoft의 VML(벡터 표시 언어) 구현에 대해 비공개적으로 보고된 취약점을 해결합니다. 이 보안 업데이트의 심각도는 Windows 클라이언트의 Internet Explorer 6, Internet Explorer 7 및 Internet Explorer 8에 대해서는 긴급이며, Windows 서버의 Internet Explorer 6, Internet Explorer 7 및 Internet Explorer 8에 대해서는 보통입니다. Internet Explorer 9는 이 취약점의 영향을 받지 않습니다.<br />
 <br />
 이 취약점으로 인해 사용자가 Internet Explorer를 사용하여 특수하게 조작된 웹 페이지를 볼 경우 원격 코드 실행이 허용될 수 있습니다. 시스템에 대한 사용자 권한이 적게 구성된 계정의 사용자는 관리자 권한으로 작업하는 사용자에 비해 영향을 적게 받습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">긴급</a><br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows,<br />
 Internet Explorer</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-037">MS11-037</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-037">MS11-037</a></td>
 <td style="border:1px solid black;">MHTML의 취약점으로 인한 정보 유출 문제점(2544893) <br />
 <br />
 이 보안 업데이트는 일반에 공개된 Microsoft Windows MHTML 프로토콜 처리기의 취약점을 해결합니다. 이 취약점으로 인해 사용자가 공격자의 웹 사이트에서 특수하게 조작된 URL을 열 경우 정보 유출이 발생할 수 있습니다. 공격자는 사용자가 전자 메일 메시지 또는 인스턴트 메신저 메시지의 링크를 따라가도록 하여 웹 사이트를 방문하도록 만들어야 합니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">중요</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">중요</a><br />
 정보 유출</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-045">MS11-045</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-045">MS11-045</a></td>
 <td style="border:1px solid black;">Microsoft Excel의 취약점으로 인한 원격 코드 실행 문제점(2537146) <br />
 <br />
 이 보안 업데이트는 Microsoft Office에서 발견되어 비공개적으로 보고된 취약점 8건을 해결합니다. 사용자가 특수하게 조작된 Excel 파일을 열면 이러한 취약점으로 인해 원격 코드 실행이 허용될 수 있습니다. 이러한 취약점 중 하나를 성공적으로 악용한 공격자는 로그온한 사용자와 동일한 권한을 얻을 수 있습니다. 시스템에 대한 사용자 권한이 적게 구성된 계정의 사용자는 관리자 권한으로 작업하는 사용자에 비해 영향을 적게 받습니다. 파일을 열지 못하도록 Office 파일 유효성 검사(OFV)를 설치하고 구성하면 CVE-2011-1272, CVE-2011-1273 및 CVE-2011-1279에 설명된 취약점을 악용하는 공격 경로가 차단됩니다. Microsoft Excel 2010은 이 공지에 설명된 CVE-2011-1273에만 영향을 받습니다. Microsoft 기술 자료 문서 2501584에서 사용할 수 있는 &quot;Excel 2010의 제한된 보기에서 편집을 사용하지 않도록 설정&quot;에 대한 Microsoft Fix it 자동화 솔루션은 CVE-2011-1273을 악용하는 공격 경로를 차단합니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">중요</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">중요</a><br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Office</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-046">MS11-046</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-046">MS11-046</a></td>
 <td style="border:1px solid black;">Ancillary Function Driver의 취약점으로 인한 권한 상승 문제점(2503665) <br />
 <br />
 이 보안 업데이트는 공개된 Microsoft Windows Ancillary Function Driver(AFD)의 취약점을 해결합니다. 공격자가 사용자의 시스템에 로그온하고 특수하게 조작된 응용 프로그램을 실행할 경우 이 취약점으로 인해 권한 상승이 허용될 수 있습니다. 이 취약점을 악용하려면 공격자가 유효한 로그온 자격 증명을 가지고 로컬로 로그온할 수 있어야 합니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">중요</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">중요</a><br />
 권한 상승</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-047">MS11-047</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-047">MS11-047</a></td>
 <td style="border:1px solid black;">Hyper-V의 취약점으로 인한 서비스 거부 문제점(2525835) <br />
 <br />
 이 보안 업데이트는 Windows Server 2008 Hyper-V 및 Windows Server 2008 R2 Hyper-V에서 발견되어 비공개적으로 보고된 취약점을 해결합니다. 이 취약점으로 인해 Hyper-V 서버에서 호스팅하는 게스트 가상 컴퓨터 중 하나의 인증된 사용자가 특수하게 조작된 패킷을 VMBus로 보낼 경우 서비스 거부가 발생할 수 있습니다. 공격자는 이 취약점을 악용하기 위해 유효한 로그온 자격 증명이 있어야 하며 특수하게 조작된 콘텐츠를 게스트 가상 시스템에서 전송할 수 있어야 합니다. 익명의 사용자에 의해서나 원격으로는 이 취약점을 악용할 수 없습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">중요</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">중요</a><br />
 서비스 거부</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-048">MS11-048</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-048">MS11-048</a></td>
 <td style="border:1px solid black;">SMB 서버의 취약점으로 인한 서비스 거부 문제점(2536275) <br />
 <br />
 이 보안 업데이트는 비공개적으로 보고된 Microsoft Windows의 취약점을 해결합니다. 취약점으로 인해 공격자가 특수하게 조작된 SMB 패킷을 만들어 영향을 받는 시스템에 보내는 경우 서비스 거부가 허용될 수 있습니다. 방화벽 구성 모범 사례와 표준 기본 방화벽 구성을 이용하면 기업 경계 외부에서 이 취약점을 악용하려는 공격으로부터 네트워크를 보호할 수 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">중요</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">중요</a><br />
 서비스 거부</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-049">MS11-049</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-049">MS11-049</a></td>
 <td style="border:1px solid black;">Microsoft XML 편집기의 정보 유출 문제점(2543893) <br />
 <br />
 이 보안 업데이트는 비공개적으로 보고된 Microsoft XML 편집기의 취약점을 해결합니다. 사용자가 이 공지에 나열된 영향을 받는 소프트웨어 중 하나로 특수하게 조작된 웹 서비스 검색(.disco) 파일을 열 경우 이 취약점으로 인해 정보가 유출될 수 있습니다. 이 취약점으로 인해 공격자가 직접 코드를 실행하거나 해당 사용자 권한을 상승시킬 수는 없지만 영향을 받는 시스템의 손상을 악화시키는 데 사용할 수 있는 정보를 생성할 수 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">중요</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">중요</a><br />
 정보 유출</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Office,<br />
@@ -206,11 +206,11 @@ Microsoft SQL Server,<br />
 Microsoft Visual Studio</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-051">MS11-051</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-051">MS11-051</a></td>
 <td style="border:1px solid black;">Active Directory 자격 증명 서비스 웹 등록의 취약점으로 인한 권한 상승 문제점(2518295) <br />
 <br />
 이 보안 업데이트는 비공개적으로 보고된 Active Directory 자격 증명 서비스 웹 등록의 취약점을 해결합니다. 이 취약점은 권한 상승을 허용하여 공격자가 대상 사용자의 컨텍스트에서 사이트에 대해 임의의 명령을 실행할 수 있는 XSS(사이트 간 스크립팅) 취약점입니다. 이 취약점 악용에 성공한 공격자는 특수하게 조작된 링크를 보내고 사용자가 링크를 클릭하도록 유도해야 합니다. 그러나 어떠한 경우에도 공격자는 강제로 사용자가 웹 사이트를 방문하도록 만들 수 없습니다. 대신, 공격자는 사용자가 취약한 웹 사이트로 이동되는 전자 메일 메시지 또는 인스턴트 메신저 메시지의 링크를 클릭하도록 하여 웹 사이트를 방문하도록 만들어야 합니다.</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">중요</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">중요</a><br />
 권한 상승</td>
 <td style="border:1px solid black;">재시작 필요</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
@@ -225,7 +225,7 @@ Microsoft Visual Studio</td>
   
 이 표를 어떻게 사용합니까?
   
-이 표를 사용하여 30일 이내의 설치해야 하는 각 보안 업데이트에 발표된 코드 실행 및 서비스 거부 악용 가능성에 대해 자세히 알아볼 수 있습니다. 이 달의 업데이트 배포의 우선 순위를 정하려면 사용자의 특정 구성에 따라 아래의 각 평가를 검토해야 합니다. 이러한 등급의 의미와 등급이 결정되는 방법에 대한 자세한 내용은[Microsoft 악용 가능성 인덱스](http://technet.microsoft.com/en-us/security/cc998259.aspx)를 참조하십시오.
+이 표를 사용하여 30일 이내의 설치해야 하는 각 보안 업데이트에 발표된 코드 실행 및 서비스 거부 악용 가능성에 대해 자세히 알아볼 수 있습니다. 이 달의 업데이트 배포의 우선 순위를 정하려면 사용자의 특정 구성에 따라 아래의 각 평가를 검토해야 합니다. 이러한 등급의 의미와 등급이 결정되는 방법에 대한 자세한 내용은[Microsoft 악용 가능성 인덱스](https://technet.microsoft.com/en-us/security/cc998259.aspx)를 참조하십시오.
   
 아래 열에서 "최신 소프트웨어 버전"은 관련 소프트웨어를 나타내며 "이전 소프트웨어 버전"은 공지의 "영향을 받는 소프트웨어" 및 "영향을 받지 않는 소프트웨어" 표에 나열된 지원 대상인 관련 소프트웨어의 모든 이전 버전을 나타냅니다.
 
@@ -245,294 +245,294 @@ Microsoft Visual Studio</td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-037">MS11-037</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-037">MS11-037</a></td>
 <td style="border:1px solid black;">MHTML MIME 형식의 요청 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1894">CVE-2011-1894(영문)</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1894">CVE-2011-1894(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
 <td style="border:1px solid black;">해당 사항 없음</td>
 <td style="border:1px solid black;">이 취약점은 공개되었습니다.<br />
 <br />
 이는 정보 유출 취약점입니다.</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-038">MS11-038</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-038">MS11-038</a></td>
 <td style="border:1px solid black;">OLE 자동화 언더플로 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0658">CVE-2011-0658(영문)</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0658">CVE-2011-0658(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
 <td style="border:1px solid black;">임시</td>
 <td style="border:1px solid black;">(없음)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-039">MS11-039</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-039">MS11-039</a></td>
 <td style="border:1px solid black;">.NET Framework 배열 오프셋 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0664">CVE-2011-0664(영문)</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0664">CVE-2011-0664(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
 <td style="border:1px solid black;">임시</td>
 <td style="border:1px solid black;">(없음)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-040">MS11-040</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-040">MS11-040</a></td>
 <td style="border:1px solid black;">TMG 방화벽 클라이언트 메모리 손상 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1889">CVE-2011-1889(영문)</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1889">CVE-2011-1889(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
 <td style="border:1px solid black;">임시</td>
 <td style="border:1px solid black;">(없음)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-041">MS11-041</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-041">MS11-041</a></td>
 <td style="border:1px solid black;">Win32k OTF 유효성 검사 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1873">CVE-2011-1873(영문)</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">2</a> - 비일관적인 악용 코드 가능</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">2</a> - 비일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1873">CVE-2011-1873(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">2</a> - 비일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">2</a> - 비일관적인 악용 코드 가능</td>
 <td style="border:1px solid black;">임시</td>
 <td style="border:1px solid black;">(없음)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-042">MS11-042</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-042">MS11-042</a></td>
 <td style="border:1px solid black;">DFS 메모리 손상 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1868">CVE-2011-1868(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1868">CVE-2011-1868(영문)</a></td>
 <td style="border:1px solid black;">영향 받지 않음</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
 <td style="border:1px solid black;">영구</td>
 <td style="border:1px solid black;">(없음)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-042">MS11-042</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-042">MS11-042</a></td>
 <td style="border:1px solid black;">DFS 참조 응답 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1869">CVE-2011-1869(영문)</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1869">CVE-2011-1869(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
 <td style="border:1px solid black;">영구</td>
 <td style="border:1px solid black;">이 취약점은 서비스 거부 취약점입니다.</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-043">MS11-043</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-043">MS11-043</a></td>
 <td style="border:1px solid black;">SMB 응답 구문 분석 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1268">CVE-2011-1268(영문)</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1268">CVE-2011-1268(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
 <td style="border:1px solid black;">영구</td>
 <td style="border:1px solid black;">(없음)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-044">MS11-044</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-044">MS11-044</a></td>
 <td style="border:1px solid black;">.NET Framework JIT 최적화 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1271">CVE-2011-1271(영문)</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">2</a> - 비일관적인 악용 코드 가능</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">2</a> - 비일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1271">CVE-2011-1271(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">2</a> - 비일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">2</a> - 비일관적인 악용 코드 가능</td>
 <td style="border:1px solid black;">임시</td>
 <td style="border:1px solid black;">이 취약점은 공개되었습니다.</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-045">MS11-045</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-045">MS11-045</a></td>
 <td style="border:1px solid black;">Excel 불충분한 레코드 유효성 검사 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1272">CVE-2011-1272(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1272">CVE-2011-1272(영문)</a></td>
 <td style="border:1px solid black;">영향 받지 않음</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
 <td style="border:1px solid black;">해당 사항 없음</td>
 <td style="border:1px solid black;">(없음)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-045">MS11-045</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-045">MS11-045</a></td>
 <td style="border:1px solid black;">Excel 잘못된 레코드 구문 분석 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1273">CVE-2011-1273(영문)</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1273">CVE-2011-1273(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
 <td style="border:1px solid black;">해당 사항 없음</td>
 <td style="border:1px solid black;">(없음)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-045">MS11-045</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-045">MS11-045</a></td>
 <td style="border:1px solid black;">Excel 범위 초과 배열 액세스 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1274">CVE-2011-1274(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1274">CVE-2011-1274(영문)</a></td>
 <td style="border:1px solid black;">영향 받지 않음</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">2</a> - 비일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">2</a> - 비일관적인 악용 코드 가능</td>
 <td style="border:1px solid black;">해당 사항 없음</td>
 <td style="border:1px solid black;">(없음)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-045">MS11-045</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-045">MS11-045</a></td>
 <td style="border:1px solid black;">Excel 메모리 힙 덮어쓰기 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1275">CVE-2011-1275(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1275">CVE-2011-1275(영문)</a></td>
 <td style="border:1px solid black;">영향 받지 않음</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">2</a> - 비일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">2</a> - 비일관적인 악용 코드 가능</td>
 <td style="border:1px solid black;">해당 사항 없음</td>
 <td style="border:1px solid black;">(없음)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-045">MS11-045</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-045">MS11-045</a></td>
 <td style="border:1px solid black;">Excel 버퍼 오버런 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1276">CVE-2011-1276(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1276">CVE-2011-1276(영문)</a></td>
 <td style="border:1px solid black;">영향 받지 않음</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
 <td style="border:1px solid black;">해당 사항 없음</td>
 <td style="border:1px solid black;">(없음)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-045">MS11-045</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-045">MS11-045</a></td>
 <td style="border:1px solid black;">Excel 메모리 손상 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1277">CVE-2011-1277(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1277">CVE-2011-1277(영문)</a></td>
 <td style="border:1px solid black;">영향 받지 않음</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
 <td style="border:1px solid black;">해당 사항 없음</td>
 <td style="border:1px solid black;">(없음)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-045">MS11-045</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-045">MS11-045</a></td>
 <td style="border:1px solid black;">Excel WriteAV 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1278">CVE-2011-1278(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1278">CVE-2011-1278(영문)</a></td>
 <td style="border:1px solid black;">영향 받지 않음</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
 <td style="border:1px solid black;">해당 사항 없음</td>
 <td style="border:1px solid black;">(없음)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-045">MS11-045</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-045">MS11-045</a></td>
 <td style="border:1px solid black;">Excel 범위 초과 WriteAV 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1279">CVE-2011-1279(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1279">CVE-2011-1279(영문)</a></td>
 <td style="border:1px solid black;">영향 받지 않음</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
 <td style="border:1px solid black;">해당 사항 없음</td>
 <td style="border:1px solid black;">(없음)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-046">MS11-046</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-046">MS11-046</a></td>
 <td style="border:1px solid black;">Ancillary Function Driver 권한 상승 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1249">CVE-2011-1249(영문)</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1249">CVE-2011-1249(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
 <td style="border:1px solid black;">영구</td>
 <td style="border:1px solid black;">이 취약점은 공개되었습니다.<br />
 <br />
 이 취약점은 권한 상승 취약점입니다</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-047">MS11-047</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-047">MS11-047</a></td>
 <td style="border:1px solid black;">VMBus 지속적 DoS 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1872">CVE-2011-1872(영문)</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1872">CVE-2011-1872(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
 <td style="border:1px solid black;">임시</td>
 <td style="border:1px solid black;">이 취약점은 서비스 거부 취약점입니다.</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-048">MS11-048</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-048">MS11-048</a></td>
 <td style="border:1px solid black;">SMB 요청 구문 분석 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1267">CVE-2011-1267(영문)</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1267">CVE-2011-1267(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
 <td style="border:1px solid black;">영구</td>
 <td style="border:1px solid black;">이 취약점은 서비스 거부 취약점입니다.</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-049">MS11-049</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-049">MS11-049</a></td>
 <td style="border:1px solid black;">XML 외부 엔터티 확인 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1280">CVE-2011-1280(영문)</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1280">CVE-2011-1280(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
 <td style="border:1px solid black;">해당 사항 없음</td>
 <td style="border:1px solid black;">이는 정보 유출 취약점입니다.</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-050">MS11-050</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-050">MS11-050</a></td>
 <td style="border:1px solid black;">링크 속성 처리 메모리 손상 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1250">CVE-2011-1250(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1250">CVE-2011-1250(영문)</a></td>
 <td style="border:1px solid black;">영향 받지 않음</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">2</a> - 비일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">2</a> - 비일관적인 악용 코드 가능</td>
 <td style="border:1px solid black;">임시</td>
 <td style="border:1px solid black;">(없음)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-050">MS11-050</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-050">MS11-050</a></td>
 <td style="border:1px solid black;">DOM 조작 메모리 손상 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1251">CVE-2011-1251(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1251">CVE-2011-1251(영문)</a></td>
 <td style="border:1px solid black;">영향 받지 않음</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
 <td style="border:1px solid black;">임시</td>
 <td style="border:1px solid black;">(없음)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-050">MS11-050</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-050">MS11-050</a></td>
 <td style="border:1px solid black;">toStaticHTML 정보 유출 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1252">CVE-2011-1252(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1252">CVE-2011-1252(영문)</a></td>
 <td style="border:1px solid black;">영향 받지 않음</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">3</a> – 악용 코드 기능 불가능</td>
 <td style="border:1px solid black;">해당 사항 없음</td>
 <td style="border:1px solid black;">이는 정보 유출 취약점입니다.</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-050">MS11-050</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-050">MS11-050</a></td>
 <td style="border:1px solid black;">끌어서 놓기 메모리 손상 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1254">CVE-2011-1254(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1254">CVE-2011-1254(영문)</a></td>
 <td style="border:1px solid black;">영향 받지 않음</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
 <td style="border:1px solid black;">임시</td>
 <td style="border:1px solid black;">(없음)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-050">MS11-050</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-050">MS11-050</a></td>
 <td style="border:1px solid black;">시간 요소 메모리 손상 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1255">CVE-2011-1255(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1255">CVE-2011-1255(영문)</a></td>
 <td style="border:1px solid black;">영향 받지 않음</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
 <td style="border:1px solid black;">임시</td>
 <td style="border:1px solid black;">(없음)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-050">MS11-050</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-050">MS11-050</a></td>
 <td style="border:1px solid black;">DOM 수정 메모리 손상 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1256">CVE-2011-1256(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1256">CVE-2011-1256(영문)</a></td>
 <td style="border:1px solid black;">영향 받지 않음</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">2</a> - 비일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">2</a> - 비일관적인 악용 코드 가능</td>
 <td style="border:1px solid black;">임시</td>
 <td style="border:1px solid black;">(없음)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-050">MS11-050</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-050">MS11-050</a></td>
 <td style="border:1px solid black;">레이아웃 메모리 손상 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1260">CVE-2011-1260(영문)</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1260">CVE-2011-1260(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
 <td style="border:1px solid black;">해당 사항 없음</td>
 <td style="border:1px solid black;">(없음)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-050">MS11-050</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-050">MS11-050</a></td>
 <td style="border:1px solid black;">선택 개체 메모리 손상 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1261">CVE-2011-1261(영문)</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1261">CVE-2011-1261(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
 <td style="border:1px solid black;">임시</td>
 <td style="border:1px solid black;">(없음)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-050">MS11-050</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-050">MS11-050</a></td>
 <td style="border:1px solid black;">HTTP 리디렉션 메모리 손상 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1262">CVE-2011-1262(영문)</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">2</a> - 비일관적인 악용 코드 가능</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1262">CVE-2011-1262(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">2</a> - 비일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
 <td style="border:1px solid black;">해당 사항 없음</td>
 <td style="border:1px solid black;">(없음)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-051">MS11-051</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-051">MS11-051</a></td>
 <td style="border:1px solid black;">Active Directory 자격 증명 서비스 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1264">CVE-2011-1264(영문)</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1264">CVE-2011-1264(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
 <td style="border:1px solid black;">해당 사항 없음</td>
 <td style="border:1px solid black;">이 취약점은 권한 상승 취약점입니다</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/bulletin/ms11-052">MS11-052</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/bulletin/ms11-052">MS11-052</a></td>
 <td style="border:1px solid black;">VML 메모리 손상 취약점</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1266">CVE-2011-1266(영문)</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-1266">CVE-2011-1266(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/cc998259.aspx">1</a> - 일관적인 악용 코드 가능</td>
 <td style="border:1px solid black;">임시</td>
 <td style="border:1px solid black;">(없음)</td>
 </tr>
@@ -585,25 +585,25 @@ Windows XP
 공지 번호
 </td>
 <td style="border:1px solid black;">
-[MS11-038](http://go.microsoft.com/fwlink/?linkid=212284)
+[MS11-038](https://go.microsoft.com/fwlink/?linkid=212284)
 </td>
 <td style="border:1px solid black;">
-[MS11-039](http://go.microsoft.com/fwlink/?linkid=212287)
+[MS11-039](https://go.microsoft.com/fwlink/?linkid=212287)
 </td>
 <td style="border:1px solid black;">
-[MS11-041](http://go.microsoft.com/fwlink/?linkid=217499)
+[MS11-041](https://go.microsoft.com/fwlink/?linkid=217499)
 </td>
 <td style="border:1px solid black;">
-[MS11-042](http://go.microsoft.com/fwlink/?linkid=215838)
+[MS11-042](https://go.microsoft.com/fwlink/?linkid=215838)
 </td>
 <td style="border:1px solid black;">
-[MS11-043](http://go.microsoft.com/fwlink/?linkid=215841)
+[MS11-043](https://go.microsoft.com/fwlink/?linkid=215841)
 </td>
 <td style="border:1px solid black;">
-[MS11-044](http://go.microsoft.com/fwlink/?linkid=216436)
+[MS11-044](https://go.microsoft.com/fwlink/?linkid=216436)
 </td>
 <td style="border:1px solid black;">
-[MS11-050](http://go.microsoft.com/fwlink/?linkid=217212)
+[MS11-050](https://go.microsoft.com/fwlink/?linkid=217212)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -611,25 +611,25 @@ Windows XP
 전체 심각도
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -749,25 +749,25 @@ Windows Server 2003
 공지 번호
 </td>
 <td style="border:1px solid black;">
-[MS11-038](http://go.microsoft.com/fwlink/?linkid=212284)
+[MS11-038](https://go.microsoft.com/fwlink/?linkid=212284)
 </td>
 <td style="border:1px solid black;">
-[MS11-039](http://go.microsoft.com/fwlink/?linkid=212287)
+[MS11-039](https://go.microsoft.com/fwlink/?linkid=212287)
 </td>
 <td style="border:1px solid black;">
-[MS11-041](http://go.microsoft.com/fwlink/?linkid=217499)
+[MS11-041](https://go.microsoft.com/fwlink/?linkid=217499)
 </td>
 <td style="border:1px solid black;">
-[MS11-042](http://go.microsoft.com/fwlink/?linkid=215838)
+[MS11-042](https://go.microsoft.com/fwlink/?linkid=215838)
 </td>
 <td style="border:1px solid black;">
-[MS11-043](http://go.microsoft.com/fwlink/?linkid=215841)
+[MS11-043](https://go.microsoft.com/fwlink/?linkid=215841)
 </td>
 <td style="border:1px solid black;">
-[MS11-044](http://go.microsoft.com/fwlink/?linkid=216436)
+[MS11-044](https://go.microsoft.com/fwlink/?linkid=216436)
 </td>
 <td style="border:1px solid black;">
-[MS11-050](http://go.microsoft.com/fwlink/?linkid=217212)
+[MS11-050](https://go.microsoft.com/fwlink/?linkid=217212)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -775,25 +775,25 @@ Windows Server 2003
 전체 심각도
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -965,25 +965,25 @@ Windows Vista
 공지 번호
 </td>
 <td style="border:1px solid black;">
-[MS11-038](http://go.microsoft.com/fwlink/?linkid=212284)
+[MS11-038](https://go.microsoft.com/fwlink/?linkid=212284)
 </td>
 <td style="border:1px solid black;">
-[MS11-039](http://go.microsoft.com/fwlink/?linkid=212287)
+[MS11-039](https://go.microsoft.com/fwlink/?linkid=212287)
 </td>
 <td style="border:1px solid black;">
-[MS11-041](http://go.microsoft.com/fwlink/?linkid=217499)
+[MS11-041](https://go.microsoft.com/fwlink/?linkid=217499)
 </td>
 <td style="border:1px solid black;">
-[MS11-042](http://go.microsoft.com/fwlink/?linkid=215838)
+[MS11-042](https://go.microsoft.com/fwlink/?linkid=215838)
 </td>
 <td style="border:1px solid black;">
-[MS11-043](http://go.microsoft.com/fwlink/?linkid=215841)
+[MS11-043](https://go.microsoft.com/fwlink/?linkid=215841)
 </td>
 <td style="border:1px solid black;">
-[MS11-044](http://go.microsoft.com/fwlink/?linkid=216436)
+[MS11-044](https://go.microsoft.com/fwlink/?linkid=216436)
 </td>
 <td style="border:1px solid black;">
-[MS11-050](http://go.microsoft.com/fwlink/?linkid=217212)
+[MS11-050](https://go.microsoft.com/fwlink/?linkid=217212)
 </td>
 </tr>
 <tr>
@@ -991,25 +991,25 @@ Windows Vista
 전체 심각도
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1153,25 +1153,25 @@ Windows Server 2008
 공지 번호
 </td>
 <td style="border:1px solid black;">
-[MS11-038](http://go.microsoft.com/fwlink/?linkid=212284)
+[MS11-038](https://go.microsoft.com/fwlink/?linkid=212284)
 </td>
 <td style="border:1px solid black;">
-[MS11-039](http://go.microsoft.com/fwlink/?linkid=212287)
+[MS11-039](https://go.microsoft.com/fwlink/?linkid=212287)
 </td>
 <td style="border:1px solid black;">
-[MS11-041](http://go.microsoft.com/fwlink/?linkid=217499)
+[MS11-041](https://go.microsoft.com/fwlink/?linkid=217499)
 </td>
 <td style="border:1px solid black;">
-[MS11-042](http://go.microsoft.com/fwlink/?linkid=215838)
+[MS11-042](https://go.microsoft.com/fwlink/?linkid=215838)
 </td>
 <td style="border:1px solid black;">
-[MS11-043](http://go.microsoft.com/fwlink/?linkid=215841)
+[MS11-043](https://go.microsoft.com/fwlink/?linkid=215841)
 </td>
 <td style="border:1px solid black;">
-[MS11-044](http://go.microsoft.com/fwlink/?linkid=216436)
+[MS11-044](https://go.microsoft.com/fwlink/?linkid=216436)
 </td>
 <td style="border:1px solid black;">
-[MS11-050](http://go.microsoft.com/fwlink/?linkid=217212)
+[MS11-050](https://go.microsoft.com/fwlink/?linkid=217212)
 </td>
 </tr>
 <tr>
@@ -1179,25 +1179,25 @@ Windows Server 2008
 전체 심각도
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1403,25 +1403,25 @@ Windows 7
 공지 번호
 </td>
 <td style="border:1px solid black;">
-[MS11-038](http://go.microsoft.com/fwlink/?linkid=212284)
+[MS11-038](https://go.microsoft.com/fwlink/?linkid=212284)
 </td>
 <td style="border:1px solid black;">
-[MS11-039](http://go.microsoft.com/fwlink/?linkid=212287)
+[MS11-039](https://go.microsoft.com/fwlink/?linkid=212287)
 </td>
 <td style="border:1px solid black;">
-[MS11-041](http://go.microsoft.com/fwlink/?linkid=217499)
+[MS11-041](https://go.microsoft.com/fwlink/?linkid=217499)
 </td>
 <td style="border:1px solid black;">
-[MS11-042](http://go.microsoft.com/fwlink/?linkid=215838)
+[MS11-042](https://go.microsoft.com/fwlink/?linkid=215838)
 </td>
 <td style="border:1px solid black;">
-[MS11-043](http://go.microsoft.com/fwlink/?linkid=215841)
+[MS11-043](https://go.microsoft.com/fwlink/?linkid=215841)
 </td>
 <td style="border:1px solid black;">
-[MS11-044](http://go.microsoft.com/fwlink/?linkid=216436)
+[MS11-044](https://go.microsoft.com/fwlink/?linkid=216436)
 </td>
 <td style="border:1px solid black;">
-[MS11-050](http://go.microsoft.com/fwlink/?linkid=217212)
+[MS11-050](https://go.microsoft.com/fwlink/?linkid=217212)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1429,25 +1429,25 @@ Windows 7
 전체 심각도
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -1557,25 +1557,25 @@ Windows Server 2008 R2
 공지 번호
 </td>
 <td style="border:1px solid black;">
-[MS11-038](http://go.microsoft.com/fwlink/?linkid=212284)
+[MS11-038](https://go.microsoft.com/fwlink/?linkid=212284)
 </td>
 <td style="border:1px solid black;">
-[MS11-039](http://go.microsoft.com/fwlink/?linkid=212287)
+[MS11-039](https://go.microsoft.com/fwlink/?linkid=212287)
 </td>
 <td style="border:1px solid black;">
-[MS11-041](http://go.microsoft.com/fwlink/?linkid=217499)
+[MS11-041](https://go.microsoft.com/fwlink/?linkid=217499)
 </td>
 <td style="border:1px solid black;">
-[MS11-042](http://go.microsoft.com/fwlink/?linkid=215838)
+[MS11-042](https://go.microsoft.com/fwlink/?linkid=215838)
 </td>
 <td style="border:1px solid black;">
-[MS11-043](http://go.microsoft.com/fwlink/?linkid=215841)
+[MS11-043](https://go.microsoft.com/fwlink/?linkid=215841)
 </td>
 <td style="border:1px solid black;">
-[MS11-044](http://go.microsoft.com/fwlink/?linkid=216436)
+[MS11-044](https://go.microsoft.com/fwlink/?linkid=216436)
 </td>
 <td style="border:1px solid black;">
-[MS11-050](http://go.microsoft.com/fwlink/?linkid=217212)
+[MS11-050](https://go.microsoft.com/fwlink/?linkid=217212)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1583,25 +1583,25 @@ Windows Server 2008 R2
 전체 심각도
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -1710,19 +1710,19 @@ Windows Server 2008 R2(Itanium 기반 시스템용) 및 Windows Server 2008 R2(I
  
 Windows Server 2008 및 Windows Server 2008 R2 참고 사항
 
-\*Server Core 설치가 영향을 받습니다. 이 업데이트는 Server Core 설치 옵션의 사용 여부에 관계없이 동일한 심각도로 지원 대상인 Windows Server 2008 또는 Windows Server 2008 R2에 적용됩니다. 이 설치 옵션에 대한 자세한 내용은 TechNet 문서, [Server Core 설치 관리(영문)](http://technet.microsoft.com/ko-kr/library/ee441255(ws.10).aspx) 및 [Server Core 설치 서비스(영문)](http://technet.microsoft.com/ko-kr/library/ff698994(ws.10).aspx)를 참조하십시오. 참고: Server Core 설치 옵션은 Windows Server 2008 및 Windows Server 2008 R2의 특정 에디션에 적용되지 않습니다. [Server Core 설치 옵션에 따른 버전 비교(영문)](http://www.microsoft.com/windowsserver2008/ko/kr/compare-core-installation.aspx)를 참조하십시오.
+\*Server Core 설치가 영향을 받습니다. 이 업데이트는 Server Core 설치 옵션의 사용 여부에 관계없이 동일한 심각도로 지원 대상인 Windows Server 2008 또는 Windows Server 2008 R2에 적용됩니다. 이 설치 옵션에 대한 자세한 내용은 TechNet 문서, [Server Core 설치 관리(영문)](https://technet.microsoft.com/ko-kr/library/ee441255(ws.10).aspx) 및 [Server Core 설치 서비스(영문)](https://technet.microsoft.com/ko-kr/library/ff698994(ws.10).aspx)를 참조하십시오. 참고: Server Core 설치 옵션은 Windows Server 2008 및 Windows Server 2008 R2의 특정 에디션에 적용되지 않습니다. [Server Core 설치 옵션에 따른 버전 비교(영문)](https://www.microsoft.com/windowsserver2008/ko/kr/compare-core-installation.aspx)를 참조하십시오.
 
-\*\*Server Core 설치는 영향을 받지 않습니다. Server Core 설치 옵션을 사용하여 설치한 경우 이 업데이트에서 해결하는 취약점은 지원 대상인 Windows Server 2008 또는 Windows Server 2008 R2 에디션에 영향을 주지 않습니다. 이 설치 옵션에 대한 자세한 내용은 TechNet 문서, [Server Core 설치 관리](http://technet.microsoft.com/en-us/library/ee441255(ws.10).aspx)(영문) 및 [Server Core 설치 서비스](http://technet.microsoft.com/en-us/library/ff698994(ws.10).aspx)(영문)를 참조하십시오. 참고: Server Core 설치 옵션은 Windows Server 2008 및 Windows Server 2008 R2의 특정 에디션에 적용되지 않습니다. [Server Core 설치 옵션에 따른 버전 비교](http://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx)를 참조하십시오.
+\*\*Server Core 설치는 영향을 받지 않습니다. Server Core 설치 옵션을 사용하여 설치한 경우 이 업데이트에서 해결하는 취약점은 지원 대상인 Windows Server 2008 또는 Windows Server 2008 R2 에디션에 영향을 주지 않습니다. 이 설치 옵션에 대한 자세한 내용은 TechNet 문서, [Server Core 설치 관리](https://technet.microsoft.com/en-us/library/ee441255(ws.10).aspx)(영문) 및 [Server Core 설치 서비스](https://technet.microsoft.com/en-us/library/ff698994(ws.10).aspx)(영문)를 참조하십시오. 참고: Server Core 설치 옵션은 Windows Server 2008 및 Windows Server 2008 R2의 특정 에디션에 적용되지 않습니다. [Server Core 설치 옵션에 따른 버전 비교](https://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx)를 참조하십시오.
 
 MS11-039 참고 사항
 
-<sup>[1]</sup>.NET Framework 4.0 및 .NET Framework 4.0 Client Profile이 영향을 받습니다. .NET Framework 버전 4 재배포 가능 패키지는 .NET Framework 4.0 및 .NET Framework 4.0 Client Profile의 두 가지 프로필로 제공됩니다. .NET Framework 4.0 Client Profile은 .NET Framework 4.0의 하위 집합입니다. 이 업데이트로 해결된 취약점은 .NET Framework 4.0 및 .NET Framework 4.0 Client Profile에 모두 영향을 줍니다. 자세한 내용은 MSDN 문서, [.NET Framework 설치](http://msdn.microsoft.com/ko-kr/library/5a4x27ek.aspx)를 참조하십시오.
+<sup>[1]</sup>.NET Framework 4.0 및 .NET Framework 4.0 Client Profile이 영향을 받습니다. .NET Framework 버전 4 재배포 가능 패키지는 .NET Framework 4.0 및 .NET Framework 4.0 Client Profile의 두 가지 프로필로 제공됩니다. .NET Framework 4.0 Client Profile은 .NET Framework 4.0의 하위 집합입니다. 이 업데이트로 해결된 취약점은 .NET Framework 4.0 및 .NET Framework 4.0 Client Profile에 모두 영향을 줍니다. 자세한 내용은 MSDN 문서, [.NET Framework 설치](https://msdn.microsoft.com/ko-kr/library/5a4x27ek.aspx)를 참조하십시오.
 
 동일한 공지 ID의 추가 업데이트 파일에 대해서는 영향을 받는 소프트웨어 및 다운로드 위치 섹션의 다른 소프트웨어 범주를 참조하십시오. 이 공지는 둘 이상의 소프트웨어 범주에 해당합니다.
 
 MS11-044 참고 사항
 
-<sup>[1]</sup>.NET Framework 4.0 및 .NET Framework 4.0 Client Profile이 영향을 받습니다. .NET Framework 버전 4 재배포 가능 패키지는 .NET Framework 4.0 및 .NET Framework 4.0 Client Profile의 두 가지 프로필로 제공됩니다. .NET Framework 4.0 Client Profile은 .NET Framework 4.0의 하위 집합입니다. 이 업데이트로 해결된 취약점은 .NET Framework 4.0 및 .NET Framework 4.0 Client Profile에 모두 영향을 줍니다. 자세한 내용은 MSDN 문서, [.NET Framework 설치](http://msdn.microsoft.com/ko-kr/library/5a4x27ek.aspx)를 참조하십시오.
+<sup>[1]</sup>.NET Framework 4.0 및 .NET Framework 4.0 Client Profile이 영향을 받습니다. .NET Framework 버전 4 재배포 가능 패키지는 .NET Framework 4.0 및 .NET Framework 4.0 Client Profile의 두 가지 프로필로 제공됩니다. .NET Framework 4.0 Client Profile은 .NET Framework 4.0의 하위 집합입니다. 이 업데이트로 해결된 취약점은 .NET Framework 4.0 및 .NET Framework 4.0 Client Profile에 모두 영향을 줍니다. 자세한 내용은 MSDN 문서, [.NET Framework 설치](https://msdn.microsoft.com/ko-kr/library/5a4x27ek.aspx)를 참조하십시오.
 
 <sup>[2]</sup>이 공지에서 설명한 취약점이 이 소프트웨어에 영향을 미치지 않으므로 이 업데이트에는 심각도가 적용되지 않습니다. 그러나 나중에 발생 가능한 새로운 경로를 방지하기 위한 심층적인 보안 대응책으로써 이 소프트웨어를 사용하는 고객은 이 보안 업데이트를 적용하는 것이 좋습니다.
 
@@ -1757,22 +1757,22 @@ Windows XP
 공지 번호
 </td>
 <td style="border:1px solid black;">
-[MS11-052](http://go.microsoft.com/fwlink/?linkid=218115)
+[MS11-052](https://go.microsoft.com/fwlink/?linkid=218115)
 </td>
 <td style="border:1px solid black;">
-[MS11-037](http://go.microsoft.com/fwlink/?linkid=217912)
+[MS11-037](https://go.microsoft.com/fwlink/?linkid=217912)
 </td>
 <td style="border:1px solid black;">
-[MS11-046](http://go.microsoft.com/fwlink/?linkid=217464)
+[MS11-046](https://go.microsoft.com/fwlink/?linkid=217464)
 </td>
 <td style="border:1px solid black;">
-[MS11-047](http://go.microsoft.com/fwlink/?linkid=217468)
+[MS11-047](https://go.microsoft.com/fwlink/?linkid=217468)
 </td>
 <td style="border:1px solid black;">
-[MS11-048](http://go.microsoft.com/fwlink/?linkid=215840)
+[MS11-048](https://go.microsoft.com/fwlink/?linkid=215840)
 </td>
 <td style="border:1px solid black;">
-[MS11-051](http://go.microsoft.com/fwlink/?linkid=217101)
+[MS11-051](https://go.microsoft.com/fwlink/?linkid=217101)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1780,13 +1780,13 @@ Windows XP
 전체 심각도
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 없음
@@ -1868,22 +1868,22 @@ Windows Server 2003
 공지 번호
 </td>
 <td style="border:1px solid black;">
-[MS11-052](http://go.microsoft.com/fwlink/?linkid=218115)
+[MS11-052](https://go.microsoft.com/fwlink/?linkid=218115)
 </td>
 <td style="border:1px solid black;">
-[MS11-037](http://go.microsoft.com/fwlink/?linkid=217912)
+[MS11-037](https://go.microsoft.com/fwlink/?linkid=217912)
 </td>
 <td style="border:1px solid black;">
-[MS11-046](http://go.microsoft.com/fwlink/?linkid=217464)
+[MS11-046](https://go.microsoft.com/fwlink/?linkid=217464)
 </td>
 <td style="border:1px solid black;">
-[MS11-047](http://go.microsoft.com/fwlink/?linkid=217468)
+[MS11-047](https://go.microsoft.com/fwlink/?linkid=217468)
 </td>
 <td style="border:1px solid black;">
-[MS11-048](http://go.microsoft.com/fwlink/?linkid=215840)
+[MS11-048](https://go.microsoft.com/fwlink/?linkid=215840)
 </td>
 <td style="border:1px solid black;">
-[MS11-051](http://go.microsoft.com/fwlink/?linkid=217101)
+[MS11-051](https://go.microsoft.com/fwlink/?linkid=217101)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1891,22 +1891,22 @@ Windows Server 2003
 전체 심각도
 </td>
 <td style="border:1px solid black;">
-[보통](http://go.microsoft.com/fwlink/?linkid=21140)
+[보통](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[낮음](http://go.microsoft.com/fwlink/?linkid=21140)
+[낮음](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-없음
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 없음
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+없음
+</td>
+<td style="border:1px solid black;">
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -2009,22 +2009,22 @@ Windows Vista
 공지 번호
 </td>
 <td style="border:1px solid black;">
-[MS11-052](http://go.microsoft.com/fwlink/?linkid=218115)
+[MS11-052](https://go.microsoft.com/fwlink/?linkid=218115)
 </td>
 <td style="border:1px solid black;">
-[MS11-037](http://go.microsoft.com/fwlink/?linkid=217912)
+[MS11-037](https://go.microsoft.com/fwlink/?linkid=217912)
 </td>
 <td style="border:1px solid black;">
-[MS11-046](http://go.microsoft.com/fwlink/?linkid=217464)
+[MS11-046](https://go.microsoft.com/fwlink/?linkid=217464)
 </td>
 <td style="border:1px solid black;">
-[MS11-047](http://go.microsoft.com/fwlink/?linkid=217468)
+[MS11-047](https://go.microsoft.com/fwlink/?linkid=217468)
 </td>
 <td style="border:1px solid black;">
-[MS11-048](http://go.microsoft.com/fwlink/?linkid=215840)
+[MS11-048](https://go.microsoft.com/fwlink/?linkid=215840)
 </td>
 <td style="border:1px solid black;">
-[MS11-051](http://go.microsoft.com/fwlink/?linkid=217101)
+[MS11-051](https://go.microsoft.com/fwlink/?linkid=217101)
 </td>
 </tr>
 <tr>
@@ -2032,19 +2032,19 @@ Windows Vista
 전체 심각도
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 없음
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 없음
@@ -2118,22 +2118,22 @@ Windows Server 2008
 공지 번호
 </td>
 <td style="border:1px solid black;">
-[MS11-052](http://go.microsoft.com/fwlink/?linkid=218115)
+[MS11-052](https://go.microsoft.com/fwlink/?linkid=218115)
 </td>
 <td style="border:1px solid black;">
-[MS11-037](http://go.microsoft.com/fwlink/?linkid=217912)
+[MS11-037](https://go.microsoft.com/fwlink/?linkid=217912)
 </td>
 <td style="border:1px solid black;">
-[MS11-046](http://go.microsoft.com/fwlink/?linkid=217464)
+[MS11-046](https://go.microsoft.com/fwlink/?linkid=217464)
 </td>
 <td style="border:1px solid black;">
-[MS11-047](http://go.microsoft.com/fwlink/?linkid=217468)
+[MS11-047](https://go.microsoft.com/fwlink/?linkid=217468)
 </td>
 <td style="border:1px solid black;">
-[MS11-048](http://go.microsoft.com/fwlink/?linkid=215840)
+[MS11-048](https://go.microsoft.com/fwlink/?linkid=215840)
 </td>
 <td style="border:1px solid black;">
-[MS11-051](http://go.microsoft.com/fwlink/?linkid=217101)
+[MS11-051](https://go.microsoft.com/fwlink/?linkid=217101)
 </td>
 </tr>
 <tr>
@@ -2141,22 +2141,22 @@ Windows Server 2008
 전체 심각도
 </td>
 <td style="border:1px solid black;">
-[보통](http://go.microsoft.com/fwlink/?linkid=21140)
+[보통](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[낮음](http://go.microsoft.com/fwlink/?linkid=21140)
+[낮음](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2257,22 +2257,22 @@ Windows 7
 공지 번호
 </td>
 <td style="border:1px solid black;">
-[MS11-052](http://go.microsoft.com/fwlink/?linkid=218115)
+[MS11-052](https://go.microsoft.com/fwlink/?linkid=218115)
 </td>
 <td style="border:1px solid black;">
-[MS11-037](http://go.microsoft.com/fwlink/?linkid=217912)
+[MS11-037](https://go.microsoft.com/fwlink/?linkid=217912)
 </td>
 <td style="border:1px solid black;">
-[MS11-046](http://go.microsoft.com/fwlink/?linkid=217464)
+[MS11-046](https://go.microsoft.com/fwlink/?linkid=217464)
 </td>
 <td style="border:1px solid black;">
-[MS11-047](http://go.microsoft.com/fwlink/?linkid=217468)
+[MS11-047](https://go.microsoft.com/fwlink/?linkid=217468)
 </td>
 <td style="border:1px solid black;">
-[MS11-048](http://go.microsoft.com/fwlink/?linkid=215840)
+[MS11-048](https://go.microsoft.com/fwlink/?linkid=215840)
 </td>
 <td style="border:1px solid black;">
-[MS11-051](http://go.microsoft.com/fwlink/?linkid=217101)
+[MS11-051](https://go.microsoft.com/fwlink/?linkid=217101)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2280,19 +2280,19 @@ Windows 7
 전체 심각도
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 없음
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 없음
@@ -2362,22 +2362,22 @@ Windows Server 2008 R2
 공지 번호
 </td>
 <td style="border:1px solid black;">
-[MS11-052](http://go.microsoft.com/fwlink/?linkid=218115)
+[MS11-052](https://go.microsoft.com/fwlink/?linkid=218115)
 </td>
 <td style="border:1px solid black;">
-[MS11-037](http://go.microsoft.com/fwlink/?linkid=217912)
+[MS11-037](https://go.microsoft.com/fwlink/?linkid=217912)
 </td>
 <td style="border:1px solid black;">
-[MS11-046](http://go.microsoft.com/fwlink/?linkid=217464)
+[MS11-046](https://go.microsoft.com/fwlink/?linkid=217464)
 </td>
 <td style="border:1px solid black;">
-[MS11-047](http://go.microsoft.com/fwlink/?linkid=217468)
+[MS11-047](https://go.microsoft.com/fwlink/?linkid=217468)
 </td>
 <td style="border:1px solid black;">
-[MS11-048](http://go.microsoft.com/fwlink/?linkid=215840)
+[MS11-048](https://go.microsoft.com/fwlink/?linkid=215840)
 </td>
 <td style="border:1px solid black;">
-[MS11-051](http://go.microsoft.com/fwlink/?linkid=217101)
+[MS11-051](https://go.microsoft.com/fwlink/?linkid=217101)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2385,22 +2385,22 @@ Windows Server 2008 R2
 전체 심각도
 </td>
 <td style="border:1px solid black;">
-[보통](http://go.microsoft.com/fwlink/?linkid=21140)
+[보통](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[낮음](http://go.microsoft.com/fwlink/?linkid=21140)
+[낮음](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -2463,9 +2463,9 @@ Windows Server 2008 R2(Itanium 기반 시스템용) 및 Windows Server 2008 R2(I
  
 Windows Server 2008 및 Windows Server 2008 R2 참고 사항
 
-\*Server Core 설치가 영향을 받습니다. 이 업데이트는 Server Core 설치 옵션의 사용 여부에 관계없이 동일한 심각도로 지원 대상인 Windows Server 2008 또는 Windows Server 2008 R2에 적용됩니다. 이 설치 옵션에 대한 자세한 내용은 TechNet 문서, [Server Core 설치 관리(영문)](http://technet.microsoft.com/ko-kr/library/ee441255(ws.10).aspx) 및 [Server Core 설치 서비스(영문)](http://technet.microsoft.com/ko-kr/library/ff698994(ws.10).aspx)를 참조하십시오. 참고: Server Core 설치 옵션은 Windows Server 2008 및 Windows Server 2008 R2의 특정 에디션에 적용되지 않습니다. [Server Core 설치 옵션에 따른 버전 비교(영문)](http://www.microsoft.com/windowsserver2008/ko/kr/compare-core-installation.aspx)를 참조하십시오.
+\*Server Core 설치가 영향을 받습니다. 이 업데이트는 Server Core 설치 옵션의 사용 여부에 관계없이 동일한 심각도로 지원 대상인 Windows Server 2008 또는 Windows Server 2008 R2에 적용됩니다. 이 설치 옵션에 대한 자세한 내용은 TechNet 문서, [Server Core 설치 관리(영문)](https://technet.microsoft.com/ko-kr/library/ee441255(ws.10).aspx) 및 [Server Core 설치 서비스(영문)](https://technet.microsoft.com/ko-kr/library/ff698994(ws.10).aspx)를 참조하십시오. 참고: Server Core 설치 옵션은 Windows Server 2008 및 Windows Server 2008 R2의 특정 에디션에 적용되지 않습니다. [Server Core 설치 옵션에 따른 버전 비교(영문)](https://www.microsoft.com/windowsserver2008/ko/kr/compare-core-installation.aspx)를 참조하십시오.
 
-\*\*Server Core 설치는 영향을 받지 않습니다. Server Core 설치 옵션을 사용하여 설치한 경우 이 업데이트에서 해결하는 취약점은 지원 대상인 Windows Server 2008 또는 Windows Server 2008 R2 에디션에 영향을 주지 않습니다. 이 설치 옵션에 대한 자세한 내용은 TechNet 문서, [Server Core 설치 관리(영문)](http://technet.microsoft.com/ko-kr/library/ee441255(ws.10).aspx) 및 [Server Core 설치 서비스(영문)](http://technet.microsoft.com/ko-kr/library/ff698994(ws.10).aspx)를 참조하십시오. 참고: Server Core 설치 옵션은 Windows Server 2008 및 Windows Server 2008 R2의 특정 에디션에 적용되지 않습니다. [Server Core 설치 옵션에 따른 버전 비교(영문)](http://www.microsoft.com/windowsserver2008/ko/kr/compare-core-installation.aspx)를 참조하십시오.
+\*\*Server Core 설치는 영향을 받지 않습니다. Server Core 설치 옵션을 사용하여 설치한 경우 이 업데이트에서 해결하는 취약점은 지원 대상인 Windows Server 2008 또는 Windows Server 2008 R2 에디션에 영향을 주지 않습니다. 이 설치 옵션에 대한 자세한 내용은 TechNet 문서, [Server Core 설치 관리(영문)](https://technet.microsoft.com/ko-kr/library/ee441255(ws.10).aspx) 및 [Server Core 설치 서비스(영문)](https://technet.microsoft.com/ko-kr/library/ff698994(ws.10).aspx)를 참조하십시오. 참고: Server Core 설치 옵션은 Windows Server 2008 및 Windows Server 2008 R2의 특정 에디션에 적용되지 않습니다. [Server Core 설치 옵션에 따른 버전 비교(영문)](https://www.microsoft.com/windowsserver2008/ko/kr/compare-core-installation.aspx)를 참조하십시오.
 
 #### Microsoft Office 제품군 및 소프트웨어
 
@@ -2490,10 +2490,10 @@ Microsoft Office 제품군 및 구성 요소
 공지 번호
 </td>
 <td style="border:1px solid black;">
-[MS11-045](http://go.microsoft.com/fwlink/?linkid=217502)
+[MS11-045](https://go.microsoft.com/fwlink/?linkid=217502)
 </td>
 <td style="border:1px solid black;">
-[MS11-049](http://go.microsoft.com/fwlink/?linkid=217077)
+[MS11-049](https://go.microsoft.com/fwlink/?linkid=217077)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2501,7 +2501,7 @@ Microsoft Office 제품군 및 구성 요소
 전체 심각도
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 없음
@@ -2582,10 +2582,10 @@ Microsoft Office for Mac
 공지 번호
 </td>
 <td style="border:1px solid black;">
-[MS11-045](http://go.microsoft.com/fwlink/?linkid=217502)
+[MS11-045](https://go.microsoft.com/fwlink/?linkid=217502)
 </td>
 <td style="border:1px solid black;">
-[MS11-049](http://go.microsoft.com/fwlink/?linkid=217077)
+[MS11-049](https://go.microsoft.com/fwlink/?linkid=217077)
 </td>
 </tr>
 <tr>
@@ -2593,7 +2593,7 @@ Microsoft Office for Mac
 전체 심각도
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 없음
@@ -2661,10 +2661,10 @@ Microsoft InfoPath
 공지 번호
 </td>
 <td style="border:1px solid black;">
-[MS11-045](http://go.microsoft.com/fwlink/?linkid=217502)
+[MS11-045](https://go.microsoft.com/fwlink/?linkid=217502)
 </td>
 <td style="border:1px solid black;">
-[MS11-049](http://go.microsoft.com/fwlink/?linkid=217077)
+[MS11-049](https://go.microsoft.com/fwlink/?linkid=217077)
 </td>
 </tr>
 <tr>
@@ -2675,7 +2675,7 @@ Microsoft InfoPath
 없음
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2727,10 +2727,10 @@ Microsoft InfoPath 2010(64비트 에디션)
 공지 번호
 </td>
 <td style="border:1px solid black;">
-[MS11-045](http://go.microsoft.com/fwlink/?linkid=217502)
+[MS11-045](https://go.microsoft.com/fwlink/?linkid=217502)
 </td>
 <td style="border:1px solid black;">
-[MS11-049](http://go.microsoft.com/fwlink/?linkid=217077)
+[MS11-049](https://go.microsoft.com/fwlink/?linkid=217077)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2738,7 +2738,7 @@ Microsoft InfoPath 2010(64비트 에디션)
 전체 심각도
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 없음
@@ -2801,7 +2801,7 @@ Microsoft SQL Server
 공지 번호
 </td>
 <td style="border:1px solid black;">
-[MS11-049](http://go.microsoft.com/fwlink/?linkid=217077)
+[MS11-049](https://go.microsoft.com/fwlink/?linkid=217077)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2809,7 +2809,7 @@ Microsoft SQL Server
 전체 심각도
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -3153,10 +3153,10 @@ Microsoft Silverlight
 공지 번호
 </td>
 <td style="border:1px solid black;">
-[MS11-039](http://go.microsoft.com/fwlink/?linkid=212287)
+[MS11-039](https://go.microsoft.com/fwlink/?linkid=212287)
 </td>
 <td style="border:1px solid black;">
-[MS11-049](http://go.microsoft.com/fwlink/?linkid=217077)
+[MS11-049](https://go.microsoft.com/fwlink/?linkid=217077)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -3164,7 +3164,7 @@ Microsoft Silverlight
 전체 심각도
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 없음
@@ -3199,10 +3199,10 @@ Microsoft Visual Studio
 공지 번호
 </td>
 <td style="border:1px solid black;">
-[MS11-039](http://go.microsoft.com/fwlink/?linkid=212287)
+[MS11-039](https://go.microsoft.com/fwlink/?linkid=212287)
 </td>
 <td style="border:1px solid black;">
-[MS11-049](http://go.microsoft.com/fwlink/?linkid=217077)
+[MS11-049](https://go.microsoft.com/fwlink/?linkid=217077)
 </td>
 </tr>
 <tr>
@@ -3213,7 +3213,7 @@ Microsoft Visual Studio
 없음
 </td>
 <td style="border:1px solid black;">
-[중요](http://go.microsoft.com/fwlink/?linkid=21140)
+[중요](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -3259,7 +3259,7 @@ Microsoft Visual Studio 2010
  
 MS11-039 참고 사항
 
-\*\*Server Core 설치는 영향을 받지 않습니다. Server Core 설치 옵션을 사용하여 설치한 경우 이 업데이트에서 해결하는 취약점은 지원 대상인 Windows Server 2008 또는 Windows Server 2008 R2 에디션에 영향을 주지 않습니다. 이 설치 옵션에 대한 자세한 내용은 TechNet 문서, [Server Core 설치 관리(영문)](http://technet.microsoft.com/ko-kr/library/ee441255(ws.10).aspx) 및 [Server Core 설치 서비스(영문)](http://technet.microsoft.com/ko-kr/library/ff698994(ws.10).aspx)를 참조하십시오. 참고: Server Core 설치 옵션은 Windows Server 2008 및 Windows Server 2008 R2의 특정 에디션에 적용되지 않습니다. [Server Core 설치 옵션에 따른 버전 비교(영문)](http://www.microsoft.com/windowsserver2008/ko/kr/compare-core-installation.aspx)를 참조하십시오.
+\*\*Server Core 설치는 영향을 받지 않습니다. Server Core 설치 옵션을 사용하여 설치한 경우 이 업데이트에서 해결하는 취약점은 지원 대상인 Windows Server 2008 또는 Windows Server 2008 R2 에디션에 영향을 주지 않습니다. 이 설치 옵션에 대한 자세한 내용은 TechNet 문서, [Server Core 설치 관리(영문)](https://technet.microsoft.com/ko-kr/library/ee441255(ws.10).aspx) 및 [Server Core 설치 서비스(영문)](https://technet.microsoft.com/ko-kr/library/ff698994(ws.10).aspx)를 참조하십시오. 참고: Server Core 설치 옵션은 Windows Server 2008 및 Windows Server 2008 R2의 특정 에디션에 적용되지 않습니다. [Server Core 설치 옵션에 따른 버전 비교(영문)](https://www.microsoft.com/windowsserver2008/ko/kr/compare-core-installation.aspx)를 참조하십시오.
 
 동일한 공지 ID의 추가 업데이트 파일에 대해서는 영향을 받는 소프트웨어 및 다운로드 위치 섹션의 다른 소프트웨어 범주를 참조하십시오. 이 공지는 둘 이상의 소프트웨어 범주에 해당합니다.
 
@@ -3288,7 +3288,7 @@ Microsoft Forefront
 공지 번호
 </td>
 <td style="border:1px solid black;">
-[MS11-040](http://go.microsoft.com/fwlink/?linkid=217470)
+[MS11-040](https://go.microsoft.com/fwlink/?linkid=217470)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -3296,7 +3296,7 @@ Microsoft Forefront
 전체 심각도
 </td>
 <td style="border:1px solid black;">
-[긴급](http://go.microsoft.com/fwlink/?linkid=21140)
+[긴급](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -3316,47 +3316,47 @@ Microsoft Forefront Threat Management Gateway 2010 클라이언트
 
 보안 센터
 
-해당 조직에서 서버, 데스크톱, 모바일 컴퓨터에 적용해야 하는 소프트웨어 및 보안 업데이트를 관리합니다. 자세한 내용은 [TechNet Update Management Center](http://go.microsoft.com/fwlink/?linkid=69903)를 참조하십시오. [TechNet Security Center](http://go.microsoft.com/fwlink/?linkid=21171)는 Microsoft 제품의 보안에 대한 추가 정보를 제공합니다. 일반 사용자는 [가정의 보안](http://go.microsoft.com/fwlink/?linkid=85102)을 방문하거나 "최신 보안 업데이트"를 클릭하여 이 정보를 볼 수도 있습니다.
+해당 조직에서 서버, 데스크톱, 모바일 컴퓨터에 적용해야 하는 소프트웨어 및 보안 업데이트를 관리합니다. 자세한 내용은 [TechNet Update Management Center](https://go.microsoft.com/fwlink/?linkid=69903)를 참조하십시오. [TechNet Security Center](https://go.microsoft.com/fwlink/?linkid=21171)는 Microsoft 제품의 보안에 대한 추가 정보를 제공합니다. 일반 사용자는 [가정의 보안](https://go.microsoft.com/fwlink/?linkid=85102)을 방문하거나 "최신 보안 업데이트"를 클릭하여 이 정보를 볼 수도 있습니다.
 
-보안 업데이트는 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747) 및 [Windows Update](http://go.microsoft.com/fwlink/?linkid=21130)를 통해 제공됩니다. 보안 업데이트는 [Microsoft 다운로드 센터](http://go.microsoft.com/fwlink/?linkid=21129)에서도 다운로드할 수 있으며 "security update"라는 키워드를 사용하여 쉽게 찾을 수 있습니다.
+보안 업데이트는 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747) 및 [Windows Update](https://go.microsoft.com/fwlink/?linkid=21130)를 통해 제공됩니다. 보안 업데이트는 [Microsoft 다운로드 센터](https://go.microsoft.com/fwlink/?linkid=21129)에서도 다운로드할 수 있으며 "security update"라는 키워드를 사용하여 쉽게 찾을 수 있습니다.
 
-Microsoft Office for Mac의 경우 Microsoft AutoUpdate for Mac을 통해 Microsoft 소프트웨어를 최신으로 유지할 수 있습니다. Microsoft AutoUpdate for Mac 사용에 대한 자세한 내용은 [자동으로 소프트웨어 업데이트 확인](http://mac2.microsoft.com/help/office/14/en-us/word/item/ffe35357-8f25-4df8-a0a3-c258526c64ea)을 참조하십시오.
+Microsoft Office for Mac의 경우 Microsoft AutoUpdate for Mac을 통해 Microsoft 소프트웨어를 최신으로 유지할 수 있습니다. Microsoft AutoUpdate for Mac 사용에 대한 자세한 내용은 [자동으로 소프트웨어 업데이트 확인](https://mac2.microsoft.com/help/office/14/en-us/word/item/ffe35357-8f25-4df8-a0a3-c258526c64ea)을 참조하십시오.
 
-마지막으로, 보안 업데이트는 [Microsoft Update 카탈로그](http://go.microsoft.com/fwlink/?linkid=96155)에서 다운로드할 수 있습니다. Microsoft Update 카탈로그는 보안 업데이트, 드라이버, 서비스 팩을 포함하여 Windows Update 및 Microsoft Update에서 제공하는 콘텐츠의 검색 가능한 목록입니다. 보안 공지 번호(예: "MS07-036")를 사용하여 검색하면 적용 가능한 모든 업데이트(다른 언어의 업데이트 포함)를 장바구니에 추가하고, 선택한 업데이트를 로컬 폴더에 다운로드할 수 있습니다. Microsoft Update 카탈로그에 대한 자세한 내용은 [Microsoft Update 카탈로그 FAQ](http://go.microsoft.com/fwlink/?linkid=97900)를 참조하십시오.
+마지막으로, 보안 업데이트는 [Microsoft Update 카탈로그](https://go.microsoft.com/fwlink/?linkid=96155)에서 다운로드할 수 있습니다. Microsoft Update 카탈로그는 보안 업데이트, 드라이버, 서비스 팩을 포함하여 Windows Update 및 Microsoft Update에서 제공하는 콘텐츠의 검색 가능한 목록입니다. 보안 공지 번호(예: "MS07-036")를 사용하여 검색하면 적용 가능한 모든 업데이트(다른 언어의 업데이트 포함)를 장바구니에 추가하고, 선택한 업데이트를 로컬 폴더에 다운로드할 수 있습니다. Microsoft Update 카탈로그에 대한 자세한 내용은 [Microsoft Update 카탈로그 FAQ](https://go.microsoft.com/fwlink/?linkid=97900)를 참조하십시오.
 
 검색 및 배포 지침
 
-Microsoft는 보안 업데이트를 위한 검색 및 배포 지침을 제공합니다. 이 지침에는 IT 전문가가 다양한 도구를 사용하여 보안 업데이트를 검색하고 배포하는 방법을 이해하는 데 도움이 되는 권장 사항과 정보가 포함되어 있습니다. 자세한 내용은 [Microsoft 기술 자료 문서 961747](http://support.microsoft.com/kb/961747)을 참조하십시오.
+Microsoft는 보안 업데이트를 위한 검색 및 배포 지침을 제공합니다. 이 지침에는 IT 전문가가 다양한 도구를 사용하여 보안 업데이트를 검색하고 배포하는 방법을 이해하는 데 도움이 되는 권장 사항과 정보가 포함되어 있습니다. 자세한 내용은 [Microsoft 기술 자료 문서 961747](https://support.microsoft.com/kb/961747)을 참조하십시오.
 
 Microsoft Baseline Security Analyzer
 
-관리자는 MBSA(Microsoft Baseline Security Analyzer)를 사용하여 로컬 및 원격 시스템에서 누락된 보안 업데이트 및 일반적인 보안 설정 오류를 검색할 수 있습니다. MBSA에 대한 자세한 내용을 보려면 [Microsoft Baseline Security Analyzer](http://go.microsoft.com/fwlink/?linkid=21134)를 방문하십시오.
+관리자는 MBSA(Microsoft Baseline Security Analyzer)를 사용하여 로컬 및 원격 시스템에서 누락된 보안 업데이트 및 일반적인 보안 설정 오류를 검색할 수 있습니다. MBSA에 대한 자세한 내용을 보려면 [Microsoft Baseline Security Analyzer](https://go.microsoft.com/fwlink/?linkid=21134)를 방문하십시오.
 
 Windows Server Update Services
 
 관리자는 WSUS(Windows Server Update Services)를 사용하여 Microsoft Windows 2000 이상 운영 체제, Office XP 이상, Exchange Server 2003 그리고 Microsoft Windows 2000 이상 운영 체제에 설치된 SQL Server 2000에 최신 중요 업데이트 및 보안 업데이트를 빠르고 안정적으로 배포할 수 있습니다.
 
-Windows Server Update Services를 사용하여 이 보안 업데이트를 신속하게 배포하는 방법에 대한 자세한 내용은 [Windows Server Update Services(영문)](http://technet.microsoft.com/ko-kr/wsus/default.aspx)를 참조하십시오.
+Windows Server Update Services를 사용하여 이 보안 업데이트를 신속하게 배포하는 방법에 대한 자세한 내용은 [Windows Server Update Services(영문)](https://technet.microsoft.com/ko-kr/wsus/default.aspx)를 참조하십시오.
 
 System Center Configuration Manager 2007
 
 Configuration Manager 2007 소프트웨어 업데이트 관리는 기업 전체의 IT 시스템에 대한 복잡한 업데이트 제공 및 관리 작업을 단순화합니다. Configuration Manager 2007을 사용하면 IT 관리자가 데스크톱, 랩톱, 서버 및 모바일 장치를 비롯한 다양한 장치에 Microsoft 제품의 업데이트를 제공할 수 있습니다.
 
-Configuration Manager 2007의 자동화된 취약점 평가를 통해 업데이트 및 권장 조치에 대한 보고 필요성을 확인할 수 있습니다. Configuration Manager 2007의 소프트웨어 업데이트 관리는 전세계 IT 관리자에게 친숙한 테스트된 업데이트 인프라인 Microsoft WSUS(Windows Software Update Services)를 기반으로 합니다. 관리자가 Configuration Manager 2007을 사용하여 업데이트를 배포하는 방법에 대한 자세한 내용은 [소프트웨어 업데이트 관리](http://www.microsoft.com/systemcenter/en/us/configuration-manager/cm-software-update-management.aspx)를 참조하십시오. Configuration Manager에 대한 자세한 내용을 보려면 [System Center Configuration Manager](http://www.microsoft.com/systemcenter/en/us/configuration-manager.aspx)를 방문하십시오.
+Configuration Manager 2007의 자동화된 취약점 평가를 통해 업데이트 및 권장 조치에 대한 보고 필요성을 확인할 수 있습니다. Configuration Manager 2007의 소프트웨어 업데이트 관리는 전세계 IT 관리자에게 친숙한 테스트된 업데이트 인프라인 Microsoft WSUS(Windows Software Update Services)를 기반으로 합니다. 관리자가 Configuration Manager 2007을 사용하여 업데이트를 배포하는 방법에 대한 자세한 내용은 [소프트웨어 업데이트 관리](https://www.microsoft.com/systemcenter/en/us/configuration-manager/cm-software-update-management.aspx)를 참조하십시오. Configuration Manager에 대한 자세한 내용을 보려면 [System Center Configuration Manager](https://www.microsoft.com/systemcenter/en/us/configuration-manager.aspx)를 방문하십시오.
 
 Systems Management Server 2003
 
 Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 효율적으로 구성할 수 있는 솔루션입니다. 관리자는 SMS를 사용하여 보안 업데이트가 필요한 Windows 기반 시스템을 확인하고, 사용자의 업무 중단을 최소화하면서 기업 전체에 업데이트를 효율적으로 배포할 수 있습니다.
 
-참고 System Management Server 2003은 2010년 1월 12일자로 메인스트림 지원이 종료되었습니다. 제품 지원 기간에 대한 자세한 내용을 보려면 [Microsoft 지원 기간](http://support.microsoft.com/common/international.aspx?rdpath=dm;en-us;lifecycle) 웹 사이트를 참조하십시오. SMS의 차기 릴리스인 System Center Configuration Manager 2007을 지금 사용할 수 있습니다(이전 섹션의 System Center Configuration Manager 2007 참조).
+참고 System Management Server 2003은 2010년 1월 12일자로 메인스트림 지원이 종료되었습니다. 제품 지원 기간에 대한 자세한 내용을 보려면 [Microsoft 지원 기간](https://support.microsoft.com/common/international.aspx?rdpath=dm;en-us;lifecycle) 웹 사이트를 참조하십시오. SMS의 차기 릴리스인 System Center Configuration Manager 2007을 지금 사용할 수 있습니다(이전 섹션의 System Center Configuration Manager 2007 참조).
 
-관리자가 SMS 2003을 사용하여 보안 업데이트를 배포하는 방법에 대한 자세한 내용은 [Microsoft Systems Management Server 2003의 시나리오 및 절차: 소프트웨어 배포 및 패치 관리](http://www.microsoft.com/downloads/en/details.aspx?familyid=32f2bb4c-42f8-4b8d-844f-2553fd78049f&displaylang=ko)를 참조하십시오. SMS에 대한 자세한 내용을 보려면 [Microsoft Systems Management Server TechCenter](http://technet.microsoft.com/en-us/systemcenter/bb545936.aspx)를 방문하십시오.
+관리자가 SMS 2003을 사용하여 보안 업데이트를 배포하는 방법에 대한 자세한 내용은 [Microsoft Systems Management Server 2003의 시나리오 및 절차: 소프트웨어 배포 및 패치 관리](https://www.microsoft.com/downloads/en/details.aspx?familyid=32f2bb4c-42f8-4b8d-844f-2553fd78049f&displaylang=ko)를 참조하십시오. SMS에 대한 자세한 내용을 보려면 [Microsoft Systems Management Server TechCenter](https://technet.microsoft.com/en-us/systemcenter/bb545936.aspx)를 방문하십시오.
 
-참고 SMS는 Microsoft Baseline Security Analyzer를 사용하여 보안 공지 업데이트 검색 및 배포에 대한 다양한 지원을 제공합니다. 일부 소프트웨어 업데이트는 이러한 도구로 검색하지 못할 수도 있습니다. 이러한 경우 관리자는 SMS의 인벤토리 기능을 사용하여 특정 시스템을 대상으로 업데이트를 수행할 수 있습니다. 이 절차에 대한 자세한 내용은 [SMS 소프트웨어 배포 기능을 사용한 소프트웨어 업데이트 배포](http://go.microsoft.com/fwlink/?linkid=33341)를 참조하십시오. 일부 보안 업데이트 작업을 수행하려면 관리자 권한이 필요하며 컴퓨터를 다시 시작해야 할 수 있습니다. 관리자는 [SMS 2003 Administration Feature Pack](http://www.microsoft.com/downloads/en/details.aspx?familyid=7bd3a16e-1899-4e0b-bb99-1320e816167d&displaylang=ko)에서 제공되는 Elevated Rights Deployment Tool을 사용하여 이러한 업데이트를 설치할 수 있습니다.
+참고 SMS는 Microsoft Baseline Security Analyzer를 사용하여 보안 공지 업데이트 검색 및 배포에 대한 다양한 지원을 제공합니다. 일부 소프트웨어 업데이트는 이러한 도구로 검색하지 못할 수도 있습니다. 이러한 경우 관리자는 SMS의 인벤토리 기능을 사용하여 특정 시스템을 대상으로 업데이트를 수행할 수 있습니다. 이 절차에 대한 자세한 내용은 [SMS 소프트웨어 배포 기능을 사용한 소프트웨어 업데이트 배포](https://go.microsoft.com/fwlink/?linkid=33341)를 참조하십시오. 일부 보안 업데이트 작업을 수행하려면 관리자 권한이 필요하며 컴퓨터를 다시 시작해야 할 수 있습니다. 관리자는 [SMS 2003 Administration Feature Pack](https://www.microsoft.com/downloads/en/details.aspx?familyid=7bd3a16e-1899-4e0b-bb99-1320e816167d&displaylang=ko)에서 제공되는 Elevated Rights Deployment Tool을 사용하여 이러한 업데이트를 설치할 수 있습니다.
 
 UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit) (영문)](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit) (영문)](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](https://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Microsoft Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 
@@ -3370,73 +3370,73 @@ Microsoft는 Windows Update, Microsoft Update, Windows Server Update Services, �
 
 Windows Update 및 Microsoft update의 비보안 릴리스에 대한 자세한 내용은 다음을 참조하십시오.
 
--   [Microsoft 기술 자료 문서 894199](http://support.microsoft.com/kb/894199) : 변경된 Software Update Services 및 Windows Server Update Services 내용에 대한 설명. 모든 Windows 콘텐츠 포함.
--   [Windows Server Update Services를 위해 지난 몇 달간 배포된 업데이트](http://technet.microsoft.com/en-us/wsus/bb456965.aspx)
+-   [Microsoft 기술 자료 문서 894199](https://support.microsoft.com/kb/894199) : 변경된 Software Update Services 및 Windows Server Update Services 내용에 대한 설명. 모든 Windows 콘텐츠 포함.
+-   [Windows Server Update Services를 위해 지난 몇 달간 배포된 업데이트](https://technet.microsoft.com/en-us/wsus/bb456965.aspx)
 -   . Microsoft Windows가 아닌 Microsoft 제품용 신규, 개정 및 출시 업데이트를 전부 표시합니다.
 
 #### MAPP(Microsoft Active Protections Program)
 
-고객에 대한 보안을 강화하기 위해 Microsoft는 월별 보안 업데이트를 배포하기 전에 주요 보안 소프트웨어 제공업체에 취약점 정보를 제공합니다. 보안 소프트웨어 제공업체는 이 취약점 정보를 사용하여 안티바이러스, 네트워크 기반 침입 탐지 시스템 또는 호스트 기반 침임 방지 시스템 등 자사의 보안 소프트웨어나 장치를 통해 업데이트된 보호 기능을 고객에게 제공할 수 있습니다. 보안 소프트웨어 제공업체가 활성 보호 기능을 제공하는지 확인하려면 [Microsoft MAPP(Active Protections Program) 파트너(영문)](http://go.microsoft.com/fwlink/?linkid=215201)에 나열된 프로그램 파트너가 제공하는 활성 보호 기능 웹 사이트를 참조하십시오.
+고객에 대한 보안을 강화하기 위해 Microsoft는 월별 보안 업데이트를 배포하기 전에 주요 보안 소프트웨어 제공업체에 취약점 정보를 제공합니다. 보안 소프트웨어 제공업체는 이 취약점 정보를 사용하여 안티바이러스, 네트워크 기반 침입 탐지 시스템 또는 호스트 기반 침임 방지 시스템 등 자사의 보안 소프트웨어나 장치를 통해 업데이트된 보호 기능을 고객에게 제공할 수 있습니다. 보안 소프트웨어 제공업체가 활성 보호 기능을 제공하는지 확인하려면 [Microsoft MAPP(Active Protections Program) 파트너(영문)](https://go.microsoft.com/fwlink/?linkid=215201)에 나열된 프로그램 파트너가 제공하는 활성 보호 기능 웹 사이트를 참조하십시오.
 
 #### 보안 전략 및 커뮤니티
 
 업데이트 관리 전략
 
-[업데이트 관리를 위한 보안 가이드](http://go.microsoft.com/fwlink/?linkid=21168)는 보안 업데이트 적용에 대해 Microsoft가 권장하는 최선의 방법과 관련 정보를 제공합니다.
+[업데이트 관리를 위한 보안 가이드](https://go.microsoft.com/fwlink/?linkid=21168)는 보안 업데이트 적용에 대해 Microsoft가 권장하는 최선의 방법과 관련 정보를 제공합니다.
 
 기타 보안 관련 업데이트 받기
 
 기타 보안 문제 관련 업데이트는 다음 사이트에서 구할 수 있습니다.
 
--   보안 업데이트는 [Microsoft 다운로드 센터](http://go.microsoft.com/fwlink/?linkid=21129)에서 다운로드할 수 있으며 "security update"라는 키워드를 사용하여 쉽게 찾을 수 있습니다.
--   일반 사용자용 업데이트는 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747)에서 사용할 수 있습니다.
--   이 달에 제공되는 보안 업데이트는 Windows Update를 통해서 또는 다운로드 센터에서 제공되는 보안 및 중요 릴리스 ISO CD 이미지 파일로 받을 수 있습니다. 자세한 내용은 [Microsoft 기술 자료 문서 913086](http://support.microsoft.com/kb/913086)을 참조하십시오.
+-   보안 업데이트는 [Microsoft 다운로드 센터](https://go.microsoft.com/fwlink/?linkid=21129)에서 다운로드할 수 있으며 "security update"라는 키워드를 사용하여 쉽게 찾을 수 있습니다.
+-   일반 사용자용 업데이트는 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747)에서 사용할 수 있습니다.
+-   이 달에 제공되는 보안 업데이트는 Windows Update를 통해서 또는 다운로드 센터에서 제공되는 보안 및 중요 릴리스 ISO CD 이미지 파일로 받을 수 있습니다. 자세한 내용은 [Microsoft 기술 자료 문서 913086](https://support.microsoft.com/kb/913086)을 참조하십시오.
 
 IT Pro Security Zone Community(IT 전문가 보안 영역 커뮤니티)
 
-[IT Pro Security Community(IT 전문가 보안 커뮤니티)](http://go.microsoft.com/fwlink/?linkid=21164)에서는 보안을 강화하고 IT 인프라를 최적화하는 방법에 대해 배우고 보안 항목에 대한 정보를 다른 IT 전문가와 공유할 수 있습니다.
+[IT Pro Security Community(IT 전문가 보안 커뮤니티)](https://go.microsoft.com/fwlink/?linkid=21164)에서는 보안을 강화하고 IT 인프라를 최적화하는 방법에 대해 배우고 보안 항목에 대한 정보를 다른 IT 전문가와 공유할 수 있습니다.
 
 #### 감사의 말
 
-고객 보호를 위해 협력해 주신 다음 분들께 [감사](http://go.microsoft.com/fwlink/?linkid=21127)드립니다.
+고객 보호를 위해 협력해 주신 다음 분들께 [감사](https://go.microsoft.com/fwlink/?linkid=21127)드립니다.
 
--   MS11-037을 변경하는 데 협력해 주신 [Google Security Team(영문)](http://www.google.com/)의 Billy Rios와 Eduardo Vela Nava
--   MS11-038에서 설명한 문제점을 보고해 주신 [Palo Alto Networks(영문)](http://www.paloaltonetworks.com/)의 Yamata Li
+-   MS11-037을 변경하는 데 협력해 주신 [Google Security Team(영문)](https://www.google.com/)의 Billy Rios와 Eduardo Vela Nava
+-   MS11-038에서 설명한 문제점을 보고해 주신 [Palo Alto Networks(영문)](https://www.paloaltonetworks.com/)의 Yamata Li
 -   MS11-039에서 설명한 문제점을 보고해 주신 Michael J. Liu
--   MS11-041에서 설명한 문제점을 보고해 주신 [www.korosoft.net](http://www.korosoft.net/)의 Koro
--   MS11-042에서 설명한 문제점을 보고해 주신 [NGS Software(영문)](http://www.ngssoftware.com/)의 Laurent Gaffié
+-   MS11-041에서 설명한 문제점을 보고해 주신 [www.korosoft.net](https://www.korosoft.net/)의 Koro
+-   MS11-042에서 설명한 문제점을 보고해 주신 [NGS Software(영문)](https://www.ngssoftware.com/)의 Laurent Gaffié
 -   MS11-044에서 설명한 문제점을 해결하기 위해 협력해 주신 Dan Kaminsky
--   MS11-045에서 설명한 문제점을 보고해 주신 [Fortinet's FortiGuard Labs(영문)](http://www.fortiguard.com/)의 Bing Liu
--   MS11-045에서 설명한 문제점을 [VeriSign iDefense Labs(영문)](http://labs.idefense.com/)와 협력하여 보고해 주신 익명 연구자
--   MS11-045에서 설명한 문제점을 [VeriSign iDefense Labs(영문)](http://labs.idefense.com/)와 협력하여 보고해 주신 Omair
--   MS11-045에서 설명한 문제점을 [VeriSign iDefense Labs(영문)](http://labs.idefense.com/)와 협력하여 보고해 주신 익명 연구자
--   MS11-045에서 설명한 문제점을 [VeriSign iDefense Labs(영문)](http://labs.idefense.com/)와 협력하여 보고해 주신 [Agarri(영문)](http://www.agarri.fr/)의 Nicolas Gregoire
+-   MS11-045에서 설명한 문제점을 보고해 주신 [Fortinet's FortiGuard Labs(영문)](https://www.fortiguard.com/)의 Bing Liu
+-   MS11-045에서 설명한 문제점을 [VeriSign iDefense Labs(영문)](https://labs.idefense.com/)와 협력하여 보고해 주신 익명 연구자
+-   MS11-045에서 설명한 문제점을 [VeriSign iDefense Labs(영문)](https://labs.idefense.com/)와 협력하여 보고해 주신 Omair
+-   MS11-045에서 설명한 문제점을 [VeriSign iDefense Labs(영문)](https://labs.idefense.com/)와 협력하여 보고해 주신 익명 연구자
+-   MS11-045에서 설명한 문제점을 [VeriSign iDefense Labs(영문)](https://labs.idefense.com/)와 협력하여 보고해 주신 [Agarri(영문)](https://www.agarri.fr/)의 Nicolas Gregoire
 -   MS11-045에서 설명한 문제점을 보고해 주신 Omair
--   MS11-045에서 설명한 두 가지 문제점을 보고해 주신 [CERT/CC(영문)](http://www.cert.org/)의 Will Dormann
--   MS11-046에서 설명한 문제점을 보고해 주신 [Shadowserver Foundation(영문)](http://www.shadowserver.org)의 Steven Adair와 Chris S.
--   MS11-047에서 설명한 문제점을 보고해 주신 [Core Security Technologies(영문)](http://www.coresecurity.com/)의 Nicolas Economou
--   MS11-049에서 설명한 문제점을 보고해 주신 [Cigital(영문)](http://www.cigital.com)의 Jesse Ou
--   MS11-050에서 설명한 문제점을 보고해 주신 [Google Inc.](http://www.google.com/)의 Robert Swiecki
--   MS11-050에서 설명한 문제점을 보고해 주신 [NSFOCUS Security Team(영문)](http://www.nsfocus.com/)
--   MS11-050에서 설명한 문제점을 [Beyond Security's SecuriTeam Secure Disclosure 프로그램(영문)과](http://www.beyondsecurity.com/ssd.html) 협력하여 보고해 주신 익명의 연구자
--   MS11-050에서 설명한 문제점을 보고해 주신 [IBM Rational Application Security(영문)](http://blog.watchfire.com/)의 Adi Cohen
--   MS11-050에서 설명한 문제점을 해결하기 위해 협력해 주신 [Trend Micro(영문)](http://www.trendmicro.com/)
--   MS11-050에서 설명한 문제점을 보고해 주신 [Norman(영문)](http://www.norman.com)의 Nirmal Singh Bhary
--   MS11-050에서 설명한 문제점을 [VeriSign iDefense Labs(영문)](http://labs.idefense.com/)와 협력하여 보고해 주신 익명 연구자
--   MS11-050에서 설명한 문제점을 [TippingPoint(영문)](http://www.tippingpoint.com/)의 [Zero Day Initiative(영문)](http://www.zerodayinitiative.com/)와 협력하여 보고해 주신 Damian Put
--   MS11-050에서 설명한 문제점을 보고해 주신 [salesforce.com(영문)](http://www.salesforce.com/) Product Security Team의 Yoel Gluck, Yogesh Badwe 및 Varun Badhwar
--   MS11-050에서 설명한 문제점을 [TippingPoint's](http://www.tippingpoint.com/)[Zero Day Initiative(영문)](http://www.zerodayinitiative.com/)와 협력하여 보고해 주신 Jose Antonio Vazquez Gonzalez
--   MS11-050에서 설명한 문제점을 [TippingPoint's](http://www.tippingpoint.com/)[Zero Day Initiative(영문)](http://www.zerodayinitiative.com/)와 협력하여 보고해 주신 익명 연구자
--   MS11-050에서 설명한 문제점을 [TippingPoint(영문)](http://www.tippingpoint.com/)의 [Zero Day Initiative(영문)](http://www.zerodayinitiative.com/)와 협력하여 보고해 주신 Peter Winter-Smith
--   MS11-050에서 해결된 심층 보안 변경을 위해 [TippingPoint's](http://www.tippingpoint.com/)[Zero Day Initiative(영문)](http://www.zerodayinitiative.com/)와 함께 협력해 주신 [Harmony Security(영문)](http://www.harmonysecurity.com/)의 Stephen Fewer
--   MS11-051에서 설명한 문제점을 보고해 주신 [Emaze(영문)](http://www.emaze.net/) Networks [Saipem Security Team(영문)](http://www.saipem.com/)의 Ruggero Strabla
--   MS11-052에서 설명한 문제점을 [TippingPoint's](http://www.tippingpoint.com/)[Zero Day Initiative(영문)](http://www.zerodayinitiative.com/)와 협력하여 보고해 주신 익명 연구자
+-   MS11-045에서 설명한 두 가지 문제점을 보고해 주신 [CERT/CC(영문)](https://www.cert.org/)의 Will Dormann
+-   MS11-046에서 설명한 문제점을 보고해 주신 [Shadowserver Foundation(영문)](https://www.shadowserver.org)의 Steven Adair와 Chris S.
+-   MS11-047에서 설명한 문제점을 보고해 주신 [Core Security Technologies(영문)](https://www.coresecurity.com/)의 Nicolas Economou
+-   MS11-049에서 설명한 문제점을 보고해 주신 [Cigital(영문)](https://www.cigital.com)의 Jesse Ou
+-   MS11-050에서 설명한 문제점을 보고해 주신 [Google Inc.](https://www.google.com/)의 Robert Swiecki
+-   MS11-050에서 설명한 문제점을 보고해 주신 [NSFOCUS Security Team(영문)](https://www.nsfocus.com/)
+-   MS11-050에서 설명한 문제점을 [Beyond Security's SecuriTeam Secure Disclosure 프로그램(영문)과](https://www.beyondsecurity.com/ssd.html) 협력하여 보고해 주신 익명의 연구자
+-   MS11-050에서 설명한 문제점을 보고해 주신 [IBM Rational Application Security(영문)](https://blog.watchfire.com/)의 Adi Cohen
+-   MS11-050에서 설명한 문제점을 해결하기 위해 협력해 주신 [Trend Micro(영문)](https://www.trendmicro.com/)
+-   MS11-050에서 설명한 문제점을 보고해 주신 [Norman(영문)](https://www.norman.com)의 Nirmal Singh Bhary
+-   MS11-050에서 설명한 문제점을 [VeriSign iDefense Labs(영문)](https://labs.idefense.com/)와 협력하여 보고해 주신 익명 연구자
+-   MS11-050에서 설명한 문제점을 [TippingPoint(영문)](https://www.tippingpoint.com/)의 [Zero Day Initiative(영문)](https://www.zerodayinitiative.com/)와 협력하여 보고해 주신 Damian Put
+-   MS11-050에서 설명한 문제점을 보고해 주신 [salesforce.com(영문)](https://www.salesforce.com/) Product Security Team의 Yoel Gluck, Yogesh Badwe 및 Varun Badhwar
+-   MS11-050에서 설명한 문제점을 [TippingPoint's](https://www.tippingpoint.com/)[Zero Day Initiative(영문)](https://www.zerodayinitiative.com/)와 협력하여 보고해 주신 Jose Antonio Vazquez Gonzalez
+-   MS11-050에서 설명한 문제점을 [TippingPoint's](https://www.tippingpoint.com/)[Zero Day Initiative(영문)](https://www.zerodayinitiative.com/)와 협력하여 보고해 주신 익명 연구자
+-   MS11-050에서 설명한 문제점을 [TippingPoint(영문)](https://www.tippingpoint.com/)의 [Zero Day Initiative(영문)](https://www.zerodayinitiative.com/)와 협력하여 보고해 주신 Peter Winter-Smith
+-   MS11-050에서 해결된 심층 보안 변경을 위해 [TippingPoint's](https://www.tippingpoint.com/)[Zero Day Initiative(영문)](https://www.zerodayinitiative.com/)와 함께 협력해 주신 [Harmony Security(영문)](https://www.harmonysecurity.com/)의 Stephen Fewer
+-   MS11-051에서 설명한 문제점을 보고해 주신 [Emaze(영문)](https://www.emaze.net/) Networks [Saipem Security Team(영문)](https://www.saipem.com/)의 Ruggero Strabla
+-   MS11-052에서 설명한 문제점을 [TippingPoint's](https://www.tippingpoint.com/)[Zero Day Initiative(영문)](https://www.zerodayinitiative.com/)와 협력하여 보고해 주신 익명 연구자
 
 #### 지원
 
--   나열된 영향을 받는 소프트웨어는 테스트를 거쳐 영향을 받는 버전이 확인되었습니다. 다른 버전은 지원 기간이 끝났습니다. 사용 중인 소프트웨어 버전에 대한 지원 기간을 확인하려면 [Microsoft 지원 기간 정책 웹 사이트](http://go.microsoft.com/fwlink/?linkid=21742)를 참조하십시오.
--   기술 지원은 [보안 지원](http://go.microsoft.com/fwlink/?linkid=21131) 또는 1577-9700을 통해 받을 수 있습니다. 보안 업데이트와 관련된 기술 지원 통화는 무료입니다. 사용 가능한 지원 옵션을 자세히 보려면 [Microsoft 도움말 및 지원](http://support.microsoft.com/) 웹 사이트를 참조하십시오.
--   기타 지역에 거주하는 고객은 해당 Microsoft 지사에서 지원을 받을 수 있습니다. 보안 업데이트와 관련된 기술 지원은 무료입니다. Microsoft 지원 부서에 연락하는 방법에 대한 자세한 내용은 [국가별 지원](http://go.microsoft.com/fwlink/?linkid=21155)에 나와 있습니다.
+-   나열된 영향을 받는 소프트웨어는 테스트를 거쳐 영향을 받는 버전이 확인되었습니다. 다른 버전은 지원 기간이 끝났습니다. 사용 중인 소프트웨어 버전에 대한 지원 기간을 확인하려면 [Microsoft 지원 기간 정책 웹 사이트](https://go.microsoft.com/fwlink/?linkid=21742)를 참조하십시오.
+-   기술 지원은 [보안 지원](https://go.microsoft.com/fwlink/?linkid=21131) 또는 1577-9700을 통해 받을 수 있습니다. 보안 업데이트와 관련된 기술 지원 통화는 무료입니다. 사용 가능한 지원 옵션을 자세히 보려면 [Microsoft 도움말 및 지원](https://support.microsoft.com/) 웹 사이트를 참조하십시오.
+-   기타 지역에 거주하는 고객은 해당 Microsoft 지사에서 지원을 받을 수 있습니다. 보안 업데이트와 관련된 기술 지원은 무료입니다. Microsoft 지원 부서에 연락하는 방법에 대한 자세한 내용은 [국가별 지원](https://go.microsoft.com/fwlink/?linkid=21155)에 나와 있습니다.
 
 #### 부인
 

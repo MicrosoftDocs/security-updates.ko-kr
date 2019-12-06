@@ -15,7 +15,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ko-KR/library/ms15-sep(v=Security.10)
 
 이 공지 요약 목록에는 2015년 9월에 발표된 보안 공지가 포함되어 있습니다.
 
-Microsoft 보안 공지가 게시될 때 자동 알림을 받는 방법은 [Microsoft 기술 보안 알림](http://technet.microsoft.com/ko-kr/security/dd252948.aspx)을 참조하십시오.
+Microsoft 보안 공지가 게시될 때 자동 알림을 받는 방법은 [Microsoft 기술 보안 알림](https://technet.microsoft.com/ko-kr/security/dd252948.aspx)을 참조하십시오.
 
 Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비보안 업데이트와 보안 업데이트의 우선 순위를 고객이 결정하는 데 도움이 되는 정보도 제공합니다. **기타 정보** 절을 참조하십시오.
 
@@ -52,7 +52,7 @@ Microsoft는 월별 보안 업데이트와 동일한 날짜에 발표되는 비�
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-094">MS15-094</a></td>
 <td style="border:1px solid black;"><strong>Internet Explorer용 누적 보안 업데이트(3089548)</strong> <br />
 이 보안 업데이트는 Internet Explorer의 취약성을 해결합니다. 이 중에서 가장 심각한 취약성은 사용자가 Internet Explorer를 사용하여 특수 제작된 웹 페이지를 볼 경우 원격 코드 실행을 허용할 수 있습니다. 이 취약성 악용에 성공한 공격자는 현재 사용자와 동일한 권한을 얻을 수 있습니다. 시스템에 대한 사용자 권한이 적게 구성된 계정의 고객은 관리자 권한으로 작업하는 고객에 비해 영향을 적게 받습니다.</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/gg309177.aspx">긴급</a>(영문) <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/gg309177.aspx">긴급</a>(영문) <br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">다시 시작해야 함</td>
 <td style="border:1px solid black;">---------</td>
@@ -63,7 +63,7 @@ Internet Explorer</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-095">MS15-095</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Edge용 누적 보안 업데이트(3089665) <br />
 </strong>이 보안 업데이트는 Microsoft Edge의 취약성을 해결합니다. 이 중에서 가장 심각한 취약성은 사용자가 Microsoft Edge를 사용하여 특수 제작된 웹 페이지를 볼 경우 원격 코드 실행을 허용할 수 있습니다. 이 취약성 악용에 성공한 공격자는 현재 사용자와 동일한 권한을 얻을 수 있습니다. 시스템에 대한 사용자 권한이 적게 구성된 계정의 고객은 관리자 권한으로 작업하는 고객에 비해 영향을 적게 받습니다.</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/gg309177.aspx">긴급</a>(영문) <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/gg309177.aspx">긴급</a>(영문) <br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">다시 시작해야 함</td>
 <td style="border:1px solid black;">---------</td>
@@ -74,7 +74,7 @@ Microsoft Edge</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-096">MS15-096</a></td>
 <td style="border:1px solid black;"><strong>Active Directory 서비스의 취약성으로 인한 서비스 거부 문제(3072595) <br />
 </strong>이 보안 업데이트는 Active Directory의 취약성을 해결합니다. 이 취약성으로 인해 인증된 공격자가 여러 컴퓨터 계정을 만드는 경우 서비스 거부가 허용될 수 있습니다. 이 취약성을 악용하려면 공격자가 도메인에 컴퓨터를 가입시킬 권한이 있는 계정을 가지고 있어야 합니다.</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/gg309177.aspx">중요</a>(영문) <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/gg309177.aspx">중요</a>(영문) <br />
 서비스 거부</td>
 <td style="border:1px solid black;">다시 시작해야 함</td>
 <td style="border:1px solid black;">---------</td>
@@ -84,7 +84,7 @@ Microsoft Edge</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-097">MS15-097</a></td>
 <td style="border:1px solid black;"><strong>Microsoft 그래픽 구성 요소의 취약성으로 인한 원격 코드 실행 문제(3089656) <br />
 </strong>이 보안 업데이트는 Microsoft Windows, Microsoft Office 및 Microsoft Lync의 취약성을 해결합니다. 이 중에서 가장 심각한 취약성은 사용자가 특수 제작된 문서를 열거나 포함된 OpenType 글꼴이 있는 신뢰할 수 없는 웹 페이지를 방문하는 경우 원격 코드 실행을 허용할 수 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/gg309177.aspx">긴급</a>(영문) <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/gg309177.aspx">긴급</a>(영문) <br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">다시 시작해야 할 수 있음</td>
 <td style="border:1px solid black;"><a href="https://support.microsoft.com/ko-kr/kb/3086255">3086255</a><br />
@@ -97,7 +97,7 @@ Microsoft Lync</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-098">MS15-098</a></td>
 <td style="border:1px solid black;"><strong>Windows 필기장의 취약성으로 인한 원격 코드 실행 문제(3089669) <br />
 </strong>이 보안 업데이트는 Microsoft Windows의 취약성을 해결합니다. 이 중 보다 심각한 취약성은 사용자가 특수 제작된 필기장 파일을 열 경우 원격 코드 실행을 허용할 수 있습니다. 시스템에 대한 사용자 권한이 적게 구성된 계정의 사용자는 관리자 권한으로 작업하는 사용자보다 영향을 덜 받을 수 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/gg309177.aspx">긴급</a>(영문) <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/gg309177.aspx">긴급</a>(영문) <br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">다시 시작해야 할 수 있음</td>
 <td style="border:1px solid black;">---------</td>
@@ -107,7 +107,7 @@ Microsoft Lync</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-099">MS15-099</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Office의 취약성으로 인한 원격 코드 실행 문제(3089664) <br />
 </strong>이 보안 업데이트는 Microsoft Office의 취약성을 해결합니다. 이 중에서 가장 심각한 취약성은 사용자가 특수 제작된 Microsoft Office 파일을 열 경우 원격 코드 실행을 허용할 수 있습니다. 이러한 취약성 악용에 성공한 공격자는 현재 사용자의 컨텍스트에서 임의의 코드를 실행할 수 있습니다. 시스템에 대한 사용자 권한이 적게 구성된 계정의 고객은 관리자 권한으로 작업하는 고객에 비해 영향을 적게 받습니다.</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/gg309177.aspx">긴급</a>(영문) <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/gg309177.aspx">긴급</a>(영문) <br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">다시 시작해야 할 수 있음</td>
 <td style="border:1px solid black;">---------</td>
@@ -118,7 +118,7 @@ Microsoft SharePoint Foundation</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-100">MS15-100</a></td>
 <td style="border:1px solid black;"><strong>Windows Media Center의 취약성으로 인한 원격 코드 실행 문제(3087918) <br />
 </strong>이 보안 업데이트는 Microsoft Windows의 취약성을 해결합니다. Windows Media Center가 악성 코드를 참조하는 특수 제작된 Media Center 링크(.mcl) 파일을 여는 경우 이 취약성으로 인해 원격 코드 실행이 허용될 수 있습니다. 이 취약성 악용에 성공한 공격자는 현재 사용자와 동일한 사용자 권한을 얻을 수 있습니다. 시스템에 대한 사용자 권한이 적게 구성된 계정의 고객은 관리자 권한으로 작업하는 고객에 비해 영향을 적게 받습니다.</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/gg309177.aspx">중요</a>(영문) <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/gg309177.aspx">중요</a>(영문) <br />
 원격 코드 실행</td>
 <td style="border:1px solid black;">다시 시작해야 할 수 있음</td>
 <td style="border:1px solid black;">---------</td>
@@ -128,7 +128,7 @@ Microsoft SharePoint Foundation</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-101">MS15-101</a></td>
 <td style="border:1px solid black;"><strong>.NET Framework의 취약성으로 인한 권한 상승 문제(3089662) <br />
 </strong>이 보안 업데이트는 Microsoft .NET Framework의 취약성을 해결합니다. 이 중에서 가장 심각한 취약성은 사용자가 특수 제작된 .NET 응용 프로그램을 실행할 경우 권한 상승을 허용할 수 있습니다. 하지만 어떠한 경우에도 공격자는 강제로 사용자가 이 응용 프로그램을 실행하도록 만들 수 없습니다. 공격자는 사용자가 이렇게 하도록 유도해야 합니다.</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/gg309177.aspx">중요</a>(영문) <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/gg309177.aspx">중요</a>(영문) <br />
 권한 상승</td>
 <td style="border:1px solid black;">다시 시작할 필요 없음</td>
 <td style="border:1px solid black;">---------</td>
@@ -139,7 +139,7 @@ Microsoft .NET Framework</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-102">MS15-102</a></td>
 <td style="border:1px solid black;"><strong>Windows 작업 관리의 취약성으로 인한 권한 상승 문제(3089657) <br />
 </strong>이 보안 업데이트는 Microsoft Windows의 취약성을 해결합니다. 공격자가 시스템에 로그온하고 특수 제작된 응용 프로그램을 실행할 경우 이 취약성으로 인해 권한 상승이 허용될 수 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/gg309177.aspx">중요</a>(영문) <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/gg309177.aspx">중요</a>(영문) <br />
 권한 상승</td>
 <td style="border:1px solid black;">다시 시작해야 함</td>
 <td style="border:1px solid black;">---------</td>
@@ -149,7 +149,7 @@ Microsoft .NET Framework</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-103">MS15-103</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Exchange Server의 취약성으로 인한 정보 유출 문제(3089250) <br />
 </strong>이 보안 업데이트는 Microsoft Exchange Server의 취약성을 해결합니다. 이 중에서 가장 심각한 취약성은 OWA(Outlook Web Access )가 적절히 웹 요청을 처리하고 사용자 입력 및 전자 메일 콘텐츠를 삭제하지 못하는 경우 정보 유출을 허용할 수 있습니다.</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/gg309177.aspx">중요</a>(영문) <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/gg309177.aspx">중요</a>(영문) <br />
 정보 유출</td>
 <td style="border:1px solid black;">다시 시작해야 할 수 있음</td>
 <td style="border:1px solid black;">---------</td>
@@ -159,7 +159,7 @@ Microsoft .NET Framework</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-104">MS15-104</a></td>
 <td style="border:1px solid black;"><strong>비즈니스용 Skype 서버 및 Lync Server의 취약성으로 인한 권한 상승 문제(3089952) <br />
 </strong>이 보안 업데이트는 비즈니스용 Skype 및 Microsoft Lync Server의 취약성을 해결합니다. 이 중에서 가장 심각한 취약성은 사용자가 특수 제작된 URL을 클릭할 경우 권한 상승을 허용할 수 있습니다. 공격자는 특수 제작된 URL을 통해 사용자를 영향받는 웹 사이트로 유인하는 인스턴트 메신저 또는 전자 메일 메시지의 링크를 클릭하도록 유도해야 합니다.</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/gg309177.aspx">중요</a>(영문) <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/gg309177.aspx">중요</a>(영문) <br />
 권한 상승</td>
 <td style="border:1px solid black;">다시 시작할 필요 없음</td>
 <td style="border:1px solid black;"><a href="https://support.microsoft.com/ko-kr/kb/3080353">3080353</a></td>
@@ -170,7 +170,7 @@ Microsoft Lync Server</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-105">MS15-105</a></td>
 <td style="border:1px solid black;"><strong>Windows Hyper-V의 취약성으로 인한 보안 기능 우회 문제(3091287) <br />
 </strong>이 보안 업데이트는 Microsoft Windows의 취약성을 해결합니다. 공격자가 Windows Hyper-V에서 부적절하게 ACL(액세스 제어 목록) 구성 설정을 적용하게 할 수 있는 특수 제작된 응용 프로그램을 실행하는 경우 이 취약성으로 인해 보안 기능 우회가 허용될 수 있습니다. Hyper-V 역할을 사용하지 않는 고객은 영향을 받지 않습니다.</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/ko-kr/security/gg309177.aspx">중요</a>(영문) <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/security/gg309177.aspx">중요</a>(영문) <br />
 보안 기능 우회</td>
 <td style="border:1px solid black;">다시 시작해야 함</td>
 <td style="border:1px solid black;">---------</td>
@@ -187,7 +187,7 @@ Microsoft Lync Server</td>
   
 **이 표를 어떻게 사용합니까?**
   
-이 표를 사용하여 설치해야 할 수 있는 각 보안 업데이트에 대한 보안 공지 발표 후 30일 내 코드 실행 및 서비스 거부 악용 가능성에 대해 자세히 알아볼 수 있습니다. 이달의 업데이트 배포의 우선 순위를 정하려면 사용자의 특정 구성에 따라 아래의 각 평가를 검토하십시오. 이러한 등급의 의미와 등급이 결정되는 방법에 대한 자세한 내용은 [Microsoft 악용 가능성 인덱스](http://technet.microsoft.com/ko-kr/security/cc998259)를 참조하십시오.
+이 표를 사용하여 설치해야 할 수 있는 각 보안 업데이트에 대한 보안 공지 발표 후 30일 내 코드 실행 및 서비스 거부 악용 가능성에 대해 자세히 알아볼 수 있습니다. 이달의 업데이트 배포의 우선 순위를 정하려면 사용자의 특정 구성에 따라 아래의 각 평가를 검토하십시오. 이러한 등급의 의미와 등급이 결정되는 방법에 대한 자세한 내용은 [Microsoft 악용 가능성 인덱스](https://technet.microsoft.com/ko-kr/security/cc998259)를 참조하십시오.
   
 아래 열에서 "최신 소프트웨어 릴리스"는 관련 소프트웨어를 나타내며 "이전 소프트웨어 릴리스"는 공지의 "영향받는 소프트웨어" 및 "영향받지 않는 소프트웨어" 표에 나열된 지원 대상인 관련 소프트웨어의 모든 이전 릴리스를 나타냅니다.
   
@@ -216,7 +216,7 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-094">MS15-094</a></td>
 <td style="border:1px solid black;">정보 유출 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2483">CVE-2015-2483(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2483">CVE-2015-2483(영문)</a></td>
 <td style="border:1px solid black;">2 - 악용 가능성 낮음</td>
 <td style="border:1px solid black;">2 - 악용 가능성 낮음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -224,7 +224,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-094">MS15-094</a></td>
 <td style="border:1px solid black;">변조 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2484">CVE-2015-2484(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2484">CVE-2015-2484(영문)</a></td>
 <td style="border:1px solid black;">2 - 악용 가능성 낮음</td>
 <td style="border:1px solid black;">2 - 악용 가능성 낮음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -232,7 +232,7 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-094">MS15-094</a></td>
 <td style="border:1px solid black;">메모리 손상 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2485">CVE-2015-2485(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2485">CVE-2015-2485(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -240,7 +240,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-094">MS15-094</a></td>
 <td style="border:1px solid black;">메모리 손상 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2486">CVE-2015-2486(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2486">CVE-2015-2486(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -248,7 +248,7 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-094">MS15-094</a></td>
 <td style="border:1px solid black;">메모리 손상 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2487">CVE-2015-2487(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2487">CVE-2015-2487(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -256,7 +256,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-094">MS15-094</a></td>
 <td style="border:1px solid black;">권한 상승 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2489">CVE-2015-2489(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2489">CVE-2015-2489(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -264,7 +264,7 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-094">MS15-094</a></td>
 <td style="border:1px solid black;">메모리 손상 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2490">CVE-2015-2490(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2490">CVE-2015-2490(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -272,7 +272,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-094">MS15-094</a></td>
 <td style="border:1px solid black;">메모리 손상 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2491">CVE-2015-2491(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2491">CVE-2015-2491(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -280,7 +280,7 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-094">MS15-094</a></td>
 <td style="border:1px solid black;">메모리 손상 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2492">CVE-2015-2492(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2492">CVE-2015-2492(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -288,7 +288,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-094">MS15-094</a></td>
 <td style="border:1px solid black;">스크립팅 엔진 메모리 손상 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2493">CVE-2015-2493(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2493">CVE-2015-2493(영문)</a></td>
 <td style="border:1px solid black;">4 - 영향을 받지 않음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -296,7 +296,7 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-094">MS15-094</a></td>
 <td style="border:1px solid black;">메모리 손상 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2494">CVE-2015-2494(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2494">CVE-2015-2494(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -304,7 +304,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-094">MS15-094</a></td>
 <td style="border:1px solid black;">메모리 손상 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2498">CVE-2015-2498(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2498">CVE-2015-2498(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -312,7 +312,7 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-094">MS15-094</a></td>
 <td style="border:1px solid black;">메모리 손상 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2499">CVE-2015-2499(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2499">CVE-2015-2499(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -320,7 +320,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-094">MS15-094</a></td>
 <td style="border:1px solid black;">메모리 손상 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2500">CVE-2015-2500(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2500">CVE-2015-2500(영문)</a></td>
 <td style="border:1px solid black;">4 - 영향을 받지 않음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -328,7 +328,7 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-094">MS15-094</a></td>
 <td style="border:1px solid black;">메모리 손상 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2501">CVE-2015-2501(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2501">CVE-2015-2501(영문)</a></td>
 <td style="border:1px solid black;">4 - 영향을 받지 않음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -336,7 +336,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-094">MS15-094</a></td>
 <td style="border:1px solid black;">메모리 손상 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2541">CVE-2015-2541(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2541">CVE-2015-2541(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -344,31 +344,15 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-094">MS15-094</a></td>
 <td style="border:1px solid black;">메모리 손상 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2542">CVE-2015-2542(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2542">CVE-2015-2542(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
-<td style="border:1px solid black;">해당 없음</td>
-</tr>
-<tr class="odd">
-<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-095">MS15-095</a></td>
-<td style="border:1px solid black;">메모리 손상 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2485">CVE-2015-2485(영문)</a></td>
-<td style="border:1px solid black;">1 - 악용 가능성 높음</td>
-<td style="border:1px solid black;">4 - 영향을 받지 않음</td>
-<td style="border:1px solid black;">해당 없음</td>
-</tr>
-<tr class="even">
-<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-095">MS15-095</a></td>
-<td style="border:1px solid black;">메모리 손상 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2486">CVE-2015-2486(영문)</a></td>
-<td style="border:1px solid black;">1 - 악용 가능성 높음</td>
-<td style="border:1px solid black;">4 - 영향을 받지 않음</td>
 <td style="border:1px solid black;">해당 없음</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-095">MS15-095</a></td>
 <td style="border:1px solid black;">메모리 손상 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2494">CVE-2015-2494(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2485">CVE-2015-2485(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">4 - 영향을 받지 않음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -376,7 +360,23 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-095">MS15-095</a></td>
 <td style="border:1px solid black;">메모리 손상 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2542">CVE-2015-2542(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2486">CVE-2015-2486(영문)</a></td>
+<td style="border:1px solid black;">1 - 악용 가능성 높음</td>
+<td style="border:1px solid black;">4 - 영향을 받지 않음</td>
+<td style="border:1px solid black;">해당 없음</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-095">MS15-095</a></td>
+<td style="border:1px solid black;">메모리 손상 취약성</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2494">CVE-2015-2494(영문)</a></td>
+<td style="border:1px solid black;">1 - 악용 가능성 높음</td>
+<td style="border:1px solid black;">4 - 영향을 받지 않음</td>
+<td style="border:1px solid black;">해당 없음</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-095">MS15-095</a></td>
+<td style="border:1px solid black;">메모리 손상 취약성</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2542">CVE-2015-2542(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -384,7 +384,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-096">MS15-096</a></td>
 <td style="border:1px solid black;">Active Directory 서비스 거부 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2535">CVE-2015-2535(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2535">CVE-2015-2535(영문)</a></td>
 <td style="border:1px solid black;">4 - 영향을 받지 않음</td>
 <td style="border:1px solid black;">3 - 악용 불가능</td>
 <td style="border:1px solid black;">영구</td>
@@ -392,7 +392,7 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-097">MS15-097</a></td>
 <td style="border:1px solid black;">OpenType 글꼴 구문 분석 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2506">CVE-2015-2506(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2506">CVE-2015-2506(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">영구</td>
@@ -400,7 +400,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-097">MS15-097</a></td>
 <td style="border:1px solid black;">글꼴 드라이버 권한 상승 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2507">CVE-2015-2507(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2507">CVE-2015-2507(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -408,7 +408,7 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-097">MS15-097</a></td>
 <td style="border:1px solid black;">글꼴 드라이버 권한 상승 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2508">CVE-2015-2508(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2508">CVE-2015-2508(영문)</a></td>
 <td style="border:1px solid black;">2 - 악용 가능성 낮음</td>
 <td style="border:1px solid black;">4 - 영향을 받지 않음</td>
 <td style="border:1px solid black;">임시</td>
@@ -416,7 +416,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-097">MS15-097</a></td>
 <td style="border:1px solid black;">그래픽 구성 요소 버퍼 오버플로 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2510">CVE-2015-2510(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2510">CVE-2015-2510(영문)</a></td>
 <td style="border:1px solid black;">2 - 악용 가능성 낮음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -424,7 +424,7 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-097">MS15-097</a></td>
 <td style="border:1px solid black;">Win32k 메모리 손상 권한 상승 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2511">CVE-2015-2511(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2511">CVE-2015-2511(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -432,7 +432,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-097">MS15-097</a></td>
 <td style="border:1px solid black;">글꼴 드라이버 권한 상승 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2512">CVE-2015-2512(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2512">CVE-2015-2512(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -440,7 +440,7 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-097">MS15-097</a></td>
 <td style="border:1px solid black;">Win32k 메모리 손상 권한 상승 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2517">CVE-2015-2517(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2517">CVE-2015-2517(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">영구</td>
@@ -448,7 +448,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-097">MS15-097</a></td>
 <td style="border:1px solid black;">Win32k 메모리 손상 권한 상승 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2518">CVE-2015-2518(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2518">CVE-2015-2518(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">영구</td>
@@ -456,7 +456,7 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-097">MS15-097</a></td>
 <td style="border:1px solid black;">Win32k 권한 상승 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2527">CVE-2015-2527(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2527">CVE-2015-2527(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -464,7 +464,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-097">MS15-097</a></td>
 <td style="border:1px solid black;">커널 ASLR 우회 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2529">CVE-2015-2529(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2529">CVE-2015-2529(영문)</a></td>
 <td style="border:1px solid black;">2 - 악용 가능성 낮음</td>
 <td style="border:1px solid black;">2 - 악용 가능성 낮음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -472,7 +472,7 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-097">MS15-097</a></td>
 <td style="border:1px solid black;">Win32k 메모리 손상 권한 상승 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2546">CVE-2015-2546(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2546">CVE-2015-2546(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">0- 악용 검색됨</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -480,7 +480,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-098">MS15-098</a></td>
 <td style="border:1px solid black;">Windows 필기장 RCE 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2513">CVE-2015-2513(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2513">CVE-2015-2513(영문)</a></td>
 <td style="border:1px solid black;">3 - 악용 불가능</td>
 <td style="border:1px solid black;">3 - 악용 불가능</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -488,7 +488,7 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-098">MS15-098</a></td>
 <td style="border:1px solid black;">Windows 필기장 DoS 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2514">CVE-2015-2514(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2514">CVE-2015-2514(영문)</a></td>
 <td style="border:1px solid black;">3 - 악용 불가능</td>
 <td style="border:1px solid black;">3 - 악용 불가능</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -496,7 +496,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-098">MS15-098</a></td>
 <td style="border:1px solid black;">Windows 필기장 DoS 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2516">CVE-2015-2516(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2516">CVE-2015-2516(영문)</a></td>
 <td style="border:1px solid black;">3 - 악용 불가능</td>
 <td style="border:1px solid black;">3 - 악용 불가능</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -504,7 +504,7 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-098">MS15-098</a></td>
 <td style="border:1px solid black;">Windows 필기장 정수 오버플로 RCE 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2519">CVE-2015-2519(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2519">CVE-2015-2519(영문)</a></td>
 <td style="border:1px solid black;">3 - 악용 불가능</td>
 <td style="border:1px solid black;">3 - 악용 불가능</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -512,7 +512,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-098">MS15-098</a></td>
 <td style="border:1px solid black;">Windows 필기장 RCE 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2530">CVE-2015-2530(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2530">CVE-2015-2530(영문)</a></td>
 <td style="border:1px solid black;">3 - 악용 불가능</td>
 <td style="border:1px solid black;">3 - 악용 불가능</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -520,7 +520,7 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-099">MS15-099</a></td>
 <td style="border:1px solid black;">Microsoft Office 메모리 손상 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2520">CVE-2015-2520(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2520">CVE-2015-2520(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -528,7 +528,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-099">MS15-099</a></td>
 <td style="border:1px solid black;">Microsoft Office 메모리 손상 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2521">CVE-2015-2521(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2521">CVE-2015-2521(영문)</a></td>
 <td style="border:1px solid black;">4 - 영향을 받지 않음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -536,7 +536,7 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-099">MS15-099</a></td>
 <td style="border:1px solid black;">Microsoft SharePoint XSS 스푸핑 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2522">CVE-2015-2522(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2522">CVE-2015-2522(영문)</a></td>
 <td style="border:1px solid black;">3 - 악용 불가능</td>
 <td style="border:1px solid black;">4 - 영향을 받지 않음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -544,7 +544,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-099">MS15-099</a></td>
 <td style="border:1px solid black;">Microsoft Office 메모리 손상 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2523">CVE-2015-2523(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2523">CVE-2015-2523(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -552,7 +552,7 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-099">MS15-099</a></td>
 <td style="border:1px solid black;">Microsoft Office 잘못된 형식의 EPS 파일 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2545">CVE-2015-2545(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2545">CVE-2015-2545(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">0- 악용 검색됨</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -560,7 +560,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-100">MS15-100</a></td>
 <td style="border:1px solid black;">Windows Media Center RCE 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2509">CVE-2015-2509(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2509">CVE-2015-2509(영문)</a></td>
 <td style="border:1px solid black;">2 - 악용 가능성 낮음</td>
 <td style="border:1px solid black;">2 - 악용 가능성 낮음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -568,7 +568,7 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-101">MS15-101</a></td>
 <td style="border:1px solid black;">.NET 권한 상승 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2504">CVE-2015-2504(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2504">CVE-2015-2504(영문)</a></td>
 <td style="border:1px solid black;">2 - 악용 가능성 낮음</td>
 <td style="border:1px solid black;">2 - 악용 가능성 낮음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -576,7 +576,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-101">MS15-101</a></td>
 <td style="border:1px solid black;">MVC 서비스 거부 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2526">CVE-2015-2526(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2526">CVE-2015-2526(영문)</a></td>
 <td style="border:1px solid black;">2 - 악용 가능성 낮음</td>
 <td style="border:1px solid black;">2 - 악용 가능성 낮음</td>
 <td style="border:1px solid black;">임시</td>
@@ -584,7 +584,7 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-102">MS15-102</a></td>
 <td style="border:1px solid black;">Windows 작업 관리 권한 상승 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2524">CVE-2015-2524(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2524">CVE-2015-2524(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -592,7 +592,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-102">MS15-102</a></td>
 <td style="border:1px solid black;">Windows 작업 파일 삭제 권한 상승 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2525">CVE-2015-2525(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2525">CVE-2015-2525(영문)</a></td>
 <td style="border:1px solid black;">4 - 영향을 받지 않음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -600,7 +600,7 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-102">MS15-102</a></td>
 <td style="border:1px solid black;">Windows 작업 관리 권한 상승 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2528">CVE-2015-2528(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2528">CVE-2015-2528(영문)</a></td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">1 - 악용 가능성 높음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -608,7 +608,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-103">MS15-103</a></td>
 <td style="border:1px solid black;">Exchange 정보 유출 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2505">CVE-2015-2505(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2505">CVE-2015-2505(영문)</a></td>
 <td style="border:1px solid black;">3 - 악용 불가능</td>
 <td style="border:1px solid black;">3 - 악용 불가능</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -616,7 +616,7 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-103">MS15-103</a></td>
 <td style="border:1px solid black;">Exchange 스푸핑 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2543">CVE-2015-2543(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2543">CVE-2015-2543(영문)</a></td>
 <td style="border:1px solid black;">3 - 악용 불가능</td>
 <td style="border:1px solid black;">3 - 악용 불가능</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -624,7 +624,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-103">MS15-103</a></td>
 <td style="border:1px solid black;">Exchange 스푸핑 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2544">CVE-2015-2544(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2544">CVE-2015-2544(영문)</a></td>
 <td style="border:1px solid black;">3 - 악용 불가능</td>
 <td style="border:1px solid black;">3 - 악용 불가능</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -632,7 +632,7 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-104">MS15-104</a></td>
 <td style="border:1px solid black;">비즈니스용 Skype 서버 및 Lync Server XSS 정보 유출 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2531">CVE-2015-2531(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2531">CVE-2015-2531(영문)</a></td>
 <td style="border:1px solid black;">3 - 악용 불가능</td>
 <td style="border:1px solid black;">3 - 악용 불가능</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -640,7 +640,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-104">MS15-104</a></td>
 <td style="border:1px solid black;">Lync Server XSS 정보 유출 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2532">CVE-2015-2532(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2532">CVE-2015-2532(영문)</a></td>
 <td style="border:1px solid black;">4 - 영향을 받지 않음</td>
 <td style="border:1px solid black;">3 - 악용 불가능</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -648,7 +648,7 @@ Microsoft Lync Server</td>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-104">MS15-104</a></td>
 <td style="border:1px solid black;">비즈니스용 Skype 서버 및 Lync Server XSS 권한 상승 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2536">CVE-2015-2536(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2536">CVE-2015-2536(영문)</a></td>
 <td style="border:1px solid black;">3 - 악용 불가능</td>
 <td style="border:1px solid black;">3 - 악용 불가능</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -656,7 +656,7 @@ Microsoft Lync Server</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/ko-kr/library/security/ms15-105">MS15-105</a></td>
 <td style="border:1px solid black;">Hyper-V 보안 기능 우회 취약성</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2534">CVE-2015-2534(영문)</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2534">CVE-2015-2534(영문)</a></td>
 <td style="border:1px solid black;">2 - 악용 가능성 낮음</td>
 <td style="border:1px solid black;">2 - 악용 가능성 낮음</td>
 <td style="border:1px solid black;">해당 없음</td>
@@ -716,7 +716,7 @@ Microsoft Lync Server</td>
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -728,11 +728,11 @@ Microsoft Lync Server</td>
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -856,7 +856,7 @@ Windows Vista x64 Edition 서비스 팩 2
 
 </td>
 <td style="border:1px solid black;">
-[**보통**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**보통**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -864,15 +864,15 @@ Windows Vista x64 Edition 서비스 팩 2
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1035,7 +1035,7 @@ Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1047,11 +1047,11 @@ Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1175,7 +1175,7 @@ Windows 7(x64 기반 시스템용) 서비스 팩 1
 
 </td>
 <td style="border:1px solid black;">
-[**보통**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**보통**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1183,15 +1183,15 @@ Windows 7(x64 기반 시스템용) 서비스 팩 1
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1308,7 +1308,7 @@ Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1320,11 +1320,11 @@ Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1494,7 +1494,7 @@ Windows 8.1(x64 기반 시스템용)
 
 </td>
 <td style="border:1px solid black;">
-[**보통**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**보통**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1502,15 +1502,15 @@ Windows 8.1(x64 기반 시스템용)
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1620,7 +1620,7 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1632,11 +1632,11 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1742,11 +1742,11 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1754,11 +1754,11 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1876,11 +1876,11 @@ Windows 10(x64 기반 시스템용)
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2105,15 +2105,15 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2245,11 +2245,11 @@ Windows Vista x64 Edition 서비스 팩 2
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2402,15 +2402,15 @@ Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2542,11 +2542,11 @@ Windows 7(x64 기반 시스템용) 서비스 팩 1
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2658,19 +2658,19 @@ Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -2886,15 +2886,15 @@ Windows 8.1(x64 기반 시스템용)
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3020,11 +3020,11 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -3146,15 +3146,15 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3256,15 +3256,15 @@ Windows 10(x64 기반 시스템용)
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3486,11 +3486,11 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3600,11 +3600,11 @@ Microsoft Exchange Server 2013 서비스 팩 1
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3655,11 +3655,11 @@ Microsoft Excel 2007 서비스 팩 3
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3735,7 +3735,7 @@ Microsoft Excel 2010 서비스 팩 2(64비트 버전)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3807,7 +3807,7 @@ Microsoft Excel 2013 서비스 팩 1(64비트 버전)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3860,7 +3860,7 @@ Microsoft Excel 2013 RT 서비스 팩 1
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3932,7 +3932,7 @@ Microsoft Excel 2016(64비트 버전)
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3998,7 +3998,7 @@ Microsoft Excel 2016 for Mac
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4070,7 +4070,7 @@ Microsoft Excel Viewer
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -4120,7 +4120,7 @@ Microsoft Live Meeting 2007 콘솔
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -4222,7 +4222,7 @@ Microsoft Lync 2010 Attendee
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -4328,7 +4328,7 @@ Microsoft Lync Basic 2013 서비스 팩 1(64비트)
 
 </td>
 <td style="border:1px solid black;">
-[**긴급**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**긴급**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -4398,7 +4398,7 @@ Microsoft Lync Basic 2013 서비스 팩 1(64비트)
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4450,7 +4450,7 @@ Microsoft Lync Server 2013
 
 </td>
 <td style="border:1px solid black;">
-[**중요**(영문)](http://technet.microsoft.com/ko-kr/security/gg309177.aspx)
+[**중요**(영문)](https://technet.microsoft.com/ko-kr/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4488,7 +4488,7 @@ Microsoft Lync Server 2013
 
 ACT(Application Compatibility Toolkit)에 포함되어 있는 UCE(Update Compatibility Evaluator) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사가 간소화됩니다.
 
-여기에 나온 도구 및 사용 가능한 기타 도구에 대한 자세한 내용은 [보안 도구](http://technet.microsoft.com/ko-kr/security/cc297183)를 참조하십시오. 
+여기에 나온 도구 및 사용 가능한 기타 도구에 대한 자세한 내용은 [보안 도구](https://technet.microsoft.com/ko-kr/security/cc297183)를 참조하십시오. 
 
 감사의 말
 ---------
@@ -4509,39 +4509,39 @@ Microsoft는 신뢰할 수 있는 취약성 공개를 통해 고객을 보호하
 Windows Update 및 Microsoft Update의 비보안 릴리스에 대한 자세한 내용은 다음을 참조하십시오.
 
 -   [Microsoft 기술 자료 문서 894199](https://support.microsoft.com/ko-kr/kb/894199): 변경된 Software Update Services 및 Windows Server Update Services 내용에 대한 설명. 모든 Windows 콘텐츠 포함.
--   [Windows Server Update Services용으로 지난 몇 달간 배포된 업데이트](http://technet.microsoft.com/ko-kr/windowsserver/bb332157.aspx). Microsoft Windows가 아닌 Microsoft 제품용 신규, 개정 및 재출시 업데이트를 전부 표시합니다.
+-   [Windows Server Update Services용으로 지난 몇 달간 배포된 업데이트](https://technet.microsoft.com/ko-kr/windowsserver/bb332157.aspx). Microsoft Windows가 아닌 Microsoft 제품용 신규, 개정 및 재출시 업데이트를 전부 표시합니다.
 
 ### MAPP(Microsoft Active Protections Program)
 
-고객을 위한 보안을 강화하기 위해 Microsoft는 각각의 월별 보안 업데이트를 배포하기 전에 주요 보안 소프트웨어 제공업체에 취약성 정보를 제공합니다. 보안 소프트웨어 제공업체는 이 취약성 정보를 사용하여 바이러스 백신, 네트워크 기반 침입 탐지 시스템 또는 호스트 기반 침임 방지 시스템 등 자사의 보안 소프트웨어나 장치를 통해 업데이트된 보호 기능을 고객에게 제공할 수 있습니다. 보안 소프트웨어 제공업체가 활성 보호 기능을 제공하는지 확인하려면 [Microsoft MAPP(Active Protections Program) 파트너](http://technet.microsoft.com/ko-kr/security/dn467918)(영문)에 나열된 프로그램 파트너가 제공하는 활성 보호 기능 웹 사이트를 참조하십시오.
+고객을 위한 보안을 강화하기 위해 Microsoft는 각각의 월별 보안 업데이트를 배포하기 전에 주요 보안 소프트웨어 제공업체에 취약성 정보를 제공합니다. 보안 소프트웨어 제공업체는 이 취약성 정보를 사용하여 바이러스 백신, 네트워크 기반 침입 탐지 시스템 또는 호스트 기반 침임 방지 시스템 등 자사의 보안 소프트웨어나 장치를 통해 업데이트된 보호 기능을 고객에게 제공할 수 있습니다. 보안 소프트웨어 제공업체가 활성 보호 기능을 제공하는지 확인하려면 [Microsoft MAPP(Active Protections Program) 파트너](https://technet.microsoft.com/ko-kr/security/dn467918)(영문)에 나열된 프로그램 파트너가 제공하는 활성 보호 기능 웹 사이트를 참조하십시오.
 
 ### 보안 전략 및 커뮤니티
 
 **업데이트 관리 전략**
 
-[업데이트 관리를 위한 보안 가이드](http://technet.microsoft.com/ko-kr/library/bb466251.aspx)(영문)는 보안 업데이트 적용에 대해 Microsoft가 권장하는 모범 사례와 관련한 추가 정보를 제공합니다.
+[업데이트 관리를 위한 보안 가이드](https://technet.microsoft.com/ko-kr/library/bb466251.aspx)(영문)는 보안 업데이트 적용에 대해 Microsoft가 권장하는 모범 사례와 관련한 추가 정보를 제공합니다.
 
 **기타 보안 업데이트 받기**
 
 기타 보안 문제 관련 업데이트는 다음 사이트에서 제공됩니다.
 
--   보안 업데이트는 [Microsoft 다운로드 센터](http://www.microsoft.com/ko-kr/download/search.aspx?q=security%20update)에서 제공됩니다. "보안 업데이트"라는 키워드 검색을 수행하면 가장 쉽게 찾을 수 있습니다.
--   소비자 플랫폼용 업데이트는 [Microsoft Update](http://update.microsoft.com/microsoftupdate/v6/vistadefault.aspx?ln=ko-kr)에서 제공됩니다.
+-   보안 업데이트는 [Microsoft 다운로드 센터](https://www.microsoft.com/ko-kr/download/search.aspx?q=security%20update)에서 제공됩니다. "보안 업데이트"라는 키워드 검색을 수행하면 가장 쉽게 찾을 수 있습니다.
+-   소비자 플랫폼용 업데이트는 [Microsoft Update](https://update.microsoft.com/microsoftupdate/v6/vistadefault.aspx?ln=ko-kr)에서 제공됩니다.
 -   이달에 제공되는 보안 업데이트는 Windows Update를 통해서 또는 다운로드 센터에서 제공되는 보안 및 긴급 릴리스 ISO CD 이미지 파일로 받을 수 있습니다. 자세한 내용은 [Microsoft 기술 자료 문서 913086](https://support.microsoft.com/ko-kr/kb/913086)을 참조하십시오.
 
 **IT 전문가 보안 커뮤니티**
 
-[IT 전문가 보안 커뮤니티](http://technet.microsoft.com/ko-kr/security/cc136632.aspx)에서는 보안을 강화하고 IT 인프라를 최적화하는 방법에 대해 알아보고 보안 항목에 대한 정보를 다른 IT 전문가와 공유할 수 있습니다.
+[IT 전문가 보안 커뮤니티](https://technet.microsoft.com/ko-kr/security/cc136632.aspx)에서는 보안을 강화하고 IT 인프라를 최적화하는 방법에 대해 알아보고 보안 항목에 대한 정보를 다른 IT 전문가와 공유할 수 있습니다.
 
 ### 지원
 
 나열된 영향받는 소프트웨어는 테스트를 거쳐 영향받는 버전이 확인되었습니다. 다른 버전은 지원 주기가 끝났습니다. 사용 중인 소프트웨어 버전에 대한 지원 주기를 확인하려면 [Microsoft 지원 주기](https://support.microsoft.com/ko-kr/lifecycle)를 참조하십시오.
 
-IT 전문가용 보안 솔루션: [TechNet 보안 문제 해결 및 지원](http://technet.microsoft.com/ko-kr/security/bb980617)
+IT 전문가용 보안 솔루션: [TechNet 보안 문제 해결 및 지원](https://technet.microsoft.com/ko-kr/security/bb980617)
 
-Windows 컴퓨터를 바이러스 및 맬웨어로부터 보호: [바이러스 솔루션 및 보안 센터](http://support.microsoft.com/contactus/cu_sc_virsec_master?ln=ko)
+Windows 컴퓨터를 바이러스 및 맬웨어로부터 보호: [바이러스 솔루션 및 보안 센터](https://support.microsoft.com/contactus/cu_sc_virsec_master?ln=ko)
 
-각 지역의 국가별 지원: [국가별 지원](http://support.microsoft.com/common/international.aspx?ln=ko)
+각 지역의 국가별 지원: [국가별 지원](https://support.microsoft.com/common/international.aspx?ln=ko)
 
 ### 고지 사항
 

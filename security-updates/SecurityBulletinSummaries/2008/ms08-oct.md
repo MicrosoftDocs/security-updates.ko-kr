@@ -295,39 +295,39 @@ Microsoft Windows 2000
 Microsoft Windows 2000 서비스 팩 4
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=e22eb3ae-1295-4fe2-9775-6f43c5c2aed3)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=e22eb3ae-1295-4fe2-9775-6f43c5c2aed3)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Server 서비스 팩 4의 Active Directory](http://www.microsoft.com/downloads/details.aspx?familyid=8ed7bb9a-4b26-49d7-8c14-60226d2bc20d)  
+[Microsoft Windows 2000 Server 서비스 팩 4의 Active Directory](https://www.microsoft.com/download/details.aspx?familyid=8ed7bb9a-4b26-49d7-8c14-60226d2bc20d)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 5.01 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=257c0478-56dd-42eb-a90e-607d01613db7)  
+[Microsoft Internet Explorer 5.01 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=257c0478-56dd-42eb-a90e-607d01613db7)  
 (긴급)  
-[Microsoft Internet Explorer 6 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=02390258-08e9-4b75-960d-be081b749558)  
+[Microsoft Internet Explorer 6 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=02390258-08e9-4b75-960d-be081b749558)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=3a6165a6-d7e7-4526-9291-290caf0639b4)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=3a6165a6-d7e7-4526-9291-290caf0639b4)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=8163d1f6-feb5-4f39-8134-3ed42326b822)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=8163d1f6-feb5-4f39-8134-3ed42326b822)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=9ed29c3a-0682-4586-bbc2-a73deaa18e4c)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=9ed29c3a-0682-4586-bbc2-a73deaa18e4c)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=899e2728-2433-4ccb-a195-05b5d65e5469)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=899e2728-2433-4ccb-a195-05b5d65e5469)  
 (중요)
 </td>
 </tr>
@@ -405,36 +405,36 @@ Windows XP
 Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=0d5f9b6e-9265-44b9-a376-2067b73d6a03)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=0d5f9b6e-9265-44b9-a376-2067b73d6a03)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=a7f0f47b-b1ee-4516-9fbf-bf8e579963d0)  
+[Microsoft Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=a7f0f47b-b1ee-4516-9fbf-bf8e579963d0)  
 (긴급)  
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=4e73de2b-05e6-4901-9bac-46d8f469e635)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=4e73de2b-05e6-4901-9bac-46d8f469e635)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=b16d9dac-c430-4dd8-a1e5-9a614801f1d9)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=b16d9dac-c430-4dd8-a1e5-9a614801f1d9)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=7718bf14-c26c-43f3-be67-4c79ab5b2607)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=7718bf14-c26c-43f3-be67-4c79ab5b2607)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=e7ef571f-c9e8-4e14-95a3-3eeaec55b784)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=e7ef571f-c9e8-4e14-95a3-3eeaec55b784)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=2f7e5981-6eef-4f08-86c0-c6a7607ea5d0)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=2f7e5981-6eef-4f08-86c0-c6a7607ea5d0)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=25997b73-a640-49c1-b19e-768a18bbe22c)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=25997b73-a640-49c1-b19e-768a18bbe22c)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -446,36 +446,36 @@ Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=4c16a372-7bf8-4571-b982-dac6b2992b25)  
+[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=4c16a372-7bf8-4571-b982-dac6b2992b25)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=234c05fb-988b-4e02-aab6-bb23e447df3d)  
+[Microsoft Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=234c05fb-988b-4e02-aab6-bb23e447df3d)  
 (긴급)  
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=ccf7a3e3-ec30-4b95-9a86-00032301513c)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=ccf7a3e3-ec30-4b95-9a86-00032301513c)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=5b607efc-c6fb-4079-8478-e4f3262386d3)  
+[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=5b607efc-c6fb-4079-8478-e4f3262386d3)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b06d3a02-b6e4-4d40-913a-3759a31f20f3)  
+[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b06d3a02-b6e4-4d40-913a-3759a31f20f3)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=3ae4b913-bff0-4974-b198-828ca10d2a87)  
+[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=3ae4b913-bff0-4974-b198-828ca10d2a87)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=4e1675eb-6b06-48e9-9765-23a2c7737bdc)  
+[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=4e1675eb-6b06-48e9-9765-23a2c7737bdc)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=50fae854-0bde-46f8-9444-b9e0d9bfecad)  
+[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=50fae854-0bde-46f8-9444-b9e0d9bfecad)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -556,36 +556,36 @@ Windows Server 2003
 Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=f26d395d-2459-4e40-8c92-3de1c52c390d)  
+[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=f26d395d-2459-4e40-8c92-3de1c52c390d)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=ae8d22d5-20aa-471d-a423-f54c9d75febe)  
+[Microsoft Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=ae8d22d5-20aa-471d-a423-f54c9d75febe)  
 (보통)  
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=feaf2adf-7892-4dbf-a147-db4d5dbe52f3)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=feaf2adf-7892-4dbf-a147-db4d5dbe52f3)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=ee88ff2d-1b12-4f4c-a081-9f27a6fba074)  
+[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=ee88ff2d-1b12-4f4c-a081-9f27a6fba074)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=6e696762-d652-4a8f-ab8f-622f9746c320)  
+[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=6e696762-d652-4a8f-ab8f-622f9746c320)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=437a9b68-6a0c-48c8-9348-0d6fda48aa21)  
+[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=437a9b68-6a0c-48c8-9348-0d6fda48aa21)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=dbbebb3f-f1c7-402c-bd16-6f88da0d042c)  
+[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=dbbebb3f-f1c7-402c-bd16-6f88da0d042c)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=e8ef3d5f-dd8e-4945-92cd-9d3e30b16667)  
+[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=e8ef3d5f-dd8e-4945-92cd-9d3e30b16667)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -597,36 +597,36 @@ Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2
 Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=c04d2afb-f9d0-4e42-9e1f-4b944a2de400)  
+[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=c04d2afb-f9d0-4e42-9e1f-4b944a2de400)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=07fc88c4-2571-4a4d-b573-ae576798ab4c)  
+[Microsoft Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=07fc88c4-2571-4a4d-b573-ae576798ab4c)  
 (보통)  
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=319dba34-07ca-47f9-a1e9-20df2df7966b)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=319dba34-07ca-47f9-a1e9-20df2df7966b)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=ab4d94d3-458c-4946-ab7f-03a279629d25)  
+[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=ab4d94d3-458c-4946-ab7f-03a279629d25)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=57ca28ea-e5e1-4191-a3d6-84aa90a3d668)  
+[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=57ca28ea-e5e1-4191-a3d6-84aa90a3d668)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=d3df6508-a568-449d-ac97-fbf3f97b98ef)  
+[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=d3df6508-a568-449d-ac97-fbf3f97b98ef)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=989ac6f1-515c-467d-a200-2aabe66d9319)  
+[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=989ac6f1-515c-467d-a200-2aabe66d9319)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=c2e754f9-086a-494c-bc19-5feed7df8b65)  
+[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=c2e754f9-086a-494c-bc19-5feed7df8b65)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -638,36 +638,36 @@ Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 �
 Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=ab590756-f11f-43c9-9dcc-a85a43077acf)  
+[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=ab590756-f11f-43c9-9dcc-a85a43077acf)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=b68937af-f04a-4d1e-9d7f-ec92af5194de)  
+[Microsoft Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=b68937af-f04a-4d1e-9d7f-ec92af5194de)  
 (보통)  
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=47381d91-4a14-4a09-96b3-3345155df52d)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=47381d91-4a14-4a09-96b3-3345155df52d)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=63234f85-6e5d-4ef6-b7cf-d1d2c78a5517)  
+[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=63234f85-6e5d-4ef6-b7cf-d1d2c78a5517)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=1e6c3f81-85bb-48e6-a5af-635a7e540c93)  
+[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=1e6c3f81-85bb-48e6-a5af-635a7e540c93)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=748f54f1-40b9-407c-9819-909061b53743)  
+[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=748f54f1-40b9-407c-9819-909061b53743)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=91589cfb-15ba-4dd2-9e3b-107899fbcba6)  
+[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=91589cfb-15ba-4dd2-9e3b-107899fbcba6)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=5a3832ec-3f8f-42c1-a603-b1330d527547)  
+[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=5a3832ec-3f8f-42c1-a603-b1330d527547)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -748,33 +748,33 @@ Windows Vista
 Windows Vista 및 Windows Vista 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 및 Windows Vista 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=18fdff67-c723-42bd-ac5c-cac7d8713b21)  
+[Windows Vista 및 Windows Vista 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=18fdff67-c723-42bd-ac5c-cac7d8713b21)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=4756e04b-6e1c-4d78-a3c0-17f6b4b97975)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=4756e04b-6e1c-4d78-a3c0-17f6b4b97975)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 및 Windows Vista 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=3483b400-cedc-441f-ba8e-594e3df89190)  
+[Windows Vista 및 Windows Vista 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=3483b400-cedc-441f-ba8e-594e3df89190)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 및 Windows Vista 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=3d6290d8-1745-4bc0-9ca9-eeb1ad0be4a5)  
+[Windows Vista 및 Windows Vista 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=3d6290d8-1745-4bc0-9ca9-eeb1ad0be4a5)  
 (심각도 없음)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 및 Windows Vista 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=72dd6015-25d1-45f4-a769-88ac43074b44)  
+[Windows Vista 및 Windows Vista 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=72dd6015-25d1-45f4-a769-88ac43074b44)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 및 Windows Vista 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=b4212db5-093e-497d-b999-2e3780f9f7c2)  
+[Windows Vista 및 Windows Vista 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=b4212db5-093e-497d-b999-2e3780f9f7c2)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -786,33 +786,33 @@ Windows Vista 및 Windows Vista 서비스 팩 1
 Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=a976999d-264f-4e6a-9bd6-3ad9d214a4bd)  
+[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=a976999d-264f-4e6a-9bd6-3ad9d214a4bd)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=bd19c72b-4f83-47ab-93be-d2c286e732c4)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=bd19c72b-4f83-47ab-93be-d2c286e732c4)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=905ab030-14a5-4a3d-aa11-e8f957f6a1ea)  
+[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=905ab030-14a5-4a3d-aa11-e8f957f6a1ea)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=a33c833c-d5c5-4e37-8f89-7b9079f92e59)  
+[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=a33c833c-d5c5-4e37-8f89-7b9079f92e59)  
 (심각도 없음)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=f793af16-5464-4db1-a42b-1c5f17c538ed)  
+[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=f793af16-5464-4db1-a42b-1c5f17c538ed)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=c20808cb-c30a-4b53-91e5-810eb6b4b2e3)  
+[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=c20808cb-c30a-4b53-91e5-810eb6b4b2e3)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -893,33 +893,33 @@ Windows Server 2008
 Windows Server 2008(32비트 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=25c17b07-1efe-43d7-9b01-3dfdf1ce0bd7)\*  
+[Windows Server 2008(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=25c17b07-1efe-43d7-9b01-3dfdf1ce0bd7)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=ec73f416-2204-42d6-8932-c96578ac819f)\*\*  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=ec73f416-2204-42d6-8932-c96578ac819f)\*\*  
 (낮음)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=8b97114a-71aa-47a2-b9e7-f4e158c18c80)\*  
+[Windows Server 2008(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=8b97114a-71aa-47a2-b9e7-f4e158c18c80)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=3d6290d8-1745-4bc0-9ca9-eeb1ad0be4a5)\*  
+[Windows Server 2008(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=3d6290d8-1745-4bc0-9ca9-eeb1ad0be4a5)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=cf6744e6-b54c-40f6-a78d-7ba9453133c0)\*  
+[Windows Server 2008(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=cf6744e6-b54c-40f6-a78d-7ba9453133c0)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=ec9eeb82-0497-4c55-94bb-9a47cb3521b4)\*  
+[Windows Server 2008(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=ec9eeb82-0497-4c55-94bb-9a47cb3521b4)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -931,33 +931,33 @@ Windows Server 2008(32비트 시스템용)
 Windows Server 2008(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=7b12018e-0cc1-4136-a68c-be4e1633c8df)\*  
+[Windows Server 2008(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=7b12018e-0cc1-4136-a68c-be4e1633c8df)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=baacd1c2-9764-4fea-bd4d-c49791974fef)\*\*  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=baacd1c2-9764-4fea-bd4d-c49791974fef)\*\*  
 (낮음)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=6e641db2-90c8-458f-9795-3e46b70a5203)\*  
+[Windows Server 2008(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=6e641db2-90c8-458f-9795-3e46b70a5203)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=a33c833c-d5c5-4e37-8f89-7b9079f92e59)\*  
+[Windows Server 2008(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=a33c833c-d5c5-4e37-8f89-7b9079f92e59)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=223236e8-7b19-4b47-8a90-bfc35eb9318a)\*  
+[Windows Server 2008(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=223236e8-7b19-4b47-8a90-bfc35eb9318a)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=0bc178b8-f8ae-4f41-8f88-fb6a75be1bca)\*  
+[Windows Server 2008(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=0bc178b8-f8ae-4f41-8f88-fb6a75be1bca)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -969,33 +969,33 @@ Windows Server 2008(x64 기반 시스템용)
 Windows Server 2008(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=2bcf89ef-6446-406c-9c53-222e0f0baf7a)  
+[Windows Server 2008(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=2bcf89ef-6446-406c-9c53-222e0f0baf7a)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=250a45dd-7eae-4440-bd10-02a703940976)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=250a45dd-7eae-4440-bd10-02a703940976)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=b6546e1c-bf7b-4354-8574-6c16fa707de0)  
+[Windows Server 2008(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=b6546e1c-bf7b-4354-8574-6c16fa707de0)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=31783e88-76e2-4bc6-b4ae-308443c6d223)  
+[Windows Server 2008(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=31783e88-76e2-4bc6-b4ae-308443c6d223)  
 (심각도 없음)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=077b697c-04a0-45bd-b08c-331d5c30cb47)  
+[Windows Server 2008(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=077b697c-04a0-45bd-b08c-331d5c30cb47)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=0af72663-4945-4916-8c55-090ba4d82793)  
+[Windows Server 2008(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=0af72663-4945-4916-8c55-090ba4d82793)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -1122,7 +1122,7 @@ Microsoft Office 제품군, 시스템 및 구성 요소
 Microsoft Office 2000 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Excel 2000 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=1b2740e0-ecdd-48ca-84e0-eb187c31eb16)  
+[Excel 2000 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=1b2740e0-ecdd-48ca-84e0-eb187c31eb16)  
 (KB955461)  
 (긴급)
 </td>
@@ -1135,12 +1135,12 @@ Microsoft Office 2000 서비스 팩 3
 Microsoft Office XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Excel 2002 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=27cedef1-c47c-472c-a343-cd9b4ebc2bba)  
+[Excel 2002 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=27cedef1-c47c-472c-a343-cd9b4ebc2bba)  
 (KB955464)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=b1aee2d5-bfa0-40e3-91b6-98bf65524e8c)  
+[Microsoft Office XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=b1aee2d5-bfa0-40e3-91b6-98bf65524e8c)  
 (KB956464)  
 (보통)
 </td>
@@ -1150,10 +1150,10 @@ Microsoft Office XP 서비스 팩 3
 Microsoft Office 2003 서비스 팩 2 및 Microsoft Office 2003 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Excel 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=4df27e8a-d803-483b-a700-0177d71bf368)  
+[Excel 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=4df27e8a-d803-483b-a700-0177d71bf368)  
 (KB955466)  
 (중요)  
-[Excel 2003 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=4df27e8a-d803-483b-a700-0177d71bf368)  
+[Excel 2003 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=4df27e8a-d803-483b-a700-0177d71bf368)  
 (KB955466)  
 (중요)
 </td>
@@ -1166,10 +1166,10 @@ Microsoft Office 2003 서비스 팩 2 및 Microsoft Office 2003 서비스 팩 3
 2007 Microsoft Office 시스템 및 2007 Microsoft Office 시스템 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Excel 2007](http://www.microsoft.com/downloads/details.aspx?familyid=2765bbc0-ea2e-4b6e-822c-222ee8e5021f)  
+[Excel 2007](https://www.microsoft.com/download/details.aspx?familyid=2765bbc0-ea2e-4b6e-822c-222ee8e5021f)  
 (KB955470)  
 (중요)  
-[Excel 2007 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=2765bbc0-ea2e-4b6e-822c-222ee8e5021f)  
+[Excel 2007 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=2765bbc0-ea2e-4b6e-822c-222ee8e5021f)  
 (KB955470)  
 (중요)
 </td>
@@ -1209,7 +1209,7 @@ Microsoft Office for Mac
 Microsoft Office 2004 for Mac
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2004 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=ba4fa21a-7e01-4ef8-9b9f-9d51d00ef094)  
+[Microsoft Office 2004 for Mac](https://www.microsoft.com/download/details.aspx?familyid=ba4fa21a-7e01-4ef8-9b9f-9d51d00ef094)  
 (KB958312)  
 (중요)
 </td>
@@ -1222,7 +1222,7 @@ Microsoft Office 2004 for Mac
 Microsoft Office 2008 for Mac
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2008 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=e70c5ae0-2858-46de-81f8-dcd1786656b7)  
+[Microsoft Office 2008 for Mac](https://www.microsoft.com/download/details.aspx?familyid=e70c5ae0-2858-46de-81f8-dcd1786656b7)  
 (KB958267)  
 (중요)
 </td>
@@ -1235,7 +1235,7 @@ Microsoft Office 2008 for Mac
 Open XML File Format Converter for Mac
 </td>
 <td style="border:1px solid black;">
-[Open XML File Format Converter for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=2a8d9a3b-b8a4-43b6-82a6-a2e7d16ae11d)  
+[Open XML File Format Converter for Mac](https://www.microsoft.com/download/details.aspx?familyid=2a8d9a3b-b8a4-43b6-82a6-a2e7d16ae11d)  
 (KB958304)  
 (중요)
 </td>
@@ -1275,13 +1275,13 @@ Open XML File Format Converter for Mac
 Microsoft Office Excel Viewer
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel Viewer 2003](http://www.microsoft.com/downloads/details.aspx?familyid=9769ce08-5207-4c63-b7b9-536266ad6b2b)  
+[Microsoft Office Excel Viewer 2003](https://www.microsoft.com/download/details.aspx?familyid=9769ce08-5207-4c63-b7b9-536266ad6b2b)  
 (KB955468)  
 (중요)  
-[Microsoft Office Excel Viewer 2003 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=9769ce08-5207-4c63-b7b9-536266ad6b2b)  
+[Microsoft Office Excel Viewer 2003 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=9769ce08-5207-4c63-b7b9-536266ad6b2b)  
 (KB955468)  
 (중요)  
-[Microsoft Office Excel Viewer](http://www.microsoft.com/downloads/details.aspx?familyid=83c88444-75b8-44d1-b280-3671394ade45)  
+[Microsoft Office Excel Viewer](https://www.microsoft.com/download/details.aspx?familyid=83c88444-75b8-44d1-b280-3671394ade45)  
 (KB955935)  
 (중요)
 </td>
@@ -1294,10 +1294,10 @@ Microsoft Office Excel Viewer
 Word, Excel, PowerPoint 2007 파일 형식용 Microsoft Office 호환 기능 팩
 </td>
 <td style="border:1px solid black;">
-[Word, Excel, PowerPoint 2007 파일 형식용 Microsoft Office 호환 기능 팩](http://www.microsoft.com/downloads/details.aspx?familyid=9a7be004-5903-4101-90c5-c0d5f8722af9)  
+[Word, Excel, PowerPoint 2007 파일 형식용 Microsoft Office 호환 기능 팩](https://www.microsoft.com/download/details.aspx?familyid=9a7be004-5903-4101-90c5-c0d5f8722af9)  
 (KB955936)  
 (중요)  
-[Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 1용 Microsoft Office 호환 기능 팩](http://www.microsoft.com/downloads/details.aspx?familyid=9a7be004-5903-4101-90c5-c0d5f8722af9)  
+[Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 1용 Microsoft Office 호환 기능 팩](https://www.microsoft.com/download/details.aspx?familyid=9a7be004-5903-4101-90c5-c0d5f8722af9)  
 (KB955936)  
 (중요)
 </td>
@@ -1310,16 +1310,16 @@ Word, Excel, PowerPoint 2007 파일 형식용 Microsoft Office 호환 기능 팩
 Microsoft Office SharePoint Server 2007
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office SharePoint Server 2007](http://www.microsoft.com/downloads/details.aspx?familyid=5c29e646-504c-4455-9d35-9a1bed6d7535)\*  
+[Microsoft Office SharePoint Server 2007](https://www.microsoft.com/download/details.aspx?familyid=5c29e646-504c-4455-9d35-9a1bed6d7535)\*  
 (KB955937)  
 (중요)  
-[Microsoft Office SharePoint Server 2007 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=5c29e646-504c-4455-9d35-9a1bed6d7535)\*  
+[Microsoft Office SharePoint Server 2007 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=5c29e646-504c-4455-9d35-9a1bed6d7535)\*  
 (KB955937)  
 (중요)  
-[Microsoft Office SharePoint Server 2007 x64 Edition](http://www.microsoft.com/downloads/details.aspx?familyid=3c21c405-2c9e-45d0-be4d-8ccd093af31f)\*  
+[Microsoft Office SharePoint Server 2007 x64 Edition](https://www.microsoft.com/download/details.aspx?familyid=3c21c405-2c9e-45d0-be4d-8ccd093af31f)\*  
 (KB955937)  
 (중요)  
-[Microsoft Office SharePoint Server 2007 x64 Edition 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=3c21c405-2c9e-45d0-be4d-8ccd093af31f)\*  
+[Microsoft Office SharePoint Server 2007 x64 Edition 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=3c21c405-2c9e-45d0-be4d-8ccd093af31f)\*  
 (KB955937)  
 (중요)
 </td>
@@ -1368,9 +1368,9 @@ Microsoft Host Integration Server
 Microsoft Host Integration Server 2000
 </td>
 <td style="border:1px solid black;">
-[Microsoft Host Integration Server 2000 서비스 팩 2(서버)](http://www.microsoft.com/downloads/details.aspx?familyid=11cca58b-59a4-4e93-9eb1-19b07c290a10)  
+[Microsoft Host Integration Server 2000 서비스 팩 2(서버)](https://www.microsoft.com/download/details.aspx?familyid=11cca58b-59a4-4e93-9eb1-19b07c290a10)  
 (긴급)  
-[Microsoft Host Integration Server 2000 관리자 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=41b49291-1231-4e23-aef7-818207453d56)  
+[Microsoft Host Integration Server 2000 관리자 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=41b49291-1231-4e23-aef7-818207453d56)  
 (긴급)
 </td>
 </tr>
@@ -1379,13 +1379,13 @@ Microsoft Host Integration Server 2000
 Microsoft Host Integration Server 2004
 </td>
 <td style="border:1px solid black;">
-[Microsoft Host Integration Server 2004(서버)](http://www.microsoft.com/downloads/details.aspx?familyid=9ca255ed-9334-4848-af94-49ef3078cdc0)  
+[Microsoft Host Integration Server 2004(서버)](https://www.microsoft.com/download/details.aspx?familyid=9ca255ed-9334-4848-af94-49ef3078cdc0)  
 (긴급)  
-[Microsoft Host Integration Server 2004 서비스 팩 1(서버)](http://www.microsoft.com/downloads/details.aspx?familyid=eca756a1-ca56-4481-b23c-53c159a4e08c)  
+[Microsoft Host Integration Server 2004 서비스 팩 1(서버)](https://www.microsoft.com/download/details.aspx?familyid=eca756a1-ca56-4481-b23c-53c159a4e08c)  
 (긴급)  
-[Microsoft Host Integration Server 2004(클라이언트)](http://www.microsoft.com/downloads/details.aspx?familyid=92cb54e7-f4ff-40a4-99cb-6257c4d8d4cd)  
+[Microsoft Host Integration Server 2004(클라이언트)](https://www.microsoft.com/download/details.aspx?familyid=92cb54e7-f4ff-40a4-99cb-6257c4d8d4cd)  
 (긴급)  
-[Microsoft Host Integration Server 2004 서비스 팩 1(클라이언트)](http://www.microsoft.com/downloads/details.aspx?familyid=d776515c-09aa-4a04-876d-606bfc26a006)  
+[Microsoft Host Integration Server 2004 서비스 팩 1(클라이언트)](https://www.microsoft.com/download/details.aspx?familyid=d776515c-09aa-4a04-876d-606bfc26a006)  
 (긴급)
 </td>
 </tr>
@@ -1394,9 +1394,9 @@ Microsoft Host Integration Server 2004
 Microsoft Host Integration Server 2006
 </td>
 <td style="border:1px solid black;">
-[Microsoft Host Integration Server 2006(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=1ae79da3-ec17-4d4b-8011-d777a237ac93)  
+[Microsoft Host Integration Server 2006(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=1ae79da3-ec17-4d4b-8011-d777a237ac93)  
 (긴급)  
-[Microsoft Host Integration Server 2006(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=05da4540-4976-458a-a612-7385d78695a2) (긴급)
+[Microsoft Host Integration Server 2006(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=05da4540-4976-458a-a612-7385d78695a2) (긴급)
 </td>
 </tr>
 </table>
@@ -1436,7 +1436,7 @@ Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 
 
 **UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)**
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit) 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit) 5.0](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Microsoft Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 

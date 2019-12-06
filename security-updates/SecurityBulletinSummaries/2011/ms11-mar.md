@@ -151,21 +151,21 @@ Windows XP
 Windows XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=d8284bfa-ed6c-4647-9fb0-588e53173775&displaylang=ko)  
+[Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=d8284bfa-ed6c-4647-9fb0-588e53173775&displaylang=ko)  
 (KB2479943)  
 (긴급)  
-[Windows XP Media Center Edition 2005 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=b1be30de-7e88-467d-aee2-68f88e6a7355&displaylang=ko)  
+[Windows XP Media Center Edition 2005 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=b1be30de-7e88-467d-aee2-68f88e6a7355&displaylang=ko)  
 (KB2502898)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 5.2 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=1aed6080-feab-4b5e-9d26-6a3f4b92434d&displaylang=ko)  
+[원격 데스크톱 연결 5.2 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=1aed6080-feab-4b5e-9d26-6a3f4b92434d&displaylang=ko)  
 (KB2483618)  
 (중요)  
-[원격 데스크톱 연결 6.1 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=d67e4d8c-aeb9-45e6-9555-7456c5540475&displaylang=ko)  
+[원격 데스크톱 연결 6.1 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=d67e4d8c-aeb9-45e6-9555-7456c5540475&displaylang=ko)  
 (KB2481109)  
 (중요)  
-[원격 데스크톱 연결 7.0 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=6a01992e-c9a1-4dc9-a3ef-7410b81f17e6)  
+[원격 데스크톱 연결 7.0 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=6a01992e-c9a1-4dc9-a3ef-7410b81f17e6)  
 (KB2483614)  
 (중요)
 </td>
@@ -175,12 +175,12 @@ Windows XP 서비스 팩 3
 Windows XP Professional x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=5270b5d3-3720-42a2-a8cf-67089c0cc658)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=5270b5d3-3720-42a2-a8cf-67089c0cc658)  
 (KB2479943)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 6.0 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=6d4539ef-4a05-4c7d-9489-436f7b7a3ebe)<sup>[1]</sup>
+[원격 데스크톱 연결 6.0 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=6d4539ef-4a05-4c7d-9489-436f7b7a3ebe)<sup>[1]</sup>
 (KB2481109)  
 (중요)
 </td>
@@ -220,10 +220,10 @@ Windows Server 2003 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 6.0 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=641d5d12-0790-4551-831a-e78febad17a7&displaylang=ko)<sup>[1]</sup>
+[원격 데스크톱 연결 6.0 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=641d5d12-0790-4551-831a-e78febad17a7&displaylang=ko)<sup>[1]</sup>
 (KB2481109)  
 (중요)  
-[원격 데스크톱 연결 6.0 클라이언트 Multilingual User Interface(MUI)](http://www.microsoft.com/downloads/details.aspx?familyid=6fec0d06-042d-4e55-9843-009edd7d26ce)<sup>[2]</sup>
+[원격 데스크톱 연결 6.0 클라이언트 Multilingual User Interface(MUI)](https://www.microsoft.com/download/details.aspx?familyid=6fec0d06-042d-4e55-9843-009edd7d26ce)<sup>[2]</sup>
 (KB2483619)  
 (중요)
 </td>
@@ -236,7 +236,7 @@ Windows Server 2003 x64 Edition 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 6.0 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=78dbb9cf-8a18-4f0a-8edf-f1ce0c993c63&displaylang=ko)<sup>[1]</sup>
+[원격 데스크톱 연결 6.0 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=78dbb9cf-8a18-4f0a-8edf-f1ce0c993c63&displaylang=ko)<sup>[1]</sup>
 (KB2481109)  
 (중요)
 </td>
@@ -273,18 +273,18 @@ Windows Vista
 Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=f9f1dde2-2219-4bf1-a497-edd011577b96&displaylang=ko)<sup>[2]</sup>
+[Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=f9f1dde2-2219-4bf1-a497-edd011577b96&displaylang=ko)<sup>[2]</sup>
 (KB2479943)  
 (긴급)  
-[Windows Media Center TV Pack for Windows Vista(32비트 에디션](http://www.microsoft.com/downloads/details.aspx?familyid=1bc240b3-1938-4350-b26f-67b81a79f8a0&displaylang=ko))<sup>[3]</sup>
+[Windows Media Center TV Pack for Windows Vista(32비트 에디션](https://www.microsoft.com/download/details.aspx?familyid=1bc240b3-1938-4350-b26f-67b81a79f8a0&displaylang=ko))<sup>[3]</sup>
 (KB2494132)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 6.1 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=e3ea7690-386b-4cdf-889f-b3914921c56f&displaylang=ko)  
+[원격 데스크톱 연결 6.1 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=e3ea7690-386b-4cdf-889f-b3914921c56f&displaylang=ko)  
 (KB2481109)  
 (중요)  
-[원격 데스크톱 연결 7.0 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=3c30f67e-7c31-4553-ba3e-e056df1bf8eb&displaylang=ko)  
+[원격 데스크톱 연결 7.0 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=3c30f67e-7c31-4553-ba3e-e056df1bf8eb&displaylang=ko)  
 (KB2483614)  
 (중요)
 </td>
@@ -294,18 +294,18 @@ Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2
 Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=e11d00df-d1cf-4a33-a1be-6721cdff5995&displaylang=ko)<sup>[2]</sup>
+[Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=e11d00df-d1cf-4a33-a1be-6721cdff5995&displaylang=ko)<sup>[2]</sup>
 (KB2479943)  
 (긴급)  
-[Windows Media Center TV Pack for Windows Vista(64비트 에디션](http://www.microsoft.com/downloads/details.aspx?familyid=cd4c5a80-db24-4696-a248-1286c3b9f550&displaylang=ko))<sup>[3]</sup>
+[Windows Media Center TV Pack for Windows Vista(64비트 에디션](https://www.microsoft.com/download/details.aspx?familyid=cd4c5a80-db24-4696-a248-1286c3b9f550&displaylang=ko))<sup>[3]</sup>
 (KB2494132)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 6.1 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=5735bed6-0e3d-46a4-85d0-14ec34a82edd&displaylang=ko)  
+[원격 데스크톱 연결 6.1 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=5735bed6-0e3d-46a4-85d0-14ec34a82edd&displaylang=ko)  
 (KB2481109)  
 (중요)  
-[원격 데스크톱 연결 7.0 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=8025482b-f58f-4f5a-a133-5563c65b21f6&displaylang=ko)  
+[원격 데스크톱 연결 7.0 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=8025482b-f58f-4f5a-a133-5563c65b21f6&displaylang=ko)  
 (KB2483614)  
 (중요)
 </td>
@@ -345,7 +345,7 @@ Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시�
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 6.1 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=31d790c9-92f9-4a2b-800b-8e8d2b570bb9&displaylang=ko)\*\*  
+[원격 데스크톱 연결 6.1 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=31d790c9-92f9-4a2b-800b-8e8d2b570bb9&displaylang=ko)\*\*  
 (KB2481109)  
 (중요)
 </td>
@@ -358,7 +358,7 @@ Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 6.1 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=5b0a8eb5-4bc2-4054-b952-58aa645afcf5&displaylang=ko)\*\*  
+[원격 데스크톱 연결 6.1 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=5b0a8eb5-4bc2-4054-b952-58aa645afcf5&displaylang=ko)\*\*  
 (KB2481109)  
 (중요)
 </td>
@@ -371,7 +371,7 @@ Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 6.1 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=25da7e00-745d-4d98-9dd8-52a8a4340404)  
+[원격 데스크톱 연결 6.1 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=25da7e00-745d-4d98-9dd8-52a8a4340404)  
 (KB2481109)  
 (중요)
 </td>
@@ -408,13 +408,13 @@ Windows 7
 Windows 7(32비트 시스템용) 및 Windows 7(32비트 시스템용) 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용) 및 Windows 7(32비트 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=1be77daa-29b1-4dae-a87f-2cb8f7e6a305&displaylang=ko)  
+[Windows 7(32비트 시스템용) 및 Windows 7(32비트 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=1be77daa-29b1-4dae-a87f-2cb8f7e6a305&displaylang=ko)  
 (KB2479943)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 Windows 7(32비트 시스템용)만 해당:  
-[원격 데스크톱 연결 7.0 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=0768a5f4-da28-4b2e-8aff-d68f890df3e6&displaylang=ko)  
+[원격 데스크톱 연결 7.0 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=0768a5f4-da28-4b2e-8aff-d68f890df3e6&displaylang=ko)  
 (KB2483614)  
 (중요)
 </td>
@@ -424,13 +424,13 @@ Windows 7(32비트 시스템용)만 해당:
 Windows 7(x64 기반 시스템용) 및 Windows 7(x64 기반 시스템용) 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용) 및 Windows 7(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=56fb24ce-65c7-4573-b613-e424ccc1a3a6&displaylang=ko)  
+[Windows 7(x64 기반 시스템용) 및 Windows 7(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=56fb24ce-65c7-4573-b613-e424ccc1a3a6&displaylang=ko)  
 (KB2479943)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 Windows 7(x64 기반 시스템용)만 해당:  
-[원격 데스크톱 연결 7.0 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=935adb10-1e7e-4501-b543-8247b88f6d18&displaylang=ko)  
+[원격 데스크톱 연결 7.0 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=935adb10-1e7e-4501-b543-8247b88f6d18&displaylang=ko)  
 (KB2483614)  
 (중요)
 </td>
@@ -467,13 +467,13 @@ Windows Server 2008 R2
 Windows Server 2008 R2(x64 기반 시스템용) 및 Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용) 및 Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=6f45658a-1db8-4ef5-b840-4d0180d4d90e&displaylang=ko)\*\*  
+[Windows Server 2008 R2(x64 기반 시스템용) 및 Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=6f45658a-1db8-4ef5-b840-4d0180d4d90e&displaylang=ko)\*\*  
 (KB2479943)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 Windows Server 2008 R2(x64 기반 시스템용)만 해당:  
-[원격 데스크톱 연결 7.0 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=3fcb2e11-591e-484a-a992-2f1d563e6d17&displaylang=ko)\*\*  
+[원격 데스크톱 연결 7.0 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=3fcb2e11-591e-484a-a992-2f1d563e6d17&displaylang=ko)\*\*  
 (KB2483614)  
 (중요)
 </td>
@@ -486,7 +486,7 @@ Windows Server 2008 R2(Itanium 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 7.0 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=c29b6487-78f0-421c-810c-c5e45d6a2352)  
+[원격 데스크톱 연결 7.0 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=c29b6487-78f0-421c-810c-c5e45d6a2352)  
 (KB2483614)  
 (중요)
 </td>
@@ -546,7 +546,7 @@ Microsoft Office 프로그램
 Microsoft Groove 2007
 </td>
 <td style="border:1px solid black;">
-[Microsoft Groove 2007 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=3981ab53-1082-4155-9000-11d8a976ff33&displaylang=ko)  
+[Microsoft Groove 2007 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=3981ab53-1082-4155-9000-11d8a976ff33&displaylang=ko)  
 (KB2494047)  
 (중요)
 </td>
@@ -599,7 +599,7 @@ Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 
 
 **UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)**
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Microsoft Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 

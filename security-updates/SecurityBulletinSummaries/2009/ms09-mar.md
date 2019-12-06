@@ -163,18 +163,18 @@ Microsoft Windows 2000
 Microsoft Windows 2000 서비스 팩 4
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=98bb7d40-89a0-470a-8eb7-06f15072a635&displaylang=ko)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=98bb7d40-89a0-470a-8eb7-06f15072a635&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=bf7065bc-c183-4a78-8d46-72fe7385c07c&displaylang=ko)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=bf7065bc-c183-4a78-8d46-72fe7385c07c&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Server 서비스 팩 4의 DNS 서버](http://www.microsoft.com/downloads/details.aspx?familyid=110354f7-5ece-4c4d-b563-3adba6ac0116&displaylang=ko)  
+[Microsoft Windows 2000 Server 서비스 팩 4의 DNS 서버](https://www.microsoft.com/download/details.aspx?familyid=110354f7-5ece-4c4d-b563-3adba6ac0116&displaylang=ko)  
 (961063)  
 (중요)  
-[Microsoft Windows 2000 Server 서비스 팩 4의 WINS 서버](http://www.microsoft.com/downloads/details.aspx?familyid=4319abb3-1ea2-466a-a815-c0b3b86b4462&displaylang=ko)  
+[Microsoft Windows 2000 Server 서비스 팩 4의 WINS 서버](https://www.microsoft.com/download/details.aspx?familyid=4319abb3-1ea2-466a-a815-c0b3b86b4462&displaylang=ko)  
 (961064)  
 (중요)
 </td>
@@ -217,11 +217,11 @@ Windows XP
 Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=e09641ba-6cbe-4095-82b5-703d3a7dc33b&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=e09641ba-6cbe-4095-82b5-703d3a7dc33b&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=942d87f6-3cb1-4d36-a70a-70d9c34488f3&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=942d87f6-3cb1-4d36-a70a-70d9c34488f3&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -233,11 +233,11 @@ Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=d0d704c6-48c2-4907-b6c3-2455d7cf21c8)  
+[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=d0d704c6-48c2-4907-b6c3-2455d7cf21c8)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=6d02306e-9e2e-4ae8-bd21-8a2c1a229472)  
+[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=6d02306e-9e2e-4ae8-bd21-8a2c1a229472)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -282,17 +282,17 @@ Windows Server 2003
 Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=f5cfb8da-e7cc-4183-8631-507c2a406500&displaylang=ko)  
+[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=f5cfb8da-e7cc-4183-8631-507c2a406500&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=0b3f6fdd-276e-4267-99d8-8f00d91ad6a2&displaylang=ko)  
+[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=0b3f6fdd-276e-4267-99d8-8f00d91ad6a2&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2의 DNS 서버](http://www.microsoft.com/downloads/details.aspx?familyid=6cc42c9e-c34e-4577-8b23-9e07e2369878&displaylang=ko)  
+[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2의 DNS 서버](https://www.microsoft.com/download/details.aspx?familyid=6cc42c9e-c34e-4577-8b23-9e07e2369878&displaylang=ko)  
 (중요)  
-[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2의 WINS 서버](http://www.microsoft.com/downloads/details.aspx?familyid=049e5db5-7315-4188-99fd-4a54833e6bf2&displaylang=ko)  
+[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2의 WINS 서버](https://www.microsoft.com/download/details.aspx?familyid=049e5db5-7315-4188-99fd-4a54833e6bf2&displaylang=ko)  
 (중요)
 </td>
 </tr>
@@ -301,17 +301,17 @@ Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2
 Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=ecf75c70-8489-41ad-9759-3a07e13957be&displaylang=ko)  
+[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=ecf75c70-8489-41ad-9759-3a07e13957be&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=ce98ff55-f565-469d-bbd2-32b681faf908&displaylang=ko)  
+[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=ce98ff55-f565-469d-bbd2-32b681faf908&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2의 DNS 서버](http://www.microsoft.com/downloads/details.aspx?familyid=b1f81fd2-0099-4450-8543-0459561d22d0&displaylang=ko)  
+[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2의 DNS 서버](https://www.microsoft.com/download/details.aspx?familyid=b1f81fd2-0099-4450-8543-0459561d22d0&displaylang=ko)  
 (중요)  
-[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2의 WINS 서버](http://www.microsoft.com/downloads/details.aspx?familyid=4a393c63-eff5-4c8c-9c3f-33ce45c32428&displaylang=ko)  
+[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2의 WINS 서버](https://www.microsoft.com/download/details.aspx?familyid=4a393c63-eff5-4c8c-9c3f-33ce45c32428&displaylang=ko)  
 (중요)
 </td>
 </tr>
@@ -320,18 +320,18 @@ Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 �
 Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=04be3d7e-7dda-4dca-887a-e7a8156ede1c)  
+[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=04be3d7e-7dda-4dca-887a-e7a8156ede1c)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=5ca3c72c-cadb-4b0a-b3a3-fb81d0bfd7b3)  
+[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=5ca3c72c-cadb-4b0a-b3a3-fb81d0bfd7b3)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)의 DNS 서버](http://www.microsoft.com/downloads/details.aspx?familyid=d3ed7d9a-d652-4bd0-aecc-5a415bec6c59)  
+[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)의 DNS 서버](https://www.microsoft.com/download/details.aspx?familyid=d3ed7d9a-d652-4bd0-aecc-5a415bec6c59)  
 (961063)  
 (중요)  
-[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)의 WINS 서버](http://www.microsoft.com/downloads/details.aspx?familyid=37e3a75e-0a5d-4df0-881f-cdb87efa4dcf)  
+[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)의 WINS 서버](https://www.microsoft.com/download/details.aspx?familyid=37e3a75e-0a5d-4df0-881f-cdb87efa4dcf)  
 (961064)  
 (중요)
 </td>
@@ -374,11 +374,11 @@ Windows Vista
 Windows Vista 및 Windows Vista 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 및 Windows Vista 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=4b1aaaba-f355-4265-83c0-50b901856ced&displaylang=ko)  
+[Windows Vista 및 Windows Vista 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=4b1aaaba-f355-4265-83c0-50b901856ced&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 및 Windows Vista 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=21086a04-402a-4940-8358-7fa63508102b&displaylang=ko)  
+[Windows Vista 및 Windows Vista 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=21086a04-402a-4940-8358-7fa63508102b&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -390,11 +390,11 @@ Windows Vista 및 Windows Vista 서비스 팩 1
 Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=0fcac480-d6db-4a94-8c7d-b7319282cf56&displaylang=ko)  
+[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=0fcac480-d6db-4a94-8c7d-b7319282cf56&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=c75a2ea9-b42f-457b-be09-5c8fa0339388&displaylang=ko)  
+[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=c75a2ea9-b42f-457b-be09-5c8fa0339388&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -439,15 +439,15 @@ Windows Server 2008
 Windows Server 2008 (32비트 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 (32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=38851df2-4fb5-4d28-9d15-181c260cf8cf&displaylang=ko)\*  
+[Windows Server 2008 (32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=38851df2-4fb5-4d28-9d15-181c260cf8cf&displaylang=ko)\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 (32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=47b361ce-624b-466c-b5c5-8703f6532615&displaylang=ko)\*  
+[Windows Server 2008 (32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=47b361ce-624b-466c-b5c5-8703f6532615&displaylang=ko)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 (32비트 시스템용)의 DNS 서버](http://www.microsoft.com/downloads/details.aspx?familyid=92e89882-d656-4b61-a05c-3afb44895f08&displaylang=ko)\*  
+[Windows Server 2008 (32비트 시스템용)의 DNS 서버](https://www.microsoft.com/download/details.aspx?familyid=92e89882-d656-4b61-a05c-3afb44895f08&displaylang=ko)\*  
 (961063)  
 (중요)
 </td>
@@ -457,15 +457,15 @@ Windows Server 2008 (32비트 시스템용)
 Windows Server 2008 (x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 (x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=ec15acc4-3e0f-4414-9383-61c122ff1382&displaylang=ko)\*  
+[Windows Server 2008 (x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=ec15acc4-3e0f-4414-9383-61c122ff1382&displaylang=ko)\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 (x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=5c81ac45-60e6-4121-ab6b-d3b3179aacc4&displaylang=ko)\*  
+[Windows Server 2008 (x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=5c81ac45-60e6-4121-ab6b-d3b3179aacc4&displaylang=ko)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 (x64 기반 시스템용)의 DNS 서버](http://www.microsoft.com/downloads/details.aspx?familyid=be068d06-5939-4ad8-8191-e85931ed610f&displaylang=ko)\*  
+[Windows Server 2008 (x64 기반 시스템용)의 DNS 서버](https://www.microsoft.com/download/details.aspx?familyid=be068d06-5939-4ad8-8191-e85931ed610f&displaylang=ko)\*  
 (961063)  
 (중요)
 </td>
@@ -475,11 +475,11 @@ Windows Server 2008 (x64 기반 시스템용)
 Windows Server 2008 (Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 (Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=eead6f93-10fd-4492-8137-481d9876a5fe)  
+[Windows Server 2008 (Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=eead6f93-10fd-4492-8137-481d9876a5fe)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 (Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=bf8f5a86-1757-4f9b-b632-d4aa7005a9f8)  
+[Windows Server 2008 (Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=bf8f5a86-1757-4f9b-b632-d4aa7005a9f8)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -525,7 +525,7 @@ Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 
 
 **UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)**
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit) 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit) 5.0](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Microsoft Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 

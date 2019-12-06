@@ -159,12 +159,12 @@ Microsoft Office 제품군 및 구성 요소
 Microsoft Office XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=f32648e3-2fb5-472c-932f-360e5d3c0931&displaylang=ko)  
+[Microsoft Office XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=f32648e3-2fb5-472c-932f-360e5d3c0931&displaylang=ko)  
 (KB2289169)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft PowerPoint 2002 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=3efbf9f6-734a-46ac-8f92-87b6ec819bfa&displaylang=ko)  
+[Microsoft PowerPoint 2002 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=3efbf9f6-734a-46ac-8f92-87b6ec819bfa&displaylang=ko)  
 (KB2413272)  
 (중요)
 </td>
@@ -174,12 +174,12 @@ Microsoft Office XP 서비스 팩 3
 Microsoft Office 2003 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2003 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=07a6cf76-2cea-4c54-b66d-50e9eed108ac&displaylang=ko)  
+[Microsoft Office 2003 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=07a6cf76-2cea-4c54-b66d-50e9eed108ac&displaylang=ko)  
 (KB2289187)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft PowerPoint 2003 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=108286d4-fb68-40d6-a7b1-64b3a4eb87ee&displaylang=ko)  
+[Microsoft PowerPoint 2003 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=108286d4-fb68-40d6-a7b1-64b3a4eb87ee&displaylang=ko)  
 (KB2413304)  
 (중요)
 </td>
@@ -189,7 +189,7 @@ Microsoft Office 2003 서비스 팩 3
 Microsoft Office 2007 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2007 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=be0c5878-60c0-4700-8836-50d369b51d04&displaylang=ko)  
+[Microsoft Office 2007 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=be0c5878-60c0-4700-8836-50d369b51d04&displaylang=ko)  
 (KB2289158)  
 (긴급)
 </td>
@@ -202,7 +202,7 @@ Microsoft Office 2007 서비스 팩 2
 Microsoft Office 2010(32비트 에디션)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2010(32비트 에디션)](http://www.microsoft.com/downloads/details.aspx?familyid=0b308508-0e1e-4e90-b2b8-7e32bfc5dbf4&displaylang=ko)  
+[Microsoft Office 2010(32비트 에디션)](https://www.microsoft.com/download/details.aspx?familyid=0b308508-0e1e-4e90-b2b8-7e32bfc5dbf4&displaylang=ko)  
 (KB2289161)  
 (긴급)
 </td>
@@ -215,7 +215,7 @@ Microsoft Office 2010(32비트 에디션)
 Microsoft Office 2010(64비트 에디션)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2010(64비트 에디션)](http://www.microsoft.com/downloads/details.aspx?familyid=534c6a2a-e7c6-4adf-8b81-e009a2b5fff4&displaylang=ko)  
+[Microsoft Office 2010(64비트 에디션)](https://www.microsoft.com/download/details.aspx?familyid=534c6a2a-e7c6-4adf-8b81-e009a2b5fff4&displaylang=ko)  
 (KB2289161)  
 (긴급)
 </td>
@@ -268,7 +268,7 @@ Microsoft Office 2004 for Mac<sup>[1]</sup>
 Microsoft Office 2008 for Mac
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2008 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=ad1b1984-b2b2-49b3-a1dd-385b77d9248a)  
+[Microsoft Office 2008 for Mac](https://www.microsoft.com/download/details.aspx?familyid=ad1b1984-b2b2-49b3-a1dd-385b77d9248a)  
 (KB2476512)  
 (중요)
 </td>
@@ -281,7 +281,7 @@ Microsoft Office 2008 for Mac
 Microsoft Office for Mac 2011
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office for Mac 2011](http://www.microsoft.com/downloads/details.aspx?familyid=8bd6ca3b-8004-4e8d-a09d-220dcbbce799)  
+[Microsoft Office for Mac 2011](https://www.microsoft.com/download/details.aspx?familyid=8bd6ca3b-8004-4e8d-a09d-220dcbbce799)  
 (KB2454823)  
 (중요)
 </td>
@@ -294,7 +294,7 @@ Microsoft Office for Mac 2011
 Open XML File Format Converter for Mac
 </td>
 <td style="border:1px solid black;">
-[Open XML File Format Converter for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=b846d255-a7d4-4a2c-a084-d434c29fe676)  
+[Open XML File Format Converter for Mac](https://www.microsoft.com/download/details.aspx?familyid=b846d255-a7d4-4a2c-a084-d434c29fe676)  
 (KB2476511)  
 (중요)
 </td>
@@ -337,7 +337,7 @@ Microsoft PowerPoint Viewer
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft PowerPoint Viewer 2007 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=df826b79-7398-45de-943c-6f6f0af1b4e3&displaylang=ko)  
+[Microsoft PowerPoint Viewer 2007 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=df826b79-7398-45de-943c-6f6f0af1b4e3&displaylang=ko)  
 (KB2413381)  
 (중요)
 </td>
@@ -389,13 +389,13 @@ Microsoft Forefront Unified Access Gateway
 Microsoft Forefront Unified Access Gateway
 </td>
 <td style="border:1px solid black;">
-[Forefront Unified Access Gateway 2010](http://www.microsoft.com/downloads/details.aspx?familyid=5f2ee08e-e289-47db-bd3f-7b9cfc1eb985)<sup>[1]</sup>
+[Forefront Unified Access Gateway 2010](https://www.microsoft.com/download/details.aspx?familyid=5f2ee08e-e289-47db-bd3f-7b9cfc1eb985)<sup>[1]</sup>
 (KB2433585)  
 (중요)  
-[Forefront Unified Access Gateway 2010 업데이트 1](http://www.microsoft.com/downloads/details.aspx?familyid=db0b70c8-1fa5-4d92-9888-3500c7566b19)<sup>[1]</sup>
+[Forefront Unified Access Gateway 2010 업데이트 1](https://www.microsoft.com/download/details.aspx?familyid=db0b70c8-1fa5-4d92-9888-3500c7566b19)<sup>[1]</sup>
 (KB2433584)  
 (중요)  
-[Forefront Unified Access Gateway 2010 업데이트 2](http://www.microsoft.com/downloads/details.aspx?familyid=4e3ee07a-771c-46ee-959f-82389bab67d7)<sup>[1]</sup>
+[Forefront Unified Access Gateway 2010 업데이트 2](https://www.microsoft.com/download/details.aspx?familyid=4e3ee07a-771c-46ee-959f-82389bab67d7)<sup>[1]</sup>
 (KB2418933)  
 (중요)
 </td>
@@ -439,7 +439,7 @@ Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 
 
 **UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)**
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Microsoft Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 

@@ -127,18 +127,18 @@ Microsoft Windows 2000
 Microsoft Windows 2000 서비스 팩 4
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=559cd4b6-24b7-4e60-8749-37d9b833d3eb&displaylang=ko)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=559cd4b6-24b7-4e60-8749-37d9b833d3eb&displaylang=ko)  
 (KB955069)  
 (긴급)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14&displaylang=ko)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14&displaylang=ko)  
 (KB954430)  
 (중요)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=59914795-60c7-4ebe-828d-f28cb457e6e3&displaylang=ko)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=59914795-60c7-4ebe-828d-f28cb457e6e3&displaylang=ko)  
 (KB954459)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=44c971e6-96fc-4bba-8f4a-f9d46bda2b6c&displaylang=ko)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=44c971e6-96fc-4bba-8f4a-f9d46bda2b6c&displaylang=ko)  
 (중요)
 </td>
 </tr>
@@ -174,18 +174,18 @@ Windows XP
 Windows XP 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ed1a087-97e2-4283-9b53-b7b046654d08&displaylang=ko)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=6ed1a087-97e2-4283-9b53-b7b046654d08&displaylang=ko)  
 (KB955069)  
 (긴급)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14&displaylang=ko)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14&displaylang=ko)  
 (KB954430)  
 (중요)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=59914795-60c7-4ebe-828d-f28cb457e6e3&displaylang=ko)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=59914795-60c7-4ebe-828d-f28cb457e6e3&displaylang=ko)  
 (KB954459)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=6f8ae0aa-fd68-4156-9016-bba00149793c&displaylang=ko)  
+[Windows XP 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=6f8ae0aa-fd68-4156-9016-bba00149793c&displaylang=ko)  
 (중요)
 </td>
 </tr>
@@ -197,15 +197,15 @@ Windows XP 서비스 팩 3
 [Microsoft XML Core Services 3.0](http://www.microsoft.com/technet/security/bulletin/http//www.microsoft.com/downloads/details.aspx?familyid=6ed1a087-97e2-4283-9b53-b7b046654d08&displaylang=ko)  
 (KB955069)  
 (긴급)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14&displaylang=ko)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14&displaylang=ko)  
 (KB954430)  
 (중요)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=7493fa37-2cbf-4d66-8690-d50d63da4096&displaylang=ko)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=7493fa37-2cbf-4d66-8690-d50d63da4096&displaylang=ko)  
 (KB954459)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=6f8ae0aa-fd68-4156-9016-bba00149793c&displaylang=ko)  
+[Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=6f8ae0aa-fd68-4156-9016-bba00149793c&displaylang=ko)  
 (중요)
 </td>
 </tr>
@@ -214,18 +214,18 @@ Windows XP 서비스 팩 3
 Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=1b79f220-ebfc-49c1-963b-58bbda21b6e7)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=1b79f220-ebfc-49c1-963b-58bbda21b6e7)  
 (KB955069)  
 (긴급)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14)  
 (KB954430)  
 (중요)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=59914795-60c7-4ebe-828d-f28cb457e6e3)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=59914795-60c7-4ebe-828d-f28cb457e6e3)  
 (KB954459)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=9501b33b-d639-43e7-ad5a-9e76ed66effd)  
+[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=9501b33b-d639-43e7-ad5a-9e76ed66effd)  
 (중요)
 </td>
 </tr>
@@ -261,18 +261,18 @@ Windows Server 2003
 Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=0a0f8385-e908-4b5f-b9bf-80b7dabfcafd&displaylang=ko)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=0a0f8385-e908-4b5f-b9bf-80b7dabfcafd&displaylang=ko)  
 (KB955069)  
 (긴급)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14&displaylang=ko)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14&displaylang=ko)  
 (KB954430)  
 (낮음)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=59914795-60c7-4ebe-828d-f28cb457e6e3&displaylang=ko)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=59914795-60c7-4ebe-828d-f28cb457e6e3&displaylang=ko)  
 (KB954459)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=57a0606d-ea7a-4e5b-8b8b-7b77a444ef75&displaylang=ko)  
+[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=57a0606d-ea7a-4e5b-8b8b-7b77a444ef75&displaylang=ko)  
 (중요)
 </td>
 </tr>
@@ -281,18 +281,18 @@ Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2
 Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=347c8c83-4269-4a0e-af6f-4be2e824d22b&displaylang=ko)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=347c8c83-4269-4a0e-af6f-4be2e824d22b&displaylang=ko)  
 (KB955069)  
 (긴급)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14&displaylang=ko)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14&displaylang=ko)  
 (KB954430)  
 (낮음)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=59914795-60c7-4ebe-828d-f28cb457e6e3&displaylang=ko)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=59914795-60c7-4ebe-828d-f28cb457e6e3&displaylang=ko)  
 (KB954459)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=915e001f-9aa0-4fb0-9c2a-0f0c72b4f056&displaylang=ko)  
+[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=915e001f-9aa0-4fb0-9c2a-0f0c72b4f056&displaylang=ko)  
 (중요)
 </td>
 </tr>
@@ -301,18 +301,18 @@ Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 �
 Windows Server 2003 SP1 (Itanium 기반 시스템용) 및 Windows Server 2003 SP2 (Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=3a65e1cd-eb4e-44b6-8868-a5a84be2cb32)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=3a65e1cd-eb4e-44b6-8868-a5a84be2cb32)  
 (KB955069)  
 (긴급)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14)  
 (KB954430)  
 (낮음)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=59914795-60c7-4ebe-828d-f28cb457e6e3)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=59914795-60c7-4ebe-828d-f28cb457e6e3)  
 (KB954459)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=6abf7ba9-825f-4ee2-a2fe-6b1cd9fab622)  
+[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=6abf7ba9-825f-4ee2-a2fe-6b1cd9fab622)  
 (중요)
 </td>
 </tr>
@@ -348,18 +348,18 @@ Windows Vista
 Windows Vista 및 Windows Vista 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=affbc957-1867-4bbe-924d-6f0696ae0895&displaylang=ko)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=affbc957-1867-4bbe-924d-6f0696ae0895&displaylang=ko)  
 (KB955069)  
 (긴급)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14&displaylang=ko)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14&displaylang=ko)  
 (KB954430)  
 (중요)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=cb6c4315-8c6d-43af-978b-b190b1a1577a&displaylang=ko)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=cb6c4315-8c6d-43af-978b-b190b1a1577a&displaylang=ko)  
 (KB954459)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 및 Windows Vista 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=5612815f-8685-45d2-af4a-164c298a0869&displaylang=ko)  
+[Windows Vista 및 Windows Vista 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=5612815f-8685-45d2-af4a-164c298a0869&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -368,7 +368,7 @@ Windows Vista 및 Windows Vista 서비스 팩 1
 Windows Vista 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14)  
 (KB954430)  
 (중요)
 </td>
@@ -381,18 +381,18 @@ Windows Vista 서비스 팩 2
 Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=b01a5f31-8c57-4c5c-909e-b37caf0439b0&displaylang=ko)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=b01a5f31-8c57-4c5c-909e-b37caf0439b0&displaylang=ko)  
 (KB955069)  
 (긴급)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14&displaylang=ko)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14&displaylang=ko)  
 (KB954430)  
 (중요)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=39443046-2093-4c87-ac7b-679deab96414&displaylang=ko)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=39443046-2093-4c87-ac7b-679deab96414&displaylang=ko)  
 (KB954459)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=727ce9b6-827f-4350-b4ff-c08e8ac541a6&displaylang=ko)  
+[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=727ce9b6-827f-4350-b4ff-c08e8ac541a6&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -401,7 +401,7 @@ Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1
 Windows Vista x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14)  
 (KB954430)  
 (중요)
 </td>
@@ -441,18 +441,18 @@ Windows Server 2008
 Windows Server 2008 (32비트 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=90a04164-4d02-4ce9-b3d8-bddb1ec27618&displaylang=ko)\*\*  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=90a04164-4d02-4ce9-b3d8-bddb1ec27618&displaylang=ko)\*\*  
 (KB955069)  
 (긴급)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14&displaylang=ko)\*\*  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14&displaylang=ko)\*\*  
 (KB954430)  
 (낮음)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=dea9f227-967f-47c7-bb2a-ed68f13645d9&displaylang=ko)\*\*  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=dea9f227-967f-47c7-bb2a-ed68f13645d9&displaylang=ko)\*\*  
 (KB954459)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=b305e894-61ec-46b4-91ee-4c9ac59bc47e&displaylang=ko)\*  
+[Windows Server 2008(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=b305e894-61ec-46b4-91ee-4c9ac59bc47e&displaylang=ko)\*  
 (보통)
 </td>
 </tr>
@@ -461,7 +461,7 @@ Windows Server 2008 (32비트 시스템용)
 Windows Server 2008(32비트 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14)\*\*  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14)\*\*  
 (KB954430)  
 (낮음)
 </td>
@@ -474,18 +474,18 @@ Windows Server 2008(32비트 시스템용) 서비스 팩 2
 Windows Server 2008(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=b7bfe3f4-835f-402c-95b5-6d49b6935308&displaylang=ko)\*\*  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=b7bfe3f4-835f-402c-95b5-6d49b6935308&displaylang=ko)\*\*  
 (KB955069)  
 (긴급)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14&displaylang=ko)\*\*  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14&displaylang=ko)\*\*  
 (KB954430)  
 (낮음)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=f16e2a5f-37fd-4ee1-aef0-597214323dc4&displaylang=ko)\*\*  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=f16e2a5f-37fd-4ee1-aef0-597214323dc4&displaylang=ko)\*\*  
 (KB954459)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=e8d26dfd-b347-4f10-b5b6-27dfff5e4f47&displaylang=ko)\*  
+[Windows Server 2008(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=e8d26dfd-b347-4f10-b5b6-27dfff5e4f47&displaylang=ko)\*  
 (보통)
 </td>
 </tr>
@@ -494,7 +494,7 @@ Windows Server 2008(x64 기반 시스템용)
 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14)\*\*  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14)\*\*  
 (KB954430)  
 (낮음)
 </td>
@@ -507,18 +507,18 @@ Windows Server 2008(x64 기반 시스템용) 서비스 팩 2
 Windows Server 2008(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=4e0d1efe-70ac-459b-b330-c0149b74f520)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=4e0d1efe-70ac-459b-b330-c0149b74f520)  
 (KB955069)  
 (긴급)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14)  
 (KB954430)  
 (낮음)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=d4ae74e2-1b09-4a99-8cf5-8a8ca8ac6f7f)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=d4ae74e2-1b09-4a99-8cf5-8a8ca8ac6f7f)  
 (KB954459)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=d565467d-e10f-4ddc-a278-3f81a3798686)  
+[Windows Server 2008(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=d565467d-e10f-4ddc-a278-3f81a3798686)  
 (보통)
 </td>
 </tr>
@@ -527,7 +527,7 @@ Windows Server 2008(Itanium 기반 시스템용)
 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14)  
 (KB954430)  
 (낮음)
 </td>
@@ -567,7 +567,7 @@ Windows 7
 Windows 7(32비트 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14)  
 (KB954430)  
 (중요)
 </td>
@@ -580,7 +580,7 @@ Windows 7(32비트 시스템용)
 Windows 7(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14)  
 (KB954430)  
 (중요)
 </td>
@@ -620,7 +620,7 @@ Windows Server 2008 R2
 Windows Server 2008 R2(x64 기반 시스템용) 및 Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14)\*\*  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14)\*\*  
 (KB954430)  
 (낮음)
 </td>
@@ -633,7 +633,7 @@ Windows Server 2008 R2(x64 기반 시스템용) 및 Windows Server 2008 R2(x64 �
 Windows Server 2008 R2(Itanium 기반 시스템용) 및 Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14)  
 (KB954430)  
 (낮음)
 </td>
@@ -684,7 +684,7 @@ Microsoft Office 제품군, 시스템 및 구성 요소
 Microsoft Office 2003 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=7ad891a8-c3bb-4479-8282-13d629c410e3&displaylang=ko)  
+[Microsoft XML Core Services 5.0](https://www.microsoft.com/download/details.aspx?familyid=7ad891a8-c3bb-4479-8282-13d629c410e3&displaylang=ko)  
 (KB951535)  
 (중요)
 </td>
@@ -694,7 +694,7 @@ Microsoft Office 2003 서비스 팩 3
 2007 Microsoft Office 시스템 및 2007 Microsoft Office 시스템 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=27b06ee8-570a-4dc2-a230-c70d4a706245&displaylang=ko)  
+[Microsoft XML Core Services 5.0](https://www.microsoft.com/download/details.aspx?familyid=27b06ee8-570a-4dc2-a230-c70d4a706245&displaylang=ko)  
 (KB951550)  
 (중요)
 </td>
@@ -725,7 +725,7 @@ Microsoft Office 2003 서비스 팩 3
 Microsoft Word Viewer 2003 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=7ad891a8-c3bb-4479-8282-13d629c410e3&displaylang=ko)  
+[Microsoft XML Core Services 5.0](https://www.microsoft.com/download/details.aspx?familyid=7ad891a8-c3bb-4479-8282-13d629c410e3&displaylang=ko)  
 (KB951535)  
 (중요)
 </td>
@@ -735,7 +735,7 @@ Microsoft Word Viewer 2003 서비스 팩 3
 Word, Excel, PowerPoint 2007 파일 형식용 Microsoft Office 호환 기능 팩 및 Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 1용 Microsoft Office 호환 기능 팩
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=27b06ee8-570a-4dc2-a230-c70d4a706245&displaylang=ko)  
+[Microsoft XML Core Services 5.0](https://www.microsoft.com/download/details.aspx?familyid=27b06ee8-570a-4dc2-a230-c70d4a706245&displaylang=ko)  
 (KB951550)  
 (중요)
 </td>
@@ -745,7 +745,7 @@ Word, Excel, PowerPoint 2007 파일 형식용 Microsoft Office 호환 기능 팩
 Microsoft Expression Web 및 Microsoft Expression Web 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=27b06ee8-570a-4dc2-a230-c70d4a706245&displaylang=ko)  
+[Microsoft XML Core Services 5.0](https://www.microsoft.com/download/details.aspx?familyid=27b06ee8-570a-4dc2-a230-c70d4a706245&displaylang=ko)  
 (KB951550)  
 (중요)
 </td>
@@ -755,7 +755,7 @@ Microsoft Expression Web 및 Microsoft Expression Web 2
 Microsoft Office SharePoint Server 2007 및 Microsoft Office SharePoint Server 2007 서비스 팩 1 (32비트 에디션)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=a208f2b5-2b0d-43bb-8f8a-58d4a3fc64f5&displaylang=ko)  
+[Microsoft XML Core Services 5.0](https://www.microsoft.com/download/details.aspx?familyid=a208f2b5-2b0d-43bb-8f8a-58d4a3fc64f5&displaylang=ko)  
 (KB951597)  
 (중요)
 </td>
@@ -765,7 +765,7 @@ Microsoft Office SharePoint Server 2007 및 Microsoft Office SharePoint Server 2
 Microsoft Office SharePoint Server 2007 및 Microsoft Office SharePoint Server 2007 서비스 팩 1 (64비트 에디션)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=0735f4af-e32b-4970-bed7-b2b9323cf54c&displaylang=ko)  
+[Microsoft XML Core Services 5.0](https://www.microsoft.com/download/details.aspx?familyid=0735f4af-e32b-4970-bed7-b2b9323cf54c&displaylang=ko)  
 (KB951597)  
 (중요)
 </td>
@@ -775,7 +775,7 @@ Microsoft Office SharePoint Server 2007 및 Microsoft Office SharePoint Server 2
 Microsoft Office Groove Server 2007
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=0735f4af-e32b-4970-bed7-b2b9323cf54c&displaylang=ko)  
+[Microsoft XML Core Services 5.0](https://www.microsoft.com/download/details.aspx?familyid=0735f4af-e32b-4970-bed7-b2b9323cf54c&displaylang=ko)  
 (KB951597)  
 (중요)
 </td>
@@ -817,7 +817,7 @@ Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 
 
 **UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)**
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit) 5.0 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit) 5.0 (영문)](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Microsoft Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 

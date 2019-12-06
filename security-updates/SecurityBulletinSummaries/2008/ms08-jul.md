@@ -140,10 +140,10 @@ Microsoft Windows 2000 서비스 팩 4
 </td>
 <td style="border:1px solid black;">
 DNS 클라이언트 업데이트:  
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=269c219c-9d6b-4b12-b621-c70cd07cdd22)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=269c219c-9d6b-4b12-b621-c70cd07cdd22)  
 (중요)  
 DNS 서버 업데이트:  
-[Microsoft Windows 2000 Server 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=332aa92f-a1ad-42a0-87d0-485d2d41335b)  
+[Microsoft Windows 2000 Server 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=332aa92f-a1ad-42a0-87d0-485d2d41335b)  
 (중요)
 </td>
 </tr>
@@ -192,7 +192,7 @@ Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
 DNS 클라이언트 업데이트:  
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=ed989a33-7a9e-4423-93a8-b38907467cdf)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=ed989a33-7a9e-4423-93a8-b38907467cdf)  
 (중요)  
 해당 DNS 서버 업데이트 없음
 </td>
@@ -209,7 +209,7 @@ Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서�
 </td>
 <td style="border:1px solid black;">
 DNS 클라이언트 업데이트:  
-[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=a2b016fa-b108-4e8e-b41b-4ca89002907b)  
+[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=a2b016fa-b108-4e8e-b41b-4ca89002907b)  
 (중요)  
 해당 DNS 서버 업데이트 없음
 </td>
@@ -252,10 +252,10 @@ Windows Server 2003
 Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2000 Desktop Engine(WMSDE)](http://www.microsoft.com/downloads/details.aspx?familyid=1c0ae18b-1f17-44b3-a337-b36e7de437a7)  
+[Microsoft SQL Server 2000 Desktop Engine(WMSDE)](https://www.microsoft.com/download/details.aspx?familyid=1c0ae18b-1f17-44b3-a337-b36e7de437a7)  
 (KB948110)  
 (중요)  
-[Windows Internal Database(WYukon) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=48f6aaa5-49fc-4a16-bc34-8514e214b8cf)  
+[Windows Internal Database(WYukon) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=48f6aaa5-49fc-4a16-bc34-8514e214b8cf)  
 (KB948109)  
 (중요)
 </td>
@@ -264,10 +264,10 @@ Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
 DNS 클라이언트 업데이트:  
-[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=4ef5033c-9843-4e0b-bfad-fcaf05d7dab9)  
+[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=4ef5033c-9843-4e0b-bfad-fcaf05d7dab9)  
 (중요)  
 DNS 서버 업데이트:  
-[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=d1fcb794-e6a5-4c28-b3b3-9cd88f468a42)  
+[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=d1fcb794-e6a5-4c28-b3b3-9cd88f468a42)  
 (중요)
 </td>
 </tr>
@@ -276,10 +276,10 @@ DNS 서버 업데이트:
 Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2000 Desktop Engine(WMSDE)](http://www.microsoft.com/downloads/details.aspx?familyid=1c0ae18b-1f17-44b3-a337-b36e7de437a7)  
+[Microsoft SQL Server 2000 Desktop Engine(WMSDE)](https://www.microsoft.com/download/details.aspx?familyid=1c0ae18b-1f17-44b3-a337-b36e7de437a7)  
 (KB948110)  
 (중요)  
-[Windows Internal Database(WYukon) x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=48f6aaa5-49fc-4a16-bc34-8514e214b8cf)  
+[Windows Internal Database(WYukon) x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=48f6aaa5-49fc-4a16-bc34-8514e214b8cf)  
 (KB948109)  
 (중요)
 </td>
@@ -288,10 +288,10 @@ Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 �
 </td>
 <td style="border:1px solid black;">
 DNS 클라이언트 업데이트:  
-[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=66624a1f-38bf-4af7-936d-3131474ffe1f)  
+[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=66624a1f-38bf-4af7-936d-3131474ffe1f)  
 (중요)  
 DNS 서버 업데이트:  
-[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=040a1ba8-21b0-439e-bf21-1acd1c43b162)  
+[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=040a1ba8-21b0-439e-bf21-1acd1c43b162)  
 (중요)
 </td>
 </tr>
@@ -307,10 +307,10 @@ Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2
 </td>
 <td style="border:1px solid black;">
 DNS 클라이언트 업데이트:  
-[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=facc80da-61d6-49c5-872d-a1980b66ae3e)  
+[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=facc80da-61d6-49c5-872d-a1980b66ae3e)  
 (중요)  
 DNS 서버 업데이트:  
-[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=c63e3ee6-6055-4313-b0f1-fec7408886bb)  
+[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=c63e3ee6-6055-4313-b0f1-fec7408886bb)  
 (중요)
 </td>
 </tr>
@@ -355,7 +355,7 @@ Windows Vista 및 Windows Vista 서비스 팩 1
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 및 Windows Vista 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=06739ca6-7368-4acb-bb67-7e8146071a29)  
+[Windows Vista 및 Windows Vista 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=06739ca6-7368-4acb-bb67-7e8146071a29)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -371,7 +371,7 @@ Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=74ea0893-7c2f-4fad-ad27-588ad953b046)  
+[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=74ea0893-7c2f-4fad-ad27-588ad953b046)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -417,18 +417,18 @@ Windows Server 2008
 Windows Server 2008(32비트 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Internal Database(WYukon) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=48f6aaa5-49fc-4a16-bc34-8514e214b8cf)\*  
+[Windows Internal Database(WYukon) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=48f6aaa5-49fc-4a16-bc34-8514e214b8cf)\*  
 (KB948109)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=189a4170-b495-4904-9cbd-209e7494d303)\*  
+[Windows Server 2008(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=189a4170-b495-4904-9cbd-209e7494d303)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 DNS 클라이언트 업데이트 없음  
 DNS 서버 업데이트:  
-[Windows Server 2008(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=1fcea8f4-b233-42e1-b913-c4fcae276c7b)\*  
+[Windows Server 2008(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=1fcea8f4-b233-42e1-b913-c4fcae276c7b)\*  
 (중요)
 </td>
 </tr>
@@ -437,18 +437,18 @@ DNS 서버 업데이트:
 Windows Server 2008(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Internal Database(WYukon) x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=48f6aaa5-49fc-4a16-bc34-8514e214b8cf)\*  
+[Windows Internal Database(WYukon) x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=48f6aaa5-49fc-4a16-bc34-8514e214b8cf)\*  
 (KB948109)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=85d8701d-f8c7-4079-8a21-a3a9d5ba71ce)\*  
+[Windows Server 2008(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=85d8701d-f8c7-4079-8a21-a3a9d5ba71ce)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 DNS 클라이언트 업데이트 없음  
 DNS 서버 업데이트:  
-[Windows Server 2008(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=afac5bbc-71fa-457b-8b0a-f5902d37bfd0)\*  
+[Windows Server 2008(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=afac5bbc-71fa-457b-8b0a-f5902d37bfd0)\*  
 (중요)
 </td>
 </tr>
@@ -460,7 +460,7 @@ Windows Server 2008(Itanium 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=b30ee4f0-850f-4ff3-86a4-663603a0a802)  
+[Windows Server 2008(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=b30ee4f0-850f-4ff3-86a4-663603a0a802)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -490,120 +490,120 @@ Windows Server 2008(Itanium 기반 시스템용)
 <tr class="odd">
 <td style="border:1px solid black;">SQL Server 7.0 서비스 팩 4</td>
 <td style="border:1px solid black;">GDR 업데이트:<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=c95b2cb3-51a4-44e4-b9f4-9416e9ce16a0">SQL Server 7.0 서비스 팩 4</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=c95b2cb3-51a4-44e4-b9f4-9416e9ce16a0">SQL Server 7.0 서비스 팩 4</a><br />
 (KB948113)<br />
 (중요)<br />
 <br />
 QFE 업데이트:<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=c95b2cb3-51a4-44e4-b9f4-9416e9ce16a0">SQL Server 7.0 서비스 팩 4</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=c95b2cb3-51a4-44e4-b9f4-9416e9ce16a0">SQL Server 7.0 서비스 팩 4</a><br />
 (KB948113)<br />
 (중요)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">SQL Server 2000 서비스 팩 4</td>
 <td style="border:1px solid black;">GDR 업데이트:<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=4fd1f86a-94a2-43d8-9b0a-774c81426d9e">SQL Server 2000 서비스 팩 4</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=4fd1f86a-94a2-43d8-9b0a-774c81426d9e">SQL Server 2000 서비스 팩 4</a><br />
 (KB948110)<br />
 (중요)<br />
 <br />
 QFE 업데이트:<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=8316bc5e-8c2d-4710-8acc-b815ccc81cd4">SQL Server 2000 서비스 팩 4</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=8316bc5e-8c2d-4710-8acc-b815ccc81cd4">SQL Server 2000 서비스 팩 4</a><br />
 (KB948111)<br />
 (중요)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">SQL Server 2000 Itanium 기반 에디션 서비스 팩 4</td>
 <td style="border:1px solid black;">GDR 업데이트:<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=4fd1f86a-94a2-43d8-9b0a-774c81426d9e">SQL Server 2000 Itanium 기반 에디션 서비스 팩 4</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=4fd1f86a-94a2-43d8-9b0a-774c81426d9e">SQL Server 2000 Itanium 기반 에디션 서비스 팩 4</a><br />
 (KB948110)<br />
 (중요)<br />
 <br />
 QFE 업데이트:<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=8316bc5e-8c2d-4710-8acc-b815ccc81cd4">SQL Server 2000 Itanium 기반 에디션 서비스 팩 4</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=8316bc5e-8c2d-4710-8acc-b815ccc81cd4">SQL Server 2000 Itanium 기반 에디션 서비스 팩 4</a><br />
 (KB948111)<br />
 (중요)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">SQL Server 2005 서비스 팩 2</td>
 <td style="border:1px solid black;">GDR 업데이트:<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=4c9851cc-2c4c-4190-872c-84993a7623b7">SQL Server 2005 서비스 팩 2</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=4c9851cc-2c4c-4190-872c-84993a7623b7">SQL Server 2005 서비스 팩 2</a><br />
 (KB948109)<br />
 (중요)<br />
 <br />
 QFE 업데이트:<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=a60bb7e7-ef4e-4cbd-b63a-0ad7bd1402b3">SQL Server 2005 서비스 팩 2</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=a60bb7e7-ef4e-4cbd-b63a-0ad7bd1402b3">SQL Server 2005 서비스 팩 2</a><br />
 (KB948108)<br />
 (중요)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">SQL Server 2005 x64 Edition 서비스 팩 2</td>
 <td style="border:1px solid black;">GDR 업데이트:<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=4c9851cc-2c4c-4190-872c-84993a7623b7">SQL Server 2005 x64 Edition 서비스 팩 2</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=4c9851cc-2c4c-4190-872c-84993a7623b7">SQL Server 2005 x64 Edition 서비스 팩 2</a><br />
 (KB948109)<br />
 (중요)<br />
 <br />
 QFE 업데이트:<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=a60bb7e7-ef4e-4cbd-b63a-0ad7bd1402b3">SQL Server 2005 x64 Edition 서비스 팩 2</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=a60bb7e7-ef4e-4cbd-b63a-0ad7bd1402b3">SQL Server 2005 x64 Edition 서비스 팩 2</a><br />
 (KB948108)<br />
 (중요)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">SQL Server 2005 SP2(Itanium 기반 시스템용)</td>
 <td style="border:1px solid black;">GDR 업데이트:<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=4c9851cc-2c4c-4190-872c-84993a7623b7">SQL Server 2005 SP2(Itanium 기반 시스템용)</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=4c9851cc-2c4c-4190-872c-84993a7623b7">SQL Server 2005 SP2(Itanium 기반 시스템용)</a><br />
 (KB948109)<br />
 (중요)<br />
 <br />
 QFE 업데이트:<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=a60bb7e7-ef4e-4cbd-b63a-0ad7bd1402b3">SQL Server 2005 SP2(Itanium 기반 시스템용)</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=a60bb7e7-ef4e-4cbd-b63a-0ad7bd1402b3">SQL Server 2005 SP2(Itanium 기반 시스템용)</a><br />
 (KB948108)<br />
 (중요)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Data Engine(MSDE) 1.0 서비스 팩 4</td>
 <td style="border:1px solid black;">GDR 업데이트:<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=c95b2cb3-51a4-44e4-b9f4-9416e9ce16a0">Microsoft Data Engine(MSDE) 1.0 서비스 팩 4</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=c95b2cb3-51a4-44e4-b9f4-9416e9ce16a0">Microsoft Data Engine(MSDE) 1.0 서비스 팩 4</a><br />
 (KB948113)<br />
 (중요)<br />
 <br />
 QFE 업데이트:<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=c95b2cb3-51a4-44e4-b9f4-9416e9ce16a0">Microsoft Data Engine(MSDE) 1.0 서비스 팩 4</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=c95b2cb3-51a4-44e4-b9f4-9416e9ce16a0">Microsoft Data Engine(MSDE) 1.0 서비스 팩 4</a><br />
 (KB948113)<br />
 (중요)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Microsoft SQL Server 2000 Desktop Engine(MSDE 2000) 서비스 팩 4</td>
 <td style="border:1px solid black;">GDR 업데이트:<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=4fd1f86a-94a2-43d8-9b0a-774c81426d9e">Microsoft SQL Server 2000 Desktop Engine(MSDE 2000) 서비스 팩 4</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=4fd1f86a-94a2-43d8-9b0a-774c81426d9e">Microsoft SQL Server 2000 Desktop Engine(MSDE 2000) 서비스 팩 4</a><br />
 (KB948110)<br />
 (중요)<br />
 <br />
 QFE 업데이트:<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=8316bc5e-8c2d-4710-8acc-b815ccc81cd4">Microsoft SQL Server 2000 Desktop Engine(MSDE 2000) 서비스 팩 4</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=8316bc5e-8c2d-4710-8acc-b815ccc81cd4">Microsoft SQL Server 2000 Desktop Engine(MSDE 2000) 서비스 팩 4</a><br />
 (KB948111)<br />
 (중요)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft SQL Server 2005 Express Edition 서비스 팩 2</td>
 <td style="border:1px solid black;">GDR 업데이트:<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=4c9851cc-2c4c-4190-872c-84993a7623b7">Microsoft SQL Server 2005 Express Edition 서비스 팩 2</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=4c9851cc-2c4c-4190-872c-84993a7623b7">Microsoft SQL Server 2005 Express Edition 서비스 팩 2</a><br />
 (KB948109)<br />
 (중요)<br />
 <br />
 QFE 업데이트:<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=a60bb7e7-ef4e-4cbd-b63a-0ad7bd1402b3">Microsoft SQL Server 2005 Express Edition 서비스 팩 2</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=a60bb7e7-ef4e-4cbd-b63a-0ad7bd1402b3">Microsoft SQL Server 2005 Express Edition 서비스 팩 2</a><br />
 (KB948108)<br />
 (중요)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">고급 서비스가 포함된 Microsoft SQL Server 2005 Express Edition 서비스 팩 2</td>
 <td style="border:1px solid black;">GDR 업데이트:<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=4c9851cc-2c4c-4190-872c-84993a7623b7">고급 서비스가 포함된 Microsoft SQL Server 2005 Express Edition 서비스 팩 2</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=4c9851cc-2c4c-4190-872c-84993a7623b7">고급 서비스가 포함된 Microsoft SQL Server 2005 Express Edition 서비스 팩 2</a><br />
 (KB948109)<br />
 (중요)<br />
 <br />
 QFE 업데이트:<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=a60bb7e7-ef4e-4cbd-b63a-0ad7bd1402b3">고급 서비스가 포함된 Microsoft SQL Server 2005 Express Edition 서비스 팩 2</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=a60bb7e7-ef4e-4cbd-b63a-0ad7bd1402b3">고급 서비스가 포함된 Microsoft SQL Server 2005 Express Edition 서비스 팩 2</a><br />
 (KB948108)<br />
 (중요)</td>
 </tr>
@@ -626,17 +626,17 @@ QFE 업데이트:<br />
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Exchange Server 2003 서비스 팩 2</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=e099c1d1-5af6-4d6c-b735-9599412b3131">Microsoft Exchange Server 2003 서비스 팩 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=e099c1d1-5af6-4d6c-b735-9599412b3131">Microsoft Exchange Server 2003 서비스 팩 2</a><br />
 (중요)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Microsoft Exchange Server 2007</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=086a2a13-a1de-4b1d-bd12-b148bfd2dafa">Microsoft Exchange Server 2007</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=086a2a13-a1de-4b1d-bd12-b148bfd2dafa">Microsoft Exchange Server 2007</a><br />
 (중요)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Exchange Server 2007 서비스 팩 1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=63e7f26c-92a8-4264-882d-f96b348c96ab">Microsoft Exchange Server 2007 서비스 팩 1</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=63e7f26c-92a8-4264-882d-f96b348c96ab">Microsoft Exchange Server 2007 서비스 팩 1</a><br />
 (중요)</td>
 </tr>
 </tbody>
@@ -677,7 +677,7 @@ Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 
 
 **UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)**
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit) 5.0 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit) 5.0 (영문)](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Microsoft Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 

@@ -359,41 +359,41 @@ Windows XP
 Windows XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=f7b699b1-7655-4c8f-bd1a-535ff210b338&displaylang=ko)   
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=f7b699b1-7655-4c8f-bd1a-535ff210b338&displaylang=ko)   
 (2817183)  
 (긴급)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=e9f9848e-b926-4487-9dc2-b2a6b6f5f98e&displaylang=ko)   
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=e9f9848e-b926-4487-9dc2-b2a6b6f5f98e&displaylang=ko)   
 (2817183)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=4cf0de09-2e8d-4be0-bbbf-d040164f22e0&displaylang=ko)   
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=4cf0de09-2e8d-4be0-bbbf-d040164f22e0&displaylang=ko)   
 (2817183)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 6.1 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=353812de-b1eb-4245-82e3-7829cb72bba3&displaylang=ko)  
+[원격 데스크톱 연결 6.1 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=353812de-b1eb-4245-82e3-7829cb72bba3&displaylang=ko)  
 (2813345)  
 (긴급)  
-[원격 데스크톱 연결 7.0 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=1754fdde-4744-4783-b6d3-e38eb2874b58&displaylang=ko)  
+[원격 데스크톱 연결 7.0 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=1754fdde-4744-4783-b6d3-e38eb2874b58&displaylang=ko)  
 (2813347)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=69de7e3c-d99b-432a-b286-f45841edc4a7&displaylang=ko)  
+[Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=69de7e3c-d99b-432a-b286-f45841edc4a7&displaylang=ko)  
 (2813170)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[ADAM(Active Directory Application Mode)](http://www.microsoft.com/downloads/details.aspx?familyid=8adb6ced-6065-454b-ba67-b0acd621df76&displaylang=ko)  
+[ADAM(Active Directory Application Mode)](https://www.microsoft.com/download/details.aspx?familyid=8adb6ced-6065-454b-ba67-b0acd621df76&displaylang=ko)  
 (2801109)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=f47a73d3-05f6-4c7d-b063-c83dd0070c2d&displaylang=ko)  
+[Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=f47a73d3-05f6-4c7d-b063-c83dd0070c2d&displaylang=ko)  
 (2820917)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=75914c2a-37bb-4541-81ed-a602acb27a14&displaylang=ko)  
+[Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=75914c2a-37bb-4541-81ed-a602acb27a14&displaylang=ko)  
 (2808735)  
 (중요)
 </td>
@@ -403,38 +403,38 @@ Windows XP 서비스 팩 3
 Windows XP Professional x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=4496bce8-809e-458c-b199-49b32eef7b21&displaylang=ko)   
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=4496bce8-809e-458c-b199-49b32eef7b21&displaylang=ko)   
 (2817183)  
 (긴급)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=9d792ad9-c2d7-4972-9f27-4580af04571c&displaylang=ko)   
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=9d792ad9-c2d7-4972-9f27-4580af04571c&displaylang=ko)   
 (2817183)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=c3bdbbb8-57a2-4474-9b86-239f7a77e658&displaylang=ko)   
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=c3bdbbb8-57a2-4474-9b86-239f7a77e658&displaylang=ko)   
 (2817183)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 6.1 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=f413845a-84e0-48d9-b5bc-56a37109ab33&displaylang=ko)  
+[원격 데스크톱 연결 6.1 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=f413845a-84e0-48d9-b5bc-56a37109ab33&displaylang=ko)  
 (2813345)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=74855fb1-cad1-463f-a02d-1c27a39667c9)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=74855fb1-cad1-463f-a02d-1c27a39667c9)  
 (2813170)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[ADAM(Active Directory Application Mode)](http://www.microsoft.com/downloads/details.aspx?familyid=9fb780b9-bbca-45ec-98db-da413f0ccddf&displaylang=ko)  
+[ADAM(Active Directory Application Mode)](https://www.microsoft.com/download/details.aspx?familyid=9fb780b9-bbca-45ec-98db-da413f0ccddf&displaylang=ko)  
 (2801109)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=c143a028-2c38-469f-a563-be8030ec76e3)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=c143a028-2c38-469f-a563-be8030ec76e3)  
 (2820917)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=20a1f311-5cdc-4675-a228-32993d8be3f9)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=20a1f311-5cdc-4675-a228-32993d8be3f9)  
 (2808735)  
 (중요)
 </td>
@@ -495,41 +495,41 @@ Windows Server 2003
 Windows Server 2003 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=8d834fd2-eaa0-4742-a8a2-93277ca41f91&displaylang=ko)   
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=8d834fd2-eaa0-4742-a8a2-93277ca41f91&displaylang=ko)   
 (2817183)  
 (보통)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=b0cbbaaf-be40-4088-b3d3-ca85410807b7&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=b0cbbaaf-be40-4088-b3d3-ca85410807b7&displaylang=ko)  
 (2817183)  
 (보통)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=cd2731b3-406e-4b73-bd70-4f2bb16dfb08&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=cd2731b3-406e-4b73-bd70-4f2bb16dfb08&displaylang=ko)  
 (2817183)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 6.1 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=75b00750-80c3-4ffa-adbf-5f40a41309b9&displaylang=ko)  
+[원격 데스크톱 연결 6.1 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=75b00750-80c3-4ffa-adbf-5f40a41309b9&displaylang=ko)  
 (2813345)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=2c242d48-8dbe-4474-ba39-f7e3ebe9a604&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=2c242d48-8dbe-4474-ba39-f7e3ebe9a604&displaylang=ko)  
 (2813170)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Active Directory](http://www.microsoft.com/downloads/details.aspx?familyid=c27666a5-67ff-4e2d-b9d7-2cef19da1edd&displaylang=ko)  
+[Active Directory](https://www.microsoft.com/download/details.aspx?familyid=c27666a5-67ff-4e2d-b9d7-2cef19da1edd&displaylang=ko)  
 (2772930)  
 (중요)  
-[ADAM(Active Directory Application Mode)](http://www.microsoft.com/downloads/details.aspx?familyid=13eb9459-0a39-4652-b577-6d8509801f62&displaylang=ko)  
+[ADAM(Active Directory Application Mode)](https://www.microsoft.com/download/details.aspx?familyid=13eb9459-0a39-4652-b577-6d8509801f62&displaylang=ko)  
 (2801109)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=63ffbd1a-79a9-47c8-a904-b6e9a0fb626f&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=63ffbd1a-79a9-47c8-a904-b6e9a0fb626f&displaylang=ko)  
 (2820917)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=0722d681-eda8-48af-b079-36d45eb20f98&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=0722d681-eda8-48af-b079-36d45eb20f98&displaylang=ko)  
 (2808735)  
 (중요)
 </td>
@@ -539,41 +539,41 @@ Windows Server 2003 서비스 팩 2
 Windows Server 2003 x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=7149ecda-78d3-4289-81b2-5133cd9b4564&displaylang=ko)   
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=7149ecda-78d3-4289-81b2-5133cd9b4564&displaylang=ko)   
 (2817183)  
 (보통)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=f22de9fa-96e0-4a09-8923-8731e0de38c9&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=f22de9fa-96e0-4a09-8923-8731e0de38c9&displaylang=ko)  
 (2817183)  
 (보통)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=08c55acd-4c5e-4d5e-b524-19fd449e5c50&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=08c55acd-4c5e-4d5e-b524-19fd449e5c50&displaylang=ko)  
 (2817183)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 6.1 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=7efb8816-ca23-4a75-a0cc-53a663eac3a9&displaylang=ko)  
+[원격 데스크톱 연결 6.1 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=7efb8816-ca23-4a75-a0cc-53a663eac3a9&displaylang=ko)  
 (2813345)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b7af0c30-0d09-434a-85d6-69e7e9ee9e29&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b7af0c30-0d09-434a-85d6-69e7e9ee9e29&displaylang=ko)  
 (2813170)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Active Directory](http://www.microsoft.com/downloads/details.aspx?familyid=1b009894-8503-42b6-85d1-1285ed14bef9&displaylang=ko)  
+[Active Directory](https://www.microsoft.com/download/details.aspx?familyid=1b009894-8503-42b6-85d1-1285ed14bef9&displaylang=ko)  
 (2772930)  
 (중요)  
-[ADAM(Active Directory Application Mode)](http://www.microsoft.com/downloads/details.aspx?familyid=30c0c8d8-df70-4637-bea4-96e2e4d2cb28&displaylang=ko)  
+[ADAM(Active Directory Application Mode)](https://www.microsoft.com/download/details.aspx?familyid=30c0c8d8-df70-4637-bea4-96e2e4d2cb28&displaylang=ko)  
 (2801109)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=bf96696e-13a4-4b01-a8d9-60654d7d1ac5&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=bf96696e-13a4-4b01-a8d9-60654d7d1ac5&displaylang=ko)  
 (2820917)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=fc5f39a7-e89b-4ef0-887c-873ad546fb65&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=fc5f39a7-e89b-4ef0-887c-873ad546fb65&displaylang=ko)  
 (2808735)  
 (중요)
 </td>
@@ -583,10 +583,10 @@ Windows Server 2003 x64 Edition 서비스 팩 2
 Windows Server 2003 SP2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=b10b94db-b281-46b6-b301-58f14de327d2&displaylang=ko)   
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=b10b94db-b281-46b6-b301-58f14de327d2&displaylang=ko)   
 (2817183)  
 (보통)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=9d799925-5f8e-43c8-8674-19437a7a6c99&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=9d799925-5f8e-43c8-8674-19437a7a6c99&displaylang=ko)  
 (2817183)  
 (보통)
 </td>
@@ -594,22 +594,22 @@ Windows Server 2003 SP2(Itanium 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=54e286a0-22f5-4b34-a246-c98c0647f093)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=54e286a0-22f5-4b34-a246-c98c0647f093)  
 (2813170)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Active Directory](http://www.microsoft.com/downloads/details.aspx?familyid=0b65be9e-724d-469d-ba3b-93d8b174aecb&displaylang=ko)  
+[Active Directory](https://www.microsoft.com/download/details.aspx?familyid=0b65be9e-724d-469d-ba3b-93d8b174aecb&displaylang=ko)  
 (2772930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=c56d776a-4293-4d3c-bcac-cd5f50eeb328)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=c56d776a-4293-4d3c-bcac-cd5f50eeb328)  
 (2820917)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=dd159949-e0f0-4515-876d-837758a3fd51)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=dd159949-e0f0-4515-876d-837758a3fd51)  
 (2808735)  
 (중요)
 </td>
@@ -670,44 +670,44 @@ Windows Vista
 Windows Vista 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=5591feef-5bc6-4e3e-9bbb-cd2205757340&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=5591feef-5bc6-4e3e-9bbb-cd2205757340&displaylang=ko)  
 (2817183)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=e244c3f1-3c4e-4648-b1f9-e216b0009f1e&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=e244c3f1-3c4e-4648-b1f9-e216b0009f1e&displaylang=ko)  
 (2817183)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=190a78a5-e557-44f3-b214-7d3c904f7bd8&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=190a78a5-e557-44f3-b214-7d3c904f7bd8&displaylang=ko)   
 (2817183)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 6.1 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=20500712-2c0f-41e2-95a8-db1a5dcf717a&displaylang=ko)  
+[원격 데스크톱 연결 6.1 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=20500712-2c0f-41e2-95a8-db1a5dcf717a&displaylang=ko)  
 (2813345)  
 (긴급)  
-[원격 데스크톱 연결 7.0 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=1bf2935a-2fa4-4a26-bccf-fe0b63a16b37&displaylang=ko)  
+[원격 데스크톱 연결 7.0 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=1bf2935a-2fa4-4a26-bccf-fe0b63a16b37&displaylang=ko)  
 (2813347)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=7f1aa4bd-a14e-4797-b542-4220e3d9d0d7&displaylang=ko)  
+[Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=7f1aa4bd-a14e-4797-b542-4220e3d9d0d7&displaylang=ko)  
 (2813170)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[AD LDS(Active Directory Lightweight Directory Service)](http://www.microsoft.com/downloads/details.aspx?familyid=e1b1a3b4-7aae-4934-96cc-990cd1ce962d&displaylang=ko)  
+[AD LDS(Active Directory Lightweight Directory Service)](https://www.microsoft.com/download/details.aspx?familyid=e1b1a3b4-7aae-4934-96cc-990cd1ce962d&displaylang=ko)  
 (2772930)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=10664eeb-f759-4a0e-b1df-c463aae43902&displaylang=ko)  
+[Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=10664eeb-f759-4a0e-b1df-c463aae43902&displaylang=ko)  
 (2820917)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=3881a7f9-a5f1-4a28-b652-7b7f20c05259&displaylang=ko)  
+[Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=3881a7f9-a5f1-4a28-b652-7b7f20c05259&displaylang=ko)  
 (2808735)  
 (중요)  
-[Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=55d753f3-b912-401c-bca6-61c212ffa0df&displaylang=ko)  
+[Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=55d753f3-b912-401c-bca6-61c212ffa0df&displaylang=ko)  
 (2840149)  
 (보통)
 </td>
@@ -717,44 +717,44 @@ Windows Vista 서비스 팩 2
 Windows Vista x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=1bcd238f-2758-49f7-a347-7ec998637d5c&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=1bcd238f-2758-49f7-a347-7ec998637d5c&displaylang=ko)  
 (2817183)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=c35f53d6-eceb-4966-9487-2dfc2652c775&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=c35f53d6-eceb-4966-9487-2dfc2652c775&displaylang=ko)  
 (2817183)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=6cfdb0d5-9c47-405f-bc60-0e4dd3eaff12&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=6cfdb0d5-9c47-405f-bc60-0e4dd3eaff12&displaylang=ko)   
 (2817183)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 6.1 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=4c6f006c-fcb8-499f-bd91-9c8acb3ec3c3&displaylang=ko)  
+[원격 데스크톱 연결 6.1 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=4c6f006c-fcb8-499f-bd91-9c8acb3ec3c3&displaylang=ko)  
 (2813345)  
 (긴급)  
-[원격 데스크톱 연결 7.0 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=201eb194-e7c9-479c-bb03-646b22f2bbd1&displaylang=ko)  
+[원격 데스크톱 연결 7.0 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=201eb194-e7c9-479c-bb03-646b22f2bbd1&displaylang=ko)  
 (2813347)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=d6b3ef0e-16e3-42cb-bffe-4b046f995771&displaylang=ko)  
+[Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=d6b3ef0e-16e3-42cb-bffe-4b046f995771&displaylang=ko)  
 (2813170)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[AD LDS(Active Directory Lightweight Directory Service)](http://www.microsoft.com/downloads/details.aspx?familyid=ca2182ae-cd47-48d7-9bb0-4aeda4ee26cc&displaylang=ko)  
+[AD LDS(Active Directory Lightweight Directory Service)](https://www.microsoft.com/download/details.aspx?familyid=ca2182ae-cd47-48d7-9bb0-4aeda4ee26cc&displaylang=ko)  
 (2772930)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=c12ce8b7-e8e2-47ac-bdaa-874dff5a6115&displaylang=ko)  
+[Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=c12ce8b7-e8e2-47ac-bdaa-874dff5a6115&displaylang=ko)  
 (2820917)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=e5ba88a4-e0ec-45d7-8c0a-611521351890&displaylang=ko)  
+[Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=e5ba88a4-e0ec-45d7-8c0a-611521351890&displaylang=ko)  
 (2808735)  
 (중요)  
-[Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=89f1556f-442f-4888-b21a-ffbedaa8792e&displaylang=ko)  
+[Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=89f1556f-442f-4888-b21a-ffbedaa8792e&displaylang=ko)  
 (2840149)  
 (보통)
 </td>
@@ -815,41 +815,41 @@ Windows Server 2008
 Windows Server 2008(32비트 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=09bd431a-e94f-4fc5-bea9-569ebc17b0f3&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=09bd431a-e94f-4fc5-bea9-569ebc17b0f3&displaylang=ko)  
 (2817183)  
 (보통)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=76f96697-0f07-49ad-9169-47cfe2f6a362&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=76f96697-0f07-49ad-9169-47cfe2f6a362&displaylang=ko)  
 (2817183)  
 (보통)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=2d8c4080-ff7a-42ef-95f4-36b642c0a089&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=2d8c4080-ff7a-42ef-95f4-36b642c0a089&displaylang=ko)   
 (2817183)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 6.1 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=92bd1819-46f9-4a9b-bf2b-ea6aaaee9890&displaylang=ko)  
+[원격 데스크톱 연결 6.1 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=92bd1819-46f9-4a9b-bf2b-ea6aaaee9890&displaylang=ko)  
 (2813345)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=527ea8cd-88db-448a-b8e4-0fdf87fa369c&displaylang=ko)  
+[Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=527ea8cd-88db-448a-b8e4-0fdf87fa369c&displaylang=ko)  
 (2813170)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Active Directory 서비스 및 AD LDS(Active Directory Lightweight Directory Service)](http://www.microsoft.com/downloads/details.aspx?familyid=dd955bf1-e51f-4738-82bf-759e9dea0895&displaylang=ko)  
+[Active Directory 서비스 및 AD LDS(Active Directory Lightweight Directory Service)](https://www.microsoft.com/download/details.aspx?familyid=dd955bf1-e51f-4738-82bf-759e9dea0895&displaylang=ko)  
 (2772930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=31561241-07c8-4396-ad80-9c62a2394658&displaylang=ko)  
+[Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=31561241-07c8-4396-ad80-9c62a2394658&displaylang=ko)  
 (2820917)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=e598863e-7ca1-42a6-9cb4-3f3a10f0ce71&displaylang=ko)  
+[Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=e598863e-7ca1-42a6-9cb4-3f3a10f0ce71&displaylang=ko)  
 (2808735)  
 (중요)  
-[Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=a4bdfe68-4de2-41fa-a593-2e07de105081&displaylang=ko)  
+[Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=a4bdfe68-4de2-41fa-a593-2e07de105081&displaylang=ko)  
 (2840149)  
 (보통)
 </td>
@@ -859,41 +859,41 @@ Windows Server 2008(32비트 시스템용) 서비스 팩 2
 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=e46e002e-40b2-4bb3-89ad-63d320273ffa&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=e46e002e-40b2-4bb3-89ad-63d320273ffa&displaylang=ko)  
 (2817183)  
 (보통)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=b93153dc-f83a-4891-8230-765e3472614d&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=b93153dc-f83a-4891-8230-765e3472614d&displaylang=ko)  
 (2817183)  
 (보통)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=08abb2ce-0a07-4f25-b9ad-5ec87c07f0bf&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=08abb2ce-0a07-4f25-b9ad-5ec87c07f0bf&displaylang=ko)   
 (2817183)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 6.1 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=6518cdc6-10a6-46ed-a2f6-6f58216fe319&displaylang=ko)  
+[원격 데스크톱 연결 6.1 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=6518cdc6-10a6-46ed-a2f6-6f58216fe319&displaylang=ko)  
 (2813345)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=604709f7-8712-4162-ab86-5988b19084f9&displaylang=ko)  
+[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=604709f7-8712-4162-ab86-5988b19084f9&displaylang=ko)  
 (2813170)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Active Directory 서비스 및 AD LDS(Active Directory Lightweight Directory Service)](http://www.microsoft.com/downloads/details.aspx?familyid=38d1cd8c-977b-47be-b703-a326a1b4f445&displaylang=ko)  
+[Active Directory 서비스 및 AD LDS(Active Directory Lightweight Directory Service)](https://www.microsoft.com/download/details.aspx?familyid=38d1cd8c-977b-47be-b703-a326a1b4f445&displaylang=ko)  
 (2772930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=46ef3ace-30b2-4099-aa9d-142de82b0257&displaylang=ko)  
+[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=46ef3ace-30b2-4099-aa9d-142de82b0257&displaylang=ko)  
 (2820917)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=a9dd92b5-4137-47d1-85a3-506f1eaacee0&displaylang=ko)  
+[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=a9dd92b5-4137-47d1-85a3-506f1eaacee0&displaylang=ko)  
 (2808735)  
 (중요)  
-[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=1c36a50c-023d-420d-830a-d4cb2eda6ef2&displaylang=ko)  
+[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=1c36a50c-023d-420d-830a-d4cb2eda6ef2&displaylang=ko)  
 (2840149)  
 (보통)
 </td>
@@ -903,17 +903,17 @@ Windows Server 2008(x64 기반 시스템용) 서비스 팩 2
 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=b0d20b3f-f6cb-4cbc-9af1-1d33b4a6dfb2&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=b0d20b3f-f6cb-4cbc-9af1-1d33b4a6dfb2&displaylang=ko)  
 (2817183)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 6.1 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=4807c3fe-bc54-4db6-a9b0-ee21bdd9820f&displaylang=ko)  
+[원격 데스크톱 연결 6.1 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=4807c3fe-bc54-4db6-a9b0-ee21bdd9820f&displaylang=ko)  
 (2813345)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=6133c84a-b2ce-4a2e-8afc-7386caf80cc8)  
+[Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=6133c84a-b2ce-4a2e-8afc-7386caf80cc8)  
 (2813170)  
 (중요)
 </td>
@@ -921,15 +921,15 @@ Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=94971d7b-df42-4566-97eb-0a7572b0e2da)  
+[Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=94971d7b-df42-4566-97eb-0a7572b0e2da)  
 (2820917)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=3e9ccb95-284a-478e-b521-f3a0acbae8da)  
+[Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=3e9ccb95-284a-478e-b521-f3a0acbae8da)  
 (2808735)  
 (중요)  
-[Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=738b2263-e1eb-4ada-a7f0-5165f42bc5c9)  
+[Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=738b2263-e1eb-4ada-a7f0-5165f42bc5c9)  
 (2840149)  
 (보통)
 </td>
@@ -990,25 +990,25 @@ Windows 7
 Windows 7(32비트 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=ec9c221a-065b-4f5c-95b6-9b650c24cffa&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=ec9c221a-065b-4f5c-95b6-9b650c24cffa&displaylang=ko)  
 (2817183)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=041fd330-0998-44b5-bedd-d3e47965370d&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=041fd330-0998-44b5-bedd-d3e47965370d&displaylang=ko)   
 (2817183)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 7.0 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=d7623f17-783d-431a-8274-17d71df72202&displaylang=ko)  
+[원격 데스크톱 연결 7.0 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=d7623f17-783d-431a-8274-17d71df72202&displaylang=ko)  
 (2813347)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=90d2c454-c31c-4ac4-ab94-b341d1244ee6&displaylang=ko)  
+[Windows 7(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=90d2c454-c31c-4ac4-ab94-b341d1244ee6&displaylang=ko)  
 (2813170)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[AD LDS(Active Directory Lightweight Directory Service)](http://www.microsoft.com/downloads/details.aspx?familyid=37b3e861-35fb-471b-b81a-a8b58bd26647&displaylang=ko)  
+[AD LDS(Active Directory Lightweight Directory Service)](https://www.microsoft.com/download/details.aspx?familyid=37b3e861-35fb-471b-b81a-a8b58bd26647&displaylang=ko)  
 (2772930)  
 (낮음)
 </td>
@@ -1016,10 +1016,10 @@ Windows 7(32비트 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=1abeaf49-c458-4046-a001-8aee0ba35b3a&displaylang=ko)  
+[Windows 7(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=1abeaf49-c458-4046-a001-8aee0ba35b3a&displaylang=ko)  
 (2808735)  
 (중요)  
-[Windows 7(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=808ac8c6-394d-406b-b34e-07d03c760c27&displaylang=ko)  
+[Windows 7(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=808ac8c6-394d-406b-b34e-07d03c760c27&displaylang=ko)  
 (2840149)  
 (보통)
 </td>
@@ -1029,28 +1029,28 @@ Windows 7(32비트 시스템용)
 Windows 7(32비트 시스템용) 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=ec9c221a-065b-4f5c-95b6-9b650c24cffa&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=ec9c221a-065b-4f5c-95b6-9b650c24cffa&displaylang=ko)  
 (2817183)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=041fd330-0998-44b5-bedd-d3e47965370d&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=041fd330-0998-44b5-bedd-d3e47965370d&displaylang=ko)   
 (2817183)  
 (긴급)  
-[Internet Explorer 10](http://www.microsoft.com/downloads/details.aspx?familyid=cf49622e-8494-4082-a9aa-a6699711d827&displaylang=ko)   
+[Internet Explorer 10](https://www.microsoft.com/download/details.aspx?familyid=cf49622e-8494-4082-a9aa-a6699711d827&displaylang=ko)   
 (2817183)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 7.1 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=d7623f17-783d-431a-8274-17d71df72202&displaylang=ko)  
+[원격 데스크톱 연결 7.1 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=d7623f17-783d-431a-8274-17d71df72202&displaylang=ko)  
 (2813347)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=90d2c454-c31c-4ac4-ab94-b341d1244ee6&displaylang=ko)  
+[Windows 7(32비트 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=90d2c454-c31c-4ac4-ab94-b341d1244ee6&displaylang=ko)  
 (2813170)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[AD LDS(Active Directory Lightweight Directory Service)](http://www.microsoft.com/downloads/details.aspx?familyid=37b3e861-35fb-471b-b81a-a8b58bd26647&displaylang=ko)  
+[AD LDS(Active Directory Lightweight Directory Service)](https://www.microsoft.com/download/details.aspx?familyid=37b3e861-35fb-471b-b81a-a8b58bd26647&displaylang=ko)  
 (2772930)  
 (낮음)
 </td>
@@ -1058,10 +1058,10 @@ Windows 7(32비트 시스템용) 서비스 팩 1
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=1abeaf49-c458-4046-a001-8aee0ba35b3a&displaylang=ko)  
+[Windows 7(32비트 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=1abeaf49-c458-4046-a001-8aee0ba35b3a&displaylang=ko)  
 (2808735)  
 (중요)  
-[Windows 7(32비트 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=808ac8c6-394d-406b-b34e-07d03c760c27&displaylang=ko)  
+[Windows 7(32비트 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=808ac8c6-394d-406b-b34e-07d03c760c27&displaylang=ko)  
 (2840149)  
 (보통)
 </td>
@@ -1071,25 +1071,25 @@ Windows 7(32비트 시스템용) 서비스 팩 1
 Windows 7(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=01f4b588-38e3-43a7-ae5c-674b9c03fc42&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=01f4b588-38e3-43a7-ae5c-674b9c03fc42&displaylang=ko)  
 (2817183)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=ac93c656-2c9c-4378-9ae3-a60636b8ce6f&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=ac93c656-2c9c-4378-9ae3-a60636b8ce6f&displaylang=ko)   
 (2817183)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 7.0 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=5595efaa-3d57-4c9a-8b53-7cfa06093f1e&displaylang=ko)  
+[원격 데스크톱 연결 7.0 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=5595efaa-3d57-4c9a-8b53-7cfa06093f1e&displaylang=ko)  
 (2813347)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=ebc1ea79-158f-4c81-ab49-3d3fca870363&displaylang=ko)  
+[Windows 7(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=ebc1ea79-158f-4c81-ab49-3d3fca870363&displaylang=ko)  
 (2813170)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[AD LDS(Active Directory Lightweight Directory Service)](http://www.microsoft.com/downloads/details.aspx?familyid=94d19c2a-2457-4fa7-ade6-ad37d0e7f56a&displaylang=ko)  
+[AD LDS(Active Directory Lightweight Directory Service)](https://www.microsoft.com/download/details.aspx?familyid=94d19c2a-2457-4fa7-ade6-ad37d0e7f56a&displaylang=ko)  
 (2772930)  
 (낮음)
 </td>
@@ -1097,10 +1097,10 @@ Windows 7(x64 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=84275cfd-f5a3-4830-895d-beaf162cdc27&displaylang=ko)  
+[Windows 7(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=84275cfd-f5a3-4830-895d-beaf162cdc27&displaylang=ko)  
 (2808735)  
 (중요)  
-[Windows 7(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=737a0cd0-eee6-4095-b9b1-2822024dd825&displaylang=ko)  
+[Windows 7(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=737a0cd0-eee6-4095-b9b1-2822024dd825&displaylang=ko)  
 (2840149)  
 (보통)
 </td>
@@ -1110,28 +1110,28 @@ Windows 7(x64 기반 시스템용)
 Windows 7(x64 기반 시스템용) 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=01f4b588-38e3-43a7-ae5c-674b9c03fc42&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=01f4b588-38e3-43a7-ae5c-674b9c03fc42&displaylang=ko)  
 (2817183)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=ac93c656-2c9c-4378-9ae3-a60636b8ce6f&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=ac93c656-2c9c-4378-9ae3-a60636b8ce6f&displaylang=ko)   
 (2817183)  
 (긴급)  
-[Internet Explorer 10](http://www.microsoft.com/downloads/details.aspx?familyid=775536fa-a8a2-4733-a0f0-08e742be1122&displaylang=ko)   
+[Internet Explorer 10](https://www.microsoft.com/download/details.aspx?familyid=775536fa-a8a2-4733-a0f0-08e742be1122&displaylang=ko)   
 (2817183)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 7.1 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=5595efaa-3d57-4c9a-8b53-7cfa06093f1e&displaylang=ko)  
+[원격 데스크톱 연결 7.1 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=5595efaa-3d57-4c9a-8b53-7cfa06093f1e&displaylang=ko)  
 (2813347)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=ebc1ea79-158f-4c81-ab49-3d3fca870363&displaylang=ko)  
+[Windows 7(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=ebc1ea79-158f-4c81-ab49-3d3fca870363&displaylang=ko)  
 (2813170)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[AD LDS(Active Directory Lightweight Directory Service)](http://www.microsoft.com/downloads/details.aspx?familyid=94d19c2a-2457-4fa7-ade6-ad37d0e7f56a&displaylang=ko)  
+[AD LDS(Active Directory Lightweight Directory Service)](https://www.microsoft.com/download/details.aspx?familyid=94d19c2a-2457-4fa7-ade6-ad37d0e7f56a&displaylang=ko)  
 (2772930)  
 (낮음)
 </td>
@@ -1139,10 +1139,10 @@ Windows 7(x64 기반 시스템용) 서비스 팩 1
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=84275cfd-f5a3-4830-895d-beaf162cdc27&displaylang=ko)  
+[Windows 7(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=84275cfd-f5a3-4830-895d-beaf162cdc27&displaylang=ko)  
 (2808735)  
 (중요)  
-[Windows 7(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=737a0cd0-eee6-4095-b9b1-2822024dd825&displaylang=ko)  
+[Windows 7(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=737a0cd0-eee6-4095-b9b1-2822024dd825&displaylang=ko)  
 (2840149)  
 (보통)
 </td>
@@ -1203,25 +1203,25 @@ Windows Server 2008 R2
 Windows Server 2008 R2(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=d8ffa592-6336-494d-bcd0-535ea2821525&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=d8ffa592-6336-494d-bcd0-535ea2821525&displaylang=ko)  
 (2817183)  
 (보통)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=7f68500e-6699-4341-b129-2dbd5bc508ac&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=7f68500e-6699-4341-b129-2dbd5bc508ac&displaylang=ko)   
 (2817183)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 7.0 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=79c870b9-b800-4f59-a5ea-19a5c890af52&displaylang=ko)  
+[원격 데스크톱 연결 7.0 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=79c870b9-b800-4f59-a5ea-19a5c890af52&displaylang=ko)  
 (2813347)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=dbbd2e3d-1b37-4173-9955-e6fceb7bcd45&displaylang=ko)  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=dbbd2e3d-1b37-4173-9955-e6fceb7bcd45&displaylang=ko)  
 (2813170)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Active Directory 서비스 및 AD LDS(Active Directory Lightweight Directory Service)](http://www.microsoft.com/downloads/details.aspx?familyid=78d11246-06b0-4a22-a2b0-c772aa60e726&displaylang=ko)  
+[Active Directory 서비스 및 AD LDS(Active Directory Lightweight Directory Service)](https://www.microsoft.com/download/details.aspx?familyid=78d11246-06b0-4a22-a2b0-c772aa60e726&displaylang=ko)  
 (2772930)  
 (중요)
 </td>
@@ -1229,10 +1229,10 @@ Windows Server 2008 R2(x64 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=cbaac7fb-b673-4cf5-8c6f-57bedcb5285d&displaylang=ko)  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=cbaac7fb-b673-4cf5-8c6f-57bedcb5285d&displaylang=ko)  
 (2808735)  
 (중요)  
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=3e96483f-ec2d-4335-8c50-8686eed06018&displaylang=ko)  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=3e96483f-ec2d-4335-8c50-8686eed06018&displaylang=ko)  
 (2840149)  
 (보통)
 </td>
@@ -1242,28 +1242,28 @@ Windows Server 2008 R2(x64 기반 시스템용)
 Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=d8ffa592-6336-494d-bcd0-535ea2821525&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=d8ffa592-6336-494d-bcd0-535ea2821525&displaylang=ko)  
 (2817183)  
 (보통)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=7f68500e-6699-4341-b129-2dbd5bc508ac&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=7f68500e-6699-4341-b129-2dbd5bc508ac&displaylang=ko)   
 (2817183)  
 (보통)  
-[Internet Explorer 10](http://www.microsoft.com/downloads/details.aspx?familyid=752ffe45-b251-4cdf-9848-4d15f75d4452&displaylang=ko)   
+[Internet Explorer 10](https://www.microsoft.com/download/details.aspx?familyid=752ffe45-b251-4cdf-9848-4d15f75d4452&displaylang=ko)   
 (2817183)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 7.1 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=79c870b9-b800-4f59-a5ea-19a5c890af52&displaylang=ko)  
+[원격 데스크톱 연결 7.1 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=79c870b9-b800-4f59-a5ea-19a5c890af52&displaylang=ko)  
 (2813347)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=dbbd2e3d-1b37-4173-9955-e6fceb7bcd45&displaylang=ko)  
+[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=dbbd2e3d-1b37-4173-9955-e6fceb7bcd45&displaylang=ko)  
 (2813170)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Active Directory 서비스 및 AD LDS(Active Directory Lightweight Directory Service)](http://www.microsoft.com/downloads/details.aspx?familyid=78d11246-06b0-4a22-a2b0-c772aa60e726&displaylang=ko)  
+[Active Directory 서비스 및 AD LDS(Active Directory Lightweight Directory Service)](https://www.microsoft.com/download/details.aspx?familyid=78d11246-06b0-4a22-a2b0-c772aa60e726&displaylang=ko)  
 (2772930)  
 (중요)
 </td>
@@ -1271,10 +1271,10 @@ Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=cbaac7fb-b673-4cf5-8c6f-57bedcb5285d&displaylang=ko)  
+[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=cbaac7fb-b673-4cf5-8c6f-57bedcb5285d&displaylang=ko)  
 (2808735)  
 (중요)  
-[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=3e96483f-ec2d-4335-8c50-8686eed06018&displaylang=ko)  
+[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=3e96483f-ec2d-4335-8c50-8686eed06018&displaylang=ko)  
 (2840149)  
 (보통)
 </td>
@@ -1284,17 +1284,17 @@ Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1
 Windows Server 2008 R2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=2dec754b-4d51-4792-bee6-67e94a1a8157&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=2dec754b-4d51-4792-bee6-67e94a1a8157&displaylang=ko)  
 (2817183)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 7.0 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=c7047403-8c2a-42de-bea5-d7354847730a&displaylang=ko)  
+[원격 데스크톱 연결 7.0 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=c7047403-8c2a-42de-bea5-d7354847730a&displaylang=ko)  
 (2813347)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=5cfc2f18-4cde-4e21-8604-f694d69da535)  
+[Windows Server 2008 R2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=5cfc2f18-4cde-4e21-8604-f694d69da535)  
 (2813170)  
 (중요)
 </td>
@@ -1305,10 +1305,10 @@ Windows Server 2008 R2(Itanium 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=6c577423-cd17-4317-98a3-5f6e767513c0)  
+[Windows Server 2008 R2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=6c577423-cd17-4317-98a3-5f6e767513c0)  
 (2808735)  
 (중요)  
-[Windows Server 2008 R2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=3f1abf13-14c3-4a92-b4c1-4caa40e29e7b)  
+[Windows Server 2008 R2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=3f1abf13-14c3-4a92-b4c1-4caa40e29e7b)  
 (2840149)  
 (보통)
 </td>
@@ -1318,17 +1318,17 @@ Windows Server 2008 R2(Itanium 기반 시스템용)
 Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=2dec754b-4d51-4792-bee6-67e94a1a8157&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=2dec754b-4d51-4792-bee6-67e94a1a8157&displaylang=ko)  
 (2817183)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[원격 데스크톱 연결 7.1 클라이언트](http://www.microsoft.com/downloads/details.aspx?familyid=c7047403-8c2a-42de-bea5-d7354847730a&displaylang=ko)  
+[원격 데스크톱 연결 7.1 클라이언트](https://www.microsoft.com/download/details.aspx?familyid=c7047403-8c2a-42de-bea5-d7354847730a&displaylang=ko)  
 (2813347)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=5cfc2f18-4cde-4e21-8604-f694d69da535)  
+[Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=5cfc2f18-4cde-4e21-8604-f694d69da535)  
 (2813170)  
 (중요)
 </td>
@@ -1339,10 +1339,10 @@ Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=6c577423-cd17-4317-98a3-5f6e767513c0)  
+[Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=6c577423-cd17-4317-98a3-5f6e767513c0)  
 (2808735)  
 (중요)  
-[Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=3f1abf13-14c3-4a92-b4c1-4caa40e29e7b)  
+[Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=3f1abf13-14c3-4a92-b4c1-4caa40e29e7b)  
 (2840149)  
 (보통)
 </td>
@@ -1403,7 +1403,7 @@ Windows 8
 Windows 8(32비트 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 10](http://www.microsoft.com/downloads/details.aspx?familyid=159c43ec-beaf-4ac3-8c3a-06a9716ac9ae&displaylang=ko)   
+[Internet Explorer 10](https://www.microsoft.com/download/details.aspx?familyid=159c43ec-beaf-4ac3-8c3a-06a9716ac9ae&displaylang=ko)   
 (2817183)  
 (긴급)
 </td>
@@ -1411,12 +1411,12 @@ Windows 8(32비트 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows 8(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=02d6d10e-3708-4424-8618-88414694c973&displaylang=ko)  
+[Windows 8(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=02d6d10e-3708-4424-8618-88414694c973&displaylang=ko)  
 (2813170)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[AD LDS(Active Directory Lightweight Directory Service)](http://www.microsoft.com/downloads/details.aspx?familyid=c7a7ba4d-1fe1-40ed-81f2-6fbb6dde2cf6&displaylang=ko)  
+[AD LDS(Active Directory Lightweight Directory Service)](https://www.microsoft.com/download/details.aspx?familyid=c7a7ba4d-1fe1-40ed-81f2-6fbb6dde2cf6&displaylang=ko)  
 (2772930)  
 (낮음)
 </td>
@@ -1424,7 +1424,7 @@ Windows 8(32비트 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows 8(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=882f2d67-b8e0-4859-871b-6a7cef27e3e5&displaylang=ko)  
+[Windows 8(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=882f2d67-b8e0-4859-871b-6a7cef27e3e5&displaylang=ko)  
 (2808735)  
 (중요)
 </td>
@@ -1434,7 +1434,7 @@ Windows 8(32비트 시스템용)
 Windows 8(64비트 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 10](http://www.microsoft.com/downloads/details.aspx?familyid=3309f621-4087-4688-b991-c2ef54532cb6&displaylang=ko)   
+[Internet Explorer 10](https://www.microsoft.com/download/details.aspx?familyid=3309f621-4087-4688-b991-c2ef54532cb6&displaylang=ko)   
 (2817183)  
 (긴급)
 </td>
@@ -1442,12 +1442,12 @@ Windows 8(64비트 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows 8(64비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=18992e76-70f3-43a2-b47f-199c9728c7ca&displaylang=ko)  
+[Windows 8(64비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=18992e76-70f3-43a2-b47f-199c9728c7ca&displaylang=ko)  
 (2813170)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[AD LDS(Active Directory Lightweight Directory Service)](http://www.microsoft.com/downloads/details.aspx?familyid=bafaac33-2bef-4a5e-9451-23ca69c0a132&displaylang=ko)  
+[AD LDS(Active Directory Lightweight Directory Service)](https://www.microsoft.com/download/details.aspx?familyid=bafaac33-2bef-4a5e-9451-23ca69c0a132&displaylang=ko)  
 (2772930)  
 (낮음)
 </td>
@@ -1455,7 +1455,7 @@ Windows 8(64비트 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows 8(64비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=852dac0f-75fe-443f-9b3d-1dbcac166b3d&displaylang=ko)  
+[Windows 8(64비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=852dac0f-75fe-443f-9b3d-1dbcac166b3d&displaylang=ko)  
 (2808735)  
 (중요)
 </td>
@@ -1516,7 +1516,7 @@ Windows Server 2012
 Windows Server 2012
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 10](http://www.microsoft.com/downloads/details.aspx?familyid=5015e763-6fb8-4737-9305-2e5850ef853d&displaylang=ko)   
+[Internet Explorer 10](https://www.microsoft.com/download/details.aspx?familyid=5015e763-6fb8-4737-9305-2e5850ef853d&displaylang=ko)   
 (2817183)  
 (보통)
 </td>
@@ -1524,12 +1524,12 @@ Windows Server 2012
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2012](http://www.microsoft.com/downloads/details.aspx?familyid=ef106525-c42b-4b25-83bf-e290e2bcad5a&displaylang=ko)  
+[Windows Server 2012](https://www.microsoft.com/download/details.aspx?familyid=ef106525-c42b-4b25-83bf-e290e2bcad5a&displaylang=ko)  
 (2813170)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Active Directory 서비스](http://www.microsoft.com/downloads/details.aspx?familyid=209e3d5f-9333-469e-8b2c-212dc4ec764a&displaylang=ko)  
+[Active Directory 서비스](https://www.microsoft.com/download/details.aspx?familyid=209e3d5f-9333-469e-8b2c-212dc4ec764a&displaylang=ko)  
 (2772930)  
 (중요)
 </td>
@@ -1537,7 +1537,7 @@ Windows Server 2012
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2012](http://www.microsoft.com/downloads/details.aspx?familyid=fbf53f06-1ee2-49c4-a5a8-3b1e9823b1b9&displaylang=ko)  
+[Windows Server 2012](https://www.microsoft.com/download/details.aspx?familyid=fbf53f06-1ee2-49c4-a5a8-3b1e9823b1b9&displaylang=ko)  
 (2808735)  
 (중요)
 </td>
@@ -1684,25 +1684,25 @@ Windows Server 2008(32비트 시스템용) 서비스 팩 2(Server Core 설치)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=527ea8cd-88db-448a-b8e4-0fdf87fa369c&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=527ea8cd-88db-448a-b8e4-0fdf87fa369c&displaylang=ko)(Server Core 설치)  
 (2813170)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Active Directory 서비스 및 AD LDS(Active Directory Lightweight Directory Service)](http://www.microsoft.com/downloads/details.aspx?familyid=dd955bf1-e51f-4738-82bf-759e9dea0895&displaylang=ko)  
+[Active Directory 서비스 및 AD LDS(Active Directory Lightweight Directory Service)](https://www.microsoft.com/download/details.aspx?familyid=dd955bf1-e51f-4738-82bf-759e9dea0895&displaylang=ko)  
 (2772930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=31561241-07c8-4396-ad80-9c62a2394658&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=31561241-07c8-4396-ad80-9c62a2394658&displaylang=ko)(Server Core 설치)  
 (2820917)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=e598863e-7ca1-42a6-9cb4-3f3a10f0ce71&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=e598863e-7ca1-42a6-9cb4-3f3a10f0ce71&displaylang=ko)(Server Core 설치)  
 (2808735)  
 (중요)  
-[Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=a4bdfe68-4de2-41fa-a593-2e07de105081&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=a4bdfe68-4de2-41fa-a593-2e07de105081&displaylang=ko)(Server Core 설치)  
 (2840149)  
 (보통)
 </td>
@@ -1718,25 +1718,25 @@ Windows Server 2008(x64 기반 시스템용) 서비스 팩 2(Server Core 설치)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=604709f7-8712-4162-ab86-5988b19084f9&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=604709f7-8712-4162-ab86-5988b19084f9&displaylang=ko)(Server Core 설치)  
 (2813170)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Active Directory 서비스 및 AD LDS(Active Directory Lightweight Directory Service)](http://www.microsoft.com/downloads/details.aspx?familyid=38d1cd8c-977b-47be-b703-a326a1b4f445&displaylang=ko)  
+[Active Directory 서비스 및 AD LDS(Active Directory Lightweight Directory Service)](https://www.microsoft.com/download/details.aspx?familyid=38d1cd8c-977b-47be-b703-a326a1b4f445&displaylang=ko)  
 (2772930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=46ef3ace-30b2-4099-aa9d-142de82b0257&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=46ef3ace-30b2-4099-aa9d-142de82b0257&displaylang=ko)(Server Core 설치)  
 (2820917)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=a9dd92b5-4137-47d1-85a3-506f1eaacee0&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=a9dd92b5-4137-47d1-85a3-506f1eaacee0&displaylang=ko)(Server Core 설치)  
 (2808735)  
 (중요)  
-[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=1c36a50c-023d-420d-830a-d4cb2eda6ef2&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=1c36a50c-023d-420d-830a-d4cb2eda6ef2&displaylang=ko)(Server Core 설치)  
 (2840149)  
 (보통)
 </td>
@@ -1752,12 +1752,12 @@ Windows Server 2008 R2(x64 기반 시스템용)(Server Core 설치)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=dbbd2e3d-1b37-4173-9955-e6fceb7bcd45&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=dbbd2e3d-1b37-4173-9955-e6fceb7bcd45&displaylang=ko)(Server Core 설치)  
 (2813170)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Active Directory 서비스 및 AD LDS(Active Directory Lightweight Directory Service)](http://www.microsoft.com/downloads/details.aspx?familyid=78d11246-06b0-4a22-a2b0-c772aa60e726&displaylang=ko)  
+[Active Directory 서비스 및 AD LDS(Active Directory Lightweight Directory Service)](https://www.microsoft.com/download/details.aspx?familyid=78d11246-06b0-4a22-a2b0-c772aa60e726&displaylang=ko)  
 (2772930)  
 (중요)
 </td>
@@ -1765,10 +1765,10 @@ Windows Server 2008 R2(x64 기반 시스템용)(Server Core 설치)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=cbaac7fb-b673-4cf5-8c6f-57bedcb5285d&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=cbaac7fb-b673-4cf5-8c6f-57bedcb5285d&displaylang=ko)(Server Core 설치)  
 (2808735)  
 (중요)  
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=3e96483f-ec2d-4335-8c50-8686eed06018&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=3e96483f-ec2d-4335-8c50-8686eed06018&displaylang=ko)(Server Core 설치)  
 (2840149)  
 (보통)
 </td>
@@ -1784,12 +1784,12 @@ Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1(Server Core 설�
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=dbbd2e3d-1b37-4173-9955-e6fceb7bcd45&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=dbbd2e3d-1b37-4173-9955-e6fceb7bcd45&displaylang=ko)(Server Core 설치)  
 (2813170)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Active Directory 서비스 및 AD LDS(Active Directory Lightweight Directory Service)](http://www.microsoft.com/downloads/details.aspx?familyid=78d11246-06b0-4a22-a2b0-c772aa60e726&displaylang=ko)  
+[Active Directory 서비스 및 AD LDS(Active Directory Lightweight Directory Service)](https://www.microsoft.com/download/details.aspx?familyid=78d11246-06b0-4a22-a2b0-c772aa60e726&displaylang=ko)  
 (2772930)  
 (중요)
 </td>
@@ -1797,10 +1797,10 @@ Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1(Server Core 설�
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=cbaac7fb-b673-4cf5-8c6f-57bedcb5285d&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=cbaac7fb-b673-4cf5-8c6f-57bedcb5285d&displaylang=ko)(Server Core 설치)  
 (2808735)  
 (중요)  
-[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=3e96483f-ec2d-4335-8c50-8686eed06018&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=3e96483f-ec2d-4335-8c50-8686eed06018&displaylang=ko)(Server Core 설치)  
 (2840149)  
 (보통)
 </td>
@@ -1816,12 +1816,12 @@ Windows Server 2012(Server Core 설치)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2012](http://www.microsoft.com/downloads/details.aspx?familyid=ef106525-c42b-4b25-83bf-e290e2bcad5a&displaylang=ko)(Server Core 설치)  
+[Windows Server 2012](https://www.microsoft.com/download/details.aspx?familyid=ef106525-c42b-4b25-83bf-e290e2bcad5a&displaylang=ko)(Server Core 설치)  
 (2813170)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Active Directory 서비스](http://www.microsoft.com/downloads/details.aspx?familyid=209e3d5f-9333-469e-8b2c-212dc4ec764a&displaylang=ko)  
+[Active Directory 서비스](https://www.microsoft.com/download/details.aspx?familyid=209e3d5f-9333-469e-8b2c-212dc4ec764a&displaylang=ko)  
 (2772930)  
 (중요)
 </td>
@@ -1829,7 +1829,7 @@ Windows Server 2012(Server Core 설치)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2012](http://www.microsoft.com/downloads/details.aspx?familyid=fbf53f06-1ee2-49c4-a5a8-3b1e9823b1b9&displaylang=ko)(Server Core 설치)  
+[Windows Server 2012](https://www.microsoft.com/download/details.aspx?familyid=fbf53f06-1ee2-49c4-a5a8-3b1e9823b1b9&displaylang=ko)(Server Core 설치)  
 (2808735)  
 (중요)
 </td>
@@ -1870,10 +1870,10 @@ Microsoft Office 소프트웨어
 Microsoft InfoPath 2010 서비스 팩 1(32비트 에디션)
 </td>
 <td style="border:1px solid black;">
-[Microsoft InfoPath 2010 서비스 팩 1(32비트 에디션)](http://www.microsoft.com/downloads/details.aspx?familyid=63f6a338-a195-4923-908e-8c21713c7373&displaylang=ko)  
+[Microsoft InfoPath 2010 서비스 팩 1(32비트 에디션)](https://www.microsoft.com/download/details.aspx?familyid=63f6a338-a195-4923-908e-8c21713c7373&displaylang=ko)  
 (2687422)  
 (심각도 없음)<sup>[1]</sup>
-[Microsoft InfoPath 2010 서비스 팩 1(32비트 에디션)](http://www.microsoft.com/downloads/details.aspx?familyid=f1cd73d2-411b-4a58-b8c0-04fd58922dae&displaylang=ko)  
+[Microsoft InfoPath 2010 서비스 팩 1(32비트 에디션)](https://www.microsoft.com/download/details.aspx?familyid=f1cd73d2-411b-4a58-b8c0-04fd58922dae&displaylang=ko)  
 (2760406)  
 (심각도 없음)<sup>[1]</sup>
 </td>
@@ -1883,10 +1883,10 @@ Microsoft InfoPath 2010 서비스 팩 1(32비트 에디션)
 Microsoft InfoPath 2010 서비스 팩 1(64비트 에디션)
 </td>
 <td style="border:1px solid black;">
-[Microsoft InfoPath 2010 서비스 팩 1(64비트 에디션)](http://www.microsoft.com/downloads/details.aspx?familyid=ae2069d0-55b5-4dfe-9131-41888d6bbec3&displaylang=ko)  
+[Microsoft InfoPath 2010 서비스 팩 1(64비트 에디션)](https://www.microsoft.com/download/details.aspx?familyid=ae2069d0-55b5-4dfe-9131-41888d6bbec3&displaylang=ko)  
 (2687422)  
 (심각도 없음)<sup>[1]</sup>
-[Microsoft InfoPath 2010 서비스 팩 1(64비트 에디션)](http://www.microsoft.com/downloads/details.aspx?familyid=f206071a-4502-432a-9e5b-50bb4e3f1757&displaylang=ko)  
+[Microsoft InfoPath 2010 서비스 팩 1(64비트 에디션)](https://www.microsoft.com/download/details.aspx?familyid=f206071a-4502-432a-9e5b-50bb4e3f1757&displaylang=ko)  
 (2760406)  
 (심각도 없음)<sup>[1]</sup>
 </td>
@@ -1938,10 +1938,10 @@ Microsoft SharePoint Server 2010 서비스 팩 1
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft SharePoint Server 2010 서비스 팩 1(wosrv)](http://www.microsoft.com/downloads/details.aspx?familyid=6c7d007f-5c8d-464c-af04-4e7800a2e2a6&displaylang=ko)<sup>[1]</sup>
+[Microsoft SharePoint Server 2010 서비스 팩 1(wosrv)](https://www.microsoft.com/download/details.aspx?familyid=6c7d007f-5c8d-464c-af04-4e7800a2e2a6&displaylang=ko)<sup>[1]</sup>
 (2687421)  
 (중요)  
-[Microsoft SharePoint Server 2010 서비스 팩 1(coreserver)](http://www.microsoft.com/downloads/details.aspx?familyid=c59c0d25-8d6c-4dda-a06b-e42891a9ddae&displaylang=ko)h<sup>[1]</sup>
+[Microsoft SharePoint Server 2010 서비스 팩 1(coreserver)](https://www.microsoft.com/download/details.aspx?familyid=c59c0d25-8d6c-4dda-a06b-e42891a9ddae&displaylang=ko)h<sup>[1]</sup>
 (2760408)  
 (중요)
 </td>
@@ -1951,7 +1951,7 @@ Microsoft SharePoint Server 2010 서비스 팩 1
 Microsoft SharePoint Server 2013
 </td>
 <td style="border:1px solid black;">
-[Microsoft SharePoint Server 2013(coreserverloc)](http://www.microsoft.com/downloads/details.aspx?familyid=2e5b1e49-0355-4111-a464-224bb2192029&displaylang=ko)<sup>[1]</sup>
+[Microsoft SharePoint Server 2013(coreserverloc)](https://www.microsoft.com/download/details.aspx?familyid=2e5b1e49-0355-4111-a464-224bb2192029&displaylang=ko)<sup>[1]</sup>
 (2737969)  
 (중요)
 </td>
@@ -1994,7 +1994,7 @@ Microsoft Groove Server 2010 서비스 팩 1
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Groove Server 2010 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=d63ee461-b823-4eb1-9e6d-82f380627fb5&displaylang=ko)  
+[Microsoft Groove Server 2010 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=d63ee461-b823-4eb1-9e6d-82f380627fb5&displaylang=ko)  
 (2687424)  
 (중요)
 </td>
@@ -2034,7 +2034,7 @@ Microsoft SharePoint Foundation 2010 서비스 팩 1
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft SharePoint Foundation 2010 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=ac805c46-8661-4e99-84da-c395dc05beb0&displaylang=ko)  
+[Microsoft SharePoint Foundation 2010 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=ac805c46-8661-4e99-84da-c395dc05beb0&displaylang=ko)  
 (2810059)  
 (중요)
 </td>
@@ -2081,7 +2081,7 @@ Microsoft Office 소프트웨어
 Microsoft Office Web Apps 2010 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Web Apps 2010 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=1d35b235-305a-45c8-a395-7658792d177e&displaylang=ko)  
+[Microsoft Office Web Apps 2010 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=1d35b235-305a-45c8-a395-7658792d177e&displaylang=ko)  
 (2760777)  
 (중요)
 </td>
@@ -2173,13 +2173,13 @@ Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 
 
 참고 System Management Server 2003은 2010년 1월 12일자로 메인스트림 지원이 종료되었습니다. 제품 지원 기간에 대한 자세한 내용을 보려면 [Microsoft 지원 기간](http://go.microsoft.com/fwlink/?linkid=21742) 웹 사이트를 참조하십시오. SMS의 차기 릴리스인 System Center Configuration Manager를 지금 사용할 수 있습니다(이전 섹션의 System Center Configuration Manager 참조).
 
-관리자가 SMS 2003을 사용하여 보안 업데이트를 배포하는 방법에 대한 자세한 내용은 [Microsoft Systems Management Server 2003의 시나리오 및 절차: 소프트웨어 배포 및 패치 관리](http://www.microsoft.com/downloads/details.aspx?familyid=32f2bb4c-42f8-4b8d-844f-2553fd78049f)(영문)를 참조하십시오. SMS에 대한 자세한 내용을 보려면 [Microsoft Systems Management Server TechCenter](http://technet.microsoft.com/systemcenter/bb545936)(영문)를 방문하십시오.
+관리자가 SMS 2003을 사용하여 보안 업데이트를 배포하는 방법에 대한 자세한 내용은 [Microsoft Systems Management Server 2003의 시나리오 및 절차: 소프트웨어 배포 및 패치 관리](https://www.microsoft.com/download/details.aspx?familyid=32f2bb4c-42f8-4b8d-844f-2553fd78049f)(영문)를 참조하십시오. SMS에 대한 자세한 내용을 보려면 [Microsoft Systems Management Server TechCenter](http://technet.microsoft.com/systemcenter/bb545936)(영문)를 방문하십시오.
 
 참고 SMS는 Microsoft Baseline Security Analyzer를 사용하여 보안 공지 업데이트 검색 및 배포에 대한 다양한 지원을 제공합니다. 일부 소프트웨어 업데이트는 이러한 도구로 검색하지 못할 수도 있습니다. 이러한 경우 관리자는 SMS의 인벤토리 기능을 사용하여 특정 시스템을 대상으로 업데이트를 수행할 수 있습니다. 이 절차에 대한 자세한 내용은 [SMS 소프트웨어 배포 기능을 사용한 소프트웨어 업데이트 배포](http://go.microsoft.com/fwlink/?linkid=33341)를 참조하십시오. 일부 보안 업데이트 작업을 수행하려면 관리자 권한이 필요하며 컴퓨터를 다시 시작해야 할 수 있습니다. 관리자는 [SMS 2003 Administration Feature Pack](http://www.microsoft.com/downloads/en/details.aspx?familyid=7bd3a16e-1899-4e0b-bb99-1320e816167d)(영문)에서 제공되는 Elevated Rights Deployment Tool을 사용하여 이러한 업데이트를 설치할 수 있습니다.
 
 UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971)(영문)에 포함된 [UCE(Update Compatibility Evaluator)](http://technet.microsoft.com/library/cc749197) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971)(영문)에 포함된 [UCE(Update Compatibility Evaluator)](http://technet.microsoft.com/library/cc749197) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 

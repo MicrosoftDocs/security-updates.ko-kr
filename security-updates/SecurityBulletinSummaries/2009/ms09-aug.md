@@ -274,38 +274,38 @@ Microsoft Windows 2000
 Microsoft Windows 2000 서비스 팩 4
 </td>
 <td style="border:1px solid black;">
-[RDP 버전 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=027e757d-08d5-4932-b8c4-52ee1be1c864&displaylang=ko)\*\*\*  
-(KB958471) 및 [RDP 버전 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=027e757d-08d5-4932-b8c4-52ee1be1c864&displaylang=ko)(KB958470)  
+[RDP 버전 5.0](https://www.microsoft.com/download/details.aspx?familyid=027e757d-08d5-4932-b8c4-52ee1be1c864&displaylang=ko)\*\*\*  
+(KB958471) 및 [RDP 버전 5.0](https://www.microsoft.com/download/details.aspx?familyid=027e757d-08d5-4932-b8c4-52ee1be1c864&displaylang=ko)(KB958470)  
 (긴급)  
-[RDP 버전 5.1](http://www.microsoft.com/downloads/details.aspx?familyid=ae72782e-920f-4176-a27b-c3b91d50c7d2&displaylang=ko)\*\*\*\*  
+[RDP 버전 5.1](https://www.microsoft.com/download/details.aspx?familyid=ae72782e-920f-4176-a27b-c3b91d50c7d2&displaylang=ko)\*\*\*\*  
 (KB958470)  
 (긴급)  
-[RDP 버전 5.2](http://www.microsoft.com/downloads/details.aspx?familyid=ae72782e-920f-4176-a27b-c3b91d50c7d2&displaylang=ko)\*\*\*\*  
+[RDP 버전 5.2](https://www.microsoft.com/download/details.aspx?familyid=ae72782e-920f-4176-a27b-c3b91d50c7d2&displaylang=ko)\*\*\*\*  
 (KB958470)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Server 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=b5b9228a-66c0-49e6-afde-cc2825a6851f&displaylang=ko)  
+[Microsoft Windows 2000 Server 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=b5b9228a-66c0-49e6-afde-cc2825a6851f&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=5f80bf0b-898c-46ca-b20c-21e0e729c332&displaylang=ko)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=5f80bf0b-898c-46ca-b20c-21e0e729c332&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 5.5 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=6f9fcbe9-8496-4d23-8a16-b334157688c2&displaylang=ko)  
+[Microsoft Outlook Express 5.5 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=6f9fcbe9-8496-4d23-8a16-b334157688c2&displaylang=ko)  
 (KB973354)  
 (긴급)  
-[Microsoft Outlook Express 6 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=f340af34-b9a0-44fb-b595-dbb346c727bf&displaylang=ko)  
+[Microsoft Outlook Express 6 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=f340af34-b9a0-44fb-b595-dbb346c727bf&displaylang=ko)  
 (KB973354)  
 (긴급)  
-[Windows Media Player 9](http://www.microsoft.com/downloads/details.aspx?familyid=bd7c9fc4-61cb-4c23-9961-6d63f234731c&displaylang=ko)  
+[Windows Media Player 9](https://www.microsoft.com/download/details.aspx?familyid=bd7c9fc4-61cb-4c23-9961-6d63f234731c&displaylang=ko)  
 (KB973354)  
 (긴급)  
-[Windows ATL 구성 요소](http://www.microsoft.com/downloads/details.aspx?familyid=c773149a-f4fc-486a-b718-6b8ff7a36ae2&displaylang=ko)  
+[Windows ATL 구성 요소](https://www.microsoft.com/download/details.aspx?familyid=c773149a-f4fc-486a-b718-6b8ff7a36ae2&displaylang=ko)  
 (KB973507)  
 (긴급)  
-[DHTML 편집 구성 요소 ActiveX 컨트롤](http://www.microsoft.com/downloads/details.aspx?familyid=223e25d2-83d7-4cb7-85c4-46a42b8110e0&displaylang=ko)  
+[DHTML 편집 구성 요소 ActiveX 컨트롤](https://www.microsoft.com/download/details.aspx?familyid=223e25d2-83d7-4cb7-85c4-46a42b8110e0&displaylang=ko)  
 (KB973869)  
 (긴급)
 </td>
@@ -313,14 +313,14 @@ Microsoft Windows 2000 서비스 팩 4
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=8ed8bad7-2885-452c-9c34-3982cd498be8&displaylang=ko)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=8ed8bad7-2885-452c-9c34-3982cd498be8&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=240977d6-3581-4058-b9f1-7847e4edcf8a&displaylang=ko)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=240977d6-3581-4058-b9f1-7847e4edcf8a&displaylang=ko)  
 (중요)
 </td>
 </tr>
@@ -392,16 +392,16 @@ Windows XP
 Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2의 RDP 버전 5.1](http://www.microsoft.com/downloads/details.aspx?familyid=2a8830dd-8fb3-4556-a6e7-2c237235357f&displaylang=ko)  
+[Windows XP 서비스 팩 2의 RDP 버전 5.1](https://www.microsoft.com/download/details.aspx?familyid=2a8830dd-8fb3-4556-a6e7-2c237235357f&displaylang=ko)  
 (KB958470)  
 (긴급)  
-[Windows XP 서비스 팩 2용 RDP 버전 5.2](http://www.microsoft.com/downloads/details.aspx?familyid=2a8830dd-8fb3-4556-a6e7-2c237235357f&displaylang=ko)\*\*\*\*  
+[Windows XP 서비스 팩 2용 RDP 버전 5.2](https://www.microsoft.com/download/details.aspx?familyid=2a8830dd-8fb3-4556-a6e7-2c237235357f&displaylang=ko)\*\*\*\*  
 (KB958470)  
 (긴급)  
-[Windows XP 서비스 팩 2용 RDP 버전 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=d1f82d76-eeb2-4ff4-9d2c-46882f214719&displaylang=ko)\*\*\*\*  
+[Windows XP 서비스 팩 2용 RDP 버전 6.0](https://www.microsoft.com/download/details.aspx?familyid=d1f82d76-eeb2-4ff4-9d2c-46882f214719&displaylang=ko)\*\*\*\*  
 (KB956744)  
 (중요)  
-[Windows XP 서비스 팩 2용 RDP 버전 6.1](http://www.microsoft.com/downloads/details.aspx?familyid=d1f82d76-eeb2-4ff4-9d2c-46882f214719&displaylang=ko)\*\*\*\*  
+[Windows XP 서비스 팩 2용 RDP 버전 6.1](https://www.microsoft.com/download/details.aspx?familyid=d1f82d76-eeb2-4ff4-9d2c-46882f214719&displaylang=ko)\*\*\*\*  
 (KB956744)  
 (긴급)
 </td>
@@ -409,44 +409,44 @@ Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=2e8a68ee-eb24-424c-b084-450636ccaeec&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=2e8a68ee-eb24-424c-b084-450636ccaeec&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](http://www.microsoft.com/downloads/details.aspx?familyid=c67b5506-00ea-47cc-a0e8-897057b7380c&displaylang=ko)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/details.aspx?familyid=c67b5506-00ea-47cc-a0e8-897057b7380c&displaylang=ko)  
 (KB973354)  
 (긴급)  
-[Windows Media Player 9, Windows Media Player 10 및 Windows Media Player 11](http://www.microsoft.com/downloads/details.aspx?familyid=34b2b14d-5811-4635-ba83-f837dcb03d04&displaylang=ko)  
+[Windows Media Player 9, Windows Media Player 10 및 Windows Media Player 11](https://www.microsoft.com/download/details.aspx?familyid=34b2b14d-5811-4635-ba83-f837dcb03d04&displaylang=ko)  
 (KB973540)  
 (긴급)  
 (Windows XP 서비스 팩 2만 해당)  
-[Windows Media Player 9, Windows Media Player 10 및 Windows Media Player 11](http://www.microsoft.com/downloads/details.aspx?familyid=ec84c98b-6bc7-442f-9280-d6e204280b2f&displaylang=ko)  
+[Windows Media Player 9, Windows Media Player 10 및 Windows Media Player 11](https://www.microsoft.com/download/details.aspx?familyid=ec84c98b-6bc7-442f-9280-d6e204280b2f&displaylang=ko)  
 (KB973540)  
 (긴급)  
 (Windows XP 서비스 팩 3만 해당)  
-[Windows ATL 구성 요소](http://www.microsoft.com/downloads/details.aspx?familyid=4b4c6fc5-e8e6-4d89-a181-e231240468f9&displaylang=ko)  
+[Windows ATL 구성 요소](https://www.microsoft.com/download/details.aspx?familyid=4b4c6fc5-e8e6-4d89-a181-e231240468f9&displaylang=ko)  
 (KB973507)  
 (긴급)  
-[DHTML 편집 구성 요소 ActiveX 컨트롤](http://www.microsoft.com/downloads/details.aspx?familyid=bdfcd0c3-7c18-4e63-91dd-d8f82cd89592&displaylang=ko)  
+[DHTML 편집 구성 요소 ActiveX 컨트롤](https://www.microsoft.com/download/details.aspx?familyid=bdfcd0c3-7c18-4e63-91dd-d8f82cd89592&displaylang=ko)  
 (KB973869  
 (긴급)  
-[Microsoft MSWebDVD ActiveX 컨트롤](http://www.microsoft.com/downloads/details.aspx?familyid=8b71bcc9-5146-4afc-8847-0af21d7fad36&displaylang=ko)  
+[Microsoft MSWebDVD ActiveX 컨트롤](https://www.microsoft.com/download/details.aspx?familyid=8b71bcc9-5146-4afc-8847-0af21d7fad36&displaylang=ko)  
 (KB973769)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=9c0e5bff-c248-4e87-a83b-82ba52f5299d&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=9c0e5bff-c248-4e87-a83b-82ba52f5299d&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=93490aa7-9985-4658-b0d7-88fb3f27ada0&displaylang=ko)  
+[Windows XP 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=93490aa7-9985-4658-b0d7-88fb3f27ada0&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=b3331388-1e52-4924-b512-23275a8fde84&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=b3331388-1e52-4924-b512-23275a8fde84&displaylang=ko)  
 (중요)
 </td>
 </tr>
@@ -455,10 +455,10 @@ Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 Windows XP Professional x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2의 RDP 버전 5.2](http://www.microsoft.com/downloads/details.aspx?familyid=948da99a-44ed-4390-b1b4-7ed3f15a9cda)  
+[Windows XP Professional x64 Edition 서비스 팩 2의 RDP 버전 5.2](https://www.microsoft.com/download/details.aspx?familyid=948da99a-44ed-4390-b1b4-7ed3f15a9cda)  
 (KB958469)  
 (긴급)  
-[Windows XP Professional x64 Edition 서비스 팩 2용 RDP 버전 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=5061615f-fa8f-465f-ac8f-393998b7e91b)\*\*\*\*  
+[Windows XP Professional x64 Edition 서비스 팩 2용 RDP 버전 6.0](https://www.microsoft.com/download/details.aspx?familyid=5061615f-fa8f-465f-ac8f-393998b7e91b)\*\*\*\*  
 (KB956744)  
 (긴급)
 </td>
@@ -466,42 +466,42 @@ Windows XP Professional x64 Edition 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=a1ff2ace-b9dc-4cf3-a151-ac6959bcb3a6)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=a1ff2ace-b9dc-4cf3-a151-ac6959bcb3a6)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](http://www.microsoft.com/downloads/details.aspx?familyid=ede1a73a-e303-435e-a2c7-0281ce2370da)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/details.aspx?familyid=ede1a73a-e303-435e-a2c7-0281ce2370da)  
 (KB973354)  
 (긴급)  
-[Windows Media Player 10](http://www.microsoft.com/downloads/details.aspx?familyid=bb98187a-8db9-47e4-88ac-15544c5268f6)  
+[Windows Media Player 10](https://www.microsoft.com/download/details.aspx?familyid=bb98187a-8db9-47e4-88ac-15544c5268f6)  
 (KB973540)  
 (긴급)  
-[Windows Media Player 11](http://www.microsoft.com/downloads/details.aspx?familyid=9e8b9027-4407-4c31-a2ba-9e094557d467)  
+[Windows Media Player 11](https://www.microsoft.com/download/details.aspx?familyid=9e8b9027-4407-4c31-a2ba-9e094557d467)  
 (KB973540)  
 (긴급)  
-[Windows ATL 구성 요소](http://www.microsoft.com/downloads/details.aspx?familyid=2f2b93fc-f977-4f23-af90-c27f744fad0a)  
+[Windows ATL 구성 요소](https://www.microsoft.com/download/details.aspx?familyid=2f2b93fc-f977-4f23-af90-c27f744fad0a)  
 (KB973507)  
 (긴급)  
-[DHTML 편집 구성 요소 ActiveX 컨트롤](http://www.microsoft.com/downloads/details.aspx?familyid=d04a6959-41a4-4a87-b3ad-7455d8fe8b99)  
+[DHTML 편집 구성 요소 ActiveX 컨트롤](https://www.microsoft.com/download/details.aspx?familyid=d04a6959-41a4-4a87-b3ad-7455d8fe8b99)  
 (KB973869)  
 (긴급)  
-[Microsoft MSWebDVD ActiveX 컨트롤](http://www.microsoft.com/downloads/details.aspx?familyid=85b2dcdb-cea9-4c4a-8ebd-50264e781ade)  
+[Microsoft MSWebDVD ActiveX 컨트롤](https://www.microsoft.com/download/details.aspx?familyid=85b2dcdb-cea9-4c4a-8ebd-50264e781ade)  
 (KB973815)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=7b64a454-d383-47e3-b469-b87e2b3c1a9f)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=7b64a454-d383-47e3-b469-b87e2b3c1a9f)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=12e6be68-dc87-450e-927b-3c9b6873eb13)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=12e6be68-dc87-450e-927b-3c9b6873eb13)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=a6ee7af3-3e39-4866-a893-92bf1c786cd4)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=a6ee7af3-3e39-4866-a893-92bf1c786cd4)  
 (중요)
 </td>
 </tr>
@@ -573,51 +573,51 @@ Windows Server 2003
 Windows Server 2003 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[RDP 버전 5.2](http://www.microsoft.com/downloads/details.aspx?familyid=60c79729-ef01-4630-bd67-ec63e7f8b56b&displaylang=ko)  
+[RDP 버전 5.2](https://www.microsoft.com/download/details.aspx?familyid=60c79729-ef01-4630-bd67-ec63e7f8b56b&displaylang=ko)  
 (KB958469)  
 (긴급)  
-[RDP 버전 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=a37a2d8a-a5ce-4f06-bf07-8cafa16e7a59&displaylang=ko)\*\*\*\*  
+[RDP 버전 6.0](https://www.microsoft.com/download/details.aspx?familyid=a37a2d8a-a5ce-4f06-bf07-8cafa16e7a59&displaylang=ko)\*\*\*\*  
 (KB956744)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=3a8d8ef9-ad41-4237-9cbb-daecfd8f216c&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=3a8d8ef9-ad41-4237-9cbb-daecfd8f216c&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=cba78658-899c-428f-8b04-cfe14ce3c255&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=cba78658-899c-428f-8b04-cfe14ce3c255&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](http://www.microsoft.com/downloads/details.aspx?familyid=3119ab1e-6729-40a1-b28f-0dab50502be6&displaylang=ko)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/details.aspx?familyid=3119ab1e-6729-40a1-b28f-0dab50502be6&displaylang=ko)  
 (KB973354)  
 (긴급)  
-[Windows Media Player 10](http://www.microsoft.com/downloads/details.aspx?familyid=ab054890-983b-4414-ad0a-da1b2d2a4895&displaylang=ko)  
+[Windows Media Player 10](https://www.microsoft.com/download/details.aspx?familyid=ab054890-983b-4414-ad0a-da1b2d2a4895&displaylang=ko)  
 (KB973540)  
 (긴급)  
-[Windows ATL 구성 요소](http://www.microsoft.com/downloads/details.aspx?familyid=7d9369b5-0c54-4c17-bc62-fba0a7b4728c&displaylang=ko)  
+[Windows ATL 구성 요소](https://www.microsoft.com/download/details.aspx?familyid=7d9369b5-0c54-4c17-bc62-fba0a7b4728c&displaylang=ko)  
 (KB973507)  
 (긴급)  
-[DHTML 편집 구성 요소 ActiveX 컨트롤](http://www.microsoft.com/downloads/details.aspx?familyid=bfc474c2-e3c5-40df-85d4-4ac666ff0561&displaylang=ko)  
+[DHTML 편집 구성 요소 ActiveX 컨트롤](https://www.microsoft.com/download/details.aspx?familyid=bfc474c2-e3c5-40df-85d4-4ac666ff0561&displaylang=ko)  
 (KB973869  
 (긴급)  
-[Microsoft MSWebDVD ActiveX 컨트롤](http://www.microsoft.com/downloads/details.aspx?familyid=301ad191-8d3f-41d3-b41c-e2e863893f73&displaylang=ko)  
+[Microsoft MSWebDVD ActiveX 컨트롤](https://www.microsoft.com/download/details.aspx?familyid=301ad191-8d3f-41d3-b41c-e2e863893f73&displaylang=ko)  
 (KB973769)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=9cb0477f-0656-47f5-bd35-5716e0572fbd&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=9cb0477f-0656-47f5-bd35-5716e0572fbd&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=52f59c56-2aba-4626-a90e-311e0e73c813&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=52f59c56-2aba-4626-a90e-311e0e73c813&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=3fe9c745-d87c-43b0-9b2a-356fb34282b4&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=3fe9c745-d87c-43b0-9b2a-356fb34282b4&displaylang=ko)  
 (중요)
 </td>
 </tr>
@@ -626,51 +626,51 @@ Windows Server 2003 서비스 팩 2
 Windows Server 2003 x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[RDP 버전 5.2](http://www.microsoft.com/downloads/details.aspx?familyid=57393588-dc96-4bda-ab1e-ae550961e5d4)  
+[RDP 버전 5.2](https://www.microsoft.com/download/details.aspx?familyid=57393588-dc96-4bda-ab1e-ae550961e5d4)  
 (KB958469)  
 (긴급)  
-[RDP 버전 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=957c2e01-89a1-4550-aacb-de8ff896d762)\*\*\*\*  
+[RDP 버전 6.0](https://www.microsoft.com/download/details.aspx?familyid=957c2e01-89a1-4550-aacb-de8ff896d762)\*\*\*\*  
 (KB956744)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=e132d051-4444-4ef1-9b6f-2d7da9d2e88e&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=e132d051-4444-4ef1-9b6f-2d7da9d2e88e&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=58a7c8d9-ec36-46a6-a89b-d8dfd989fda4&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=58a7c8d9-ec36-46a6-a89b-d8dfd989fda4&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](http://www.microsoft.com/downloads/details.aspx?familyid=17bd00e3-810c-4a72-bd13-1b55ffb52a5e&displaylang=ko)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/details.aspx?familyid=17bd00e3-810c-4a72-bd13-1b55ffb52a5e&displaylang=ko)  
 (KB973354)  
 (긴급)  
-[Windows Media Player 10](http://www.microsoft.com/downloads/details.aspx?familyid=5890233a-d8f7-490c-8bf5-3ed4bd1c6991&displaylang=ko)  
+[Windows Media Player 10](https://www.microsoft.com/download/details.aspx?familyid=5890233a-d8f7-490c-8bf5-3ed4bd1c6991&displaylang=ko)  
 (KB973540)  
 (긴급)  
-[Windows ATL 구성 요소](http://www.microsoft.com/downloads/details.aspx?familyid=90e0e014-ed7e-498a-9f61-18bb09a384b3&displaylang=ko)  
+[Windows ATL 구성 요소](https://www.microsoft.com/download/details.aspx?familyid=90e0e014-ed7e-498a-9f61-18bb09a384b3&displaylang=ko)  
 (KB973507)  
 (긴급)  
-[DHTML 편집 구성 요소 ActiveX 컨트롤](http://www.microsoft.com/downloads/details.aspx?familyid=9f502d79-99a8-45dc-9876-2df27e14ffaa&displaylang=ko)  
+[DHTML 편집 구성 요소 ActiveX 컨트롤](https://www.microsoft.com/download/details.aspx?familyid=9f502d79-99a8-45dc-9876-2df27e14ffaa&displaylang=ko)  
 (KB973869  
 (긴급)  
-[Microsoft MSWebDVD ActiveX 컨트롤](http://www.microsoft.com/downloads/details.aspx?familyid=2ae71a65-5eee-4dd2-bc79-b7c5a73022bc&displaylang=ko)  
+[Microsoft MSWebDVD ActiveX 컨트롤](https://www.microsoft.com/download/details.aspx?familyid=2ae71a65-5eee-4dd2-bc79-b7c5a73022bc&displaylang=ko)  
 (KB973769)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=96fbf65f-1db2-432d-92a0-6669d8abaeb0&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=96fbf65f-1db2-432d-92a0-6669d8abaeb0&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=2f77ef7b-54f8-4260-b6a6-d62a0f85ef45&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=2f77ef7b-54f8-4260-b6a6-d62a0f85ef45&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=e2a788e7-a9d1-4574-b106-f8ab44c6c4a2&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=e2a788e7-a9d1-4574-b106-f8ab44c6c4a2&displaylang=ko)  
 (중요)
 </td>
 </tr>
@@ -679,45 +679,45 @@ Windows Server 2003 x64 Edition 서비스 팩 2
 Windows Server 2003 SP2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[RDP 버전 5.2](http://www.microsoft.com/downloads/details.aspx?familyid=8f88a714-b917-4193-9002-19fa65722028)  
+[RDP 버전 5.2](https://www.microsoft.com/download/details.aspx?familyid=8f88a714-b917-4193-9002-19fa65722028)  
 (KB958469)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=96c3f496-7b2f-4dbc-b484-216c9943c2b1)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=96c3f496-7b2f-4dbc-b484-216c9943c2b1)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=187b02bd-73d6-4f72-81d1-d9477d495499)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=187b02bd-73d6-4f72-81d1-d9477d495499)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](http://www.microsoft.com/downloads/details.aspx?familyid=7978b921-c5b5-461f-a284-b9848f568aa9)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/details.aspx?familyid=7978b921-c5b5-461f-a284-b9848f568aa9)  
 (KB973354)  
 (긴급)  
-[Windows ATL 구성 요소](http://www.microsoft.com/downloads/details.aspx?familyid=ad1791b3-8553-4433-a9f7-8b4f857665be)  
+[Windows ATL 구성 요소](https://www.microsoft.com/download/details.aspx?familyid=ad1791b3-8553-4433-a9f7-8b4f857665be)  
 (KB973507)  
 (긴급)  
-[DHTML 편집 구성 요소 ActiveX 컨트롤](http://www.microsoft.com/downloads/details.aspx?familyid=82c0bb02-70ad-4605-a1f4-4698adf9f4ac)  
+[DHTML 편집 구성 요소 ActiveX 컨트롤](https://www.microsoft.com/download/details.aspx?familyid=82c0bb02-70ad-4605-a1f4-4698adf9f4ac)  
 (KB973869)  
 (긴급)  
-[Microsoft MSWebDVD ActiveX 컨트롤](http://www.microsoft.com/downloads/details.aspx?familyid=5b8a8958-c3cd-4b24-85a2-1baacf92d218)  
+[Microsoft MSWebDVD ActiveX 컨트롤](https://www.microsoft.com/download/details.aspx?familyid=5b8a8958-c3cd-4b24-85a2-1baacf92d218)  
 (KB973815)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=11321f48-8997-4b99-982a-3ba4ad3f5992)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=11321f48-8997-4b99-982a-3ba4ad3f5992)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=ad55c653-ee6b-4c92-b7f4-3923bb916546)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=ad55c653-ee6b-4c92-b7f4-3923bb916546)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=4f625d39-29d4-44f9-b4bd-cd99f1ea422d)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=4f625d39-29d4-44f9-b4bd-cd99f1ea422d)  
 (중요)
 </td>
 </tr>
@@ -789,10 +789,10 @@ Windows Vista
 Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista의 RDP 버전 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=cf95a552-f6fd-4e35-815a-d16c015cd3ea&displaylang=ko)  
+[Windows Vista의 RDP 버전 6.0](https://www.microsoft.com/download/details.aspx?familyid=cf95a552-f6fd-4e35-815a-d16c015cd3ea&displaylang=ko)  
 (KB956744)  
 (중요)  
-[Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2용 RDP 버전 6.1](http://www.microsoft.com/downloads/details.aspx?familyid=5e19cef7-2413-4575-9597-c6273a097aad&displaylang=ko)  
+[Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2용 RDP 버전 6.1](https://www.microsoft.com/download/details.aspx?familyid=5e19cef7-2413-4575-9597-c6273a097aad&displaylang=ko)  
 (KB956744)  
 (긴급)
 </td>
@@ -800,34 +800,34 @@ Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=81fce7bd-f33c-4586-949d-ac40d415f755&displaylang=ko)  
+[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=81fce7bd-f33c-4586-949d-ac40d415f755&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Media Player 11](http://www.microsoft.com/downloads/details.aspx?familyid=3766aed9-93f5-478e-a5bf-b7ee0b577088&displaylang=ko)  
+[Windows Media Player 11](https://www.microsoft.com/download/details.aspx?familyid=3766aed9-93f5-478e-a5bf-b7ee0b577088&displaylang=ko)  
 (KB973540)  
 (긴급)  
-[Windows ATL 구성 요소](http://www.microsoft.com/downloads/details.aspx?familyid=80de158d-157e-4c21-9154-c1dbd6e57cb3&displaylang=ko)  
+[Windows ATL 구성 요소](https://www.microsoft.com/download/details.aspx?familyid=80de158d-157e-4c21-9154-c1dbd6e57cb3&displaylang=ko)  
 (KB973507)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=979ac9da-940f-49e7-91a2-b12db3708076&displaylang=ko)  
+[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=979ac9da-940f-49e7-91a2-b12db3708076&displaylang=ko)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista](http://www.microsoft.com/downloads/details.aspx?familyid=00afd94c-b483-4155-884f-b617acca6e7d&displaylang=ko)  
+[Windows Vista](https://www.microsoft.com/download/details.aspx?familyid=00afd94c-b483-4155-884f-b617acca6e7d&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-Windows Vista만: [Microsoft .NET Framework 2.0 서비스 팩 1 및 .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=d42444bb-5030-4b47-87fa-9df3a8c640ff&displaylang=ko) (KB972591) 및 [Microsoft .NET Framework 2.0 서비스 팩 2 및 .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=310f3aa6-c264-45a2-b24a-3f178b41830e&displaylang=ko)\*\*\*\* (KB972592)  
+Windows Vista만: [Microsoft .NET Framework 2.0 서비스 팩 1 및 .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=d42444bb-5030-4b47-87fa-9df3a8c640ff&displaylang=ko) (KB972591) 및 [Microsoft .NET Framework 2.0 서비스 팩 2 및 .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=310f3aa6-c264-45a2-b24a-3f178b41830e&displaylang=ko)\*\*\*\* (KB972592)  
 (중요)  
 Windows Vista 서비스 팩 1만:  
-[Microsoft .NET Framework 2.0 서비스 팩 1 및 .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=cbf40800-f3b3-43da-ace1-d942d3378ccd&displaylang=ko) (KB972593) 및 [Microsoft .NET Framework 2.0 서비스 팩 2 및 .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=87c4a868-b3b5-467d-96a4-633532ab548f&displaylang=ko)\*\*\*\* (KB972594)  
+[Microsoft .NET Framework 2.0 서비스 팩 1 및 .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=cbf40800-f3b3-43da-ace1-d942d3378ccd&displaylang=ko) (KB972593) 및 [Microsoft .NET Framework 2.0 서비스 팩 2 및 .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=87c4a868-b3b5-467d-96a4-633532ab548f&displaylang=ko)\*\*\*\* (KB972594)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=d77f406d-11cb-4d19-94ec-938b356c3427&displaylang=ko)  
+[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=d77f406d-11cb-4d19-94ec-938b356c3427&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -836,10 +836,10 @@ Windows Vista 서비스 팩 1만:
 Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition의 RDP 버전 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=5e19cef7-2413-4575-9597-c6273a097aad&displaylang=ko)  
+[Windows Vista x64 Edition의 RDP 버전 6.0](https://www.microsoft.com/download/details.aspx?familyid=5e19cef7-2413-4575-9597-c6273a097aad&displaylang=ko)  
 (KB956744)  
 (중요)  
-[Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2의 RDP 버전 6.1](http://www.microsoft.com/downloads/details.aspx?familyid=5e19cef7-2413-4575-9597-c6273a097aad&displaylang=ko)  
+[Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2의 RDP 버전 6.1](https://www.microsoft.com/download/details.aspx?familyid=5e19cef7-2413-4575-9597-c6273a097aad&displaylang=ko)  
 (KB956744)  
 (긴급)
 </td>
@@ -847,34 +847,34 @@ Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=a6cea61a-4ad9-4e18-bf18-348ae4ae51c4&displaylang=ko)  
+[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=a6cea61a-4ad9-4e18-bf18-348ae4ae51c4&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Media Player 11](http://www.microsoft.com/downloads/details.aspx?familyid=64edbd64-9faa-4f54-b0d5-836c683ca7cd&displaylang=ko)  
+[Windows Media Player 11](https://www.microsoft.com/download/details.aspx?familyid=64edbd64-9faa-4f54-b0d5-836c683ca7cd&displaylang=ko)  
 (KB973540)  
 (긴급)  
-[Windows ATL 구성 요소](http://www.microsoft.com/downloads/details.aspx?familyid=82940d30-6a30-47ca-b184-2ac96e35c294&displaylang=ko)  
+[Windows ATL 구성 요소](https://www.microsoft.com/download/details.aspx?familyid=82940d30-6a30-47ca-b184-2ac96e35c294&displaylang=ko)  
 (KB973507)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b9aa04cc-a5c5-47ae-bf0f-250cff275d26&displaylang=ko)  
+[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b9aa04cc-a5c5-47ae-bf0f-250cff275d26&displaylang=ko)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition](http://www.microsoft.com/downloads/details.aspx?familyid=a0c698aa-a913-4981-8798-6bbb8cacfb86&displaylang=ko)  
+[Windows Vista x64 Edition](https://www.microsoft.com/download/details.aspx?familyid=a0c698aa-a913-4981-8798-6bbb8cacfb86&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-Windows Vista x64 Edition만: [Microsoft .NET Framework 2.0 서비스 팩 1 및 .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=d42444bb-5030-4b47-87fa-9df3a8c640ff&displaylang=ko) (KB972591) 및 [Microsoft .NET Framework 2.0 서비스 팩 2 및 .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=310f3aa6-c264-45a2-b24a-3f178b41830e&displaylang=ko)\*\*\*\* (KB972592)  
+Windows Vista x64 Edition만: [Microsoft .NET Framework 2.0 서비스 팩 1 및 .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=d42444bb-5030-4b47-87fa-9df3a8c640ff&displaylang=ko) (KB972591) 및 [Microsoft .NET Framework 2.0 서비스 팩 2 및 .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=310f3aa6-c264-45a2-b24a-3f178b41830e&displaylang=ko)\*\*\*\* (KB972592)  
 (중요)  
 Windows Vista x64 Edition 서비스 팩 1만:  
-[Microsoft .NET Framework 2.0 서비스 팩 1 및 .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=cbf40800-f3b3-43da-ace1-d942d3378ccd&displaylang=ko) (KB972593) 및 [Microsoft .NET Framework 2.0 서비스 팩 2 및 .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=87c4a868-b3b5-467d-96a4-633532ab548f&displaylang=ko) (KB972594)  
+[Microsoft .NET Framework 2.0 서비스 팩 1 및 .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=cbf40800-f3b3-43da-ace1-d942d3378ccd&displaylang=ko) (KB972593) 및 [Microsoft .NET Framework 2.0 서비스 팩 2 및 .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=87c4a868-b3b5-467d-96a4-633532ab548f&displaylang=ko) (KB972594)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=7a41b8c1-f955-474e-a08e-5e73964327d1&displaylang=ko)  
+[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=7a41b8c1-f955-474e-a08e-5e73964327d1&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -946,7 +946,7 @@ Windows Server 2008
 Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[RDP 버전 6.1](http://www.microsoft.com/downloads/details.aspx?familyid=71c17a87-710b-434d-9b2a-2f471674915a&displaylang=ko)\*\*  
+[RDP 버전 6.1](https://www.microsoft.com/download/details.aspx?familyid=71c17a87-710b-434d-9b2a-2f471674915a&displaylang=ko)\*\*  
 (KB956744)  
 (긴급)
 </td>
@@ -954,30 +954,30 @@ Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시�
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=fdc96a07-ed79-4798-8077-b2e9ca64cd0f&displaylang=ko)\*\*  
+[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=fdc96a07-ed79-4798-8077-b2e9ca64cd0f&displaylang=ko)\*\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Media Player 11](http://www.microsoft.com/downloads/details.aspx?familyid=85d9e69f-99a2-467f-bf37-4b47466a12d4&displaylang=ko)\*\*  
+[Windows Media Player 11](https://www.microsoft.com/download/details.aspx?familyid=85d9e69f-99a2-467f-bf37-4b47466a12d4&displaylang=ko)\*\*  
 (KB973540)  
 (긴급)  
-[Windows ATL 구성 요소](http://www.microsoft.com/downloads/details.aspx?familyid=ba423491-6c29-49f2-811b-ac3f9bbc58fc&displaylang=ko)\*  
+[Windows ATL 구성 요소](https://www.microsoft.com/download/details.aspx?familyid=ba423491-6c29-49f2-811b-ac3f9bbc58fc&displaylang=ko)\*  
 (KB973507)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=24c77c27-0b7d-4a35-a871-b453f90e5913&displaylang=ko)\*  
+[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=24c77c27-0b7d-4a35-a871-b453f90e5913&displaylang=ko)\*  
 (보통)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-Windows Server 2008만(32비트 시스템용): [Microsoft .NET Framework 2.0 서비스 팩 1 및 .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=cbf40800-f3b3-43da-ace1-d942d3378ccd&displaylang=ko) (KB972593) 및 [Microsoft .NET Framework 2.0 서비스 팩 2 및 .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=87c4a868-b3b5-467d-96a4-633532ab548f&displaylang=ko) (KB972594)\*\*  
+Windows Server 2008만(32비트 시스템용): [Microsoft .NET Framework 2.0 서비스 팩 1 및 .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=cbf40800-f3b3-43da-ace1-d942d3378ccd&displaylang=ko) (KB972593) 및 [Microsoft .NET Framework 2.0 서비스 팩 2 및 .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=87c4a868-b3b5-467d-96a4-633532ab548f&displaylang=ko) (KB972594)\*\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=62f2e0a6-5e68-41c7-a851-d99bcff6ff3e&displaylang=ko)\*  
+[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=62f2e0a6-5e68-41c7-a851-d99bcff6ff3e&displaylang=ko)\*  
 (보통)
 </td>
 </tr>
@@ -986,7 +986,7 @@ Windows Server 2008만(32비트 시스템용): [Microsoft .NET Framework 2.0 서
 Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[RDP 버전 6.1](http://www.microsoft.com/downloads/details.aspx?familyid=f095d2d5-4513-4ae1-96c7-cbcf83304261&displaylang=ko)\*\*  
+[RDP 버전 6.1](https://www.microsoft.com/download/details.aspx?familyid=f095d2d5-4513-4ae1-96c7-cbcf83304261&displaylang=ko)\*\*  
 (KB956744)  
 (긴급)
 </td>
@@ -994,30 +994,30 @@ Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=8e3afba4-6761-4b3d-98bb-4b4145e27b7f&displaylang=ko)\*\*  
+[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=8e3afba4-6761-4b3d-98bb-4b4145e27b7f&displaylang=ko)\*\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Media Player 11](http://www.microsoft.com/downloads/details.aspx?familyid=9501c8c2-a526-4661-8cba-7847bace1aa0&displaylang=ko)\*\*  
+[Windows Media Player 11](https://www.microsoft.com/download/details.aspx?familyid=9501c8c2-a526-4661-8cba-7847bace1aa0&displaylang=ko)\*\*  
 (KB973540)  
 (긴급)  
-[Windows ATL 구성 요소](http://www.microsoft.com/downloads/details.aspx?familyid=b9311953-889a-415f-a396-250a005e95cd&displaylang=ko)\*  
+[Windows ATL 구성 요소](https://www.microsoft.com/download/details.aspx?familyid=b9311953-889a-415f-a396-250a005e95cd&displaylang=ko)\*  
 (KB973507)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=48d0432e-704a-4bbb-b0a1-cd14069a8e93&displaylang=ko)\*  
+[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=48d0432e-704a-4bbb-b0a1-cd14069a8e93&displaylang=ko)\*  
 (보통)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-Windows Server 2008만(x64 기반 시스템용): [Microsoft .NET Framework 2.0 서비스 팩 1 및 .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=cbf40800-f3b3-43da-ace1-d942d3378ccd&displaylang=ko) (KB972593) 및 [Microsoft .NET Framework 2.0 서비스 팩 2 및 .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=87c4a868-b3b5-467d-96a4-633532ab548f&displaylang=ko) (KB972594)\*\*  
+Windows Server 2008만(x64 기반 시스템용): [Microsoft .NET Framework 2.0 서비스 팩 1 및 .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=cbf40800-f3b3-43da-ace1-d942d3378ccd&displaylang=ko) (KB972593) 및 [Microsoft .NET Framework 2.0 서비스 팩 2 및 .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=87c4a868-b3b5-467d-96a4-633532ab548f&displaylang=ko) (KB972594)\*\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=6e5d1db9-efef-4112-8138-62f14670cf0d&displaylang=ko)\*  
+[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=6e5d1db9-efef-4112-8138-62f14670cf0d&displaylang=ko)\*  
 (보통)
 </td>
 </tr>
@@ -1026,7 +1026,7 @@ Windows Server 2008만(x64 기반 시스템용): [Microsoft .NET Framework 2.0 �
 Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[RDP 버전 6.1](http://www.microsoft.com/downloads/details.aspx?familyid=65d0af4e-22a2-4524-a003-2f4858012fa8)  
+[RDP 버전 6.1](https://www.microsoft.com/download/details.aspx?familyid=65d0af4e-22a2-4524-a003-2f4858012fa8)  
 (KB956744)  
 (긴급)
 </td>
@@ -1034,27 +1034,27 @@ Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=aa1bb13a-5905-48c4-8e74-a41104593046)  
+[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=aa1bb13a-5905-48c4-8e74-a41104593046)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows ATL 구성 요소](http://www.microsoft.com/downloads/details.aspx?familyid=e5612bb4-5f37-4b38-bd2e-f198c413371c)  
+[Windows ATL 구성 요소](https://www.microsoft.com/download/details.aspx?familyid=e5612bb4-5f37-4b38-bd2e-f198c413371c)  
 (KB973507)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=c119223c-f4e0-449b-8e7b-a6bf11c98f94)  
+[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=c119223c-f4e0-449b-8e7b-a6bf11c98f94)  
 (보통)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-Windows Server 2008(Itanium 기반 시스템용)만: [Microsoft .NET Framework 2.0 서비스 팩 1 및 .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=cbf40800-f3b3-43da-ace1-d942d3378ccd) (KB972593) 및 [Microsoft .NET Framework 2.0 서비스 팩 2 및 .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=87c4a868-b3b5-467d-96a4-633532ab548f) (KB972594)  
+Windows Server 2008(Itanium 기반 시스템용)만: [Microsoft .NET Framework 2.0 서비스 팩 1 및 .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=cbf40800-f3b3-43da-ace1-d942d3378ccd) (KB972593) 및 [Microsoft .NET Framework 2.0 서비스 팩 2 및 .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=87c4a868-b3b5-467d-96a4-633532ab548f) (KB972594)  
 (중요
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=4b813c74-b2ae-4962-9ebb-1311193d9e2d)  
+[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=4b813c74-b2ae-4962-9ebb-1311193d9e2d)  
 (보통)
 </td>
 </tr>
@@ -1116,7 +1116,7 @@ Remote Desktop Connection Client for Mac
 </td>
 <td style="border:1px solid black;">
 
-[Remote Desktop Connection Client for Mac 2.0](http://www.microsoft.com/downloads/details.aspx?familyid=cd9ec77e-5b07-4332-849f-046611458871)**\***  
+[Remote Desktop Connection Client for Mac 2.0](https://www.microsoft.com/download/details.aspx?familyid=cd9ec77e-5b07-4332-849f-046611458871)**\***  
 (중요)
 </td>
 </tr>
@@ -1165,7 +1165,7 @@ Microsoft Office 제품군, 시스템 및 구성 요소
 Microsoft Office XP
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=60e2e4e7-aa75-441d-b6fc-7e850bf8e580&displaylang=ko)  
+[Microsoft Office XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=60e2e4e7-aa75-441d-b6fc-7e850bf8e580&displaylang=ko)  
 (KB947320)  
 (긴급)
 </td>
@@ -1175,7 +1175,7 @@ Microsoft Office XP
 Microsoft Office 2003
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2003 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=95c94c9a-6aca-42fb-9679-3234f06c72f7&displaylang=ko)  
+[Microsoft Office 2003 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=95c94c9a-6aca-42fb-9679-3234f06c72f7&displaylang=ko)  
 (KB947319)  
 (긴급)
 </td>
@@ -1206,7 +1206,7 @@ Office Web Components
 Microsoft Office 2000 Web Components
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2000 Web Components 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=60e2e4e7-aa75-441d-b6fc-7e850bf8e580&displaylang=ko)  
+[Microsoft Office 2000 Web Components 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=60e2e4e7-aa75-441d-b6fc-7e850bf8e580&displaylang=ko)  
 (KB947320)  
 (긴급)
 </td>
@@ -1216,7 +1216,7 @@ Microsoft Office 2000 Web Components
 Microsoft Office XP Web Components
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office XP Web Components 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=60e2e4e7-aa75-441d-b6fc-7e850bf8e580&displaylang=ko)  
+[Microsoft Office XP Web Components 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=60e2e4e7-aa75-441d-b6fc-7e850bf8e580&displaylang=ko)  
 (KB947320)  
 (긴급)
 </td>
@@ -1226,10 +1226,10 @@ Microsoft Office XP Web Components
 Microsoft Office 2003 Web Components
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2003 Web Components 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=95c94c9a-6aca-42fb-9679-3234f06c72f7&displaylang=ko)  
+[Microsoft Office 2003 Web Components 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=95c94c9a-6aca-42fb-9679-3234f06c72f7&displaylang=ko)  
 (KB947319)  
 (긴급)  
-[2007 Microsoft Office System용 Microsoft Office 2003 Web Components 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=644008e0-77c9-4a02-ac9b-e30d0930c4be&displaylang=ko)\*  
+[2007 Microsoft Office System용 Microsoft Office 2003 Web Components 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=644008e0-77c9-4a02-ac9b-e30d0930c4be&displaylang=ko)\*  
 (KB947318)  
 (긴급)
 </td>
@@ -1260,7 +1260,7 @@ Microsoft Office 2003 Web Components
 Microsoft Office Small Business Accounting 2006
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Small Business Accounting 2006](http://www.microsoft.com/downloads/details.aspx?familyid=0d77ddb3-4d34-4cfe-913b-d05981f59a82)  
+[Microsoft Office Small Business Accounting 2006](https://www.microsoft.com/download/details.aspx?familyid=0d77ddb3-4d34-4cfe-913b-d05981f59a82)  
 (KB968377)  
 (긴급)
 </td>
@@ -1310,7 +1310,7 @@ Microsoft Visual Studio
 Microsoft Visual Studio .NET 2003
 </td>
 <td style="border:1px solid black;">
-[Microsoft Visual Studio .NET 2003 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=ba2915a0-f5f4-4e18-b0c0-534d2a948585&displaylang=ko)  
+[Microsoft Visual Studio .NET 2003 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=ba2915a0-f5f4-4e18-b0c0-534d2a948585&displaylang=ko)  
 (KB969172)  
 (긴급)
 </td>
@@ -1358,10 +1358,10 @@ Microsoft Internet Security and Acceleration Server
 Microsoft Internet Security and Acceleration Server 2004
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Security and Acceleration Server 2004 Standard Edition 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=8f79a073-27e8-46ef-87d8-f09b93521326&displaylang=ko)\*  
+[Microsoft Internet Security and Acceleration Server 2004 Standard Edition 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=8f79a073-27e8-46ef-87d8-f09b93521326&displaylang=ko)\*  
 (KB947826)  
 (긴급)  
-[Microsoft Internet Security and Acceleration Server 2004 Enterprise Edition 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=8f79a073-27e8-46ef-87d8-f09b93521326&displaylang=ko)  
+[Microsoft Internet Security and Acceleration Server 2004 Enterprise Edition 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=8f79a073-27e8-46ef-87d8-f09b93521326&displaylang=ko)  
 (KB947826)  
 (긴급)
 </td>
@@ -1371,10 +1371,10 @@ Microsoft Internet Security and Acceleration Server 2004
 Microsoft Internet Security and Acceleration Server 2006
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Security and Acceleration Server 2006 Standard Edition 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=8f79a073-27e8-46ef-87d8-f09b93521326&displaylang=ko)  
+[Microsoft Internet Security and Acceleration Server 2006 Standard Edition 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=8f79a073-27e8-46ef-87d8-f09b93521326&displaylang=ko)  
 (KB947826)  
 (긴급)  
-[Microsoft Internet Security and Acceleration Server 2006 Enterprise Edition 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=8f79a073-27e8-46ef-87d8-f09b93521326&displaylang=ko)  
+[Microsoft Internet Security and Acceleration Server 2006 Enterprise Edition 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=8f79a073-27e8-46ef-87d8-f09b93521326&displaylang=ko)  
 (KB947826)  
 (긴급)
 </td>
@@ -1405,7 +1405,7 @@ Microsoft BizTalk Server
 Microsoft BizTalk Server 2002
 </td>
 <td style="border:1px solid black;">
-[Microsoft BizTalk Server 2002](http://www.microsoft.com/downloads/details.aspx?familyid=495839b6-0322-4755-997d-4a7762c53333)  
+[Microsoft BizTalk Server 2002](https://www.microsoft.com/download/details.aspx?familyid=495839b6-0322-4755-997d-4a7762c53333)  
 (KB971388)  
 (긴급)
 </td>
@@ -1453,7 +1453,7 @@ Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 
 
 **UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)**
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit) (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit) (영문)](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Microsoft Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 

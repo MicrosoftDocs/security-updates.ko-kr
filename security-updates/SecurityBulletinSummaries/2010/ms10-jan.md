@@ -148,13 +148,13 @@ Microsoft Windows 2000
 Microsoft Windows 2000 서비스 팩 4
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=47f85cbd-282e-4c92-9809-68bba49e0a12&displaylang=ko)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=47f85cbd-282e-4c92-9809-68bba49e0a12&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4에 설치된 Internet Explorer 5.01 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=51e99e4f-1670-4b12-a9fe-e0ccf50cdabc&displaylang=ko)  
+[Microsoft Windows 2000 서비스 팩 4에 설치된 Internet Explorer 5.01 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=51e99e4f-1670-4b12-a9fe-e0ccf50cdabc&displaylang=ko)  
 (긴급)  
-[Microsoft Windows 2000 서비스 팩 4의 Internet Explorer 6 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=a38aa9d0-c3fe-4d41-8805-7d5370263c1b&displaylang=ko)  
+[Microsoft Windows 2000 서비스 팩 4의 Internet Explorer 6 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=a38aa9d0-c3fe-4d41-8805-7d5370263c1b&displaylang=ko)  
 (긴급)
 </td>
 </tr>
@@ -190,15 +190,15 @@ Windows XP
 Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=793a6b3f-7660-40be-b7d5-7b0eec55e1cd&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=793a6b3f-7660-40be-b7d5-7b0eec55e1cd&displaylang=ko)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3용 Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=207eecad-6e84-48e6-ae18-6794a3618ee0&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3용 Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=207eecad-6e84-48e6-ae18-6794a3618ee0&displaylang=ko)  
 (긴급)  
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3용 Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=3510c7d8-7e8f-479e-b6f9-5745a845664d&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3용 Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=3510c7d8-7e8f-479e-b6f9-5745a845664d&displaylang=ko)  
 (긴급)  
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3용 Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=7c2948fb-f486-4801-bc21-bbf40d5a78c2&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3용 Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=7c2948fb-f486-4801-bc21-bbf40d5a78c2&displaylang=ko)  
 (긴급)
 </td>
 </tr>
@@ -207,15 +207,15 @@ Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 Windows XP Professional x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=31609ce9-656a-4f7d-a501-709a31ca34c3)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=31609ce9-656a-4f7d-a501-709a31ca34c3)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2용 Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=eb2d8055-4d50-4f83-82b8-055c7b8f5422)  
+[Windows XP Professional x64 Edition 서비스 팩 2용 Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=eb2d8055-4d50-4f83-82b8-055c7b8f5422)  
 (긴급)  
-[Windows XP Professional x64 Edition 서비스 팩 2용 Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=cc5aea0b-e553-4f7f-a2cc-cba41bb87ae7)  
+[Windows XP Professional x64 Edition 서비스 팩 2용 Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=cc5aea0b-e553-4f7f-a2cc-cba41bb87ae7)  
 (긴급)  
-[Windows XP Professional x64 Edition 서비스 팩 2용 Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=41b83fad-948b-4a9c-80ed-9c5a60bd35b4)  
+[Windows XP Professional x64 Edition 서비스 팩 2용 Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=41b83fad-948b-4a9c-80ed-9c5a60bd35b4)  
 (긴급)
 </td>
 </tr>
@@ -251,15 +251,15 @@ Windows Server 2003
 Windows Server 2003 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=e1d6e338-dea9-458e-b35d-796e069d74d7&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=e1d6e338-dea9-458e-b35d-796e069d74d7&displaylang=ko)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2용 Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=fea91227-44ad-4549-8732-497a8ceff870&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2용 Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=fea91227-44ad-4549-8732-497a8ceff870&displaylang=ko)  
 (보통)  
-[Windows Server 2003 서비스 팩 2용 Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=14726445-3ff4-463c-9fc1-c9b758079aca&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2용 Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=14726445-3ff4-463c-9fc1-c9b758079aca&displaylang=ko)  
 (긴급)  
-[Windows Server 2003 서비스 팩 2용 Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=7d480c87-2ca9-4505-a59d-a6d73d001fa5&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2용 Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=7d480c87-2ca9-4505-a59d-a6d73d001fa5&displaylang=ko)  
 (긴급)
 </td>
 </tr>
@@ -268,15 +268,15 @@ Windows Server 2003 서비스 팩 2
 Windows Server 2003 x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=ddbcf231-9fde-4dc2-ad04-a01b69d1a980&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=ddbcf231-9fde-4dc2-ad04-a01b69d1a980&displaylang=ko)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2용 Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=633e63f4-605b-43c4-8a4b-2730312a1c72&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2용 Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=633e63f4-605b-43c4-8a4b-2730312a1c72&displaylang=ko)  
 (보통)  
-[Windows Server 2003 x64 Edition 서비스 팩 2용 Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=c8742230-16d8-4b2f-bd3e-8834c759856b&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2용 Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=c8742230-16d8-4b2f-bd3e-8834c759856b&displaylang=ko)  
 (긴급)  
-[Windows Server 2003 x64 Edition 서비스 팩 2용 Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=3e2e740b-8417-4758-8468-15221249ec71&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2용 Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=3e2e740b-8417-4758-8468-15221249ec71&displaylang=ko)  
 (긴급)
 </td>
 </tr>
@@ -285,13 +285,13 @@ Windows Server 2003 x64 Edition 서비스 팩 2
 Windows Server 2003 SP2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=c71a13cf-7e2f-4b02-8684-1a4e4b46ddda)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=c71a13cf-7e2f-4b02-8684-1a4e4b46ddda)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)용 Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=b9308d50-ca66-43ff-9dc5-d05c90baa764)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)용 Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=b9308d50-ca66-43ff-9dc5-d05c90baa764)  
 (보통)  
-[Windows Server 2003 SP2(Itanium 기반 시스템용)용 Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=5622f223-df9c-4a6a-bdf0-feebaf9920fd)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)용 Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=5622f223-df9c-4a6a-bdf0-feebaf9920fd)  
 (긴급)
 </td>
 </tr>
@@ -327,13 +327,13 @@ Windows Vista
 Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=6387228c-eedc-4511-b3c6-8922606f4c84&displaylang=ko)  
+[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=6387228c-eedc-4511-b3c6-8922606f4c84&displaylang=ko)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2의 Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=92495551-dedd-43d4-bb3a-51028bc5c6d6&displaylang=ko)  
+[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2의 Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=92495551-dedd-43d4-bb3a-51028bc5c6d6&displaylang=ko)  
 (긴급)  
-[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2의 Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=5e2cbd7d-f64f-49e5-a159-1965ebfe2a92&displaylang=ko)  
+[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2의 Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=5e2cbd7d-f64f-49e5-a159-1965ebfe2a92&displaylang=ko)  
 (긴급)
 </td>
 </tr>
@@ -342,13 +342,13 @@ Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2
 Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=7b4f5089-13b1-421b-a00b-22632bba4229&displaylang=ko)  
+[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=7b4f5089-13b1-421b-a00b-22632bba4229&displaylang=ko)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2의 Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=3cb139b3-59f4-44ef-9911-4dd4e3b83e7d&displaylang=ko)  
+[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2의 Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=3cb139b3-59f4-44ef-9911-4dd4e3b83e7d&displaylang=ko)  
 (긴급)  
-[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2의 Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=b7a7e8e7-f4c5-459d-ab6c-05a192e1e3f9&displaylang=ko)  
+[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2의 Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=b7a7e8e7-f4c5-459d-ab6c-05a192e1e3f9&displaylang=ko)  
 (긴급)
 </td>
 </tr>
@@ -384,13 +384,13 @@ Windows Server 2008
 Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=e175c436-37e0-497f-8b7f-6cacaa25ad7c&displaylang=ko)\*  
+[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=e175c436-37e0-497f-8b7f-6cacaa25ad7c&displaylang=ko)\*  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2의 Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=8c4c91ec-1b2b-4176-bd77-45245b590329&displaylang=ko)\*\*  
+[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2의 Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=8c4c91ec-1b2b-4176-bd77-45245b590329&displaylang=ko)\*\*  
 (긴급)  
-[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2의 Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=f5ce8582-af63-4870-bee3-0abeeefa1458&displaylang=ko)\*\*  
+[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2의 Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=f5ce8582-af63-4870-bee3-0abeeefa1458&displaylang=ko)\*\*  
 (긴급)
 </td>
 </tr>
@@ -399,13 +399,13 @@ Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시�
 Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=1b10a177-fd45-406f-8edc-b8d4b84881b7&displaylang=ko)\*  
+[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=1b10a177-fd45-406f-8edc-b8d4b84881b7&displaylang=ko)\*  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2의 Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=4f9975b8-3f91-4116-9200-ef55ece75854&displaylang=ko)\*\*  
+[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2의 Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=4f9975b8-3f91-4116-9200-ef55ece75854&displaylang=ko)\*\*  
 (긴급)  
-[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2의 Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=be11981c-d286-4e3c-94bf-d4e67a975d5a&displaylang=ko)\*\*  
+[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2의 Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=be11981c-d286-4e3c-94bf-d4e67a975d5a&displaylang=ko)\*\*  
 (긴급)
 </td>
 </tr>
@@ -414,11 +414,11 @@ Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 
 Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=e8bc9a24-a794-4827-a6bb-785c6b2189f4)  
+[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=e8bc9a24-a794-4827-a6bb-785c6b2189f4)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2의 Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=9395547f-b620-4cbd-9ff5-11b76cd73859)  
+[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2의 Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=9395547f-b620-4cbd-9ff5-11b76cd73859)  
 (긴급)
 </td>
 </tr>
@@ -454,11 +454,11 @@ Windows 7
 Windows 7(32비트 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=75491ad0-40a6-4efb-9574-d82210f6d0da&displaylang=ko)  
+[Windows 7(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=75491ad0-40a6-4efb-9574-d82210f6d0da&displaylang=ko)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용)의 Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=278443c1-15dc-436b-893b-ffea6d29d16d&displaylang=ko)  
+[Windows 7(32비트 시스템용)의 Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=278443c1-15dc-436b-893b-ffea6d29d16d&displaylang=ko)  
 (긴급)
 </td>
 </tr>
@@ -467,11 +467,11 @@ Windows 7(32비트 시스템용)
 Windows 7(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=8a53f0e9-0616-440e-90f2-a12524e1bee4&displaylang=ko)  
+[Windows 7(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=8a53f0e9-0616-440e-90f2-a12524e1bee4&displaylang=ko)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용)의 Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=a584cd0f-2e05-4e36-8858-0ffead637162&displaylang=ko)  
+[Windows 7(x64 기반 시스템용)의 Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=a584cd0f-2e05-4e36-8858-0ffead637162&displaylang=ko)  
 (긴급)
 </td>
 </tr>
@@ -507,11 +507,11 @@ Windows Server 2008 R2
 Windows Server 2008 R2(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=308166e4-571b-4d6c-bd9f-3ed4afa4eafe&displaylang=ko)\*  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=308166e4-571b-4d6c-bd9f-3ed4afa4eafe&displaylang=ko)\*  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)의 Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=d3386793-a594-4bc5-8308-28b561d43087&displaylang=ko)\*\*  
+[Windows Server 2008 R2(x64 기반 시스템용)의 Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=d3386793-a594-4bc5-8308-28b561d43087&displaylang=ko)\*\*  
 (긴급)
 </td>
 </tr>
@@ -520,11 +520,11 @@ Windows Server 2008 R2(x64 기반 시스템용)
 Windows Server 2008 R2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=1d0da42b-9755-4fd2-afd1-0d023d187133)  
+[Windows Server 2008 R2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=1d0da42b-9755-4fd2-afd1-0d023d187133)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용)의 Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=9d137bab-8312-4240-af74-c65ba652fde0)  
+[Windows Server 2008 R2(Itanium 기반 시스템용)의 Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=9d137bab-8312-4240-af74-c65ba652fde0)  
 (긴급)
 </td>
 </tr>
@@ -569,7 +569,7 @@ Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 
 
 **UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)**
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Microsoft Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 

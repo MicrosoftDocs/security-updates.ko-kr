@@ -344,28 +344,28 @@ Microsoft Windows 2000
 Microsoft Windows 2000 서비스 팩 4
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=80b49bab-6c2f-48a8-a901-ca3f76e4fe6b&displaylang=ko)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=80b49bab-6c2f-48a8-a901-ca3f76e4fe6b&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=92234237-a8eb-4ce4-bc5e-cd86feb7dbd3&displaylang=ko)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=92234237-a8eb-4ce4-bc5e-cd86feb7dbd3&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=543dc6a7-fa76-4ba9-81e4-25fdf2013548&displaylang=ko)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=543dc6a7-fa76-4ba9-81e4-25fdf2013548&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[AVI 필터](http://www.microsoft.com/downloads/details.aspx?familyid=ba110440-10ce-40a0-884a-8b9afd45a3e3&displaylang=ko)  
+[AVI 필터](https://www.microsoft.com/download/details.aspx?familyid=ba110440-10ce-40a0-884a-8b9afd45a3e3&displaylang=ko)  
 (KB977914)  
 (긴급)  
-[Quartz](http://www.microsoft.com/downloads/details.aspx?familyid=16787c93-2c95-4c13-8492-be1db9d18146&displaylang=ko)  
+[Quartz](https://www.microsoft.com/download/details.aspx?familyid=16787c93-2c95-4c13-8492-be1db9d18146&displaylang=ko)  
 (KB975560)  
 (긴급)  
-[DirectX 9.0의 Quartz](http://www.microsoft.com/downloads/details.aspx?familyid=59a8bc19-02bb-4800-bac1-464f59e1cb7b&displaylang=ko)<sup>[1]</sup>
+[DirectX 9.0의 Quartz](https://www.microsoft.com/download/details.aspx?familyid=59a8bc19-02bb-4800-bac1-464f59e1cb7b&displaylang=ko)<sup>[1]</sup>
 (KB975560)  
 (긴급)
 </td>
@@ -373,23 +373,23 @@ Microsoft Windows 2000 서비스 팩 4
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=456185b5-57d1-4fa5-a4a9-5b2006ede3ad&displaylang=ko)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=456185b5-57d1-4fa5-a4a9-5b2006ede3ad&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=267ce982-54a0-418f-ad52-e4963610f714&displaylang=ko)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=267ce982-54a0-418f-ad52-e4963610f714&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Server 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=56a9afba-a6ee-4fb9-ba85-e51d9f94de27&displaylang=ko)  
+[Microsoft Windows 2000 Server 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=56a9afba-a6ee-4fb9-ba85-e51d9f94de27&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=ed8ac6a5-c8bb-4ed4-8994-810e9a1863c3&displaylang=ko)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=ed8ac6a5-c8bb-4ed4-8994-810e9a1863c3&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=e5861705-8f49-45cb-8a92-cf052ccf4134&displaylang=ko)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=e5861705-8f49-45cb-8a92-cf052ccf4134&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -479,25 +479,25 @@ Windows XP
 Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=f6c4472e-385c-4412-bda9-c2e615e50713&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=f6c4472e-385c-4412-bda9-c2e615e50713&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=b8e7bf17-a037-4200-9ae2-2280b19766a4&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=b8e7bf17-a037-4200-9ae2-2280b19766a4&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=7bcf3945-0552-478e-b7f3-bbca97dd1b5d&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=7bcf3945-0552-478e-b7f3-bbca97dd1b5d&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[AVI 필터](http://www.microsoft.com/downloads/details.aspx?familyid=a9beb2bd-e5f6-43f9-bbcc-a2afee5e5ceb&displaylang=ko)  
+[AVI 필터](https://www.microsoft.com/download/details.aspx?familyid=a9beb2bd-e5f6-43f9-bbcc-a2afee5e5ceb&displaylang=ko)  
 (KB977914)  
 (긴급)  
-[Quartz](http://www.microsoft.com/downloads/details.aspx?familyid=7ab53be3-3f42-4e61-a2bc-3ed41d8736ff&displaylang=ko)  
+[Quartz](https://www.microsoft.com/download/details.aspx?familyid=7ab53be3-3f42-4e61-a2bc-3ed41d8736ff&displaylang=ko)  
 (KB975560)  
 (긴급)
 </td>
@@ -505,22 +505,22 @@ Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=b9234b40-1b1c-498b-90d4-0bff347b36ee&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=b9234b40-1b1c-498b-90d4-0bff347b36ee&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=8f7adee3-e68e-41b3-b835-d84691774f31&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=8f7adee3-e68e-41b3-b835-d84691774f31&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=e2b348f5-ec8d-4782-bb03-5de550adea77&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=e2b348f5-ec8d-4782-bb03-5de550adea77&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=b2e70df6-7728-4fc3-8df7-8ddb9ba5202f&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=b2e70df6-7728-4fc3-8df7-8ddb9ba5202f&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -529,25 +529,25 @@ Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 Windows XP Professional x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=63e15ff0-73b3-46c9-96f8-c18977d35a10)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=63e15ff0-73b3-46c9-96f8-c18977d35a10)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b8d83f30-9cd7-4d6b-b2b9-65d0a483cb9c)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b8d83f30-9cd7-4d6b-b2b9-65d0a483cb9c)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=25ef97e8-e76e-44c2-953c-f94cbac552cf)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=25ef97e8-e76e-44c2-953c-f94cbac552cf)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[AVI 필터](http://www.microsoft.com/downloads/details.aspx?familyid=dedc3010-a989-45f7-b9d4-f7079db3e572)  
+[AVI 필터](https://www.microsoft.com/download/details.aspx?familyid=dedc3010-a989-45f7-b9d4-f7079db3e572)  
 (KB977914)  
 (긴급)  
-[Quartz](http://www.microsoft.com/downloads/details.aspx?familyid=7543e819-cd36-4e89-9850-60f00c50999d)  
+[Quartz](https://www.microsoft.com/download/details.aspx?familyid=7543e819-cd36-4e89-9850-60f00c50999d)  
 (KB975560)  
 (긴급)
 </td>
@@ -555,22 +555,22 @@ Windows XP Professional x64 Edition 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=1f83bf7a-e16c-404a-89bd-f65843938299)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=1f83bf7a-e16c-404a-89bd-f65843938299)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=91ee57f2-81e5-49bd-bdfc-d3e385efc8a5)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=91ee57f2-81e5-49bd-bdfc-d3e385efc8a5)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=e534d00c-6ddc-4eb3-9464-5db6e90afa3e)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=e534d00c-6ddc-4eb3-9464-5db6e90afa3e)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=f8c4acc8-c2f4-41f7-9b32-e7bd791e0155)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=f8c4acc8-c2f4-41f7-9b32-e7bd791e0155)  
 (보통)
 </td>
 </tr>
@@ -660,25 +660,25 @@ Windows Server 2003
 Windows Server 2003 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=feb8c145-7c30-45fa-a6f0-8b6453ddd521&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=feb8c145-7c30-45fa-a6f0-8b6453ddd521&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=5cb2e203-18fb-4887-a1c9-289d86b8ba11&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=5cb2e203-18fb-4887-a1c9-289d86b8ba11&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=29ff72f7-1663-4f35-a794-2dfe3c17b39c&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=29ff72f7-1663-4f35-a794-2dfe3c17b39c&displaylang=ko)  
 (보통)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[AVI 필터](http://www.microsoft.com/downloads/details.aspx?familyid=cc5150d7-070e-4a87-9c02-d050a8cb2204&displaylang=ko)  
+[AVI 필터](https://www.microsoft.com/download/details.aspx?familyid=cc5150d7-070e-4a87-9c02-d050a8cb2204&displaylang=ko)  
 (KB977914)  
 (긴급)  
-[Quartz](http://www.microsoft.com/downloads/details.aspx?familyid=983c5484-6321-4765-97ec-8d42d42d1f70&displaylang=ko)  
+[Quartz](https://www.microsoft.com/download/details.aspx?familyid=983c5484-6321-4765-97ec-8d42d42d1f70&displaylang=ko)  
 (KB975560)  
 (긴급)
 </td>
@@ -686,23 +686,23 @@ Windows Server 2003 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=2c8c4eec-255e-41d5-b1e6-f0204edcb46f&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=2c8c4eec-255e-41d5-b1e6-f0204edcb46f&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=3d18cbc4-ac48-458c-8aa3-90708fd854ff&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=3d18cbc4-ac48-458c-8aa3-90708fd854ff&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=738e2fda-96fc-413d-a5c7-74b1fac1d6b3&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=738e2fda-96fc-413d-a5c7-74b1fac1d6b3&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=defd8603-ed9b-42f9-a539-2b6a690e9575&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=defd8603-ed9b-42f9-a539-2b6a690e9575&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=c1efbe73-fc87-4e6a-8b36-81f125a27aec&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=c1efbe73-fc87-4e6a-8b36-81f125a27aec&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -711,25 +711,25 @@ Windows Server 2003 서비스 팩 2
 Windows Server 2003 x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=36d88c1b-814c-4371-9ed2-d4576f419fc3&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=36d88c1b-814c-4371-9ed2-d4576f419fc3&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=90360537-9311-45e2-8047-9a971f90c3c3&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=90360537-9311-45e2-8047-9a971f90c3c3&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=d4a97bb7-4f74-4884-9a6e-7a4df9c540fb&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=d4a97bb7-4f74-4884-9a6e-7a4df9c540fb&displaylang=ko)  
 (보통)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[AVI 필터](http://www.microsoft.com/downloads/details.aspx?familyid=db13e99b-2f2a-4474-8d6e-271b025bd07f&displaylang=ko)  
+[AVI 필터](https://www.microsoft.com/download/details.aspx?familyid=db13e99b-2f2a-4474-8d6e-271b025bd07f&displaylang=ko)  
 (KB977914)  
 (긴급)  
-[Quartz](http://www.microsoft.com/downloads/details.aspx?familyid=7dc20252-6091-407b-befc-c25e8f5d3fb0&displaylang=ko)  
+[Quartz](https://www.microsoft.com/download/details.aspx?familyid=7dc20252-6091-407b-befc-c25e8f5d3fb0&displaylang=ko)  
 (KB975560)  
 (긴급)
 </td>
@@ -737,23 +737,23 @@ Windows Server 2003 x64 Edition 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=de0186f6-27a2-4226-b8eb-f2912710f072&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=de0186f6-27a2-4226-b8eb-f2912710f072&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=7d63c95e-311a-446f-8852-dffd217a89f6&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=7d63c95e-311a-446f-8852-dffd217a89f6&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=f8ad539d-8191-4864-977b-ad4e31c04ba0&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=f8ad539d-8191-4864-977b-ad4e31c04ba0&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=9873c962-9d3d-46ef-b54b-2a50696fb6b2&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=9873c962-9d3d-46ef-b54b-2a50696fb6b2&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=9143e435-f0d6-464b-9273-4d1f38f8ff3a&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=9143e435-f0d6-464b-9273-4d1f38f8ff3a&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -762,25 +762,25 @@ Windows Server 2003 x64 Edition 서비스 팩 2
 Windows Server 2003 SP2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=622442b0-cffe-4fc2-94a8-edff9d71ecd3)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=622442b0-cffe-4fc2-94a8-edff9d71ecd3)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=d695ca9f-a1db-4c0f-94b6-7112861c28da)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=d695ca9f-a1db-4c0f-94b6-7112861c28da)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=b84f0be4-6d11-4b07-bb3c-2c76ae9ceea8)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=b84f0be4-6d11-4b07-bb3c-2c76ae9ceea8)  
 (보통)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[AVI 필터](http://www.microsoft.com/downloads/details.aspx?familyid=aec66173-e2c6-4c39-8d60-8fbef6d7b764)  
+[AVI 필터](https://www.microsoft.com/download/details.aspx?familyid=aec66173-e2c6-4c39-8d60-8fbef6d7b764)  
 (KB977914)  
 (중요)  
-[Quartz](http://www.microsoft.com/downloads/details.aspx?familyid=b1a7533a-913f-4054-b579-489a257bae5f)  
+[Quartz](https://www.microsoft.com/download/details.aspx?familyid=b1a7533a-913f-4054-b579-489a257bae5f)  
 (KB975560)  
 (중요)
 </td>
@@ -788,23 +788,23 @@ Windows Server 2003 SP2(Itanium 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=87732f7a-9339-43bc-a4e8-3da849f35b70)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=87732f7a-9339-43bc-a4e8-3da849f35b70)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=ee7f8cc4-f7fd-4dc7-808c-436204ee80cb)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=ee7f8cc4-f7fd-4dc7-808c-436204ee80cb)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=d549c927-add7-4d83-bfc7-15dc35663dfb)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=d549c927-add7-4d83-bfc7-15dc35663dfb)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=c3c21225-8534-4c7f-96b6-20a743dcea74)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=c3c21225-8534-4c7f-96b6-20a743dcea74)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=ee603435-26af-4ab9-9f22-92734346dc0a)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=ee603435-26af-4ab9-9f22-92734346dc0a)  
 (보통)
 </td>
 </tr>
@@ -894,22 +894,22 @@ Windows Vista
 Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=1902fc93-0f4b-4261-9da3-17d1931daf2e&displaylang=ko)  
+[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=1902fc93-0f4b-4261-9da3-17d1931daf2e&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=2c897ddd-f441-41d4-b5b4-d794cfc96e6b&displaylang=ko)  
+[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=2c897ddd-f441-41d4-b5b4-d794cfc96e6b&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=71f03946-622c-4403-b94f-f6a3de18a8c3&displaylang=ko)  
+[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=71f03946-622c-4403-b94f-f6a3de18a8c3&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Quartz](http://www.microsoft.com/downloads/details.aspx?familyid=7130ce0f-df38-4c96-ac54-cdbff35f03e7&displaylang=ko)  
+[Quartz](https://www.microsoft.com/download/details.aspx?familyid=7130ce0f-df38-4c96-ac54-cdbff35f03e7&displaylang=ko)  
 (KB975560)  
 (긴급)
 </td>
@@ -920,14 +920,14 @@ Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=16494dac-553a-4de9-b751-0d6b51cb43f0&displaylang=ko)  
+[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=16494dac-553a-4de9-b751-0d6b51cb43f0&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=2761c7b4-d472-4f00-949b-af3ebafdc08d&displaylang=ko)  
+[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=2761c7b4-d472-4f00-949b-af3ebafdc08d&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -939,22 +939,22 @@ Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2
 Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=7c2f89b5-a3b3-42cd-857d-923fe8b8f1da&displaylang=ko)  
+[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=7c2f89b5-a3b3-42cd-857d-923fe8b8f1da&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=f349f7aa-d020-4e0d-a35f-518a63ec92df&displaylang=ko)  
+[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=f349f7aa-d020-4e0d-a35f-518a63ec92df&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=519815fd-707d-476f-9e29-7b03b7a17af5&displaylang=ko)  
+[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=519815fd-707d-476f-9e29-7b03b7a17af5&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Quartz](http://www.microsoft.com/downloads/details.aspx?familyid=de7b7c8f-bd0a-4e13-bd58-d95507a6274b&displaylang=ko)  
+[Quartz](https://www.microsoft.com/download/details.aspx?familyid=de7b7c8f-bd0a-4e13-bd58-d95507a6274b&displaylang=ko)  
 (KB975560)  
 (긴급)
 </td>
@@ -965,14 +965,14 @@ Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=cec582b3-e37f-448e-a5c3-6abdcee9e57c&displaylang=ko)  
+[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=cec582b3-e37f-448e-a5c3-6abdcee9e57c&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=38b40dab-6b4d-434b-9997-12ef70d6bbcc&displaylang=ko)  
+[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=38b40dab-6b4d-434b-9997-12ef70d6bbcc&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -1065,22 +1065,22 @@ Windows Server 2008
 Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=09e19263-18ba-495e-bcf7-719e957204a7&displaylang=ko)\*  
+[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=09e19263-18ba-495e-bcf7-719e957204a7&displaylang=ko)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=9a85b1bf-7427-47d0-9e1b-21dbe824a62c&displaylang=ko)\*\*  
+[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=9a85b1bf-7427-47d0-9e1b-21dbe824a62c&displaylang=ko)\*\*  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=bc451228-3de4-427c-b42f-91f204c708b8&displaylang=ko)\*  
+[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=bc451228-3de4-427c-b42f-91f204c708b8&displaylang=ko)\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Quartz](http://www.microsoft.com/downloads/details.aspx?familyid=5ac0a948-0bdc-4c10-9b88-16a5d7092e47&displaylang=ko)\*\*  
+[Quartz](https://www.microsoft.com/download/details.aspx?familyid=5ac0a948-0bdc-4c10-9b88-16a5d7092e47&displaylang=ko)\*\*  
 (KB975560)  
 (긴급)
 </td>
@@ -1091,15 +1091,15 @@ Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시�
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=597b2310-2cd8-4d0f-8248-781eb8b7450a&displaylang=ko)\*  
+[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=597b2310-2cd8-4d0f-8248-781eb8b7450a&displaylang=ko)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=75327470-0f14-4cdd-bcb7-64684c61c267&displaylang=ko)\*  
+[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=75327470-0f14-4cdd-bcb7-64684c61c267&displaylang=ko)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=21e87558-9bd2-4aa9-aaa5-7fd26a5b60e6&displaylang=ko)\*  
+[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=21e87558-9bd2-4aa9-aaa5-7fd26a5b60e6&displaylang=ko)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -1111,42 +1111,42 @@ Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시�
 Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=180c2313-5e3e-4d84-87cd-64048f51e0f6&displaylang=ko)\*  
+[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=180c2313-5e3e-4d84-87cd-64048f51e0f6&displaylang=ko)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=fde218c3-90ab-4664-852d-25ca55835054&displaylang=ko)\*\*  
+[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=fde218c3-90ab-4664-852d-25ca55835054&displaylang=ko)\*\*  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=3a889152-5d7c-4a3e-b4f1-c6507b739ca0&displaylang=ko)\*  
+[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=3a889152-5d7c-4a3e-b4f1-c6507b739ca0&displaylang=ko)\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Quartz](http://www.microsoft.com/downloads/details.aspx?familyid=362fea40-649b-4471-aad7-db29edd0ac10&displaylang=ko)\*\*  
+[Quartz](https://www.microsoft.com/download/details.aspx?familyid=362fea40-649b-4471-aad7-db29edd0ac10&displaylang=ko)\*\*  
 (KB975560)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=3463a63c-e88a-4036-ab60-f84d4bf4191a&displaylang=ko)\*  
+[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=3463a63c-e88a-4036-ab60-f84d4bf4191a&displaylang=ko)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=67119fb6-e517-46f4-ab0b-2351cdc3d670&displaylang=ko)\*  
+[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=67119fb6-e517-46f4-ab0b-2351cdc3d670&displaylang=ko)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=7d0f8f81-fc10-450a-a653-06f89acba9fa&displaylang=ko)\*  
+[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=7d0f8f81-fc10-450a-a653-06f89acba9fa&displaylang=ko)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=0b93047d-f2c6-403b-9200-c251898bc1e0&displaylang=ko)\*  
+[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=0b93047d-f2c6-403b-9200-c251898bc1e0&displaylang=ko)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -1158,22 +1158,22 @@ Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 
 Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=614eaf7e-95aa-4f8f-910c-1980e1f14d11)  
+[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=614eaf7e-95aa-4f8f-910c-1980e1f14d11)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=5b6e9451-df38-4626-bb1d-4fc160d7a40e)  
+[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=5b6e9451-df38-4626-bb1d-4fc160d7a40e)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=1cd1882b-8e55-47ea-a82a-68bb59a500a7)  
+[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=1cd1882b-8e55-47ea-a82a-68bb59a500a7)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Quartz](http://www.microsoft.com/downloads/details.aspx?familyid=effa638b-cfc1-4777-8219-7b433ed5e717)  
+[Quartz](https://www.microsoft.com/download/details.aspx?familyid=effa638b-cfc1-4777-8219-7b433ed5e717)  
 (KB975560)  
 (중요)
 </td>
@@ -1184,14 +1184,14 @@ Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=f90fc0c8-babe-4224-be07-614ea7ddf102)  
+[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=f90fc0c8-babe-4224-be07-614ea7ddf102)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=cd6b234b-8e96-4128-a77a-645a0882996a)  
+[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=cd6b234b-8e96-4128-a77a-645a0882996a)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -1284,21 +1284,21 @@ Windows 7
 Windows 7(32비트 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=a589431a-93dc-42cd-a74e-d9c1e3452fef&displaylang=ko)  
+[Windows 7(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=a589431a-93dc-42cd-a74e-d9c1e3452fef&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=ec6d996f-dffa-45ad-9467-e96a4ac63e5f&displaylang=ko)  
+[Windows 7(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=ec6d996f-dffa-45ad-9467-e96a4ac63e5f&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Quartz](http://www.microsoft.com/downloads/details.aspx?familyid=4ec49aa2-81df-4e65-80da-6201394c4089&displaylang=ko)  
+[Quartz](https://www.microsoft.com/download/details.aspx?familyid=4ec49aa2-81df-4e65-80da-6201394c4089&displaylang=ko)  
 (KB975560)  
 (긴급)
 </td>
@@ -1309,14 +1309,14 @@ Windows 7(32비트 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=122fc003-0651-4ad2-a5c8-a21536defad8&displaylang=ko)  
+[Windows 7(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=122fc003-0651-4ad2-a5c8-a21536defad8&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=66f14bb4-40fc-4ae3-9baf-429b7106cd91&displaylang=ko)  
+[Windows 7(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=66f14bb4-40fc-4ae3-9baf-429b7106cd91&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -1328,21 +1328,21 @@ Windows 7(32비트 시스템용)
 Windows 7(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=3c1edcf8-d304-45c4-9818-1cd86383b3fe&displaylang=ko)  
+[Windows 7(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=3c1edcf8-d304-45c4-9818-1cd86383b3fe&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=b3265576-04c1-48b1-8ce9-128843c58cf5&displaylang=ko)  
+[Windows 7(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=b3265576-04c1-48b1-8ce9-128843c58cf5&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Quartz](http://www.microsoft.com/downloads/details.aspx?familyid=a8a2519c-3b89-4987-9473-920adafc78cb&displaylang=ko)  
+[Quartz](https://www.microsoft.com/download/details.aspx?familyid=a8a2519c-3b89-4987-9473-920adafc78cb&displaylang=ko)  
 (KB975560)  
 (긴급)
 </td>
@@ -1353,7 +1353,7 @@ Windows 7(x64 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=3e096468-db6c-45c6-bee5-eaeaa63500b5&displaylang=ko)  
+[Windows 7(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=3e096468-db6c-45c6-bee5-eaeaa63500b5&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -1452,33 +1452,33 @@ Windows Server 2008 R2
 Windows Server 2008 R2(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=ecb06350-47a7-48eb-825f-3e8f89c5ca8e&displaylang=ko)\*  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=ecb06350-47a7-48eb-825f-3e8f89c5ca8e&displaylang=ko)\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=cda31c54-8b81-4185-a623-64480ad4b73c&displaylang=ko)\*\*  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=cda31c54-8b81-4185-a623-64480ad4b73c&displaylang=ko)\*\*  
 (낮음)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Quartz](http://www.microsoft.com/downloads/details.aspx?familyid=a9811baa-1500-4c73-940b-57f8c5456891&displaylang=ko)\*\*  
+[Quartz](https://www.microsoft.com/download/details.aspx?familyid=a9811baa-1500-4c73-940b-57f8c5456891&displaylang=ko)\*\*  
 (KB975560)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=3214b347-d901-4aac-85ce-676e4602de87&displaylang=ko)\*  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=3214b347-d901-4aac-85ce-676e4602de87&displaylang=ko)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=dc757b6d-f0f8-4e71-ab6f-1417233eedf9&displaylang=ko)\*  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=dc757b6d-f0f8-4e71-ab6f-1417233eedf9&displaylang=ko)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -1496,21 +1496,21 @@ Windows Server 2008 R2(x64 기반 시스템용)
 Windows Server 2008 R2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=badd6cab-7738-4401-a68c-c15414388601)  
+[Windows Server 2008 R2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=badd6cab-7738-4401-a68c-c15414388601)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=43fa4e26-160f-4aa3-a03d-b98a79666a18)  
+[Windows Server 2008 R2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=43fa4e26-160f-4aa3-a03d-b98a79666a18)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Quartz](http://www.microsoft.com/downloads/details.aspx?familyid=2ed23bf5-6217-413c-a7ba-eccc82139d68)  
+[Quartz](https://www.microsoft.com/download/details.aspx?familyid=2ed23bf5-6217-413c-a7ba-eccc82139d68)  
 (KB975560)  
 (중요)
 </td>
@@ -1521,7 +1521,7 @@ Windows Server 2008 R2(Itanium 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=d5b0b1eb-24f3-47ec-aba1-c1b95400189e)  
+[Windows Server 2008 R2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=d5b0b1eb-24f3-47ec-aba1-c1b95400189e)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -1591,12 +1591,12 @@ Microsoft Office 제품군, 시스템 및 구성 요소
 Microsoft Office XP
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=47553f45-fa10-40e5-8267-9d42ff560a62)  
+[Microsoft Office XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=47553f45-fa10-40e5-8267-9d42ff560a62)  
 (KB977896)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office PowerPoint 2002 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=cfc697b4-2ceb-4030-86c5-be9bc8bfd07c)  
+[Microsoft Office PowerPoint 2002 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=cfc697b4-2ceb-4030-86c5-be9bc8bfd07c)  
 (KB973143)  
 (중요)
 </td>
@@ -1609,7 +1609,7 @@ Microsoft Office 2003
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office PowerPoint 2003 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=2291ae24-fa39-4ad8-a7d0-12726b68ad96)  
+[Microsoft Office PowerPoint 2003 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=2291ae24-fa39-4ad8-a7d0-12726b68ad96)  
 (KB976881)  
 (중요)
 </td>
@@ -1646,12 +1646,12 @@ Microsoft Office for Mac
 Microsoft Office 2004 for Mac
 </td>
 <td style="border:1px solid black;">
-[Mac용 Microsoft Office 2004](http://www.microsoft.com/downloads/details.aspx?familyid=7c985595-00c5-44b8-81c3-59d9967220f8)<sup>[1]</sup>
+[Mac용 Microsoft Office 2004](https://www.microsoft.com/download/details.aspx?familyid=7c985595-00c5-44b8-81c3-59d9967220f8)<sup>[1]</sup>
 (KB979674)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Mac용 Microsoft Office 2004](http://www.microsoft.com/downloads/details.aspx?familyid=7c985595-00c5-44b8-81c3-59d9967220f8)<sup>[1]</sup>
+[Mac용 Microsoft Office 2004](https://www.microsoft.com/download/details.aspx?familyid=7c985595-00c5-44b8-81c3-59d9967220f8)<sup>[1]</sup>
 (KB979674)  
 (중요)
 </td>
@@ -1697,7 +1697,7 @@ Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 
 
 **UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)**
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Microsoft Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 

@@ -221,13 +221,13 @@ Windows XP
 Windows XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=967c9ef3-db48-4c2f-9a67-87851fd54962&displaylang=ko)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=967c9ef3-db48-4c2f-9a67-87851fd54962&displaylang=ko)  
 (KB2744842)  
 (긴급)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=6ba78d4c-3657-4963-b2da-7a3763c6b5c9&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=6ba78d4c-3657-4963-b2da-7a3763c6b5c9&displaylang=ko)  
 (KB2744842)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=ac71ffe3-f077-4753-a238-47a2e9623363&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=ac71ffe3-f077-4753-a238-47a2e9623363&displaylang=ko)  
 (KB2744842)  
 (긴급)
 </td>
@@ -237,13 +237,13 @@ Windows XP 서비스 팩 3
 Windows XP Professional x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=020b36c6-7050-4458-8762-bae35eb713cd)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=020b36c6-7050-4458-8762-bae35eb713cd)  
 (KB2744842)  
 (긴급)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=1e2e412a-be97-407e-9f02-fc074db3bb07)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=1e2e412a-be97-407e-9f02-fc074db3bb07)  
 (KB2744842)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=c727d956-be3e-4cd2-913c-f26cb6c33227)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=c727d956-be3e-4cd2-913c-f26cb6c33227)  
 (KB2744842)  
 (긴급)
 </td>
@@ -274,13 +274,13 @@ Windows Server 2003
 Windows Server 2003 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=7aaaa15b-87d8-4afc-b183-8ce5becda026&displaylang=ko)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=7aaaa15b-87d8-4afc-b183-8ce5becda026&displaylang=ko)  
 (KB2744842)  
 (보통)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=aef34ce4-a6ce-4f5e-9892-0a7fbd90c3b4&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=aef34ce4-a6ce-4f5e-9892-0a7fbd90c3b4&displaylang=ko)  
 (KB2744842)  
 (보통)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=d63e25ad-ab8c-425f-89cd-29cd2b7b69d6&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=d63e25ad-ab8c-425f-89cd-29cd2b7b69d6&displaylang=ko)  
 (KB2744842)  
 (보통)
 </td>
@@ -290,13 +290,13 @@ Windows Server 2003 서비스 팩 2
 Windows Server 2003 x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=366feacb-16ad-455c-b2ad-5038f998c432&displaylang=ko)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=366feacb-16ad-455c-b2ad-5038f998c432&displaylang=ko)  
 (KB2744842)  
 (보통)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=baa47c53-2724-43ef-8590-d3733b47e75b&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=baa47c53-2724-43ef-8590-d3733b47e75b&displaylang=ko)  
 (KB2744842)  
 (보통)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=84144e56-f653-4c92-bf49-d44d9ba10489&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=84144e56-f653-4c92-bf49-d44d9ba10489&displaylang=ko)  
 (KB2744842)  
 (보통)
 </td>
@@ -306,10 +306,10 @@ Windows Server 2003 x64 Edition 서비스 팩 2
 Windows Server 2003 SP2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=c28d6dc3-c2f0-4505-a545-85b7a0e3e2dc)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=c28d6dc3-c2f0-4505-a545-85b7a0e3e2dc)  
 (KB2744842)  
 (보통)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=86c28695-86a5-4c17-82d6-7f98b3162aa6)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=86c28695-86a5-4c17-82d6-7f98b3162aa6)  
 (KB2744842)  
 (보통)
 </td>
@@ -340,13 +340,13 @@ Windows Vista
 Windows Vista 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=053546fc-ed41-43c2-b4f2-b76334314f5c&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=053546fc-ed41-43c2-b4f2-b76334314f5c&displaylang=ko)  
 (KB2744842)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=0a5a446d-0a48-4eec-b424-87339b34a3be&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=0a5a446d-0a48-4eec-b424-87339b34a3be&displaylang=ko)  
 (KB2744842)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=daba1ef1-62db-43db-9d5b-495aa2d3550f&displaylang=ko)  
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=daba1ef1-62db-43db-9d5b-495aa2d3550f&displaylang=ko)  
 (KB2744842)  
 (긴급)
 </td>
@@ -356,13 +356,13 @@ Windows Vista 서비스 팩 2
 Windows Vista x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=cbe5681b-c28e-4a6a-9b97-0bfe44acf077&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=cbe5681b-c28e-4a6a-9b97-0bfe44acf077&displaylang=ko)  
 (KB2744842)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=5642136e-68f6-42e8-b48e-1549733c6e7d&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=5642136e-68f6-42e8-b48e-1549733c6e7d&displaylang=ko)  
 (KB2744842)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=aae496ef-fca2-4632-9a8f-2108722d2b28&displaylang=ko)  
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=aae496ef-fca2-4632-9a8f-2108722d2b28&displaylang=ko)  
 (KB2744842)  
 (긴급)
 </td>
@@ -393,13 +393,13 @@ Windows Server 2008
 Windows Server 2008(32비트 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=df861b42-bcf2-4f7a-9019-f49e6725f5dc&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=df861b42-bcf2-4f7a-9019-f49e6725f5dc&displaylang=ko)  
 (KB2744842)  
 (보통)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=1d4f0f25-9539-4c38-babb-4af7f0f4c6cf&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=1d4f0f25-9539-4c38-babb-4af7f0f4c6cf&displaylang=ko)  
 (KB2744842)  
 (보통)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=0b2965d7-e0b2-4035-a9e4-f6badb389098&displaylang=ko)  
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=0b2965d7-e0b2-4035-a9e4-f6badb389098&displaylang=ko)  
 (KB2744842)  
 (보통)
 </td>
@@ -409,13 +409,13 @@ Windows Server 2008(32비트 시스템용) 서비스 팩 2
 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=fa9878c0-b7e5-43ac-b1eb-679e62cf62fc&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=fa9878c0-b7e5-43ac-b1eb-679e62cf62fc&displaylang=ko)  
 (KB2744842)  
 (보통)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=10bab7d4-0dd8-4fa7-b26c-715a68553707&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=10bab7d4-0dd8-4fa7-b26c-715a68553707&displaylang=ko)  
 (KB2744842)  
 (보통)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=612a94ef-0950-41e8-9875-a8f0e71eba6f&displaylang=ko)  
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=612a94ef-0950-41e8-9875-a8f0e71eba6f&displaylang=ko)  
 (KB2744842)  
 (보통)
 </td>
@@ -425,7 +425,7 @@ Windows Server 2008(x64 기반 시스템용) 서비스 팩 2
 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=ded887a4-a06d-4447-b19d-19d0f4928523)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=ded887a4-a06d-4447-b19d-19d0f4928523)  
 (KB2744842)  
 (보통)
 </td>
@@ -456,10 +456,10 @@ Windows 7
 Windows 7(32비트 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=93591461-39ff-4cbd-8df3-88cb80ed6255&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=93591461-39ff-4cbd-8df3-88cb80ed6255&displaylang=ko)  
 (KB2744842)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=b303f86a-df17-4961-b677-0c38bd6a86d3&displaylang=ko)  
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=b303f86a-df17-4961-b677-0c38bd6a86d3&displaylang=ko)  
 (KB2744842)  
 (긴급)
 </td>
@@ -469,10 +469,10 @@ Windows 7(32비트 시스템용)
 Windows 7(32비트 시스템용) 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=93591461-39ff-4cbd-8df3-88cb80ed6255&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=93591461-39ff-4cbd-8df3-88cb80ed6255&displaylang=ko)  
 (KB2744842)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=b303f86a-df17-4961-b677-0c38bd6a86d3&displaylang=ko)  
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=b303f86a-df17-4961-b677-0c38bd6a86d3&displaylang=ko)  
 (KB2744842)  
 (긴급)
 </td>
@@ -482,10 +482,10 @@ Windows 7(32비트 시스템용) 서비스 팩 1
 Windows 7(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=e2083388-19a9-4754-9449-1dad2a7f7543&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=e2083388-19a9-4754-9449-1dad2a7f7543&displaylang=ko)  
 (KB2744842)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=01045ee2-c7c4-4078-969f-905fd7e8774f&displaylang=ko)  
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=01045ee2-c7c4-4078-969f-905fd7e8774f&displaylang=ko)  
 (KB2744842)  
 (긴급)
 </td>
@@ -495,10 +495,10 @@ Windows 7(x64 기반 시스템용)
 Windows 7(x64 기반 시스템용) 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=e2083388-19a9-4754-9449-1dad2a7f7543&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=e2083388-19a9-4754-9449-1dad2a7f7543&displaylang=ko)  
 (KB2744842)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=01045ee2-c7c4-4078-969f-905fd7e8774f&displaylang=ko)  
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=01045ee2-c7c4-4078-969f-905fd7e8774f&displaylang=ko)  
 (KB2744842)  
 (긴급)
 </td>
@@ -529,10 +529,10 @@ Windows Server 2008 R2
 Windows Server 2008 R2(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=d46ec8ea-b8c8-42d9-a201-f36eb97b91b8&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=d46ec8ea-b8c8-42d9-a201-f36eb97b91b8&displaylang=ko)  
 (KB2744842)  
 (보통)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=c44a0253-fefc-4ce6-9cfd-396fdea71f8d&displaylang=ko)  
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=c44a0253-fefc-4ce6-9cfd-396fdea71f8d&displaylang=ko)  
 (KB2744842)  
 (보통)
 </td>
@@ -542,10 +542,10 @@ Windows Server 2008 R2(x64 기반 시스템용)
 Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=d46ec8ea-b8c8-42d9-a201-f36eb97b91b8&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=d46ec8ea-b8c8-42d9-a201-f36eb97b91b8&displaylang=ko)  
 (KB2744842)  
 (보통)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=c44a0253-fefc-4ce6-9cfd-396fdea71f8d&displaylang=ko)  
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=c44a0253-fefc-4ce6-9cfd-396fdea71f8d&displaylang=ko)  
 (KB2744842)  
 (보통)
 </td>
@@ -555,7 +555,7 @@ Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1
 Windows Server 2008 R2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=c132173b-f869-47ec-bb70-6307081473fe)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=c132173b-f869-47ec-bb70-6307081473fe)  
 (KB2744842)  
 (보통)
 </td>
@@ -565,7 +565,7 @@ Windows Server 2008 R2(Itanium 기반 시스템용)
 Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=c132173b-f869-47ec-bb70-6307081473fe)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=c132173b-f869-47ec-bb70-6307081473fe)  
 (KB2744842)  
 (보통)
 </td>
@@ -604,7 +604,7 @@ Microsoft Visual Studio Team Foundation Server
 Microsoft Visual Studio Team Foundation Server 2010 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Microsoft Visual Studio Team Foundation Server 2010 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=721c4a38-b255-4792-83a5-7526a680a79a&displaylang=ko)<sup>[1]</sup>   
+[Microsoft Visual Studio Team Foundation Server 2010 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=721c4a38-b255-4792-83a5-7526a680a79a&displaylang=ko)<sup>[1]</sup>   
 (KB2719584)   
 (중요)
 </td>
@@ -646,7 +646,7 @@ Microsoft System Center Configuration Manager
 Microsoft Systems Management Server 2003 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Systems Management Server 2003 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=f3a3d8e1-d551-43b4-9d54-9536f30c074d&displaylang=ko)<sup>[1]</sup>   
+[Microsoft Systems Management Server 2003 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=f3a3d8e1-d551-43b4-9d54-9536f30c074d&displaylang=ko)<sup>[1]</sup>   
 (KB2733631)   
 (중요)
 </td>
@@ -656,7 +656,7 @@ Microsoft Systems Management Server 2003 서비스 팩 3
 Microsoft System Center Configuration Manager 2007 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft System Center Configuration Manager 2007 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=89890c0e-118b-49ea-9fd1-6d23c674f9e8&displaylang=ko)<sup>[1]</sup>   
+[Microsoft System Center Configuration Manager 2007 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=89890c0e-118b-49ea-9fd1-6d23c674f9e8&displaylang=ko)<sup>[1]</sup>   
 (KB2721642)   
 (중요)
 </td>
@@ -706,13 +706,13 @@ Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 
 
 참고 System Management Server 2003은 2010년 1월 12일자로 메인스트림 지원이 종료되었습니다. 제품 지원 기간에 대한 자세한 내용을 보려면 [Microsoft 지원 기간](http://go.microsoft.com/fwlink/?linkid=21742) 웹 사이트를 참조하십시오. SMS의 차기 릴리스인 System Center Configuration Manager를 지금 사용할 수 있습니다(이전 섹션의 System Center Configuration Manager 참조).
 
-관리자가 SMS 2003을 사용하여 보안 업데이트를 배포하는 방법에 대한 자세한 내용은 [Microsoft Systems Management Server 2003의 시나리오 및 절차: 소프트웨어 배포 및 패치 관리](http://www.microsoft.com/downloads/details.aspx?familyid=32f2bb4c-42f8-4b8d-844f-2553fd78049f)를 참조하십시오. SMS에 대한 자세한 내용을 보려면 [Microsoft Systems Management Server TechCenter](http://technet.microsoft.com/systemcenter/bb545936)를 방문하십시오.
+관리자가 SMS 2003을 사용하여 보안 업데이트를 배포하는 방법에 대한 자세한 내용은 [Microsoft Systems Management Server 2003의 시나리오 및 절차: 소프트웨어 배포 및 패치 관리](https://www.microsoft.com/download/details.aspx?familyid=32f2bb4c-42f8-4b8d-844f-2553fd78049f)를 참조하십시오. SMS에 대한 자세한 내용을 보려면 [Microsoft Systems Management Server TechCenter](http://technet.microsoft.com/systemcenter/bb545936)를 방문하십시오.
 
 참고 SMS는 Microsoft Baseline Security Analyzer를 사용하여 보안 공지 업데이트 검색 및 배포에 대한 다양한 지원을 제공합니다. 일부 소프트웨어 업데이트는 이러한 도구로 검색하지 못할 수도 있습니다. 이러한 경우 관리자는 SMS의 인벤토리 기능을 사용하여 특정 시스템을 대상으로 업데이트를 수행할 수 있습니다. 이 절차에 대한 자세한 내용은 [SMS 소프트웨어 배포 기능을 사용한 소프트웨어 업데이트 배포](http://go.microsoft.com/fwlink/?linkid=33341)를 참조하십시오. 일부 보안 업데이트 작업을 수행하려면 관리자 권한이 필요하며 컴퓨터를 다시 시작해야 할 수 있습니다. 관리자는 [SMS 2003 Administration Feature Pack](http://www.microsoft.com/downloads/en/details.aspx?familyid=7bd3a16e-1899-4e0b-bb99-1320e816167d)(영문)에서 제공되는 Elevated Rights Deployment Tool을 사용하여 이러한 업데이트를 설치할 수 있습니다.
 
 UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971) (영문)에 포함된 [UCE(Update Compatibility Evaluator)](http://technet.microsoft.com/library/cc749197) (영문)구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971) (영문)에 포함된 [UCE(Update Compatibility Evaluator)](http://technet.microsoft.com/library/cc749197) (영문)구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 

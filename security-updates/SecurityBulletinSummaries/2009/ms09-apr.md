@@ -256,34 +256,34 @@ Microsoft Windows 2000
 Microsoft Windows 2000 서비스 팩 4
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=552d322a-5282-42c7-9c1e-1d8c494a7318&displaylang=ko)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=552d322a-5282-42c7-9c1e-1d8c494a7318&displaylang=ko)  
 (KB923561)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=39d5468e-5733-4c3e-9e75-3adac8ac8cb9&displaylang=ko)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=39d5468e-5733-4c3e-9e75-3adac8ac8cb9&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[DirectX 8.1](http://www.microsoft.com/downloads/details.aspx?familyid=0ec5b7c7-13d3-467a-b24e-3cc6fb47adf6&displaylang=ko)  
+[DirectX 8.1](https://www.microsoft.com/download/details.aspx?familyid=0ec5b7c7-13d3-467a-b24e-3cc6fb47adf6&displaylang=ko)  
 (긴급)  
-[DirectX 9.0](http://www.microsoft.com/downloads/details.aspx?familyid=8b98ed5c-a3ab-45a7-a61e-349eae304bc6&displaylang=ko)\*\*\*  
+[DirectX 9.0](https://www.microsoft.com/download/details.aspx?familyid=8b98ed5c-a3ab-45a7-a61e-349eae304bc6&displaylang=ko)\*\*\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 5.01 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=7799fd05-5b26-449f-8a14-50227c9164d1&displaylang=ko)  
+[Microsoft Internet Explorer 5.01 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=7799fd05-5b26-449f-8a14-50227c9164d1&displaylang=ko)  
 (긴급)  
-[Microsoft Internet Explorer 6 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=87f0c380-5c31-4099-a6a9-c12f9d69b03b&displaylang=ko)  
+[Microsoft Internet Explorer 6 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=87f0c380-5c31-4099-a6a9-c12f9d69b03b&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 MSDTC 트랜잭션 기능 업데이트:  
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=52b756e7-636f-4d9e-8a17-dbf467bfbe4d&displaylang=ko)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=52b756e7-636f-4d9e-8a17-dbf467bfbe4d&displaylang=ko)  
 (KB952004)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=c4e408d7-6716-4a12-ad3a-8029667f5c84&displaylang=ko)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=c4e408d7-6716-4a12-ad3a-8029667f5c84&displaylang=ko)  
 (심각도 없음)
 </td>
 </tr>
@@ -343,36 +343,36 @@ Windows XP
 Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=50a8519a-503e-43dd-a78a-c1bc764fd213&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=50a8519a-503e-43dd-a78a-c1bc764fd213&displaylang=ko)  
 (KB923561)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=35af4151-1858-4c9a-85e4-9ff45feca1a4&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=35af4151-1858-4c9a-85e4-9ff45feca1a4&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[DirectX 9.0](http://www.microsoft.com/downloads/details.aspx?familyid=feb5d821-f210-40e8-b1aa-2ca3170df8df&displaylang=ko)\*\*\*  
+[DirectX 9.0](https://www.microsoft.com/download/details.aspx?familyid=feb5d821-f210-40e8-b1aa-2ca3170df8df&displaylang=ko)\*\*\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=052c29fc-e8df-402c-9ab1-1079bc738e1b&displaylang=ko)  
+[Microsoft Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=052c29fc-e8df-402c-9ab1-1079bc738e1b&displaylang=ko)  
 (긴급)  
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=55d6729a-9f96-4da4-b564-676c0a0c9390&displaylang=ko)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=55d6729a-9f96-4da4-b564-676c0a0c9390&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 MSDTC 트랜잭션 기능 업데이트:  
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=90fe715e-8190-43e9-9c43-df5be564d923&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=90fe715e-8190-43e9-9c43-df5be564d923&displaylang=ko)  
 (KB952004)  
 (중요)  
 Windows 서비스 격리 업데이트:  
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=73d2324f-be59-4b0c-b1ac-9876a13c2c03&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=73d2324f-be59-4b0c-b1ac-9876a13c2c03&displaylang=ko)  
 (KB956572)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=3de0684d-605c-489b-bdc7-08bce9b2d4f6&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=3de0684d-605c-489b-bdc7-08bce9b2d4f6&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -381,36 +381,36 @@ Windows 서비스 격리 업데이트:
 Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=323f4211-5add-4e02-bce1-e5a1b489982c)  
+[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=323f4211-5add-4e02-bce1-e5a1b489982c)  
 (KB923561)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=49b16f0f-f6c3-4ca8-8041-392f4f7b5bbb)  
+[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=49b16f0f-f6c3-4ca8-8041-392f4f7b5bbb)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[DirectX 9.0](http://www.microsoft.com/downloads/details.aspx?familyid=f1be8b7c-4874-4342-99b3-76ff725fbb9a)\*\*\*  
+[DirectX 9.0](https://www.microsoft.com/download/details.aspx?familyid=f1be8b7c-4874-4342-99b3-76ff725fbb9a)\*\*\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=84c62211-2e82-4ccc-9f9b-26462b026d86)  
+[Microsoft Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=84c62211-2e82-4ccc-9f9b-26462b026d86)  
 (긴급)  
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=191c2f20-89ae-4e1c-bdd4-24b4abfe6b6c)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=191c2f20-89ae-4e1c-bdd4-24b4abfe6b6c)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 MSDTC 트랜잭션 기능 업데이트:  
-[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=a794c32a-9a0c-47d9-9c57-ff5d4a8e4944)  
+[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=a794c32a-9a0c-47d9-9c57-ff5d4a8e4944)  
 (KB952004)  
 (중요)  
 Windows 서비스 격리 업데이트:  
-[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b2f12ae5-0e46-47e1-ac5b-93550d030189)  
+[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b2f12ae5-0e46-47e1-ac5b-93550d030189)  
 (KB956572)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b743a7fe-7bf4-420d-a72e-39471e5659fa)  
+[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b743a7fe-7bf4-420d-a72e-39471e5659fa)  
 (보통)
 </td>
 </tr>
@@ -470,36 +470,36 @@ Windows Server 2003
 Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=2233a4d2-7c8a-4c89-b020-100d9afb43c8&displaylang=ko)  
+[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=2233a4d2-7c8a-4c89-b020-100d9afb43c8&displaylang=ko)  
 (KB923561)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=42509f5a-d0f9-444a-9445-5eabdb555011&displaylang=ko)  
+[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=42509f5a-d0f9-444a-9445-5eabdb555011&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[DirectX 9.0](http://www.microsoft.com/downloads/details.aspx?familyid=c1b4cd76-1dd6-43fa-bb9a-20c428985bfd&displaylang=ko)\*\*\*  
+[DirectX 9.0](https://www.microsoft.com/download/details.aspx?familyid=c1b4cd76-1dd6-43fa-bb9a-20c428985bfd&displaylang=ko)\*\*\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=f73a3669-c17f-4b18-8456-96cb7d52ed86&displaylang=ko)  
+[Microsoft Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=f73a3669-c17f-4b18-8456-96cb7d52ed86&displaylang=ko)  
 (중요)  
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=6a45dbd0-0520-4d9b-b76e-3f5109dd310d&displaylang=ko)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=6a45dbd0-0520-4d9b-b76e-3f5109dd310d&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 MSDTC 트랜잭션 기능 업데이트:  
-[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=25adec10-db8c-4cac-bf74-2c784678150a&displaylang=ko)  
+[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=25adec10-db8c-4cac-bf74-2c784678150a&displaylang=ko)  
 (KB952004)  
 (중요)  
 Windows 서비스 격리 업데이트:  
-[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=42aba890-8b76-4c5a-8fb6-609797d19831&displaylang=ko)  
+[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=42aba890-8b76-4c5a-8fb6-609797d19831&displaylang=ko)  
 (KB956572)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=992bb0cd-fbc7-4a7c-9088-f7f9d9a3ead0&displaylang=ko)  
+[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=992bb0cd-fbc7-4a7c-9088-f7f9d9a3ead0&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -508,36 +508,36 @@ Windows 서비스 격리 업데이트:
 Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=323f4211-5add-4e02-bce1-e5a1b489982c&displaylang=ko)  
+[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=323f4211-5add-4e02-bce1-e5a1b489982c&displaylang=ko)  
 (KB923561)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=7373ea32-bc2e-49f1-8b9f-4eeda5acc74c&displaylang=ko)  
+[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=7373ea32-bc2e-49f1-8b9f-4eeda5acc74c&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[DirectX 9.0](http://www.microsoft.com/downloads/details.aspx?familyid=f0e1e1db-94a5-451c-ab11-6b431fa065f1&displaylang=ko)\*\*\*  
+[DirectX 9.0](https://www.microsoft.com/download/details.aspx?familyid=f0e1e1db-94a5-451c-ab11-6b431fa065f1&displaylang=ko)\*\*\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=03a9d581-2bd5-4151-9826-17b96e16f606&displaylang=ko)  
+[Microsoft Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=03a9d581-2bd5-4151-9826-17b96e16f606&displaylang=ko)  
 (중요)  
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=60ccc1d6-ea31-420c-b630-d7878a8dc527&displaylang=ko)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=60ccc1d6-ea31-420c-b630-d7878a8dc527&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 MSDTC 트랜잭션 기능 업데이트:  
-[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b014c399-f404-4cb2-8f9d-864df382efeb&displaylang=ko)  
+[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b014c399-f404-4cb2-8f9d-864df382efeb&displaylang=ko)  
 (KB952004)  
 (중요)  
 Windows 서비스 격리 업데이트:  
-[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=a0609f65-82d9-4d82-9f48-f3266e8de123&displaylang=ko)  
+[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=a0609f65-82d9-4d82-9f48-f3266e8de123&displaylang=ko)  
 (KB956572)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=f0a58e8c-7d63-4d7d-ba95-b3787cf408f0&displaylang=ko)  
+[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=f0a58e8c-7d63-4d7d-ba95-b3787cf408f0&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -546,36 +546,36 @@ Windows 서비스 격리 업데이트:
 Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=e840b9cb-f1f4-482a-aa07-eb6b42b477c4)  
+[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=e840b9cb-f1f4-482a-aa07-eb6b42b477c4)  
 (KB923561)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=05e33cc5-cff6-4c71-be71-285f66a95e01)  
+[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=05e33cc5-cff6-4c71-be71-285f66a95e01)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[DirectX 9.0](http://www.microsoft.com/downloads/details.aspx?familyid=8f36c215-fa8a-40c2-b680-6b1fece03b8d)\*\*\*  
+[DirectX 9.0](https://www.microsoft.com/download/details.aspx?familyid=8f36c215-fa8a-40c2-b680-6b1fece03b8d)\*\*\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=53d13c07-80b0-4f05-b372-a2dac17e6157)  
+[Microsoft Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=53d13c07-80b0-4f05-b372-a2dac17e6157)  
 (중요)  
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=0abaa2fb-7c4f-4149-993d-1575888bfc84)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=0abaa2fb-7c4f-4149-993d-1575888bfc84)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 MSDTC 트랜잭션 기능 업데이트:  
-[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=6ada372b-ba17-433e-b022-d2c57b35af8a)  
+[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=6ada372b-ba17-433e-b022-d2c57b35af8a)  
 (KB952004)  
 (중요)  
 Windows 서비스 격리 업데이트:  
-[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=fda8837c-e5d2-4489-9b44-4c24a1102e77)  
+[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=fda8837c-e5d2-4489-9b44-4c24a1102e77)  
 (KB956572)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=00c6479d-f81f-445d-b8e4-7b71d77d540a)  
+[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=00c6479d-f81f-445d-b8e4-7b71d77d540a)  
 (보통)
 </td>
 </tr>
@@ -638,28 +638,28 @@ Windows Vista 및 Windows Vista 서비스 팩 1
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 및 Windows Vista 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=f071d770-3b6b-4040-9911-d4de8cde4c68&displaylang=ko)  
+[Windows Vista 및 Windows Vista 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=f071d770-3b6b-4040-9911-d4de8cde4c68&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=d743849d-f3b5-4114-adef-ade2716d55ac&displaylang=ko)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=d743849d-f3b5-4114-adef-ade2716d55ac&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 MSDTC 트랜잭션 기능 업데이트:  
-[Windows Vista 및 Windows Vista 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=f111b99a-e555-4f29-8d1f-e9ec03d5cf1f&displaylang=ko)  
+[Windows Vista 및 Windows Vista 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=f111b99a-e555-4f29-8d1f-e9ec03d5cf1f&displaylang=ko)  
 (KB952004)  
 (중요)  
 Windows 서비스 격리 업데이트:  
-[Windows Vista 및 Windows Vista 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=d0ea1598-45cb-4c79-8945-caae98969675&displaylang=ko)  
+[Windows Vista 및 Windows Vista 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=d0ea1598-45cb-4c79-8945-caae98969675&displaylang=ko)  
 (KB956572)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 및 Windows Vista 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=2b672d45-f33b-4edc-9f22-2f2c8c726a8b&displaylang=ko)  
+[Windows Vista 및 Windows Vista 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=2b672d45-f33b-4edc-9f22-2f2c8c726a8b&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -671,28 +671,28 @@ Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=7ceef2d0-f316-48d1-aecc-d74f91cc5e1f&displaylang=ko)  
+[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=7ceef2d0-f316-48d1-aecc-d74f91cc5e1f&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=d191c8dc-a965-4a6a-b6d8-1470505eb55f&displaylang=ko)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=d191c8dc-a965-4a6a-b6d8-1470505eb55f&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 MSDTC 트랜잭션 기능 업데이트:  
-[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=fa153bdc-6b48-4df2-9e5e-abacd6da782c&displaylang=ko)  
+[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=fa153bdc-6b48-4df2-9e5e-abacd6da782c&displaylang=ko)  
 (KB952004)  
 (중요)  
 Windows 서비스 격리 업데이트:  
-[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=6dd82f4b-bb33-41ec-90a7-9ef91329b240&displaylang=ko)  
+[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=6dd82f4b-bb33-41ec-90a7-9ef91329b240&displaylang=ko)  
 (KB956572)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=7576e7d5-5bb1-4a53-b568-1ee0500ce721&displaylang=ko)  
+[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=7576e7d5-5bb1-4a53-b568-1ee0500ce721&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -755,28 +755,28 @@ Windows Server 2008(32비트 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=4c36548f-c8c9-4318-91e2-9e0501339548&displaylang=ko)\*  
+[Windows Server 2008(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=4c36548f-c8c9-4318-91e2-9e0501339548&displaylang=ko)\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=e2c6313c-3ba9-4f7c-b259-b4582a390146&displaylang=ko)\*\*  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=e2c6313c-3ba9-4f7c-b259-b4582a390146&displaylang=ko)\*\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
 MSDTC 트랜잭션 기능 업데이트:  
-[Windows Server 2008(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=9e3c7b52-65a7-42fb-beb5-1b374934737f&displaylang=ko)\*  
+[Windows Server 2008(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=9e3c7b52-65a7-42fb-beb5-1b374934737f&displaylang=ko)\*  
 (KB952004)  
 (중요)  
 Windows 서비스 격리 업데이트:  
-[Windows Server 2008(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=d58702af-bbf8-4f1b-ae72-ced9ef23d581&displaylang=ko)\*  
+[Windows Server 2008(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=d58702af-bbf8-4f1b-ae72-ced9ef23d581&displaylang=ko)\*  
 (KB956572)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=6b73cf5e-66fe-4b7d-95fc-91a1c262c1e5&displaylang=ko)\*  
+[Windows Server 2008(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=6b73cf5e-66fe-4b7d-95fc-91a1c262c1e5&displaylang=ko)\*  
 (보통)
 </td>
 </tr>
@@ -788,28 +788,28 @@ Windows Server 2008(x64 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=1c3f0997-a8a9-4340-ae0c-2c4d6792c65c&displaylang=ko)\*  
+[Windows Server 2008(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=1c3f0997-a8a9-4340-ae0c-2c4d6792c65c&displaylang=ko)\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=ebbade9d-704c-440b-8796-6d64225ac01a&displaylang=ko)\*\*  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=ebbade9d-704c-440b-8796-6d64225ac01a&displaylang=ko)\*\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
 MSDTC 트랜잭션 기능 업데이트:  
-[Windows Server 2008(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=eebb4d4d-29d2-4247-8cbb-63a3b17585ec&displaylang=ko)\*  
+[Windows Server 2008(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=eebb4d4d-29d2-4247-8cbb-63a3b17585ec&displaylang=ko)\*  
 (KB952004)  
 (중요)  
 Windows 서비스 격리 업데이트:  
-[Windows Server 2008(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=20bf4e9b-909b-4bc3-ae43-322d74a4f1c3&displaylang=ko)\*  
+[Windows Server 2008(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=20bf4e9b-909b-4bc3-ae43-322d74a4f1c3&displaylang=ko)\*  
 (KB956572)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=7e60847c-b341-4c38-bc25-2e3cf2d4ae14&displaylang=ko)\*  
+[Windows Server 2008(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=7e60847c-b341-4c38-bc25-2e3cf2d4ae14&displaylang=ko)\*  
 (보통)
 </td>
 </tr>
@@ -821,28 +821,28 @@ Windows Server 2008(Itanium 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=0885b3b0-b78e-4980-902d-dff3886bcaac)  
+[Windows Server 2008(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=0885b3b0-b78e-4980-902d-dff3886bcaac)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=1b04aa6f-b787-4122-bf82-0d150618fe7a)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=1b04aa6f-b787-4122-bf82-0d150618fe7a)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 MSDTC 트랜잭션 기능 업데이트:  
-[Windows Server 2008(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=cc383c24-b0f6-47c1-9e89-6a378b09e82f)  
+[Windows Server 2008(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=cc383c24-b0f6-47c1-9e89-6a378b09e82f)  
 (KB952004)  
 (중요)  
 Windows 서비스 격리 업데이트:  
-[Windows Server 2008(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=bcc2b18f-67db-4109-a9f4-764f985423ee)  
+[Windows Server 2008(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=bcc2b18f-67db-4109-a9f4-764f985423ee)  
 (KB956572)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=de1c2b4b-af47-4b9a-8363-720e5527573c)  
+[Windows Server 2008(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=de1c2b4b-af47-4b9a-8363-720e5527573c)  
 (보통)
 </td>
 </tr>
@@ -907,12 +907,12 @@ Microsoft Office 제품군, 시스템 및 구성 요소
 Microsoft Office 2000 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Word 2000 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=95876927-e612-414c-bdec-3632a3100415&displaylang=ko)  
+[Microsoft Office Word 2000 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=95876927-e612-414c-bdec-3632a3100415&displaylang=ko)  
 (KB921606)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel 2000 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=3dc8b670-25a5-4f46-b7de-12bc693b628a&displaylang=ko)  
+[Microsoft Office Excel 2000 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=3dc8b670-25a5-4f46-b7de-12bc693b628a&displaylang=ko)  
 (KB959964)  
 (긴급)
 </td>
@@ -922,12 +922,12 @@ Microsoft Office 2000 서비스 팩 3
 Microsoft Office XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Word 2002 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=e1db55c6-78fb-498d-89a5-9ad54d971546&displaylang=ko)  
+[Microsoft Office Word 2002 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=e1db55c6-78fb-498d-89a5-9ad54d971546&displaylang=ko)  
 (KB933399)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel 2002 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=9a52bf4b-05f6-4b73-94b9-28ed7e20f86c&displaylang=ko)  
+[Microsoft Office Excel 2002 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=9a52bf4b-05f6-4b73-94b9-28ed7e20f86c&displaylang=ko)  
 (KB959988)  
 (중요)
 </td>
@@ -940,7 +940,7 @@ Microsoft Office 2003 서비스 팩 3
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel 2003 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=d9dbfa63-c0cb-4c84-9b8a-6e52568045b0&displaylang=ko)  
+[Microsoft Office Excel 2003 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=d9dbfa63-c0cb-4c84-9b8a-6e52568045b0&displaylang=ko)  
 (KB959995)  
 (중요)
 </td>
@@ -953,7 +953,7 @@ Microsoft Office 2003 서비스 팩 3
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel 2007 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=50d8630b-1365-4007-81a0-18c0d6d4b86e&displaylang=ko)\*  
+[Microsoft Office Excel 2007 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=50d8630b-1365-4007-81a0-18c0d6d4b86e&displaylang=ko)\*  
 (KB959997)  
 (중요)
 </td>
@@ -993,7 +993,7 @@ Microsoft Office 2004 for Mac
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2004 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=52271140-89be-4b9c-baa2-cea09097d703)  
+[Microsoft Office 2004 for Mac](https://www.microsoft.com/download/details.aspx?familyid=52271140-89be-4b9c-baa2-cea09097d703)  
 (KB968695)  
 (중요)
 </td>
@@ -1006,7 +1006,7 @@ Microsoft Office 2008 for Mac
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2008 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=f6e407eb-11a5-433f-8006-4b822953ca98)  
+[Microsoft Office 2008 for Mac](https://www.microsoft.com/download/details.aspx?familyid=f6e407eb-11a5-433f-8006-4b822953ca98)  
 (KB968694)  
 (중요)
 </td>
@@ -1046,10 +1046,10 @@ Microsoft Office Excel Viewer
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel Viewer 2003 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=c72e6087-b48f-4d2d-8366-01d9f5ff6b6c&displaylang=ko)  
+[Microsoft Office Excel Viewer 2003 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=c72e6087-b48f-4d2d-8366-01d9f5ff6b6c&displaylang=ko)  
 (KB959993)  
 (중요)  
-[Microsoft Office Excel Viewer](http://www.microsoft.com/downloads/details.aspx?familyid=58b3929c-5373-47a4-aa97-66d179758792&displaylang=ko)  
+[Microsoft Office Excel Viewer](https://www.microsoft.com/download/details.aspx?familyid=58b3929c-5373-47a4-aa97-66d179758792&displaylang=ko)  
 (KB960000)  
 (중요)
 </td>
@@ -1062,7 +1062,7 @@ Word, Excel, PowerPoint 2007 파일 형식용 Microsoft Office 호환 기능 팩
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Word, Excel, PowerPoint 2007 파일 형식용 Microsoft Office 호환 기능 팩 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=05f7c517-e551-4dcd-b24a-5d548f2d09cf&displaylang=ko)  
+[Word, Excel, PowerPoint 2007 파일 형식용 Microsoft Office 호환 기능 팩 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=05f7c517-e551-4dcd-b24a-5d548f2d09cf&displaylang=ko)  
 (KB960003)  
 (중요)
 </td>
@@ -1072,7 +1072,7 @@ Word, Excel, PowerPoint 2007 파일 형식용 Microsoft Office 호환 기능 팩
 Microsoft Office 변환 팩
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 변환 팩](http://www.microsoft.com/downloads/details.aspx?familyid=d763fae3-b2af-47f9-a554-ec786766b3c3)  
+[Microsoft Office 변환 팩](https://www.microsoft.com/download/details.aspx?familyid=d763fae3-b2af-47f9-a554-ec786766b3c3)  
 (KB960476)  
 (중요)
 </td>
@@ -1127,7 +1127,7 @@ Microsoft Forefront
 Microsoft Forefront Threat Management Gateway
 </td>
 <td style="border:1px solid black;">
-[Microsoft Forefront Threat Management Gateway, Medium Business Edition](http://www.microsoft.com/downloads/details.aspx?familyid=6abf9fb4-42d0-4c67-935f-8dc67850148b&displaylang=ko)\*  
+[Microsoft Forefront Threat Management Gateway, Medium Business Edition](https://www.microsoft.com/download/details.aspx?familyid=6abf9fb4-42d0-4c67-935f-8dc67850148b&displaylang=ko)\*  
 (KB968075)  
 (중요)
 </td>
@@ -1158,10 +1158,10 @@ Internet Security and Acceleration Server
 Microsoft Internet Security and Acceleration Server 2004
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Security and Acceleration Server 2004 Standard Edition 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=adf623fa-2d74-4f2a-9835-4b8debdb0e1b)\*\*  
+[Microsoft Internet Security and Acceleration Server 2004 Standard Edition 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=adf623fa-2d74-4f2a-9835-4b8debdb0e1b)\*\*  
 (KB960995)  
 (중요)  
-[Microsoft Internet Security and Acceleration Server 2004 Enterprise Edition 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=d1d55ab6-3de5-4811-9693-8d43f49f5fe8)  
+[Microsoft Internet Security and Acceleration Server 2004 Enterprise Edition 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=d1d55ab6-3de5-4811-9693-8d43f49f5fe8)  
 (KB960995)  
 (중요)
 </td>
@@ -1171,13 +1171,13 @@ Microsoft Internet Security and Acceleration Server 2004
 Microsoft Internet Security and Acceleration Server 2006
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Security and Acceleration Server 2006](http://www.microsoft.com/downloads/details.aspx?familyid=eda30bcc-0582-4f60-a4c5-ea5000b7c770&displaylang=ko)  
+[Microsoft Internet Security and Acceleration Server 2006](https://www.microsoft.com/download/details.aspx?familyid=eda30bcc-0582-4f60-a4c5-ea5000b7c770&displaylang=ko)  
 (KB968078)  
 (중요)  
-[Microsoft Internet Security and Acceleration Server 2006 지원 업데이트](http://www.microsoft.com/downloads/details.aspx?familyid=eda30bcc-0582-4f60-a4c5-ea5000b7c770&displaylang=ko)  
+[Microsoft Internet Security and Acceleration Server 2006 지원 업데이트](https://www.microsoft.com/download/details.aspx?familyid=eda30bcc-0582-4f60-a4c5-ea5000b7c770&displaylang=ko)  
 (KB968078)  
 (중요)  
-[Microsoft Internet Security and Acceleration Server 2006 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=eda30bcc-0582-4f60-a4c5-ea5000b7c770&displaylang=ko)  
+[Microsoft Internet Security and Acceleration Server 2006 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=eda30bcc-0582-4f60-a4c5-ea5000b7c770&displaylang=ko)  
 (KB968078)  
 (중요)
 </td>
@@ -1223,7 +1223,7 @@ Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 
 
 **UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)**
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit) 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit) 5.0](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Microsoft Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 

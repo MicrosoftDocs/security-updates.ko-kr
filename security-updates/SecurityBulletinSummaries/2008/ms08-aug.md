@@ -225,30 +225,30 @@ Microsoft Windows 2000
 Microsoft Windows 2000 서비스 팩 4
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=db455d17-435f-46d7-b2dd-5babb5a1eeb3)  
+[Microsoft Windows 2000 서비스 팩 4 (영문)](https://www.microsoft.com/download/details.aspx?familyid=db455d17-435f-46d7-b2dd-5babb5a1eeb3)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 5.01 서비스 팩 4 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=88990b23-d37f-4d02-a5a3-2ee389ade53c&displaylang=ko)  
+[Microsoft Internet Explorer 5.01 서비스 팩 4 (영문)](https://www.microsoft.com/download/details.aspx?familyid=88990b23-d37f-4d02-a5a3-2ee389ade53c&displaylang=ko)  
 (긴급)  
-[Microsoft Internet Explorer 6 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=4c47cf8a-8100-4d43-855a-f225a3492b19&displaylang=ko)  
+[Microsoft Internet Explorer 6 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=4c47cf8a-8100-4d43-855a-f225a3492b19&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=1b2ad648-7dc9-407a-99f6-f39922746027)  
+[Microsoft Windows 2000 서비스 팩 4 (영문)](https://www.microsoft.com/download/details.aspx?familyid=1b2ad648-7dc9-407a-99f6-f39922746027)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 5.5 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=5aa009c9-4edc-4f34-989b-0493549649e8&displaylang=ko)  
+[Microsoft Outlook Express 5.5 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=5aa009c9-4edc-4f34-989b-0493549649e8&displaylang=ko)  
 (중요)  
-[Microsoft Outlook Express 6 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=b537115d-611c-4486-960c-08d2df450579&displaylang=ko)  
+[Microsoft Outlook Express 6 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=b537115d-611c-4486-960c-08d2df450579&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Messenger 5.1](http://www.microsoft.com/downloads/details.aspx?displaylang=ko&familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774)  
+[Windows Messenger 5.1](https://www.microsoft.com/download/details.aspx?displaylang=ko&familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774)  
 (KB899283)  
 (중요)
 </td>
@@ -309,31 +309,31 @@ Windows XP
 Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=d313f42c-f43f-48ea-82ef-3bc33077c7fa&displaylang=en)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3 (영문)](https://www.microsoft.com/download/details.aspx?familyid=d313f42c-f43f-48ea-82ef-3bc33077c7fa&displaylang=en)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=cc325017-3a48-4475-90e4-0c79a002fce3&displaylang=ko)  
+[Microsoft Internet Explorer 6 (영문)](https://www.microsoft.com/download/details.aspx?familyid=cc325017-3a48-4475-90e4-0c79a002fce3&displaylang=ko)  
 (긴급)  
-[Windows Internet Explorer 7 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=fbc31bde-0bf5-490c-96a8-071310d9464a&displaylang=ko)  
+[Windows Internet Explorer 7 (영문)](https://www.microsoft.com/download/details.aspx?familyid=fbc31bde-0bf5-490c-96a8-071310d9464a&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=01a34aa4-a456-4efc-a93a-c3c682b0181c)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3 (영문)](https://www.microsoft.com/download/details.aspx?familyid=01a34aa4-a456-4efc-a93a-c3c682b0181c)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](http://www.microsoft.com/downloads/details.aspx?familyid=3ed7f466-78c7-4251-ba24-8ae71ad54e18&displaylang=ko)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/details.aspx?familyid=3ed7f466-78c7-4251-ba24-8ae71ad54e18&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Messenger 4.7 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=8f588f7e-c4ed-42a0-b157-54b1eda60474)  
+[Windows Messenger 4.7 (영문)](https://www.microsoft.com/download/details.aspx?familyid=8f588f7e-c4ed-42a0-b157-54b1eda60474)  
 (KB946648)  
 (중요)  
-[Windows Messenger 5.1](http://www.microsoft.com/downloads/details.aspx?displaylang=ko&familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774)  
+[Windows Messenger 5.1](https://www.microsoft.com/download/details.aspx?displaylang=ko&familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774)  
 (KB899283)  
 (중요)
 </td>
@@ -343,31 +343,31 @@ Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=3150c6b8-f50b-4b84-a7ce-c8daf77c080c)  
+[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2 (영문)](https://www.microsoft.com/download/details.aspx?familyid=3150c6b8-f50b-4b84-a7ce-c8daf77c080c)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=6604569a-3db0-47e7-bd30-7dfba8145386&displaylang=ko)  
+[Microsoft Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=6604569a-3db0-47e7-bd30-7dfba8145386&displaylang=ko)  
 (긴급)  
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=fb0c70b4-ce9f-43d6-875a-3cfd0d3a2681&displaylang=ko)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=fb0c70b4-ce9f-43d6-875a-3cfd0d3a2681&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=246b2686-e330-47a2-b4d4-68f218ad4021)  
+[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2 (영문)](https://www.microsoft.com/download/details.aspx?familyid=246b2686-e330-47a2-b4d4-68f218ad4021)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=6468a552-2194-4866-97d5-ff77ae205eea)  
+[Microsoft Outlook Express 6 (영문)](https://www.microsoft.com/download/details.aspx?familyid=6468a552-2194-4866-97d5-ff77ae205eea)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Messenger 4.7 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=a5fc5457-832f-4ee8-be60-4cc8518d1c10)  
+[Windows Messenger 4.7 (영문)](https://www.microsoft.com/download/details.aspx?familyid=a5fc5457-832f-4ee8-be60-4cc8518d1c10)  
 (KB946648)  
 (중요)  
-[Windows Messenger 5.1](http://www.microsoft.com/downloads/details.aspx?displaylang=ko&familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774)  
+[Windows Messenger 5.1](https://www.microsoft.com/download/details.aspx?displaylang=ko&familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774)  
 (KB899283)  
 (중요)
 </td>
@@ -428,31 +428,31 @@ Windows Server 2003
 Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=828d8fdc-8534-4621-85a5-08aec255496f)  
+[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2 (영문)](https://www.microsoft.com/download/details.aspx?familyid=828d8fdc-8534-4621-85a5-08aec255496f)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=286aada6-a358-41f1-b81a-8de39b9f908a&displaylang=ko)  
+[Microsoft Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=286aada6-a358-41f1-b81a-8de39b9f908a&displaylang=ko)  
 (긴급)  
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=a1ae9ad2-8329-4c96-b950-7534b3287eaa&displaylang=ko)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=a1ae9ad2-8329-4c96-b950-7534b3287eaa&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=92a3d08f-c117-4b24-bc78-2b913d270df6)  
+[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2 (영문)](https://www.microsoft.com/download/details.aspx?familyid=92a3d08f-c117-4b24-bc78-2b913d270df6)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](http://www.microsoft.com/downloads/details.aspx?familyid=708926e4-f8af-4533-8747-22d6536ebd66&displaylang=ko)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/details.aspx?familyid=708926e4-f8af-4533-8747-22d6536ebd66&displaylang=ko)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Messenger 4.7 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=302315a8-ccb2-47c2-9104-b8e1d1f49aa0)  
+[Windows Messenger 4.7 (영문)](https://www.microsoft.com/download/details.aspx?familyid=302315a8-ccb2-47c2-9104-b8e1d1f49aa0)  
 (KB954723)  
 (보통)  
-[Windows Messenger 5.1](http://www.microsoft.com/downloads/details.aspx?displaylang=ko&familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774)  
+[Windows Messenger 5.1](https://www.microsoft.com/download/details.aspx?displaylang=ko&familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774)  
 (KB899283)  
 (보통)
 </td>
@@ -462,31 +462,31 @@ Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2
 Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=0a13776f-d543-41df-b904-d51e368c81cc)  
+[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2 (영문)](https://www.microsoft.com/download/details.aspx?familyid=0a13776f-d543-41df-b904-d51e368c81cc)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=6604569a-3db0-47e7-bd30-7dfba8145386&displaylang=ko)  
+[Microsoft Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=6604569a-3db0-47e7-bd30-7dfba8145386&displaylang=ko)  
 (긴급)  
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=fb0c70b4-ce9f-43d6-875a-3cfd0d3a2681&displaylang=ko)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=fb0c70b4-ce9f-43d6-875a-3cfd0d3a2681&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=6bfbb6d8-5106-4adf-83cb-35ffc6e8eaf8)  
+[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2 (영문)](https://www.microsoft.com/download/details.aspx?familyid=6bfbb6d8-5106-4adf-83cb-35ffc6e8eaf8)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](http://www.microsoft.com/downloads/details.aspx?familyid=26720f5a-d7e9-44b9-9330-2e9faa4af0d9&displaylang=ko)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/details.aspx?familyid=26720f5a-d7e9-44b9-9330-2e9faa4af0d9&displaylang=ko)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Messenger 4.7 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=be94d138-7d7b-489e-baa6-e214950be6b9)  
+[Windows Messenger 4.7 (영문)](https://www.microsoft.com/download/details.aspx?familyid=be94d138-7d7b-489e-baa6-e214950be6b9)  
 (KB954723)  
 (보통)  
-[Windows Messenger 5.1](http://www.microsoft.com/downloads/details.aspx?displaylang=ko&familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774)  
+[Windows Messenger 5.1](https://www.microsoft.com/download/details.aspx?displaylang=ko&familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774)  
 (KB899283)  
 (보통)
 </td>
@@ -496,31 +496,31 @@ Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 �
 Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용) (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=9566493f-4260-4072-947a-527887d2cd63)  
+[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용) (영문)](https://www.microsoft.com/download/details.aspx?familyid=9566493f-4260-4072-947a-527887d2cd63)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=1855997e-a3be-46b1-a0bc-bb55eb0045fe)  
+[Microsoft Internet Explorer 6 (영문)](https://www.microsoft.com/download/details.aspx?familyid=1855997e-a3be-46b1-a0bc-bb55eb0045fe)  
 (긴급)  
-[Windows Internet Explorer 7 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=97d0d37d-5d76-4bc3-8cbd-1e3976c82acf)  
+[Windows Internet Explorer 7 (영문)](https://www.microsoft.com/download/details.aspx?familyid=97d0d37d-5d76-4bc3-8cbd-1e3976c82acf)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용) (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=45356565-697f-41b3-9879-3edd11dbcb7e)  
+[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용) (영문)](https://www.microsoft.com/download/details.aspx?familyid=45356565-697f-41b3-9879-3edd11dbcb7e)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=c8570e40-355b-4a9b-933d-53ae021cbda5)  
+[Microsoft Outlook Express 6 (영문)](https://www.microsoft.com/download/details.aspx?familyid=c8570e40-355b-4a9b-933d-53ae021cbda5)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Windows Messenger 4.7 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=e4b72618-536b-4a21-bd91-d91be9ca24e5)  
+[Windows Messenger 4.7 (영문)](https://www.microsoft.com/download/details.aspx?familyid=e4b72618-536b-4a21-bd91-d91be9ca24e5)  
 (KB954723)  
 (보통)  
-[Windows Messenger 5.1](http://www.microsoft.com/downloads/details.aspx?displaylang=ko&familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774)  
+[Windows Messenger 5.1](https://www.microsoft.com/download/details.aspx?displaylang=ko&familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774)  
 (KB899283)  
 (보통)
 </td>
@@ -584,19 +584,19 @@ Windows Vista 및 Windows Vista 서비스 팩 1
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=13cba012-dd20-48f9-8e44-e4cb104c4cad)  
+[Windows Internet Explorer 7 (영문)](https://www.microsoft.com/download/details.aspx?familyid=13cba012-dd20-48f9-8e44-e4cb104c4cad)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 및 Windows Vista 서비스 팩 1 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=3f21a8a2-9861-4fef-9d1e-caf5f7822c1a)  
+[Windows Vista 및 Windows Vista 서비스 팩 1 (영문)](https://www.microsoft.com/download/details.aspx?familyid=3f21a8a2-9861-4fef-9d1e-caf5f7822c1a)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 및 Windows Vista 서비스 팩 1 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=6418c78f-f008-4028-beb1-5a5ea8e797a1)  
+[Windows Vista 및 Windows Vista 서비스 팩 1 (영문)](https://www.microsoft.com/download/details.aspx?familyid=6418c78f-f008-4028-beb1-5a5ea8e797a1)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Mail (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=b6ac8d93-adc3-4ec3-bad1-4990bd7d52b4&displaylang=ko)  
+[Windows Mail (영문)](https://www.microsoft.com/download/details.aspx?familyid=b6ac8d93-adc3-4ec3-bad1-4990bd7d52b4&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -611,19 +611,19 @@ Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=ead919c2-d548-47b7-9cd6-80f991266428)  
+[Windows Internet Explorer 7 (영문)](https://www.microsoft.com/download/details.aspx?familyid=ead919c2-d548-47b7-9cd6-80f991266428)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=aa04a754-fbfb-42a7-89d2-14373e3f4742)  
+[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1 (영문)](https://www.microsoft.com/download/details.aspx?familyid=aa04a754-fbfb-42a7-89d2-14373e3f4742)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=e03ccfb0-3ea3-4c59-adcf-9882d7086013)  
+[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1 (영문)](https://www.microsoft.com/download/details.aspx?familyid=e03ccfb0-3ea3-4c59-adcf-9882d7086013)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Mail (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=3bf7eb8a-b347-4661-be2d-682adc713769)  
+[Windows Mail (영문)](https://www.microsoft.com/download/details.aspx?familyid=3bf7eb8a-b347-4661-be2d-682adc713769)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -689,19 +689,19 @@ Windows Server 2008(32비트 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=4b52ff2f-d2f5-4c20-b6cf-86d86c56b0f8)\*\*  
+[Windows Internet Explorer 7 (영문)](https://www.microsoft.com/download/details.aspx?familyid=4b52ff2f-d2f5-4c20-b6cf-86d86c56b0f8)\*\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=c3363df6-39dc-4910-9ce5-66553155378e)\*  
+[Windows Server 2008(32비트 시스템용) (영문)](https://www.microsoft.com/download/details.aspx?familyid=c3363df6-39dc-4910-9ce5-66553155378e)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=0640f95e-1eee-4dd1-b4dd-2b82b7e984b9)\*  
+[Windows Server 2008(32비트 시스템용) (영문)](https://www.microsoft.com/download/details.aspx?familyid=0640f95e-1eee-4dd1-b4dd-2b82b7e984b9)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Mail (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=dc3c4b63-acd3-4469-8d47-e0562d99ee65)\*\*  
+[Windows Mail (영문)](https://www.microsoft.com/download/details.aspx?familyid=dc3c4b63-acd3-4469-8d47-e0562d99ee65)\*\*  
 (낮음)
 </td>
 <td style="border:1px solid black;">
@@ -716,19 +716,19 @@ Windows Server 2008(x64 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=df9814a6-5be0-4ac1-a767-a0eae8d5ee5d)\*\*  
+[Windows Internet Explorer 7 (영문)](https://www.microsoft.com/download/details.aspx?familyid=df9814a6-5be0-4ac1-a767-a0eae8d5ee5d)\*\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=39dd1722-412b-469d-a475-b6513764838c)\*  
+[Windows Server 2008(x64 기반 시스템용) (영문)](https://www.microsoft.com/download/details.aspx?familyid=39dd1722-412b-469d-a475-b6513764838c)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=51a93538-5e94-4f81-a6e0-d497a7b4899d)\*  
+[Windows Server 2008(x64 기반 시스템용) (영문)](https://www.microsoft.com/download/details.aspx?familyid=51a93538-5e94-4f81-a6e0-d497a7b4899d)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Mail (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=5f973f54-2322-4b41-8c1a-3e712c0da8ae)\*\*  
+[Windows Mail (영문)](https://www.microsoft.com/download/details.aspx?familyid=5f973f54-2322-4b41-8c1a-3e712c0da8ae)\*\*  
 (낮음)
 </td>
 <td style="border:1px solid black;">
@@ -743,19 +743,19 @@ Windows Server 2008(Itanium 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=ffc3cfcb-73fe-4a6d-9595-e9d7a5b3d3f7)  
+[Windows Internet Explorer 7 (영문)](https://www.microsoft.com/download/details.aspx?familyid=ffc3cfcb-73fe-4a6d-9595-e9d7a5b3d3f7)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=e9c6cd46-30ad-46ee-9c8b-d0b446e660c4)  
+[Windows Server 2008(Itanium 기반 시스템용) (영문)](https://www.microsoft.com/download/details.aspx?familyid=e9c6cd46-30ad-46ee-9c8b-d0b446e660c4)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=390da130-749d-4890-aad7-be91e15b32bb)  
+[Windows Server 2008(Itanium 기반 시스템용) (영문)](https://www.microsoft.com/download/details.aspx?familyid=390da130-749d-4890-aad7-be91e15b32bb)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Mail (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=9226cd85-1445-4976-a126-757c5d142ffd)  
+[Windows Mail (영문)](https://www.microsoft.com/download/details.aspx?familyid=9226cd85-1445-4976-a126-757c5d142ffd)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
@@ -846,7 +846,7 @@ Microsoft Works 8
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Works 8 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=458985c3-9c6f-4049-81cd-0d0389c81f11)  
+[Microsoft Works 8 (영문)](https://www.microsoft.com/download/details.aspx?familyid=458985c3-9c6f-4049-81cd-0d0389c81f11)  
 (KB955428)  
 (중요)
 </td>
@@ -859,22 +859,22 @@ Microsoft Works 8
 Microsoft Office 2000 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Access 2000 서비스 팩 3 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=54e4031d-298f-480c-88d5-0ad3b2b62ba9)  
+[Microsoft Office Access 2000 서비스 팩 3 (영문)](https://www.microsoft.com/download/details.aspx?familyid=54e4031d-298f-480c-88d5-0ad3b2b62ba9)  
 (KB955441)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Excel 2000 서비스 팩 3 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=4bf8688e-e5b9-4e53-a1a1-8cf1acfdb80b)  
+[Excel 2000 서비스 팩 3 (영문)](https://www.microsoft.com/download/details.aspx?familyid=4bf8688e-e5b9-4e53-a1a1-8cf1acfdb80b)  
 (KB951582)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office PowerPoint 2000 서비스 팩 3 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=e7c044d8-778a-4985-b25b-4f7f6e4abadd)  
+[Microsoft Office PowerPoint 2000 서비스 팩 3 (영문)](https://www.microsoft.com/download/details.aspx?familyid=e7c044d8-778a-4985-b25b-4f7f6e4abadd)  
 (KB949007)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2000 서비스 팩 3 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=3ab323ec-9f92-453c-b7c7-9a95a9efcaea)  
+[Microsoft Office 2000 서비스 팩 3 (영문)](https://www.microsoft.com/download/details.aspx?familyid=3ab323ec-9f92-453c-b7c7-9a95a9efcaea)  
 (KB921595)  
 (긴급)
 </td>
@@ -887,27 +887,27 @@ Microsoft Office 2000 서비스 팩 3
 Microsoft Office XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Access 2002 서비스 팩 3 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=34b655f8-1922-4246-94ca-ed381c3e3b13)  
+[Microsoft Office Access 2002 서비스 팩 3 (영문)](https://www.microsoft.com/download/details.aspx?familyid=34b655f8-1922-4246-94ca-ed381c3e3b13)  
 (KB955440)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Excel 2002 서비스 팩 3 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=9bbf7550-f5c4-4b9b-bd86-1e7be6c42eb5)  
+[Excel 2002 서비스 팩 3 (영문)](https://www.microsoft.com/download/details.aspx?familyid=9bbf7550-f5c4-4b9b-bd86-1e7be6c42eb5)  
 (KB951551)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office PowerPoint 2002 서비스 팩 3 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=f8921074-7985-4d42-ac2b-d2f3b1d466ba)  
+[Microsoft Office PowerPoint 2002 서비스 팩 3 (영문)](https://www.microsoft.com/download/details.aspx?familyid=f8921074-7985-4d42-ac2b-d2f3b1d466ba)  
 (KB948995)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office XP 서비스 팩 3 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=bf566ce6-23da-45e5-9c2b-c47331d30e79)  
+[Microsoft Office XP 서비스 팩 3 (영문)](https://www.microsoft.com/download/details.aspx?familyid=bf566ce6-23da-45e5-9c2b-c47331d30e79)  
 (KB921596)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Word 2002 서비스 팩 3 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=c7146dfc-e1be-4d13-877b-1d9bcacc4a64)  
+[Microsoft Word 2002 서비스 팩 3 (영문)](https://www.microsoft.com/download/details.aspx?familyid=c7146dfc-e1be-4d13-877b-1d9bcacc4a64)  
 (KB954463)  
 (중요)
 </td>
@@ -917,36 +917,36 @@ Microsoft Office XP 서비스 팩 3
 Microsoft Office 2003 서비스 팩 2 및 Microsoft Office 2003 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Access 2003 서비스 팩 2 및 Microsoft Office Access 2003 서비스 팩 3 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=fd698517-a504-427d-9e5f-fde8f102142c)  
+[Microsoft Office Access 2003 서비스 팩 2 및 Microsoft Office Access 2003 서비스 팩 3 (영문)](https://www.microsoft.com/download/details.aspx?familyid=fd698517-a504-427d-9e5f-fde8f102142c)  
 (KB955439)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Excel 2003 서비스 팩 2 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=fc612e9a-bdf3-4952-8ada-0de5a50973f0)  
+[Excel 2003 서비스 팩 2 (영문)](https://www.microsoft.com/download/details.aspx?familyid=fc612e9a-bdf3-4952-8ada-0de5a50973f0)  
 (KB951548)  
 (중요)  
-[Excel 2003 서비스 팩 3 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=fc612e9a-bdf3-4952-8ada-0de5a50973f0)  
+[Excel 2003 서비스 팩 3 (영문)](https://www.microsoft.com/download/details.aspx?familyid=fc612e9a-bdf3-4952-8ada-0de5a50973f0)  
 (KB951548)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office PowerPoint 2003 서비스 팩 2 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=7a7c21f0-5e0e-4dee-9710-1ce3d565913f)\*\*\*  
+[Microsoft Office PowerPoint 2003 서비스 팩 2 (영문)](https://www.microsoft.com/download/details.aspx?familyid=7a7c21f0-5e0e-4dee-9710-1ce3d565913f)\*\*\*  
 (KB948988)  
 (중요)  
-[Microsoft Office PowerPoint 2003 서비스 팩 3 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=7a7c21f0-5e0e-4dee-9710-1ce3d565913f)\*\*\*  
+[Microsoft Office PowerPoint 2003 서비스 팩 3 (영문)](https://www.microsoft.com/download/details.aspx?familyid=7a7c21f0-5e0e-4dee-9710-1ce3d565913f)\*\*\*  
 (KB948988)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2003 서비스 팩 2 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=e0df2f6e-1102-461d-829f-5f3e2d7eb4b3)  
+[Microsoft Office 2003 서비스 팩 2 (영문)](https://www.microsoft.com/download/details.aspx?familyid=e0df2f6e-1102-461d-829f-5f3e2d7eb4b3)  
 (KB921598)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Word 2003 서비스 팩 2 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=13a37b76-9fec-426f-8176-3c95f934efe0)  
+[Microsoft Word 2003 서비스 팩 2 (영문)](https://www.microsoft.com/download/details.aspx?familyid=13a37b76-9fec-426f-8176-3c95f934efe0)  
 (KB954464)  
 (중요)  
-[Microsoft Word 2003 서비스 팩 3 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=13a37b76-9fec-426f-8176-3c95f934efe0)  
+[Microsoft Word 2003 서비스 팩 3 (영문)](https://www.microsoft.com/download/details.aspx?familyid=13a37b76-9fec-426f-8176-3c95f934efe0)  
 (KB954464)  
 (중요)
 </td>
@@ -959,18 +959,18 @@ Microsoft Office 2003 서비스 팩 2 및 Microsoft Office 2003 서비스 팩 3
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Excel 2007 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=2753e8d6-e156-49ef-af2d-4c521c808ffd)  
+[Excel 2007 (영문)](https://www.microsoft.com/download/details.aspx?familyid=2753e8d6-e156-49ef-af2d-4c521c808ffd)  
 (KB951546)  
 (중요)  
-[Excel 2007 서비스 팩 1 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=2753e8d6-e156-49ef-af2d-4c521c808ffd)  
+[Excel 2007 서비스 팩 1 (영문)](https://www.microsoft.com/download/details.aspx?familyid=2753e8d6-e156-49ef-af2d-4c521c808ffd)  
 (KB951546)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office PowerPoint 2007 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=55fd618a-e9c5-4f1e-b9a5-b2e47ec98ef1)  
+[Microsoft Office PowerPoint 2007 (영문)](https://www.microsoft.com/download/details.aspx?familyid=55fd618a-e9c5-4f1e-b9a5-b2e47ec98ef1)  
 (KB951338)  
 (중요)  
-[Microsoft Office PowerPoint 2007 서비스 팩 1 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=55fd618a-e9c5-4f1e-b9a5-b2e47ec98ef1)  
+[Microsoft Office PowerPoint 2007 서비스 팩 1 (영문)](https://www.microsoft.com/download/details.aspx?familyid=55fd618a-e9c5-4f1e-b9a5-b2e47ec98ef1)  
 (KB951338)  
 (중요)
 </td>
@@ -1040,7 +1040,7 @@ Microsoft Office Project 2002 서비스 팩 1
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Project 2002 서비스 팩 1 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=bf566ce6-23da-45e5-9c2b-c47331d30e79)  
+[Microsoft Office Project 2002 서비스 팩 1 (영문)](https://www.microsoft.com/download/details.aspx?familyid=bf566ce6-23da-45e5-9c2b-c47331d30e79)  
 (KB921596)  
 (중요)
 </td>
@@ -1053,7 +1053,7 @@ Microsoft Office Project 2002 서비스 팩 1
 Microsoft Access SnapShot Viewer
 </td>
 <td style="border:1px solid black;">
-[Microsoft Access SnapShot Viewer](http://www.microsoft.com/downloads/details.aspx?displaylang=ko&familyid=7c22bb32-7ce3-4ff2-8366-ba2eb5135833)  
+[Microsoft Access SnapShot Viewer](https://www.microsoft.com/download/details.aspx?displaylang=ko&familyid=7c22bb32-7ce3-4ff2-8366-ba2eb5135833)  
 (KB957198)  
 (긴급)
 </td>
@@ -1081,7 +1081,7 @@ Microsoft Office PowerPoint Viewer 2003
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office PowerPoint Viewer 2003 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=911c8872-dec8-4b8e-9708-93dcabd3e036)  
+[Microsoft Office PowerPoint Viewer 2003 (영문)](https://www.microsoft.com/download/details.aspx?familyid=911c8872-dec8-4b8e-9708-93dcabd3e036)  
 (KB949041)  
 (중요)
 </td>
@@ -1100,10 +1100,10 @@ Microsoft Office Excel Viewer 2003 및 Microsoft Office Excel Viewer 2003 서비
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel Viewer 2003 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=d7ed9e75-15f2-4950-98b3-93023ba0f4c1)  
+[Microsoft Office Excel Viewer 2003 (영문)](https://www.microsoft.com/download/details.aspx?familyid=d7ed9e75-15f2-4950-98b3-93023ba0f4c1)  
 (KB951589)  
 (중요)  
-[Microsoft Office Excel Viewer 2003 서비스 팩 3 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=d7ed9e75-15f2-4950-98b3-93023ba0f4c1)  
+[Microsoft Office Excel Viewer 2003 서비스 팩 3 (영문)](https://www.microsoft.com/download/details.aspx?familyid=d7ed9e75-15f2-4950-98b3-93023ba0f4c1)  
 (KB951589)  
 (중요)
 </td>
@@ -1125,7 +1125,7 @@ Microsoft Office Excel Viewer
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel Viewer (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=b574d906-7f09-49b0-80bf-e84dee8c4583)  
+[Microsoft Office Excel Viewer (영문)](https://www.microsoft.com/download/details.aspx?familyid=b574d906-7f09-49b0-80bf-e84dee8c4583)  
 (KB955472)  
 (중요)
 </td>
@@ -1153,7 +1153,7 @@ Microsoft Office 변환 팩
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 변환 팩 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=199b08c7-6d79-4930-8f0c-31034629c485)  
+[Microsoft Office 변환 팩 (영문)](https://www.microsoft.com/download/details.aspx?familyid=199b08c7-6d79-4930-8f0c-31034629c485)  
 (KB925256)  
 (중요)
 </td>
@@ -1169,17 +1169,17 @@ Word, Excel, PowerPoint 2007 파일 형식용 Microsoft Office 호환 기능 팩
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Word, Excel, PowerPoint 2007 파일 형식용 Microsoft Office 호환 기능 팩 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=7afdae9b-9c74-4af7-9844-0e54221ea3b9)  
+[Word, Excel, PowerPoint 2007 파일 형식용 Microsoft Office 호환 기능 팩 (영문)](https://www.microsoft.com/download/details.aspx?familyid=7afdae9b-9c74-4af7-9844-0e54221ea3b9)  
 (KB951596)  
 (중요)  
-[Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 1용 Microsoft Office 호환 기능 팩 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=7afdae9b-9c74-4af7-9844-0e54221ea3b9)  
+[Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 1용 Microsoft Office 호환 기능 팩 (영문)](https://www.microsoft.com/download/details.aspx?familyid=7afdae9b-9c74-4af7-9844-0e54221ea3b9)  
 (KB951596)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Word, Excel, PowerPoint 2007 파일 형식용 Microsoft Office 호환 기능 팩 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=84ce5d58-0010-4945-bce9-67a41f898f2f)(KB954038)  
+[Word, Excel, PowerPoint 2007 파일 형식용 Microsoft Office 호환 기능 팩 (영문)](https://www.microsoft.com/download/details.aspx?familyid=84ce5d58-0010-4945-bce9-67a41f898f2f)(KB954038)  
 (중요)  
-[Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 1용 Microsoft Office 호환 기능 팩 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=84ce5d58-0010-4945-bce9-67a41f898f2f)(KB954038)  
+[Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 1용 Microsoft Office 호환 기능 팩 (영문)](https://www.microsoft.com/download/details.aspx?familyid=84ce5d58-0010-4945-bce9-67a41f898f2f)(KB954038)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -1197,10 +1197,10 @@ Microsoft Office SharePoint Server 2007 및 Microsoft Office SharePoint Server 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office SharePoint Server 2007 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=a7731749-b026-4765-808a-e151b990f0e1) \*\*  
+[Microsoft Office SharePoint Server 2007 (영문)](https://www.microsoft.com/download/details.aspx?familyid=a7731749-b026-4765-808a-e151b990f0e1) \*\*  
 (KB953397)  
 (중요)  
-[Microsoft Office SharePoint Server 2007 서비스 팩 1 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=a7731749-b026-4765-808a-e151b990f0e1)\*  
+[Microsoft Office SharePoint Server 2007 서비스 팩 1 (영문)](https://www.microsoft.com/download/details.aspx?familyid=a7731749-b026-4765-808a-e151b990f0e1)\*  
 (KB953397)  
 (중요)
 </td>
@@ -1222,10 +1222,10 @@ Microsoft Office SharePoint Server 2007 x64 Edition 및 Microsoft Office SharePo
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office SharePoint Server 2007 x64 Edition (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=fc95ab88-2d31-44e1-a702-7cb10e83695b) \*\*  
+[Microsoft Office SharePoint Server 2007 x64 Edition (영문)](https://www.microsoft.com/download/details.aspx?familyid=fc95ab88-2d31-44e1-a702-7cb10e83695b) \*\*  
 (KB953397)  
 (중요)  
-[Microsoft Office SharePoint Server 2007 x64 Edition 서비스 팩 1 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=fc95ab88-2d31-44e1-a702-7cb10e83695b)\*\*  
+[Microsoft Office SharePoint Server 2007 x64 Edition 서비스 팩 1 (영문)](https://www.microsoft.com/download/details.aspx?familyid=fc95ab88-2d31-44e1-a702-7cb10e83695b)\*\*  
 (KB953397)  
 (중요)
 </td>
@@ -1292,12 +1292,12 @@ Microsoft Office 2004 for Mac
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2004 for Mac (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=ebd3af0c-3f62-4d18-bf45-881655683bd5)  
+[Microsoft Office 2004 for Mac (영문)](https://www.microsoft.com/download/details.aspx?familyid=ebd3af0c-3f62-4d18-bf45-881655683bd5)  
 (KB956343)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2004 for Mac (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=ebd3af0c-3f62-4d18-bf45-881655683bd5)  
+[Microsoft Office 2004 for Mac (영문)](https://www.microsoft.com/download/details.aspx?familyid=ebd3af0c-3f62-4d18-bf45-881655683bd5)  
 (KB956343)  
 (중요)
 </td>
@@ -1316,7 +1316,7 @@ Microsoft Office 2008 for Mac
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2008 for Mac (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=9515c70d-be80-4ade-856a-ea542f7d84e1)  
+[Microsoft Office 2008 for Mac (영문)](https://www.microsoft.com/download/details.aspx?familyid=9515c70d-be80-4ade-856a-ea542f7d84e1)  
 (KB956344)  
 (중요)
 </td>
@@ -1370,7 +1370,7 @@ Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 
 
 **UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)**
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit) 5.0 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit) 5.0 (영문)](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Microsoft Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 

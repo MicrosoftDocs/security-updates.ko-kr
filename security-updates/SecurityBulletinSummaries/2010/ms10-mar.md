@@ -170,9 +170,9 @@ Microsoft Windows 2000 서비스 팩 4
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 5.01 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=389da7a9-e0a3-4b5d-801e-0a38fc55dcec&displaylang=ko)  
+[Internet Explorer 5.01 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=389da7a9-e0a3-4b5d-801e-0a38fc55dcec&displaylang=ko)  
 (긴급)  
-[Internet Explorer 6 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=daf199c4-da56-4a7f-80e6-3936ce5c267b&displaylang=ko)  
+[Internet Explorer 6 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=daf199c4-da56-4a7f-80e6-3936ce5c267b&displaylang=ko)  
 (긴급)
 </td>
 </tr>
@@ -208,15 +208,15 @@ Windows XP
 Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Movie Maker 2.1](http://www.microsoft.com/downloads/details.aspx?familyid=6301e462-02be-4b9a-bae9-7c4821b42d2d&displaylang=ko)<sup>[1]</sup>
+[Movie Maker 2.1](https://www.microsoft.com/download/details.aspx?familyid=6301e462-02be-4b9a-bae9-7c4821b42d2d&displaylang=ko)<sup>[1]</sup>
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=2f2caa01-5cd1-45cb-9995-e34d933920d4&displaylang=ko)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=2f2caa01-5cd1-45cb-9995-e34d933920d4&displaylang=ko)  
 (긴급)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=167ed896-d383-4dc0-9183-cd4cb73e17e7&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=167ed896-d383-4dc0-9183-cd4cb73e17e7&displaylang=ko)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=46172617-293a-44c7-95b6-18202ab06a41&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=46172617-293a-44c7-95b6-18202ab06a41&displaylang=ko)  
 (긴급)
 </td>
 </tr>
@@ -225,15 +225,15 @@ Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 Windows XP Professional x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Movie Maker 2.1](http://www.microsoft.com/downloads/details.aspx?familyid=cae81585-d0df-41b8-9277-ca02f1265056)<sup>[1]</sup>
+[Movie Maker 2.1](https://www.microsoft.com/download/details.aspx?familyid=cae81585-d0df-41b8-9277-ca02f1265056)<sup>[1]</sup>
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=6c711387-6853-477c-917e-820a97613cf9)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=6c711387-6853-477c-917e-820a97613cf9)  
 (긴급)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=aadb1d97-5cec-45ed-9967-aaf41a0bcdac)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=aadb1d97-5cec-45ed-9967-aaf41a0bcdac)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=284d70ea-24a3-4e67-a2a8-e9f272f728db)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=284d70ea-24a3-4e67-a2a8-e9f272f728db)  
 (긴급)
 </td>
 </tr>
@@ -272,11 +272,11 @@ Windows Server 2003 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=dc77f1c9-8240-42d9-aee9-30ac4f33bde7&displaylang=ko)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=dc77f1c9-8240-42d9-aee9-30ac4f33bde7&displaylang=ko)  
 (중요)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=e957a7cf-e5ca-454d-b199-ec8fe6a6a2bf&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=e957a7cf-e5ca-454d-b199-ec8fe6a6a2bf&displaylang=ko)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=53fc3285-63c4-487f-ad9a-7e1673aeffc7&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=53fc3285-63c4-487f-ad9a-7e1673aeffc7&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -288,11 +288,11 @@ Windows Server 2003 x64 Edition 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=2be85462-28ec-4184-a326-0459554b7213&displaylang=ko)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=2be85462-28ec-4184-a326-0459554b7213&displaylang=ko)  
 (중요)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=cb0e39f8-9730-4454-a0e3-479b610b1591&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=cb0e39f8-9730-4454-a0e3-479b610b1591&displaylang=ko)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=5201a0c5-8162-4809-b9d1-0e972b0f0066&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=5201a0c5-8162-4809-b9d1-0e972b0f0066&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -304,9 +304,9 @@ Windows Server 2003 SP2(Itanium 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=04abea55-ea2f-423f-b410-5536ea184ea3)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=04abea55-ea2f-423f-b410-5536ea184ea3)  
 (중요)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=7ebd99b4-da6b-4dff-9f89-6a86d275a3da)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=7ebd99b4-da6b-4dff-9f89-6a86d275a3da)  
 (긴급)
 </td>
 </tr>
@@ -342,15 +342,15 @@ Windows Vista
 Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Movie Maker 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=ae2e9b75-1616-4fe3-91bb-e2e28252ff1c&displaylang=ko)<sup>[1]</sup>
+[Movie Maker 6.0](https://www.microsoft.com/download/details.aspx?familyid=ae2e9b75-1616-4fe3-91bb-e2e28252ff1c&displaylang=ko)<sup>[1]</sup>
 (중요)  
-[Movie Maker 2.6](http://www.microsoft.com/downloads/details.aspx?familyid=ca2d1118-ca64-419d-86af-9396e61b90b0&displaylang=ko)<sup>[2]</sup>
+[Movie Maker 2.6](https://www.microsoft.com/download/details.aspx?familyid=ca2d1118-ca64-419d-86af-9396e61b90b0&displaylang=ko)<sup>[2]</sup>
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=511aba0e-6f15-42cf-9c5d-b2f3e215b5a8&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=511aba0e-6f15-42cf-9c5d-b2f3e215b5a8&displaylang=ko)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=c9584689-5196-4840-927c-23c8038f3382&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=c9584689-5196-4840-927c-23c8038f3382&displaylang=ko)  
 (긴급)
 </td>
 </tr>
@@ -359,15 +359,15 @@ Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2
 Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Movie Maker 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=e27f353e-deb6-4d61-8808-c751d20a42a1&displaylang=ko)<sup>[1]</sup>
+[Movie Maker 6.0](https://www.microsoft.com/download/details.aspx?familyid=e27f353e-deb6-4d61-8808-c751d20a42a1&displaylang=ko)<sup>[1]</sup>
 (중요)  
-[Movie Maker 2.6](http://www.microsoft.com/downloads/details.aspx?familyid=6a1f4126-97f2-4aee-bfe1-05bd13a0667b&displaylang=ko)<sup>[2]</sup>
+[Movie Maker 2.6](https://www.microsoft.com/download/details.aspx?familyid=6a1f4126-97f2-4aee-bfe1-05bd13a0667b&displaylang=ko)<sup>[2]</sup>
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=c8933a45-62a7-4c19-be30-02e3a461f081&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=c8933a45-62a7-4c19-be30-02e3a461f081&displaylang=ko)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=50809cc3-6baa-41b4-ba0a-596a1dd846ed&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=50809cc3-6baa-41b4-ba0a-596a1dd846ed&displaylang=ko)  
 (긴급)
 </td>
 </tr>
@@ -406,9 +406,9 @@ Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시�
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=42f8c1f2-ee55-47af-b113-8d9f4bd40c8f&displaylang=ko)\*\*  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=42f8c1f2-ee55-47af-b113-8d9f4bd40c8f&displaylang=ko)\*\*  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=c69a6dfe-66b1-4426-96a5-d64000296e76&displaylang=ko)\*\*  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=c69a6dfe-66b1-4426-96a5-d64000296e76&displaylang=ko)\*\*  
 (보통)
 </td>
 </tr>
@@ -420,9 +420,9 @@ Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=769043b5-df52-4446-9bd8-dc37d9fa00df&displaylang=ko)\*\*  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=769043b5-df52-4446-9bd8-dc37d9fa00df&displaylang=ko)\*\*  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=e16c10d2-896d-48f3-bc76-5fa70881396a&displaylang=ko)\*\*  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=e16c10d2-896d-48f3-bc76-5fa70881396a&displaylang=ko)\*\*  
 (보통)
 </td>
 </tr>
@@ -434,7 +434,7 @@ Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=c1c2309d-22db-4dbf-ad95-3219847cd42d)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=c1c2309d-22db-4dbf-ad95-3219847cd42d)  
 (긴급)
 </td>
 </tr>
@@ -473,7 +473,7 @@ Windows 7(32비트 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=c0145563-428e-47b6-b245-b59dce88ac0e&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=c0145563-428e-47b6-b245-b59dce88ac0e&displaylang=ko)  
 (긴급)
 </td>
 </tr>
@@ -485,7 +485,7 @@ Windows 7(x64 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=6172dbec-6bfc-40bd-a0d4-67c39fb41b87&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=6172dbec-6bfc-40bd-a0d4-67c39fb41b87&displaylang=ko)  
 (긴급)
 </td>
 </tr>
@@ -524,7 +524,7 @@ Windows Server 2008 R2(x64 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=8b7c664b-8612-458f-bd0a-cf28b67f8374&displaylang=ko)\*\*  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=8b7c664b-8612-458f-bd0a-cf28b67f8374&displaylang=ko)\*\*  
 (보통)
 </td>
 </tr>
@@ -536,7 +536,7 @@ Windows Server 2008 R2(Itanium 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=82fa6f47-002f-4943-888c-2e852675e76e)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=82fa6f47-002f-4943-888c-2e852675e76e)  
 (보통)
 </td>
 </tr>
@@ -599,7 +599,7 @@ Microsoft Office 제품군, 시스템 및 구성 요소
 Microsoft Office XP
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel 2002 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=e0136f62-60ce-4ebd-8660-be81eba29ae8&displaylang=ko)  
+[Microsoft Office Excel 2002 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=e0136f62-60ce-4ebd-8660-be81eba29ae8&displaylang=ko)  
 (KB978471)  
 (중요)
 </td>
@@ -612,7 +612,7 @@ Microsoft Office XP
 Microsoft Office 2003
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel 2003 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=7e42793e-747b-48da-968a-1ec29ea37151&displaylang=ko)  
+[Microsoft Office Excel 2003 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=7e42793e-747b-48da-968a-1ec29ea37151&displaylang=ko)  
 (KB978474)  
 (중요)
 </td>
@@ -625,7 +625,7 @@ Microsoft Office 2003
 2007 Microsoft Office System
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel 2007 서비스 팩 1 및 Microsoft Office Excel 2007 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=03429f8a-8aab-4a59-97e4-7ce047f100a5&displaylang=ko)<sup>[1]</sup>
+[Microsoft Office Excel 2007 서비스 팩 1 및 Microsoft Office Excel 2007 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=03429f8a-8aab-4a59-97e4-7ce047f100a5&displaylang=ko)<sup>[1]</sup>
 (KB978382)  
 (중요)
 </td>
@@ -665,7 +665,7 @@ Microsoft Office for Mac
 Microsoft Office 2004 for Mac
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2004 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=ae5936f8-fe3f-4d23-a37c-d80f228e475e)  
+[Microsoft Office 2004 for Mac](https://www.microsoft.com/download/details.aspx?familyid=ae5936f8-fe3f-4d23-a37c-d80f228e475e)  
 (KB980837)  
 (중요)
 </td>
@@ -678,7 +678,7 @@ Microsoft Office 2004 for Mac
 Microsoft Office 2008 for Mac
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2008 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=e0ed1569-ab2f-407c-b728-4eddc463c385)  
+[Microsoft Office 2008 for Mac](https://www.microsoft.com/download/details.aspx?familyid=e0ed1569-ab2f-407c-b728-4eddc463c385)  
 (KB980839)  
 (중요)
 </td>
@@ -691,7 +691,7 @@ Microsoft Office 2008 for Mac
 Open XML File Format Converter for Mac
 </td>
 <td style="border:1px solid black;">
-[Open XML File Format Converter for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=4c5487d5-c912-4087-8c83-769e3fb78ea9)  
+[Open XML File Format Converter for Mac](https://www.microsoft.com/download/details.aspx?familyid=4c5487d5-c912-4087-8c83-769e3fb78ea9)  
 (KB980840)  
 (중요)
 </td>
@@ -731,7 +731,7 @@ Open XML File Format Converter for Mac
 Microsoft Office Excel Viewer
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel Viewer 서비스 팩 1 및 Microsoft Office Excel Viewer 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=010d0a4d-02a4-4142-963b-a38cd06cc897&displaylang=ko)  
+[Microsoft Office Excel Viewer 서비스 팩 1 및 Microsoft Office Excel Viewer 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=010d0a4d-02a4-4142-963b-a38cd06cc897&displaylang=ko)  
 (KB978383)  
 (중요)
 </td>
@@ -744,7 +744,7 @@ Microsoft Office Excel Viewer
 Word, Excel, PowerPoint 2007 파일 형식용 Microsoft Office 호환 기능 팩
 </td>
 <td style="border:1px solid black;">
-[Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 1용 Microsoft Office 호환 기능 팩 및 Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 2용 Microsoft Office 호환 기능 팩](http://www.microsoft.com/downloads/details.aspx?familyid=314f076e-8f9d-46c2-b666-86599a02bf15&displaylang=ko)  
+[Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 1용 Microsoft Office 호환 기능 팩 및 Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 2용 Microsoft Office 호환 기능 팩](https://www.microsoft.com/download/details.aspx?familyid=314f076e-8f9d-46c2-b666-86599a02bf15&displaylang=ko)  
 (KB978380)  
 (중요)
 </td>
@@ -757,7 +757,7 @@ Word, Excel, PowerPoint 2007 파일 형식용 Microsoft Office 호환 기능 팩
 Microsoft Office SharePoint Server 2007(32비트 에디션)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office SharePoint Server 2007 서비스 팩 1 및 Microsoft Office SharePoint Server 2007 서비스 팩 2(32비트 에디션)](http://www.microsoft.com/downloads/details.aspx?familyid=94ddf6ef-3392-4d77-a02b-3bc0470721cd&displaylang=ko)<sup>[2]</sup>
+[Microsoft Office SharePoint Server 2007 서비스 팩 1 및 Microsoft Office SharePoint Server 2007 서비스 팩 2(32비트 에디션)](https://www.microsoft.com/download/details.aspx?familyid=94ddf6ef-3392-4d77-a02b-3bc0470721cd&displaylang=ko)<sup>[2]</sup>
 (KB979439)  
 (중요)
 </td>
@@ -770,7 +770,7 @@ Microsoft Office SharePoint Server 2007(32비트 에디션)
 Microsoft Office SharePoint Server 2007(64비트 에디션)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office SharePoint Server 2007 서비스 팩 1 및 Microsoft Office SharePoint Server 2007 서비스 팩 2(64비트 에디션)](http://www.microsoft.com/downloads/details.aspx?familyid=06f6bffb-3fad-4fb5-878b-39550812e9b5&displaylang=ko)<sup>[2]</sup>
+[Microsoft Office SharePoint Server 2007 서비스 팩 1 및 Microsoft Office SharePoint Server 2007 서비스 팩 2(64비트 에디션)](https://www.microsoft.com/download/details.aspx?familyid=06f6bffb-3fad-4fb5-878b-39550812e9b5&displaylang=ko)<sup>[2]</sup>
 (KB979439)  
 (중요)
 </td>
@@ -786,7 +786,7 @@ Microsoft Producer 2003
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Producer 2003](http://www.microsoft.com/downloads/details.aspx?familyid=1b3c76d5-fc75-4f99-94bc-784919468e73)<sup>[3]</sup>
+[Microsoft Producer 2003](https://www.microsoft.com/download/details.aspx?familyid=1b3c76d5-fc75-4f99-94bc-784919468e73)<sup>[3]</sup>
 (중요)
 </td>
 </tr>
@@ -794,7 +794,7 @@ Microsoft Producer 2003
  
 **MS10-017 참고 사항**
 
-<sup>[1]</sup>Microsoft Office Excel 2007 서비스 팩 1 및 Microsoft Office Excel 2007 서비스 팩 2를 사용하는 고객은 이 보안 공지에서 설명한 취약점으로부터 보호하기 위해 보안 업데이트 패키지 KB978382과 함께 [Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 1용 Microsoft Office 호환 기능 팩 및 Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 2용 Microsoft Office 호환 기능 팩](http://www.microsoft.com/downloads/details.aspx?familyid=314f076e-8f9d-46c2-b666-86599a02bf15)(KB978380)에 대한 보안 업데이트를 설치해야 합니다.
+<sup>[1]</sup>Microsoft Office Excel 2007 서비스 팩 1 및 Microsoft Office Excel 2007 서비스 팩 2를 사용하는 고객은 이 보안 공지에서 설명한 취약점으로부터 보호하기 위해 보안 업데이트 패키지 KB978382과 함께 [Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 1용 Microsoft Office 호환 기능 팩 및 Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 2용 Microsoft Office 호환 기능 팩](https://www.microsoft.com/download/details.aspx?familyid=314f076e-8f9d-46c2-b666-86599a02bf15)(KB978380)에 대한 보안 업데이트를 설치해야 합니다.
 
 <sup>[2]</sup>이 업데이트는 Microsoft Office SharePoint Server 2007 Enterprise 및 Microsoft Office SharePoint Server 2007 For Internet Sites와 같이 Excel Services가 설치된 서버에 적용됩니다. Microsoft Office SharePoint Server 2007 Standard에는 Excel Services가 포함되지 않습니다.
 
@@ -839,7 +839,7 @@ Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 
 
 **UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)**
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Microsoft Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 

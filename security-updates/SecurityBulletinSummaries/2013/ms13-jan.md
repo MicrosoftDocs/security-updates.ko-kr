@@ -352,13 +352,13 @@ Windows XP
 Windows XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=20d8d873-a709-4834-a956-f3d9d82dbb73&displaylang=ko)   
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=20d8d873-a709-4834-a956-f3d9d82dbb73&displaylang=ko)   
 (KB2799329)  
 (긴급)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=dcdcf814-e39d-4515-bc5d-12e11f214d08&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=dcdcf814-e39d-4515-bc5d-12e11f214d08&displaylang=ko)  
 (KB2799329)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=4e0d584a-c684-408c-bc47-6bd4ecaa9b8a&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=4e0d584a-c684-408c-bc47-6bd4ecaa9b8a&displaylang=ko)  
 (KB2799329)  
 (긴급)
 </td>
@@ -366,28 +366,28 @@ Windows XP 서비스 팩 3
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b&displaylang=ko)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b&displaylang=ko)  
 (KB2758694)  
 (긴급)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=137cc5ee-abf0-4a10-b1c4-d464331cbcfd&displaylang=ko)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=137cc5ee-abf0-4a10-b1c4-d464331cbcfd&displaylang=ko)  
 (KB2757638)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.0 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=155a2984-2cd9-40a4-abaa-c1ea21e76062&displaylang=ko)  
+[Microsoft .NET Framework 1.0 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=155a2984-2cd9-40a4-abaa-c1ea21e76062&displaylang=ko)  
 (KB2742607)  
 (Media Center Edition 2005 서비스 팩 3 및 Tablet PC Edition 2005 서비스 팩 3만 해당)  
 (중요)  
-[Microsoft .NET Framework 1.1 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5&displaylang=ko)  
+[Microsoft .NET Framework 1.1 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5&displaylang=ko)  
 (KB2742597)  
 (중요)  
-[Microsoft .NET Framework 2.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=8e2cc005-08c5-4e47-b05a-5b36fe539610&displaylang=ko)  
+[Microsoft .NET Framework 2.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=8e2cc005-08c5-4e47-b05a-5b36fe539610&displaylang=ko)  
 (KB2742596)  
 (중요)  
-[Microsoft .NET Framework 3.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=20d07bcd-95cc-44a2-8e3e-f88b22682e21&displaylang=ko)  
+[Microsoft .NET Framework 3.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=20d07bcd-95cc-44a2-8e3e-f88b22682e21&displaylang=ko)  
 (KB2756918)  
 (심각도 없음<sup>[2]</sup>)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
 (KB2742595)  
 (중요)
 </td>
@@ -398,10 +398,10 @@ Windows XP 서비스 팩 3
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d&displaylang=ko)  
+[Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d&displaylang=ko)  
 (KB2736416)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
 (KB2736428)  
 (중요)
 </td>
@@ -411,13 +411,13 @@ Windows XP 서비스 팩 3
 Windows XP Professional x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=f35f2ea5-d60e-405a-9ed3-248e0d733c2b)   
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=f35f2ea5-d60e-405a-9ed3-248e0d733c2b)   
 (KB2799329)  
 (긴급)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=36c9d6a9-d939-4e19-b9f5-576fee048764)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=36c9d6a9-d939-4e19-b9f5-576fee048764)  
 (KB2799329)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=396f26bd-8c8b-459d-9467-6ec17a11c9d4)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=396f26bd-8c8b-459d-9467-6ec17a11c9d4)  
 (KB2799329)  
 (긴급)
 </td>
@@ -425,27 +425,27 @@ Windows XP Professional x64 Edition 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=d147f865-6a56-4db2-8d78-14f2bee6da18)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=d147f865-6a56-4db2-8d78-14f2bee6da18)  
 (KB2757638)  
 (긴급)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04)  
 (KB2758694)  
 (긴급)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=0b13a83c-1e51-4604-a09d-afb2e25646f9)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=0b13a83c-1e51-4604-a09d-afb2e25646f9)  
 (KB2758696)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5)  
+[Microsoft .NET Framework 1.1 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5)  
 (KB2742597)  
 (중요)  
-[Microsoft .NET Framework 2.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=8e2cc005-08c5-4e47-b05a-5b36fe539610)  
+[Microsoft .NET Framework 2.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=8e2cc005-08c5-4e47-b05a-5b36fe539610)  
 (KB2742596)  
 (중요)  
-[Microsoft .NET Framework 3.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=20d07bcd-95cc-44a2-8e3e-f88b22682e21)  
+[Microsoft .NET Framework 3.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=20d07bcd-95cc-44a2-8e3e-f88b22682e21)  
 (KB2756918)  
 (심각도 없음<sup>[2]</sup>)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
 (KB2742595)  
 (중요)
 </td>
@@ -456,10 +456,10 @@ Windows XP Professional x64 Edition 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
+[Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
 (KB2736416)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
 (KB2736428)  
 (중요)
 </td>
@@ -526,13 +526,13 @@ Windows Server 2003
 Windows Server 2003 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=1a7cfc5a-2872-4516-a371-f42d4d3969a6&displaylang=ko)   
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=1a7cfc5a-2872-4516-a371-f42d4d3969a6&displaylang=ko)   
 (KB2799329)  
 (보통)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=4b7c2bcd-a732-46ba-9d09-cc192efd4755&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=4b7c2bcd-a732-46ba-9d09-cc192efd4755&displaylang=ko)  
 (KB2799329)  
 (보통)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=7f134d1c-670d-4528-b755-22124aa4d8c9&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=7f134d1c-670d-4528-b755-22124aa4d8c9&displaylang=ko)  
 (KB2799329)  
 (보통)
 </td>
@@ -540,24 +540,24 @@ Windows Server 2003 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b&displaylang=ko)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b&displaylang=ko)  
 (KB2758694)  
 (보통)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=6a12de5f-de80-48e4-8276-6c420f5a2948&displaylang=ko)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=6a12de5f-de80-48e4-8276-6c420f5a2948&displaylang=ko)  
 (KB2758696)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=f1a2eb6e-0290-4a53-b93c-017a48b19973&displaylang=ko)  
+[Microsoft .NET Framework 1.1 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=f1a2eb6e-0290-4a53-b93c-017a48b19973&displaylang=ko)  
 (KB2742604)  
 (중요)  
-[Microsoft .NET Framework 2.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=8e2cc005-08c5-4e47-b05a-5b36fe539610&displaylang=ko)  
+[Microsoft .NET Framework 2.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=8e2cc005-08c5-4e47-b05a-5b36fe539610&displaylang=ko)  
 (KB2742596)  
 (중요)  
-[Microsoft .NET Framework 3.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=20d07bcd-95cc-44a2-8e3e-f88b22682e21&displaylang=ko)  
+[Microsoft .NET Framework 3.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=20d07bcd-95cc-44a2-8e3e-f88b22682e21&displaylang=ko)  
 (KB2756918)  
 (심각도 없음<sup>[2]</sup>)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
 (KB2742595)  
 (중요)
 </td>
@@ -568,10 +568,10 @@ Windows Server 2003 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d&displaylang=ko)  
+[Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d&displaylang=ko)  
 (KB2736416)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
 (KB2736428)  
 (중요)
 </td>
@@ -581,13 +581,13 @@ Windows Server 2003 서비스 팩 2
 Windows Server 2003 x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=00304f3b-069f-49dc-a416-b0b5fb97aa4b&displaylang=ko)   
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=00304f3b-069f-49dc-a416-b0b5fb97aa4b&displaylang=ko)   
 (KB2799329)  
 (보통)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=4911899c-863f-4499-9477-340ef8daad29&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=4911899c-863f-4499-9477-340ef8daad29&displaylang=ko)  
 (KB2799329)  
 (보통)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=b0cf6516-aea6-4879-9a6e-171d4825ae20&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=b0cf6516-aea6-4879-9a6e-171d4825ae20&displaylang=ko)  
 (KB2799329)  
 (보통)
 </td>
@@ -595,27 +595,27 @@ Windows Server 2003 x64 Edition 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=29985fdc-8aba-44b2-9420-970ca475052e&displaylang=ko)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=29985fdc-8aba-44b2-9420-970ca475052e&displaylang=ko)  
 (KB2757638)  
 (보통)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)  
 (KB2758694)  
 (보통)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=0b13a83c-1e51-4604-a09d-afb2e25646f9&displaylang=ko)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=0b13a83c-1e51-4604-a09d-afb2e25646f9&displaylang=ko)  
 (KB2758696)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5&displaylang=ko)  
+[Microsoft .NET Framework 1.1 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5&displaylang=ko)  
 (KB2742597)  
 (중요)  
-[Microsoft .NET Framework 2.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=8e2cc005-08c5-4e47-b05a-5b36fe539610&displaylang=ko)  
+[Microsoft .NET Framework 2.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=8e2cc005-08c5-4e47-b05a-5b36fe539610&displaylang=ko)  
 (KB2742596)  
 (중요)  
-[Microsoft .NET Framework 3.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=20d07bcd-95cc-44a2-8e3e-f88b22682e21&displaylang=ko)  
+[Microsoft .NET Framework 3.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=20d07bcd-95cc-44a2-8e3e-f88b22682e21&displaylang=ko)  
 (KB2756918)  
 (심각도 없음<sup>[2]</sup>)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
 (KB2742595)  
 (중요)
 </td>
@@ -626,10 +626,10 @@ Windows Server 2003 x64 Edition 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d&displaylang=ko)  
+[Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d&displaylang=ko)  
 (KB2736416)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
 (KB2736428)  
 (중요)
 </td>
@@ -639,10 +639,10 @@ Windows Server 2003 x64 Edition 서비스 팩 2
 Windows Server 2003 SP2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=b2c635b7-56ad-426b-8bd6-4aee9deadb69)   
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=b2c635b7-56ad-426b-8bd6-4aee9deadb69)   
 (KB2799329)  
 (보통)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=b33197ab-f489-4c11-a229-044b186d7dda)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=b33197ab-f489-4c11-a229-044b186d7dda)  
 (KB2799329)  
 (보통)
 </td>
@@ -650,24 +650,24 @@ Windows Server 2003 SP2(Itanium 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=bca95077-a28f-406c-9fe4-51dbcf6adee8)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=bca95077-a28f-406c-9fe4-51dbcf6adee8)  
 (KB2757638)  
 (보통)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=4719776a-5ff0-491a-934e-99220d8ac3a3)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=4719776a-5ff0-491a-934e-99220d8ac3a3)  
 (KB2758694)  
 (보통)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=fb834cf7-d1fe-4291-8a0d-c866fdbdf0e6)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=fb834cf7-d1fe-4291-8a0d-c866fdbdf0e6)  
 (KB2758696)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5)  
+[Microsoft .NET Framework 1.1 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5)  
 (KB2742597)  
 (중요)  
-[Microsoft .NET Framework 2.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=8e2cc005-08c5-4e47-b05a-5b36fe539610)  
+[Microsoft .NET Framework 2.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=8e2cc005-08c5-4e47-b05a-5b36fe539610)  
 (KB2742596)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
 (KB2742595)  
 (중요)
 </td>
@@ -678,10 +678,10 @@ Windows Server 2003 SP2(Itanium 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
+[Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
 (KB2736416)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
 (KB2736428)  
 (중요)
 </td>
@@ -748,10 +748,10 @@ Windows Vista
 Windows Vista 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=95d603e8-9440-4aa6-9765-20c77a55966a&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=95d603e8-9440-4aa6-9765-20c77a55966a&displaylang=ko)  
 (KB2799329)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=64b498a6-54fc-4b88-bcc3-2cc15a16abb5&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=64b498a6-54fc-4b88-bcc3-2cc15a16abb5&displaylang=ko)  
 (KB2799329)  
 (긴급)
 </td>
@@ -759,45 +759,45 @@ Windows Vista 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b&displaylang=ko)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b&displaylang=ko)  
 (KB2758694)  
 (긴급)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=d477235d-60f4-420d-8161-82194b4e62e7&displaylang=ko)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=d477235d-60f4-420d-8161-82194b4e62e7&displaylang=ko)  
 (KB2757638)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5&displaylang=ko)  
+[Microsoft .NET Framework 1.1 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5&displaylang=ko)  
 (KB2742597)  
 (중요)  
-[Microsoft .NET Framework 2.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=39406634-48ad-4ecf-a6be-f5a47885704b&displaylang=ko)  
+[Microsoft .NET Framework 2.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=39406634-48ad-4ecf-a6be-f5a47885704b&displaylang=ko)  
 (KB2742601)  
 (중요)  
-[Microsoft .NET Framework 3.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b8cb7a04-f913-47cc-96c1-27fb7154a791&displaylang=ko)  
+[Microsoft .NET Framework 3.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b8cb7a04-f913-47cc-96c1-27fb7154a791&displaylang=ko)  
 (KB2756919)  
 (심각도 없음<sup>[2]</sup>)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
 (KB2742595)  
 (중요)  
-[Microsoft .NET Framework 4.5](http://www.microsoft.com/downloads/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0&displaylang=ko)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0&displaylang=ko)  
 (KB2742613)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=8b1aef73-cfb2-4998-bca6-35cccfbb2078&displaylang=ko)  
+[Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=8b1aef73-cfb2-4998-bca6-35cccfbb2078&displaylang=ko)  
 (KB2778930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=3107fadf-5ba8-48f6-bb23-0c0003b4ba76&displaylang=ko)  
+[Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=3107fadf-5ba8-48f6-bb23-0c0003b4ba76&displaylang=ko)  
 (KB2785220)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d&displaylang=ko)  
+[Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d&displaylang=ko)  
 (KB2736416)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
 (KB2736428)  
 (중요)
 </td>
@@ -807,10 +807,10 @@ Windows Vista 서비스 팩 2
 Windows Vista x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=a35ccbff-c476-4ee2-be9c-5b6a4b1664e9&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=a35ccbff-c476-4ee2-be9c-5b6a4b1664e9&displaylang=ko)  
 (KB2799329)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=b427bace-5297-4593-9dd2-66847ae506c6&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=b427bace-5297-4593-9dd2-66847ae506c6&displaylang=ko)  
 (KB2799329)  
 (긴급)
 </td>
@@ -818,48 +818,48 @@ Windows Vista x64 Edition 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=873eba5d-5a8f-410e-bad8-e9d538acf1b3&displaylang=ko)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=873eba5d-5a8f-410e-bad8-e9d538acf1b3&displaylang=ko)  
 (KB2757638)  
 (긴급)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)  
 (KB2758694)  
 (긴급)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=873eba5d-5a8f-410e-bad8-e9d538acf1b3&displaylang=ko)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=873eba5d-5a8f-410e-bad8-e9d538acf1b3&displaylang=ko)  
 (KB2757638)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5&displaylang=ko)  
+[Microsoft .NET Framework 1.1 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5&displaylang=ko)  
 (KB2742597)  
 (중요)  
-[Microsoft .NET Framework 2.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=39406634-48ad-4ecf-a6be-f5a47885704b&displaylang=ko)  
+[Microsoft .NET Framework 2.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=39406634-48ad-4ecf-a6be-f5a47885704b&displaylang=ko)  
 (KB2742601)  
 (중요)  
-[Microsoft .NET Framework 3.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b8cb7a04-f913-47cc-96c1-27fb7154a791&displaylang=ko)  
+[Microsoft .NET Framework 3.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b8cb7a04-f913-47cc-96c1-27fb7154a791&displaylang=ko)  
 (KB2756919)  
 (심각도 없음<sup>[2]</sup>)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
 (KB2742595)  
 (중요)  
-[Microsoft .NET Framework 4.5](http://www.microsoft.com/downloads/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0&displaylang=ko)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0&displaylang=ko)  
 (KB2742613)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=4287381f-6f23-4a36-a7dc-f79c44bac124&displaylang=ko)  
+[Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=4287381f-6f23-4a36-a7dc-f79c44bac124&displaylang=ko)  
 (KB2778930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=098958e5-83cd-4ed2-b758-e970cef33325&displaylang=ko)  
+[Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=098958e5-83cd-4ed2-b758-e970cef33325&displaylang=ko)  
 (KB2785220)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d&displaylang=ko)  
+[Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d&displaylang=ko)  
 (KB2736416)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
 (KB2736428)  
 (중요)
 </td>
@@ -926,10 +926,10 @@ Windows Server 2008
 Windows Server 2008(32비트 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=3ce450f1-f71f-4d5d-bf1c-db4742522d18&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=3ce450f1-f71f-4d5d-bf1c-db4742522d18&displaylang=ko)  
 (KB2799329)  
 (보통)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=2d1266fc-f6b0-4062-9799-7b3721c2cf52&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=2d1266fc-f6b0-4062-9799-7b3721c2cf52&displaylang=ko)  
 (KB2799329)  
 (보통)
 </td>
@@ -937,45 +937,45 @@ Windows Server 2008(32비트 시스템용) 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b&displaylang=ko)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b&displaylang=ko)  
 (KB2758694)  
 (보통)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=e6439fef-e5e7-479b-8fc4-daacf3a39f3a&displaylang=ko)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=e6439fef-e5e7-479b-8fc4-daacf3a39f3a&displaylang=ko)  
 (KB2757638)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5&displaylang=ko)  
+[Microsoft .NET Framework 1.1 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5&displaylang=ko)  
 (KB2742597)  
 (중요)  
-[Microsoft .NET Framework 2.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=39406634-48ad-4ecf-a6be-f5a47885704b&displaylang=ko)  
+[Microsoft .NET Framework 2.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=39406634-48ad-4ecf-a6be-f5a47885704b&displaylang=ko)  
 (KB2742601)  
 (중요)  
-[Microsoft .NET Framework 3.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b8cb7a04-f913-47cc-96c1-27fb7154a791&displaylang=ko)  
+[Microsoft .NET Framework 3.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b8cb7a04-f913-47cc-96c1-27fb7154a791&displaylang=ko)  
 (KB2756919)  
 (심각도 없음<sup>[2]</sup>)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
 (KB2742595)  
 (중요)  
-[Microsoft .NET Framework 4.5](http://www.microsoft.com/downloads/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0&displaylang=ko)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0&displaylang=ko)  
 (KB2742613)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=c635ad51-4e15-461c-8927-a86d79f90b45&displaylang=ko)  
+[Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=c635ad51-4e15-461c-8927-a86d79f90b45&displaylang=ko)  
 (KB2778930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b3ed781e-b740-4153-aaf3-daafdeb91004&displaylang=ko)  
+[Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b3ed781e-b740-4153-aaf3-daafdeb91004&displaylang=ko)  
 (KB2785220)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d&displaylang=ko)  
+[Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d&displaylang=ko)  
 (KB2736416)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
 (KB2736428)  
 (중요)
 </td>
@@ -985,10 +985,10 @@ Windows Server 2008(32비트 시스템용) 서비스 팩 2
 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=0f87dd60-92c2-444c-a9ea-dfeb106c88fa&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=0f87dd60-92c2-444c-a9ea-dfeb106c88fa&displaylang=ko)  
 (KB2799329)  
 (보통)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=2f71f8e6-309c-4bea-abde-d91040c46611&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=2f71f8e6-309c-4bea-abde-d91040c46611&displaylang=ko)  
 (KB2799329)  
 (보통)
 </td>
@@ -996,48 +996,48 @@ Windows Server 2008(x64 기반 시스템용) 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=1511377b-0adc-455f-8caa-f3498832c735&displaylang=ko)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=1511377b-0adc-455f-8caa-f3498832c735&displaylang=ko)  
 (KB2757638)  
 (보통)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)  
 (KB2758694)  
 (보통)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=1511377b-0adc-455f-8caa-f3498832c735&displaylang=ko)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=1511377b-0adc-455f-8caa-f3498832c735&displaylang=ko)  
 (KB2757638)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5&displaylang=ko)  
+[Microsoft .NET Framework 1.1 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5&displaylang=ko)  
 (KB2742597)  
 (중요)  
-[Microsoft .NET Framework 2.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=39406634-48ad-4ecf-a6be-f5a47885704b&displaylang=ko)  
+[Microsoft .NET Framework 2.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=39406634-48ad-4ecf-a6be-f5a47885704b&displaylang=ko)  
 (KB2742601)  
 (중요)  
-[Microsoft .NET Framework 3.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b8cb7a04-f913-47cc-96c1-27fb7154a791&displaylang=ko)  
+[Microsoft .NET Framework 3.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b8cb7a04-f913-47cc-96c1-27fb7154a791&displaylang=ko)  
 (KB2756919)  
 (심각도 없음<sup>[2]</sup>)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
 (KB2742595)  
 (중요)  
-[Microsoft .NET Framework 4.5](http://www.microsoft.com/downloads/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0&displaylang=ko)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0&displaylang=ko)  
 (KB2742613)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=eff3a82e-f3db-4733-95aa-a68621e27068&displaylang=ko)  
+[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=eff3a82e-f3db-4733-95aa-a68621e27068&displaylang=ko)  
 (KB2778930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=4aa3e3a7-3ebc-4b47-ab62-c22243a4edcc&displaylang=ko)  
+[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=4aa3e3a7-3ebc-4b47-ab62-c22243a4edcc&displaylang=ko)  
 (KB2785220)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d&displaylang=ko)  
+[Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d&displaylang=ko)  
 (KB2736416)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
 (KB2736428)  
 (중요)
 </td>
@@ -1047,7 +1047,7 @@ Windows Server 2008(x64 기반 시스템용) 서비스 팩 2
 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=e47425e9-f53e-4e20-a7ec-b4c552bd66eb)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=e47425e9-f53e-4e20-a7ec-b4c552bd66eb)  
 (KB2799329)  
 (보통)
 </td>
@@ -1055,45 +1055,45 @@ Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=c11ec9cd-1a85-4514-a1b9-9da5cdd0926b)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=c11ec9cd-1a85-4514-a1b9-9da5cdd0926b)  
 (KB2757638)  
 (보통)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=4719776a-5ff0-491a-934e-99220d8ac3a3)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=4719776a-5ff0-491a-934e-99220d8ac3a3)  
 (KB2758694)  
 (보통)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=c11ec9cd-1a85-4514-a1b9-9da5cdd0926b)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=c11ec9cd-1a85-4514-a1b9-9da5cdd0926b)  
 (KB2757638)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5)  
+[Microsoft .NET Framework 1.1 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5)  
 (KB2742597)  
 (중요)  
-[Microsoft .NET Framework 2.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=39406634-48ad-4ecf-a6be-f5a47885704b)  
+[Microsoft .NET Framework 2.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=39406634-48ad-4ecf-a6be-f5a47885704b)  
 (KB2742601)  
 (중요)  
-[Microsoft .NET Framework 3.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b8cb7a04-f913-47cc-96c1-27fb7154a791)  
+[Microsoft .NET Framework 3.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b8cb7a04-f913-47cc-96c1-27fb7154a791)  
 (KB2756919)  
 (심각도 없음<sup>[2]</sup>)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
 (KB2742595)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=d949fde9-31e7-4553-a34c-b41625a8cdc8)  
+[Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=d949fde9-31e7-4553-a34c-b41625a8cdc8)  
 (KB2778930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=ab117984-c4cb-473b-8c20-2b0d0409d8d6)  
+[Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=ab117984-c4cb-473b-8c20-2b0d0409d8d6)  
 (KB2785220)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
+[Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
 (KB2736416)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
 (KB2736428)  
 (중요)
 </td>
@@ -1160,49 +1160,49 @@ Windows 7
 Windows 7(32비트 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=d20f50ed-89c3-48cb-a78d-a44470fa1285&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=d20f50ed-89c3-48cb-a78d-a44470fa1285&displaylang=ko)  
 (KB2799329)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=abbc3f31-e940-4750-acb6-5af477bc8390&displaylang=ko)  
+[Windows 7(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=abbc3f31-e940-4750-acb6-5af477bc8390&displaylang=ko)  
 (KB2769369)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b&displaylang=ko)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b&displaylang=ko)  
 (KB2758694)  
 (긴급)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=3a160fc4-1bf0-4db2-aa8d-6ba4f07d196b&displaylang=ko)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=3a160fc4-1bf0-4db2-aa8d-6ba4f07d196b&displaylang=ko)  
 (KB2757638)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=782fdaa7-7607-4617-97cc-516925e06d8a&displaylang=ko)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=782fdaa7-7607-4617-97cc-516925e06d8a&displaylang=ko)  
 (KB2742598)  
 (중요)  
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=b8d0c829-ccb8-41a6-86ec-a7afde21c127&displaylang=ko)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=b8d0c829-ccb8-41a6-86ec-a7afde21c127&displaylang=ko)  
 (KB2756920)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
 (KB2742595)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=057726d1-cdb4-4488-8cd8-822dabfc62a6&displaylang=ko)  
+[Windows 7(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=057726d1-cdb4-4488-8cd8-822dabfc62a6&displaylang=ko)  
 (KB2778930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=6120322b-7e04-4eeb-a9a4-11fe563a9f27&displaylang=ko)  
+[Windows 7(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=6120322b-7e04-4eeb-a9a4-11fe563a9f27&displaylang=ko)  
 (KB2785220)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=4c77925d-4326-483b-9d20-ad533d91c0f4&displaylang=ko)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=4c77925d-4326-483b-9d20-ad533d91c0f4&displaylang=ko)  
 (KB2736418)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
 (KB2736428)  
 (중요)
 </td>
@@ -1212,52 +1212,52 @@ Windows 7(32비트 시스템용)
 Windows 7(32비트 시스템용) 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=d20f50ed-89c3-48cb-a78d-a44470fa1285&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=d20f50ed-89c3-48cb-a78d-a44470fa1285&displaylang=ko)  
 (KB2799329)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=abbc3f31-e940-4750-acb6-5af477bc8390&displaylang=ko)  
+[Windows 7(32비트 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=abbc3f31-e940-4750-acb6-5af477bc8390&displaylang=ko)  
 (KB2769369)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b&displaylang=ko)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b&displaylang=ko)  
 (KB2758694)  
 (긴급)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=3a160fc4-1bf0-4db2-aa8d-6ba4f07d196b&displaylang=ko)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=3a160fc4-1bf0-4db2-aa8d-6ba4f07d196b&displaylang=ko)  
 (KB2757638)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=5b23d8db-12d3-4404-b089-0c808eec1bd0&displaylang=ko)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=5b23d8db-12d3-4404-b089-0c808eec1bd0&displaylang=ko)  
 (KB2742599)  
 (중요)  
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=a41722e4-4b94-4539-a80e-2714269f8ae3&displaylang=ko)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=a41722e4-4b94-4539-a80e-2714269f8ae3&displaylang=ko)  
 (KB2756921)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
 (KB2742595)  
 (중요)  
-[Microsoft .NET Framework 4.5](http://www.microsoft.com/downloads/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0&displaylang=ko)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0&displaylang=ko)  
 (KB2742613)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=057726d1-cdb4-4488-8cd8-822dabfc62a6&displaylang=ko)  
+[Windows 7(32비트 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=057726d1-cdb4-4488-8cd8-822dabfc62a6&displaylang=ko)  
 (KB2778930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=6120322b-7e04-4eeb-a9a4-11fe563a9f27&displaylang=ko)  
+[Windows 7(32비트 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=6120322b-7e04-4eeb-a9a4-11fe563a9f27&displaylang=ko)  
 (KB2785220)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=28f51d80-d87e-4a58-9ef2-d650dd84ad97&displaylang=ko)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=28f51d80-d87e-4a58-9ef2-d650dd84ad97&displaylang=ko)  
 (KB2736422)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
 (KB2736428)  
 (중요)
 </td>
@@ -1267,52 +1267,52 @@ Windows 7(32비트 시스템용) 서비스 팩 1
 Windows 7(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=c113b67f-42ca-4fea-ba45-aba6f94de154&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=c113b67f-42ca-4fea-ba45-aba6f94de154&displaylang=ko)  
 (KB2799329)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=1868c2ca-a184-494e-8eb3-82db45b08e32&displaylang=ko)  
+[Windows 7(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=1868c2ca-a184-494e-8eb3-82db45b08e32&displaylang=ko)  
 (KB2769369)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=4b442601-2808-4192-aa7d-b6476668cd23&displaylang=ko)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=4b442601-2808-4192-aa7d-b6476668cd23&displaylang=ko)  
 (KB2757638)  
 (긴급)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)  
 (KB2758694)  
 (긴급)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=4b442601-2808-4192-aa7d-b6476668cd23&displaylang=ko)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=4b442601-2808-4192-aa7d-b6476668cd23&displaylang=ko)  
 (KB2757638)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=782fdaa7-7607-4617-97cc-516925e06d8a&displaylang=ko)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=782fdaa7-7607-4617-97cc-516925e06d8a&displaylang=ko)  
 (KB2742598)  
 (중요)  
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=b8d0c829-ccb8-41a6-86ec-a7afde21c127&displaylang=ko)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=b8d0c829-ccb8-41a6-86ec-a7afde21c127&displaylang=ko)  
 (KB2756920)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
 (KB2742595)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=64249562-1fc3-436d-a9e1-4c9378b632d7&displaylang=ko)  
+[Windows 7(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=64249562-1fc3-436d-a9e1-4c9378b632d7&displaylang=ko)  
 (KB2778930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=c9e2a55e-170f-4fe1-a306-eda676fd0fdb&displaylang=ko)  
+[Windows 7(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=c9e2a55e-170f-4fe1-a306-eda676fd0fdb&displaylang=ko)  
 (KB2785220)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=4c77925d-4326-483b-9d20-ad533d91c0f4&displaylang=ko)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=4c77925d-4326-483b-9d20-ad533d91c0f4&displaylang=ko)  
 (KB2736418)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
 (KB2736428)  
 (중요)
 </td>
@@ -1322,55 +1322,55 @@ Windows 7(x64 기반 시스템용)
 Windows 7(x64 기반 시스템용) 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=c113b67f-42ca-4fea-ba45-aba6f94de154&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=c113b67f-42ca-4fea-ba45-aba6f94de154&displaylang=ko)  
 (KB2799329)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=1868c2ca-a184-494e-8eb3-82db45b08e32&displaylang=ko)  
+[Windows 7(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=1868c2ca-a184-494e-8eb3-82db45b08e32&displaylang=ko)  
 (KB2769369)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=4b442601-2808-4192-aa7d-b6476668cd23&displaylang=ko)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=4b442601-2808-4192-aa7d-b6476668cd23&displaylang=ko)  
 (KB2757638)  
 (긴급)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)  
 (KB2758694)  
 (긴급)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=4b442601-2808-4192-aa7d-b6476668cd23&displaylang=ko)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=4b442601-2808-4192-aa7d-b6476668cd23&displaylang=ko)  
 (KB2757638)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=5b23d8db-12d3-4404-b089-0c808eec1bd0&displaylang=ko)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=5b23d8db-12d3-4404-b089-0c808eec1bd0&displaylang=ko)  
 (KB2742599)  
 (중요)  
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=a41722e4-4b94-4539-a80e-2714269f8ae3&displaylang=ko)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=a41722e4-4b94-4539-a80e-2714269f8ae3&displaylang=ko)  
 (KB2756921)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
 (KB2742595)  
 (중요)  
-[Microsoft .NET Framework 4.5](http://www.microsoft.com/downloads/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0&displaylang=ko)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0&displaylang=ko)  
 (KB2742613)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=64249562-1fc3-436d-a9e1-4c9378b632d7&displaylang=ko)  
+[Windows 7(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=64249562-1fc3-436d-a9e1-4c9378b632d7&displaylang=ko)  
 (KB2778930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=c9e2a55e-170f-4fe1-a306-eda676fd0fdb&displaylang=ko)  
+[Windows 7(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=c9e2a55e-170f-4fe1-a306-eda676fd0fdb&displaylang=ko)  
 (KB2785220)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=28f51d80-d87e-4a58-9ef2-d650dd84ad97&displaylang=ko)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=28f51d80-d87e-4a58-9ef2-d650dd84ad97&displaylang=ko)  
 (KB2736422)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
 (KB2736428)  
 (중요)
 </td>
@@ -1437,52 +1437,52 @@ Windows Server 2008 R2
 Windows Server 2008 R2(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=d2fffc43-a88f-4fe5-9b24-5677258011b8&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=d2fffc43-a88f-4fe5-9b24-5677258011b8&displaylang=ko)  
 (KB2799329)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=8de63e96-2822-4e62-af54-bd8d4c6d5c19&displaylang=ko)  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=8de63e96-2822-4e62-af54-bd8d4c6d5c19&displaylang=ko)  
 (KB2769369)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3&displaylang=ko)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3&displaylang=ko)  
 (KB2757638)  
 (보통)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)  
 (KB2758694)  
 (보통)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3&displaylang=ko)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3&displaylang=ko)  
 (KB2757638)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=782fdaa7-7607-4617-97cc-516925e06d8a&displaylang=ko)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=782fdaa7-7607-4617-97cc-516925e06d8a&displaylang=ko)  
 (KB2742598)  
 (중요)  
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=b8d0c829-ccb8-41a6-86ec-a7afde21c127&displaylang=ko)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=b8d0c829-ccb8-41a6-86ec-a7afde21c127&displaylang=ko)  
 (KB2756920)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
 (KB2742595)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=934a2e78-c88b-4d06-9b8f-1d0b612f3fd5&displaylang=ko)  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=934a2e78-c88b-4d06-9b8f-1d0b612f3fd5&displaylang=ko)  
 (KB2778930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=7fd8a313-9ee3-4665-b8ba-b129994aae1e&displaylang=ko)  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=7fd8a313-9ee3-4665-b8ba-b129994aae1e&displaylang=ko)  
 (KB2785220)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=4c77925d-4326-483b-9d20-ad533d91c0f4&displaylang=ko)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=4c77925d-4326-483b-9d20-ad533d91c0f4&displaylang=ko)  
 (KB2736418)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
 (KB2736428)  
 (중요)
 </td>
@@ -1492,55 +1492,55 @@ Windows Server 2008 R2(x64 기반 시스템용)
 Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=d2fffc43-a88f-4fe5-9b24-5677258011b8&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=d2fffc43-a88f-4fe5-9b24-5677258011b8&displaylang=ko)  
 (KB2799329)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=8de63e96-2822-4e62-af54-bd8d4c6d5c19&displaylang=ko)  
+[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=8de63e96-2822-4e62-af54-bd8d4c6d5c19&displaylang=ko)  
 (KB2769369)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3&displaylang=ko)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3&displaylang=ko)  
 (KB2757638)  
 (보통)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)  
 (KB2758694)  
 (보통)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3&displaylang=ko)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3&displaylang=ko)  
 (KB2757638)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=5b23d8db-12d3-4404-b089-0c808eec1bd0&displaylang=ko)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=5b23d8db-12d3-4404-b089-0c808eec1bd0&displaylang=ko)  
 (KB2742599)  
 (중요)  
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=a41722e4-4b94-4539-a80e-2714269f8ae3&displaylang=ko)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=a41722e4-4b94-4539-a80e-2714269f8ae3&displaylang=ko)  
 (KB2756921)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>
 (KB2742595)  
 (중요)  
-[Microsoft .NET Framework 4.5](http://www.microsoft.com/downloads/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0&displaylang=ko)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0&displaylang=ko)  
 (KB2742613)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=934a2e78-c88b-4d06-9b8f-1d0b612f3fd5&displaylang=ko)  
+[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=934a2e78-c88b-4d06-9b8f-1d0b612f3fd5&displaylang=ko)  
 (KB2778930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=7fd8a313-9ee3-4665-b8ba-b129994aae1e&displaylang=ko)  
+[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=7fd8a313-9ee3-4665-b8ba-b129994aae1e&displaylang=ko)  
 (KB2785220)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=28f51d80-d87e-4a58-9ef2-d650dd84ad97&displaylang=ko)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=28f51d80-d87e-4a58-9ef2-d650dd84ad97&displaylang=ko)  
 (KB2736422)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>
 (KB2736428)  
 (중요)
 </td>
@@ -1550,52 +1550,52 @@ Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1
 Windows Server 2008 R2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=fbcee22b-9801-4c9e-ba0c-eb4a54526d38)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=fbcee22b-9801-4c9e-ba0c-eb4a54526d38)  
 (KB2799329)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=18070321-8635-4c2e-b9f9-0fc58c924136)  
+[Windows Server 2008 R2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=18070321-8635-4c2e-b9f9-0fc58c924136)  
 (KB2769369)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=e4dfbf88-0e7f-43ca-affe-5d8ddea8657e)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=e4dfbf88-0e7f-43ca-affe-5d8ddea8657e)  
 (KB2757638)  
 (보통)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=4719776a-5ff0-491a-934e-99220d8ac3a3)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=4719776a-5ff0-491a-934e-99220d8ac3a3)  
 (KB2758694)  
 (보통)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=e4dfbf88-0e7f-43ca-affe-5d8ddea8657e)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=e4dfbf88-0e7f-43ca-affe-5d8ddea8657e)  
 (KB2757638)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=782fdaa7-7607-4617-97cc-516925e06d8a)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=782fdaa7-7607-4617-97cc-516925e06d8a)  
 (KB2742598)  
 (중요)  
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=b8d0c829-ccb8-41a6-86ec-a7afde21c127)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=b8d0c829-ccb8-41a6-86ec-a7afde21c127)  
 (KB2756920)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
 (KB2742595)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=12917b84-1f91-4c19-9197-a7d1e7adcdfc)  
+[Windows Server 2008 R2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=12917b84-1f91-4c19-9197-a7d1e7adcdfc)  
 (KB2778930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=86e5b2fc-f530-4259-af90-259b64fcdd73)  
+[Windows Server 2008 R2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=86e5b2fc-f530-4259-af90-259b64fcdd73)  
 (KB2785220)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=4c77925d-4326-483b-9d20-ad533d91c0f4)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=4c77925d-4326-483b-9d20-ad533d91c0f4)  
 (KB2736418)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
 (KB2736428)  
 (중요)
 </td>
@@ -1605,52 +1605,52 @@ Windows Server 2008 R2(Itanium 기반 시스템용)
 Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=fbcee22b-9801-4c9e-ba0c-eb4a54526d38)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=fbcee22b-9801-4c9e-ba0c-eb4a54526d38)  
 (KB2799329)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=18070321-8635-4c2e-b9f9-0fc58c924136)  
+[Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=18070321-8635-4c2e-b9f9-0fc58c924136)  
 (KB2769369)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=e4dfbf88-0e7f-43ca-affe-5d8ddea8657e)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=e4dfbf88-0e7f-43ca-affe-5d8ddea8657e)  
 (KB2757638)  
 (보통)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=4719776a-5ff0-491a-934e-99220d8ac3a3)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=4719776a-5ff0-491a-934e-99220d8ac3a3)  
 (KB2758694)  
 (보통)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=e4dfbf88-0e7f-43ca-affe-5d8ddea8657e)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=e4dfbf88-0e7f-43ca-affe-5d8ddea8657e)  
 (KB2757638)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=5b23d8db-12d3-4404-b089-0c808eec1bd0)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=5b23d8db-12d3-4404-b089-0c808eec1bd0)  
 (KB2742599)  
 (중요)  
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=a41722e4-4b94-4539-a80e-2714269f8ae3)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=a41722e4-4b94-4539-a80e-2714269f8ae3)  
 (KB2756921)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
 (KB2742595)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=12917b84-1f91-4c19-9197-a7d1e7adcdfc)  
+[Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=12917b84-1f91-4c19-9197-a7d1e7adcdfc)  
 (KB2778930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=86e5b2fc-f530-4259-af90-259b64fcdd73)  
+[Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=86e5b2fc-f530-4259-af90-259b64fcdd73)  
 (KB2785220)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=28f51d80-d87e-4a58-9ef2-d650dd84ad97)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=28f51d80-d87e-4a58-9ef2-d650dd84ad97)  
 (KB2736422)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
 (KB2736428)  
 (중요)
 </td>
@@ -1723,36 +1723,36 @@ Windows 8(32비트 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b&displaylang=ko)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b&displaylang=ko)  
 (KB2758694)  
 (긴급)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=e19d1373-a3f3-4f60-9142-c2484726aac8&displaylang=ko)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=e19d1373-a3f3-4f60-9142-c2484726aac8&displaylang=ko)  
 (KB2757638)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=e1251343-b585-4feb-8465-7e775ae47998&displaylang=ko)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=e1251343-b585-4feb-8465-7e775ae47998&displaylang=ko)  
 (KB2742616)  
 (중요)  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=43bbbc5a-e175-467a-9302-810a2a09eb7e&displaylang=ko)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=43bbbc5a-e175-467a-9302-810a2a09eb7e&displaylang=ko)  
 (KB2756923)  
 (중요)  
-[Microsoft .NET Framework 4.5](http://www.microsoft.com/downloads/details.aspx?familyid=f21e2bdd-b158-45d5-a6cf-a8f32f099a7a&displaylang=ko)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/details.aspx?familyid=f21e2bdd-b158-45d5-a6cf-a8f32f099a7a&displaylang=ko)  
 (KB2742614)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 8(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=1f5441f1-a66d-42c0-bf0e-2f6867d4d43a&displaylang=ko)  
+[Windows 8(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=1f5441f1-a66d-42c0-bf0e-2f6867d4d43a&displaylang=ko)  
 (KB2778930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 8(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=9f40864f-5347-44ef-bb08-afea45b5351b&displaylang=ko)  
+[Windows 8(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=9f40864f-5347-44ef-bb08-afea45b5351b&displaylang=ko)  
 (KB2785220)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=b0bbe58b-cb41-4b52-9dd2-b8b4bc0076eb&displaylang=ko)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=b0bbe58b-cb41-4b52-9dd2-b8b4bc0076eb&displaylang=ko)  
 (KB2736693)  
 (중요)
 </td>
@@ -1768,39 +1768,39 @@ Windows 8(64비트 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=c669190d-964c-42d3-b09d-40a397ae3a9c&displaylang=ko)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=c669190d-964c-42d3-b09d-40a397ae3a9c&displaylang=ko)  
 (KB2757638)  
 (긴급)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)  
 (KB2758694)  
 (긴급)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=c669190d-964c-42d3-b09d-40a397ae3a9c&displaylang=ko)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=c669190d-964c-42d3-b09d-40a397ae3a9c&displaylang=ko)  
 (KB2757638)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=e1251343-b585-4feb-8465-7e775ae47998&displaylang=ko)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=e1251343-b585-4feb-8465-7e775ae47998&displaylang=ko)  
 (KB2742616)  
 (중요)  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=43bbbc5a-e175-467a-9302-810a2a09eb7e&displaylang=ko)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=43bbbc5a-e175-467a-9302-810a2a09eb7e&displaylang=ko)  
 (KB2756923)  
 (중요)  
-[Microsoft .NET Framework 4.5](http://www.microsoft.com/downloads/details.aspx?familyid=f21e2bdd-b158-45d5-a6cf-a8f32f099a7a&displaylang=ko)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/details.aspx?familyid=f21e2bdd-b158-45d5-a6cf-a8f32f099a7a&displaylang=ko)  
 (KB2742614)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 8(64비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=9d71dc77-9c01-4a1f-b403-8a18ca10979d&displaylang=ko)  
+[Windows 8(64비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=9d71dc77-9c01-4a1f-b403-8a18ca10979d&displaylang=ko)  
 (KB2778930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 8(64비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=1b40baad-784a-4eba-a4ef-703250248057&displaylang=ko)  
+[Windows 8(64비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=1b40baad-784a-4eba-a4ef-703250248057&displaylang=ko)  
 (KB2785220)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=b0bbe58b-cb41-4b52-9dd2-b8b4bc0076eb&displaylang=ko)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=b0bbe58b-cb41-4b52-9dd2-b8b4bc0076eb&displaylang=ko)  
 (KB2736693)  
 (중요)
 </td>
@@ -1873,42 +1873,42 @@ Windows Server 2012
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=f7e434e5-1ce8-4754-b9b4-07f3d84e0528&displaylang=ko)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=f7e434e5-1ce8-4754-b9b4-07f3d84e0528&displaylang=ko)  
 (KB2757638)  
 (보통)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)  
 (KB2758694)  
 (보통)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=f7e434e5-1ce8-4754-b9b4-07f3d84e0528&displaylang=ko)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=f7e434e5-1ce8-4754-b9b4-07f3d84e0528&displaylang=ko)  
 (KB2757638)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=e1251343-b585-4feb-8465-7e775ae47998&displaylang=ko)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=e1251343-b585-4feb-8465-7e775ae47998&displaylang=ko)  
 (KB2742616)  
 (중요)  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=43bbbc5a-e175-467a-9302-810a2a09eb7e&displaylang=ko)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=43bbbc5a-e175-467a-9302-810a2a09eb7e&displaylang=ko)  
 (KB2756923)  
 (중요)  
-[Microsoft .NET Framework 4.5](http://www.microsoft.com/downloads/details.aspx?familyid=f21e2bdd-b158-45d5-a6cf-a8f32f099a7a&displaylang=ko)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/details.aspx?familyid=f21e2bdd-b158-45d5-a6cf-a8f32f099a7a&displaylang=ko)  
 (KB2742614)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2012](http://www.microsoft.com/downloads/details.aspx?familyid=2ad7872c-a387-41a1-8606-732a6ff0701d&displaylang=ko)  
+[Windows Server 2012](https://www.microsoft.com/download/details.aspx?familyid=2ad7872c-a387-41a1-8606-732a6ff0701d&displaylang=ko)  
 (KB2778930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2012](http://www.microsoft.com/downloads/details.aspx?familyid=4f0b9fb1-f1c4-4773-a956-94c8983c008a&displaylang=ko)  
+[Windows Server 2012](https://www.microsoft.com/download/details.aspx?familyid=4f0b9fb1-f1c4-4773-a956-94c8983c008a&displaylang=ko)  
 (KB2785220)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=b0bbe58b-cb41-4b52-9dd2-b8b4bc0076eb&displaylang=ko)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=b0bbe58b-cb41-4b52-9dd2-b8b4bc0076eb&displaylang=ko)  
 (KB2736693)  
 (중요)  
-[관리 OData IIS 확장](http://www.microsoft.com/downloads/details.aspx?familyid=77b6fb5f-10b8-4bc2-a5c3-97055c92acf1&displaylang=ko)  
+[관리 OData IIS 확장](https://www.microsoft.com/download/details.aspx?familyid=77b6fb5f-10b8-4bc2-a5c3-97055c92acf1&displaylang=ko)  
 (KB2753596)  
 (중요)
 </td>
@@ -2075,10 +2075,10 @@ Windows Server 2008(32비트 시스템용) 서비스 팩 2(Server Core 설치)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b&displaylang=ko)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b&displaylang=ko)  
 (KB2758694)  
 (보통)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=e6439fef-e5e7-479b-8fc4-daacf3a39f3a&displaylang=ko)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=e6439fef-e5e7-479b-8fc4-daacf3a39f3a&displaylang=ko)  
 (KB2757638)  
 (보통)
 </td>
@@ -2086,12 +2086,12 @@ Windows Server 2008(32비트 시스템용) 서비스 팩 2(Server Core 설치)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=c635ad51-4e15-461c-8927-a86d79f90b45&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=c635ad51-4e15-461c-8927-a86d79f90b45&displaylang=ko)(Server Core 설치)  
 (KB2778930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b3ed781e-b740-4153-aaf3-daafdeb91004&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b3ed781e-b740-4153-aaf3-daafdeb91004&displaylang=ko)(Server Core 설치)  
 (KB2785220)  
 (중요)
 </td>
@@ -2110,13 +2110,13 @@ Windows Server 2008(x64 기반 시스템용) 서비스 팩 2(Server Core 설치)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=1511377b-0adc-455f-8caa-f3498832c735&displaylang=ko)(Server Core 설치)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=1511377b-0adc-455f-8caa-f3498832c735&displaylang=ko)(Server Core 설치)  
 (KB2757638)  
 (보통)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)(Server Core 설치)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)(Server Core 설치)  
 (KB2758694)  
 (보통)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=1511377b-0adc-455f-8caa-f3498832c735&displaylang=ko)(Server Core 설치)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=1511377b-0adc-455f-8caa-f3498832c735&displaylang=ko)(Server Core 설치)  
 (KB2757638)  
 (보통)
 </td>
@@ -2124,12 +2124,12 @@ Windows Server 2008(x64 기반 시스템용) 서비스 팩 2(Server Core 설치)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=eff3a82e-f3db-4733-95aa-a68621e27068&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=eff3a82e-f3db-4733-95aa-a68621e27068&displaylang=ko)(Server Core 설치)  
 (KB2778930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=4aa3e3a7-3ebc-4b47-ab62-c22243a4edcc&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=4aa3e3a7-3ebc-4b47-ab62-c22243a4edcc&displaylang=ko)(Server Core 설치)  
 (KB2785220)  
 (중요)
 </td>
@@ -2145,41 +2145,41 @@ Windows Server 2008 R2(x64 기반 시스템용)(Server Core 설치)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=8de63e96-2822-4e62-af54-bd8d4c6d5c19&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=8de63e96-2822-4e62-af54-bd8d4c6d5c19&displaylang=ko)(Server Core 설치)  
 (KB2769369)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3&displaylang=ko)(Server Core 설치)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3&displaylang=ko)(Server Core 설치)  
 (KB2757638)  
 (보통)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)(Server Core 설치)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)(Server Core 설치)  
 (KB2758694)  
 (보통)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3&displaylang=ko)(Server Core 설치)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3&displaylang=ko)(Server Core 설치)  
 (KB2757638)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=782fdaa7-7607-4617-97cc-516925e06d8a&displaylang=ko)(Server Core 설치)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=782fdaa7-7607-4617-97cc-516925e06d8a&displaylang=ko)(Server Core 설치)  
 (KB2742598)  
 (중요)  
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=b8d0c829-ccb8-41a6-86ec-a7afde21c127&displaylang=ko)(Server Core 설치)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=b8d0c829-ccb8-41a6-86ec-a7afde21c127&displaylang=ko)(Server Core 설치)  
 (KB2756920)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=934a2e78-c88b-4d06-9b8f-1d0b612f3fd5&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=934a2e78-c88b-4d06-9b8f-1d0b612f3fd5&displaylang=ko)(Server Core 설치)  
 (KB2778930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=7fd8a313-9ee3-4665-b8ba-b129994aae1e&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=7fd8a313-9ee3-4665-b8ba-b129994aae1e&displaylang=ko)(Server Core 설치)  
 (KB2785220)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=4c77925d-4326-483b-9d20-ad533d91c0f4&displaylang=ko)(Server Core 설치)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=4c77925d-4326-483b-9d20-ad533d91c0f4&displaylang=ko)(Server Core 설치)  
 (KB2736418)  
 (중요)
 </td>
@@ -2192,50 +2192,50 @@ Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1(Server Core 설�
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=8de63e96-2822-4e62-af54-bd8d4c6d5c19&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=8de63e96-2822-4e62-af54-bd8d4c6d5c19&displaylang=ko)(Server Core 설치)  
 (KB2769369)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3&displaylang=ko)(Server Core 설치)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3&displaylang=ko)(Server Core 설치)  
 (KB2757638)  
 (보통)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)(Server Core 설치)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)(Server Core 설치)  
 (KB2758694)  
 (보통)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3&displaylang=ko)(Server Core 설치)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3&displaylang=ko)(Server Core 설치)  
 (KB2757638)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=5b23d8db-12d3-4404-b089-0c808eec1bd0&displaylang=ko)(Server Core 설치)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=5b23d8db-12d3-4404-b089-0c808eec1bd0&displaylang=ko)(Server Core 설치)  
 (KB2742599)  
 (중요)  
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=a41722e4-4b94-4539-a80e-2714269f8ae3&displaylang=ko)(Server Core 설치)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=a41722e4-4b94-4539-a80e-2714269f8ae3&displaylang=ko)(Server Core 설치)  
 (KB2756921)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>(Server Core 설치)  
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5&displaylang=ko)<sup>[1]</sup>(Server Core 설치)  
 (KB2742595)  
 (중요)  
-[Microsoft .NET Framework 4.5](http://www.microsoft.com/downloads/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0&displaylang=ko)(Server Core 설치)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0&displaylang=ko)(Server Core 설치)  
 (KB2742613)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=934a2e78-c88b-4d06-9b8f-1d0b612f3fd5&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=934a2e78-c88b-4d06-9b8f-1d0b612f3fd5&displaylang=ko)(Server Core 설치)  
 (KB2778930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=7fd8a313-9ee3-4665-b8ba-b129994aae1e&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=7fd8a313-9ee3-4665-b8ba-b129994aae1e&displaylang=ko)(Server Core 설치)  
 (KB2785220)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=28f51d80-d87e-4a58-9ef2-d650dd84ad97&displaylang=ko)(Server Core 설치)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=28f51d80-d87e-4a58-9ef2-d650dd84ad97&displaylang=ko)(Server Core 설치)  
 (KB2736422)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>(Server Core 설치)  
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7&displaylang=ko)<sup>[1]</sup>(Server Core 설치)  
 (KB2736428)  
 (중요)
 </td>
@@ -2251,42 +2251,42 @@ Windows Server 2012(Server Core 설치)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=f7e434e5-1ce8-4754-b9b4-07f3d84e0528&displaylang=ko)(Server Core 설치)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=f7e434e5-1ce8-4754-b9b4-07f3d84e0528&displaylang=ko)(Server Core 설치)  
 (KB2757638)  
 (보통)  
-[Microsoft XML Core Services 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)(Server Core 설치)  
+[Microsoft XML Core Services 4.0](https://www.microsoft.com/download/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04&displaylang=ko)(Server Core 설치)  
 (KB2758694)  
 (보통)  
-[Microsoft XML Core Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=f7e434e5-1ce8-4754-b9b4-07f3d84e0528&displaylang=ko)(Server Core 설치)  
+[Microsoft XML Core Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=f7e434e5-1ce8-4754-b9b4-07f3d84e0528&displaylang=ko)(Server Core 설치)  
 (KB2757638)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=e1251343-b585-4feb-8465-7e775ae47998&displaylang=ko)(Server Core 설치)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=e1251343-b585-4feb-8465-7e775ae47998&displaylang=ko)(Server Core 설치)  
 (KB2742616)  
 (중요)  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=43bbbc5a-e175-467a-9302-810a2a09eb7e&displaylang=ko)(Server Core 설치)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=43bbbc5a-e175-467a-9302-810a2a09eb7e&displaylang=ko)(Server Core 설치)  
 (KB2756923)  
 (중요)  
-[Microsoft .NET Framework 4.5](http://www.microsoft.com/downloads/details.aspx?familyid=f21e2bdd-b158-45d5-a6cf-a8f32f099a7a&displaylang=ko)(Server Core 설치)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/details.aspx?familyid=f21e2bdd-b158-45d5-a6cf-a8f32f099a7a&displaylang=ko)(Server Core 설치)  
 (KB2742614)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2012](http://www.microsoft.com/downloads/details.aspx?familyid=2ad7872c-a387-41a1-8606-732a6ff0701d&displaylang=ko)(Server Core 설치)  
+[Windows Server 2012](https://www.microsoft.com/download/details.aspx?familyid=2ad7872c-a387-41a1-8606-732a6ff0701d&displaylang=ko)(Server Core 설치)  
 (KB2778930)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2012](http://www.microsoft.com/downloads/details.aspx?familyid=4f0b9fb1-f1c4-4773-a956-94c8983c008a&displaylang=ko)(Server Core 설치)  
+[Windows Server 2012](https://www.microsoft.com/download/details.aspx?familyid=4f0b9fb1-f1c4-4773-a956-94c8983c008a&displaylang=ko)(Server Core 설치)  
 (KB2785220)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=b0bbe58b-cb41-4b52-9dd2-b8b4bc0076eb&displaylang=ko)(Server Core 설치)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=b0bbe58b-cb41-4b52-9dd2-b8b4bc0076eb&displaylang=ko)(Server Core 설치)  
 (KB2736693)  
 (중요)  
-[관리 OData IIS 확장](http://www.microsoft.com/downloads/details.aspx?familyid=77b6fb5f-10b8-4bc2-a5c3-97055c92acf1&displaylang=ko)(Server Core 설치)  
+[관리 OData IIS 확장](https://www.microsoft.com/download/details.aspx?familyid=77b6fb5f-10b8-4bc2-a5c3-97055c92acf1&displaylang=ko)(Server Core 설치)  
 (KB2753596)  
 (중요)
 </td>
@@ -2349,7 +2349,7 @@ Microsoft Office 제품군 및 구성 요소
 Microsoft Office 2003 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=d108d56c-f9fb-4823-b38e-3d2f838592de&displaylang=ko)  
+[Microsoft XML Core Services 5.0](https://www.microsoft.com/download/details.aspx?familyid=d108d56c-f9fb-4823-b38e-3d2f838592de&displaylang=ko)  
 (KB2760574)  
 (긴급)
 </td>
@@ -2359,7 +2359,7 @@ Microsoft Office 2003 서비스 팩 3
 Microsoft Office 2007 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11&displaylang=ko)  
+[Microsoft XML Core Services 5.0](https://www.microsoft.com/download/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11&displaylang=ko)  
 (KB2687499)  
 (긴급)
 </td>
@@ -2369,7 +2369,7 @@ Microsoft Office 2007 서비스 팩 2
 Microsoft Office 2007 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11&displaylang=ko)  
+[Microsoft XML Core Services 5.0](https://www.microsoft.com/download/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11&displaylang=ko)  
 (KB2687499)  
 (긴급)
 </td>
@@ -2400,7 +2400,7 @@ Microsoft Office 2007 서비스 팩 3
 Microsoft Word Viewer
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11&displaylang=ko)  
+[Microsoft XML Core Services 5.0](https://www.microsoft.com/download/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11&displaylang=ko)  
 (KB2687499)  
 (긴급)
 </td>
@@ -2410,7 +2410,7 @@ Microsoft Word Viewer
 Microsoft Office 호환 기능 팩 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11&displaylang=ko)  
+[Microsoft XML Core Services 5.0](https://www.microsoft.com/download/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11&displaylang=ko)  
 (KB2687499)  
 (긴급)
 </td>
@@ -2420,7 +2420,7 @@ Microsoft Office 호환 기능 팩 서비스 팩 2
 Microsoft Office 호환 기능 팩 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11&displaylang=ko)  
+[Microsoft XML Core Services 5.0](https://www.microsoft.com/download/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11&displaylang=ko)  
 (KB2687499)  
 (긴급)
 </td>
@@ -2461,7 +2461,7 @@ Microsoft Visual Studio Team Foundation Server
 Microsoft Expression Web 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11&displaylang=ko)  
+[Microsoft XML Core Services 5.0](https://www.microsoft.com/download/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11&displaylang=ko)  
 (KB2687499)  
 (긴급)
 </td>
@@ -2471,7 +2471,7 @@ Microsoft Expression Web 서비스 팩 1
 Microsoft Expression Web 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11&displaylang=ko)  
+[Microsoft XML Core Services 5.0](https://www.microsoft.com/download/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11&displaylang=ko)  
 (KB2687499)  
 (긴급)
 </td>
@@ -2518,7 +2518,7 @@ Microsoft SharePoint Server
 Microsoft SharePoint Server 2007 서비스 팩 2(32비트 에디션)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=31e1e6cc-9617-416b-8c91-5c026502d5f6&displaylang=ko)  
+[Microsoft XML Core Services 5.0](https://www.microsoft.com/download/details.aspx?familyid=31e1e6cc-9617-416b-8c91-5c026502d5f6&displaylang=ko)  
 (KB2687497)  
 (긴급)
 </td>
@@ -2531,7 +2531,7 @@ Microsoft SharePoint Server 2007 서비스 팩 2(32비트 에디션)
 Microsoft SharePoint Server 2007 서비스 팩 2(64비트 에디션)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=fb21c3f8-b3fd-42f2-9c34-e5fbd8cad689&displaylang=ko)  
+[Microsoft XML Core Services 5.0](https://www.microsoft.com/download/details.aspx?familyid=fb21c3f8-b3fd-42f2-9c34-e5fbd8cad689&displaylang=ko)  
 (KB2687497)  
 (긴급)
 </td>
@@ -2544,7 +2544,7 @@ Microsoft SharePoint Server 2007 서비스 팩 2(64비트 에디션)
 Microsoft SharePoint Server 2007 서비스 팩 3(32비트 에디션)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=31e1e6cc-9617-416b-8c91-5c026502d5f6&displaylang=ko)  
+[Microsoft XML Core Services 5.0](https://www.microsoft.com/download/details.aspx?familyid=31e1e6cc-9617-416b-8c91-5c026502d5f6&displaylang=ko)  
 (KB2687497)  
 (긴급)
 </td>
@@ -2557,7 +2557,7 @@ Microsoft SharePoint Server 2007 서비스 팩 3(32비트 에디션)
 Microsoft SharePoint Server 2007 서비스 팩 3(64비트 에디션)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=fb21c3f8-b3fd-42f2-9c34-e5fbd8cad689&displaylang=ko)  
+[Microsoft XML Core Services 5.0](https://www.microsoft.com/download/details.aspx?familyid=fb21c3f8-b3fd-42f2-9c34-e5fbd8cad689&displaylang=ko)  
 (KB2687497)  
 (긴급)
 </td>
@@ -2597,7 +2597,7 @@ Microsoft Groove Server
 Microsoft Groove Server 2007 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=fb21c3f8-b3fd-42f2-9c34-e5fbd8cad689&displaylang=ko)  
+[Microsoft XML Core Services 5.0](https://www.microsoft.com/download/details.aspx?familyid=fb21c3f8-b3fd-42f2-9c34-e5fbd8cad689&displaylang=ko)  
 (KB2687497)  
 (긴급)
 </td>
@@ -2610,7 +2610,7 @@ Microsoft Groove Server 2007 서비스 팩 2
 Microsoft Groove Server 2007 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=fb21c3f8-b3fd-42f2-9c34-e5fbd8cad689&displaylang=ko)  
+[Microsoft XML Core Services 5.0](https://www.microsoft.com/download/details.aspx?familyid=fb21c3f8-b3fd-42f2-9c34-e5fbd8cad689&displaylang=ko)  
 (KB2687497)  
 (긴급)
 </td>
@@ -2653,7 +2653,7 @@ Microsoft System Center Operations Manager 2007 서비스 팩 1
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft System Center Operations Manager 2007 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=f848d74d-fdae-4a19-a0f5-12d2d4389db9&displaylang=ko)<sup>[1]</sup>
+[Microsoft System Center Operations Manager 2007 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=f848d74d-fdae-4a19-a0f5-12d2d4389db9&displaylang=ko)<sup>[1]</sup>
 (KB2809182)  
 (중요)
 </td>
@@ -2666,7 +2666,7 @@ Microsoft System Center Operations Manager 2007 R2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft System Center Operations Manager 2007 R2](http://www.microsoft.com/downloads/details.aspx?familyid=4e1ab3bd-af0c-41f8-8ebc-1cdc68a3ee37&displaylang=ko)<sup>[1]</sup><sup>[2]</sup>
+[Microsoft System Center Operations Manager 2007 R2](https://www.microsoft.com/download/details.aspx?familyid=4e1ab3bd-af0c-41f8-8ebc-1cdc68a3ee37&displaylang=ko)<sup>[1]</sup><sup>[2]</sup>
 (KB2783850)  
 (중요)
 </td>
@@ -2723,13 +2723,13 @@ Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 
 
 참고 System Management Server 2003은 2010년 1월 12일자로 메인스트림 지원이 종료되었습니다. 제품 지원 기간에 대한 자세한 내용을 보려면 [Microsoft 지원 기간](http://go.microsoft.com/fwlink/?linkid=21742) 웹 사이트를 참조하십시오. SMS의 차기 릴리스인 System Center Configuration Manager를 지금 사용할 수 있습니다(이전 섹션의 System Center Configuration Manager 참조).
 
-관리자가 SMS 2003을 사용하여 보안 업데이트를 배포하는 방법에 대한 자세한 내용은 [Microsoft Systems Management Server 2003의 시나리오 및 절차: 소프트웨어 배포 및 패치 관리](http://www.microsoft.com/downloads/details.aspx?familyid=32f2bb4c-42f8-4b8d-844f-2553fd78049f)를 참조하십시오. SMS에 대한 자세한 내용을 보려면 [Microsoft Systems Management Server TechCenter](http://technet.microsoft.com/systemcenter/bb545936)를 방문하십시오.
+관리자가 SMS 2003을 사용하여 보안 업데이트를 배포하는 방법에 대한 자세한 내용은 [Microsoft Systems Management Server 2003의 시나리오 및 절차: 소프트웨어 배포 및 패치 관리](https://www.microsoft.com/download/details.aspx?familyid=32f2bb4c-42f8-4b8d-844f-2553fd78049f)를 참조하십시오. SMS에 대한 자세한 내용을 보려면 [Microsoft Systems Management Server TechCenter](http://technet.microsoft.com/systemcenter/bb545936)를 방문하십시오.
 
 참고 SMS는 Microsoft Baseline Security Analyzer를 사용하여 보안 공지 업데이트 검색 및 배포에 대한 다양한 지원을 제공합니다. 일부 소프트웨어 업데이트는 이러한 도구로 검색하지 못할 수도 있습니다. 이러한 경우 관리자는 SMS의 인벤토리 기능을 사용하여 특정 시스템을 대상으로 업데이트를 수행할 수 있습니다. 이 절차에 대한 자세한 내용은 [SMS 소프트웨어 배포 기능을 사용한 소프트웨어 업데이트 배포](http://go.microsoft.com/fwlink/?linkid=33341)를 참조하십시오. 일부 보안 업데이트 작업을 수행하려면 관리자 권한이 필요하며 컴퓨터를 다시 시작해야 할 수 있습니다. 관리자는 [SMS 2003 Administration Feature Pack](http://www.microsoft.com/downloads/en/details.aspx?familyid=7bd3a16e-1899-4e0b-bb99-1320e816167d)에서 제공되는 Elevated Rights Deployment Tool을 사용하여 이러한 업데이트를 설치할 수 있습니다.
 
 UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971) (영문)에 포함된 [UCE(Update Compatibility Evaluator)](http://technet.microsoft.com/library/cc749197) (영문)구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971) (영문)에 포함된 [UCE(Update Compatibility Evaluator)](http://technet.microsoft.com/library/cc749197) (영문)구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 

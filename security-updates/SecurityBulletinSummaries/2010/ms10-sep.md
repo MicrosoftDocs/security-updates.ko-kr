@@ -293,62 +293,62 @@ Windows XP
 Windows XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=93faba6b-0a85-4acc-b527-a012bbf56b13&displaylang=ko)  
+[Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=93faba6b-0a85-4acc-b527-a012bbf56b13&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=2084a01c-2a91-4650-8665-7053015f2083&displaylang=ko)  
+[Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=2084a01c-2a91-4650-8665-7053015f2083&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=a1d47f30-c1fc-4b9d-8829-3bad1224006a&displaylang=ko)  
+[Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=a1d47f30-c1fc-4b9d-8829-3bad1224006a&displaylang=ko)  
 (KB981322)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[IIS(인터넷 정보 서비스) 5.1](http://www.microsoft.com/downloads/details.aspx?familyid=555864c3-9114-4988-8526-7bf545a27706&displaylang=ko)  
+[IIS(인터넷 정보 서비스) 5.1](https://www.microsoft.com/download/details.aspx?familyid=555864c3-9114-4988-8526-7bf545a27706&displaylang=ko)  
 (KB2124261)  
 (중요)  
 IIS 인증:  
-[IIS(인터넷 정보 서비스) 5.1](http://www.microsoft.com/downloads/details.aspx?familyid=ae55787e-4a5c-48d5-aedf-0abada514938)  
+[IIS(인터넷 정보 서비스) 5.1](https://www.microsoft.com/download/details.aspx?familyid=ae55787e-4a5c-48d5-aedf-0abada514938)  
 (KB2290570)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=7ad0f2cf-03dc-49a0-a16e-17fed0c01cc6&displaylang=ko)  
+[Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=7ad0f2cf-03dc-49a0-a16e-17fed0c01cc6&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=fc4369ec-864a-42ae-a850-b006872241fe&displaylang=ko)  
+[Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=fc4369ec-864a-42ae-a850-b006872241fe&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[ADAM(Active Directory Application Mode)](http://www.microsoft.com/downloads/details.aspx?familyid=6554f98f-4dc5-4784-b92c-b0aae1fa22ca&displaylang=ko)  
+[ADAM(Active Directory Application Mode)](https://www.microsoft.com/download/details.aspx?familyid=6554f98f-4dc5-4784-b92c-b0aae1fa22ca&displaylang=ko)  
 (KB982000)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=20091358-7127-4ace-bf96-4319461ad305&displaylang=ko)  
+[Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=20091358-7127-4ace-bf96-4319461ad305&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)  
+[Microsoft .NET Framework 1.1 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)  
 (KB2416447)  
 (중요)  
-[Microsoft .NET Framework 2.0 서비스 팩 2 및 Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=3d31fd37-eb58-4169-b6b9-4cf854524e46)  
+[Microsoft .NET Framework 2.0 서비스 팩 2 및 Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=3d31fd37-eb58-4169-b6b9-4cf854524e46)  
 (KB2418241)  
 (중요)  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=d284237b-e4d9-460a-98f0-7a18252f5780)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=d284237b-e4d9-460a-98f0-7a18252f5780)  
 (KB2416468)  
 (중요)  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)  
 (KB2418240)  
 (중요)  
-[Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
+[Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
 (KB2416473)  
 (중요)  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>
 (KB2416472)  
 (중요)
 </td>
@@ -358,58 +358,58 @@ IIS 인증:
 Windows XP Professional x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=9f7f3737-056d-44bd-b644-51093b5b501b)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=9f7f3737-056d-44bd-b644-51093b5b501b)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=284a0e80-fd03-4909-b354-0478f04585a1&displaylang=ko)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=284a0e80-fd03-4909-b354-0478f04585a1&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b27f310f-6ecc-4abb-8944-9fc24c66e077)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b27f310f-6ecc-4abb-8944-9fc24c66e077)  
 (KB981322)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[IIS(인터넷 정보 서비스) 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=0b28bfac-783d-4c89-988b-4123c0343855)  
+[IIS(인터넷 정보 서비스) 6.0](https://www.microsoft.com/download/details.aspx?familyid=0b28bfac-783d-4c89-988b-4123c0343855)  
 (KB2124261)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=3349b12b-621e-48bc-9c57-489c7a56920d)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=3349b12b-621e-48bc-9c57-489c7a56920d)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=7567986a-261d-4def-9fa5-c667994c7844)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=7567986a-261d-4def-9fa5-c667994c7844)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[ADAM(Active Directory Application Mode)](http://www.microsoft.com/downloads/details.aspx?familyid=5bc00f9a-3028-4c9d-be06-f2b78fa444c4)  
+[ADAM(Active Directory Application Mode)](https://www.microsoft.com/download/details.aspx?familyid=5bc00f9a-3028-4c9d-be06-f2b78fa444c4)  
 (KB982000)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=107eb958-b60f-40ae-a785-5d5b4d13d8c6)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=107eb958-b60f-40ae-a785-5d5b4d13d8c6)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282&displaylang=ko)  
+[Microsoft .NET Framework 1.1 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282&displaylang=ko)  
 (KB2416447)  
 (중요)  
-[Microsoft .NET Framework 2.0 서비스 팩 2 및 Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=3d31fd37-eb58-4169-b6b9-4cf854524e46&displaylang=ko)  
+[Microsoft .NET Framework 2.0 서비스 팩 2 및 Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=3d31fd37-eb58-4169-b6b9-4cf854524e46&displaylang=ko)  
 (KB2418241)  
 (중요)  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=d284237b-e4d9-460a-98f0-7a18252f5780&displaylang=ko)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=d284237b-e4d9-460a-98f0-7a18252f5780&displaylang=ko)  
 (KB2416468)  
 (중요)  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae&displaylang=ko)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae&displaylang=ko)  
 (KB2418240)  
 (중요)  
-[Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a&displaylang=ko)  
+[Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a&displaylang=ko)  
 (KB2416473)  
 (중요)  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6&displaylang=ko)<sup>[1]</sup>
 (KB2416472)  
 (중요)
 </td>
@@ -488,61 +488,61 @@ Windows Server 2003
 Windows Server 2003 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=3d79680b-c071-462f-9cea-551fbd42edf0&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=3d79680b-c071-462f-9cea-551fbd42edf0&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=0a942985-081f-455c-bf9d-4345392c91b0&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=0a942985-081f-455c-bf9d-4345392c91b0&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=7ff7de2f-3e37-4aff-a8e4-5ed21b83575c&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=7ff7de2f-3e37-4aff-a8e4-5ed21b83575c&displaylang=ko)  
 (KB981322)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[IIS(인터넷 정보 서비스) 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=29e6cf4f-446b-461c-82f7-cfa8478cf739&displaylang=ko)  
+[IIS(인터넷 정보 서비스) 6.0](https://www.microsoft.com/download/details.aspx?familyid=29e6cf4f-446b-461c-82f7-cfa8478cf739&displaylang=ko)  
 (KB2124261)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=f8b3004b-07db-4638-a9b7-224ff829081c&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=f8b3004b-07db-4638-a9b7-224ff829081c&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=3290e7ee-1e4a-464c-abfd-17fc4108601e&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=3290e7ee-1e4a-464c-abfd-17fc4108601e&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Active Directory](http://www.microsoft.com/downloads/details.aspx?familyid=3fe6e78c-c60a-4903-9273-27b37e129f0a&displaylang=ko)  
+[Active Directory](https://www.microsoft.com/download/details.aspx?familyid=3fe6e78c-c60a-4903-9273-27b37e129f0a&displaylang=ko)  
 (KB981550)  
 (중요)  
-[ADAM(Active Directory Application Mode)](http://www.microsoft.com/downloads/details.aspx?familyid=c42731f1-6393-42ed-b59f-5310c832fdc4&displaylang=ko)  
+[ADAM(Active Directory Application Mode)](https://www.microsoft.com/download/details.aspx?familyid=c42731f1-6393-42ed-b59f-5310c832fdc4&displaylang=ko)  
 (KB982000)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=fd46ba66-8ca1-4aa2-b91b-9e5861a173f7&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=fd46ba66-8ca1-4aa2-b91b-9e5861a173f7&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=71f0daad-e2df-421c-9818-58e1e40cdb65&displaylang=ko)  
+[Microsoft .NET Framework 1.1 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=71f0daad-e2df-421c-9818-58e1e40cdb65&displaylang=ko)  
 (KB2416451)  
 (중요)  
-[Microsoft .NET Framework 2.0 서비스 팩 2 및 Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=3d31fd37-eb58-4169-b6b9-4cf854524e46&displaylang=ko)  
+[Microsoft .NET Framework 2.0 서비스 팩 2 및 Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=3d31fd37-eb58-4169-b6b9-4cf854524e46&displaylang=ko)  
 (KB2418241)  
 (중요)  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=d284237b-e4d9-460a-98f0-7a18252f5780&displaylang=ko)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=d284237b-e4d9-460a-98f0-7a18252f5780&displaylang=ko)  
 (KB2416468)  
 (중요)  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae&displaylang=ko)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae&displaylang=ko)  
 (KB2418240)  
 (중요)  
-[Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a&displaylang=ko)  
+[Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a&displaylang=ko)  
 (KB2416473)  
 (중요)  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6&displaylang=ko)<sup>[1]</sup>
 (KB2416472)  
 (중요)
 </td>
@@ -552,61 +552,61 @@ IIS ASP:
 Windows Server 2003 x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=073b3305-4a81-4ef8-b6aa-e53b31a936b4&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=073b3305-4a81-4ef8-b6aa-e53b31a936b4&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=284a0e80-fd03-4909-b354-0478f04585a1&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=284a0e80-fd03-4909-b354-0478f04585a1&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=8382c1f2-e16d-475c-a8a0-e378696808f1&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=8382c1f2-e16d-475c-a8a0-e378696808f1&displaylang=ko)  
 (KB981322)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[IIS(인터넷 정보 서비스) 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=750e4a79-11bf-4726-9eb4-5dd3d029a717&displaylang=ko)  
+[IIS(인터넷 정보 서비스) 6.0](https://www.microsoft.com/download/details.aspx?familyid=750e4a79-11bf-4726-9eb4-5dd3d029a717&displaylang=ko)  
 (KB2124261)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=612b2096-bd82-47ca-8b99-454c2f158d39&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=612b2096-bd82-47ca-8b99-454c2f158d39&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b21570cc-4f90-4ed8-b901-a34584d44a63&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b21570cc-4f90-4ed8-b901-a34584d44a63&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Active Directory](http://www.microsoft.com/downloads/details.aspx?familyid=22412eed-33cd-4dfc-8ef7-b74dcd7c5faf&displaylang=ko)  
+[Active Directory](https://www.microsoft.com/download/details.aspx?familyid=22412eed-33cd-4dfc-8ef7-b74dcd7c5faf&displaylang=ko)  
 (KB981550)  
 (중요)  
-[ADAM(Active Directory Application Mode)](http://www.microsoft.com/downloads/details.aspx?familyid=79fb639d-2cc1-4bea-9df6-c67ed95890e3)  
+[ADAM(Active Directory Application Mode)](https://www.microsoft.com/download/details.aspx?familyid=79fb639d-2cc1-4bea-9df6-c67ed95890e3)  
 (KB982000)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=ff5976e0-579c-4e6e-a225-c0d3913cdc85&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=ff5976e0-579c-4e6e-a225-c0d3913cdc85&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282&displaylang=ko)  
+[Microsoft .NET Framework 1.1 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282&displaylang=ko)  
 (KB2416447)  
 (중요)  
-[Microsoft .NET Framework 2.0 서비스 팩 2 및 Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=3d31fd37-eb58-4169-b6b9-4cf854524e46&displaylang=ko)  
+[Microsoft .NET Framework 2.0 서비스 팩 2 및 Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=3d31fd37-eb58-4169-b6b9-4cf854524e46&displaylang=ko)  
 (KB2418241)  
 (중요)  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=d284237b-e4d9-460a-98f0-7a18252f5780&displaylang=ko)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=d284237b-e4d9-460a-98f0-7a18252f5780&displaylang=ko)  
 (KB2416468)  
 (중요)  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae&displaylang=ko)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae&displaylang=ko)  
 (KB2418240)  
 (중요)  
-[Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a&displaylang=ko)  
+[Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a&displaylang=ko)  
 (KB2416473)  
 (중요)  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6&displaylang=ko)<sup>[1]</sup>
 (KB2416472)  
 (중요)
 </td>
@@ -616,57 +616,57 @@ IIS ASP:
 Windows Server 2003 SP2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=ca35a520-c4da-41bb-abcc-d5bc534ff19a)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=ca35a520-c4da-41bb-abcc-d5bc534ff19a)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=be7b3310-ffb7-4528-9c9e-aebe14d264d6)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=be7b3310-ffb7-4528-9c9e-aebe14d264d6)  
 (KB981322)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[IIS(인터넷 정보 서비스) 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=f6841057-1745-44e9-a16a-c180dd941ddf)  
+[IIS(인터넷 정보 서비스) 6.0](https://www.microsoft.com/download/details.aspx?familyid=f6841057-1745-44e9-a16a-c180dd941ddf)  
 (KB2124261)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=1f04f151-330a-4b6c-826e-76def35daa73)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=1f04f151-330a-4b6c-826e-76def35daa73)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=c9c4427d-54c8-4f3c-9a94-818196cd5180)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=c9c4427d-54c8-4f3c-9a94-818196cd5180)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Active Directory](http://www.microsoft.com/downloads/details.aspx?familyid=cab75c8a-0d12-4a91-82b2-9f9b70610f67)  
+[Active Directory](https://www.microsoft.com/download/details.aspx?familyid=cab75c8a-0d12-4a91-82b2-9f9b70610f67)  
 (KB981550)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=e450ca08-1d75-4419-ad9f-c5e5efb55cd5)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=e450ca08-1d75-4419-ad9f-c5e5efb55cd5)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)  
+[Microsoft .NET Framework 1.1 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)  
 (KB2416447)  
 (중요)  
-[Microsoft .NET Framework 2.0 서비스 팩 2 및 Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=3d31fd37-eb58-4169-b6b9-4cf854524e46)  
+[Microsoft .NET Framework 2.0 서비스 팩 2 및 Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=3d31fd37-eb58-4169-b6b9-4cf854524e46)  
 (KB2418241)  
 (중요)  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=d284237b-e4d9-460a-98f0-7a18252f5780)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=d284237b-e4d9-460a-98f0-7a18252f5780)  
 (KB2416468)  
 (중요)  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)  
 (KB2418240)  
 (중요)  
-[Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
+[Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
 (KB2416473)  
 (중요)  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>
 (KB2416472)  
 (중요)
 </td>
@@ -745,21 +745,21 @@ Windows Vista
 Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=028977fd-0f39-42d4-9fee-0d90a2931cfd&displaylang=ko)  
+[Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=028977fd-0f39-42d4-9fee-0d90a2931cfd&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=84629c25-7827-40c1-86fb-7ffa247202a0&displaylang=ko)  
+[Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=84629c25-7827-40c1-86fb-7ffa247202a0&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=ac1b0260-3802-45d4-985e-ac827d784e4f&displaylang=ko)  
+[Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=ac1b0260-3802-45d4-985e-ac827d784e4f&displaylang=ko)  
 (KB981322)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[IIS(인터넷 정보 서비스) 7.0](http://www.microsoft.com/downloads/details.aspx?familyid=75059175-9c59-45d5-81ce-09b964640e5f&displaylang=ko)  
+[IIS(인터넷 정보 서비스) 7.0](https://www.microsoft.com/download/details.aspx?familyid=75059175-9c59-45d5-81ce-09b964640e5f&displaylang=ko)  
 (KB2124261)  
 (중요)
 </td>
@@ -771,7 +771,7 @@ IIS ASP:
 </td>
 <td style="border:1px solid black;">
 Windows Vista 서비스 팩 2만 해당:  
-[AD LDS(Active Directory Lightweight Directory Service)](http://www.microsoft.com/downloads/details.aspx?familyid=853a71f3-fb0d-43af-a2b8-45bf8ca1a588&displaylang=ko)  
+[AD LDS(Active Directory Lightweight Directory Service)](https://www.microsoft.com/download/details.aspx?familyid=853a71f3-fb0d-43af-a2b8-45bf8ca1a588&displaylang=ko)  
 (KB981550)  
 (중요)
 </td>
@@ -779,28 +779,28 @@ Windows Vista 서비스 팩 2만 해당:
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)  
+[Microsoft .NET Framework 1.1 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)  
 (KB2416447)  
 (중요)  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)  
 (KB2418240)  
 (중요)  
-[Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
+[Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
 (KB2416473)  
 (중요)  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>
 (KB2416472)  
 (중요)  
 Windows Vista 서비스 팩 1만 해당:  
-[Microsoft .NET Framework 2.0 서비스 팩 1 및 Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=7ad59265-9dca-4731-ac09-46c162c1832a)  
+[Microsoft .NET Framework 2.0 서비스 팩 1 및 Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=7ad59265-9dca-4731-ac09-46c162c1832a)  
 (KB2416469)  
 (중요)  
 Windows Vista 서비스 팩 1만 해당:  
-[Microsoft .NET Framework 2.0 서비스 팩 2 및 Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=ac1c77df-34d5-48d4-9a9d-33dc017ffe93)  
+[Microsoft .NET Framework 2.0 서비스 팩 2 및 Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=ac1c77df-34d5-48d4-9a9d-33dc017ffe93)  
 (KB2416474)  
 (중요)  
 Windows Vista 서비스 팩 2만 해당:  
-[Microsoft .NET Framework 2.0 서비스 팩 2, Microsoft .NET Framework 3.5 및 Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=45aa5666-3454-443c-a224-2076215fef04)  
+[Microsoft .NET Framework 2.0 서비스 팩 2, Microsoft .NET Framework 3.5 및 Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=45aa5666-3454-443c-a224-2076215fef04)  
 (KB2416470)  
 (중요)
 </td>
@@ -810,21 +810,21 @@ Windows Vista 서비스 팩 2만 해당:
 Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=c68b9337-883d-4e98-ba0a-90b5cad46184&displaylang=ko)  
+[Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=c68b9337-883d-4e98-ba0a-90b5cad46184&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=36e2a74b-e5c6-47d5-9cd9-b9171be63c7d&displaylang=ko)  
+[Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=36e2a74b-e5c6-47d5-9cd9-b9171be63c7d&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=ebfdcd6d-413e-4359-8863-e992327a607f&displaylang=ko)  
+[Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=ebfdcd6d-413e-4359-8863-e992327a607f&displaylang=ko)  
 (KB981322)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[IIS(인터넷 정보 서비스) 7.0](http://www.microsoft.com/downloads/details.aspx?familyid=9864c590-10a7-4971-a717-924ed0d6cace&displaylang=ko)  
+[IIS(인터넷 정보 서비스) 7.0](https://www.microsoft.com/download/details.aspx?familyid=9864c590-10a7-4971-a717-924ed0d6cace&displaylang=ko)  
 (KB2124261)  
 (중요)
 </td>
@@ -836,7 +836,7 @@ IIS ASP:
 </td>
 <td style="border:1px solid black;">
 Windows Vista x64 Edition 서비스 팩 2만 해당:  
-[AD LDS(Active Directory Lightweight Directory Service)](http://www.microsoft.com/downloads/details.aspx?familyid=566f468b-22b6-400a-a656-ae64cfcb52df&displaylang=ko)  
+[AD LDS(Active Directory Lightweight Directory Service)](https://www.microsoft.com/download/details.aspx?familyid=566f468b-22b6-400a-a656-ae64cfcb52df&displaylang=ko)  
 (KB981550)  
 (중요)
 </td>
@@ -844,28 +844,28 @@ Windows Vista x64 Edition 서비스 팩 2만 해당:
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)  
+[Microsoft .NET Framework 1.1 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)  
 (KB2416447)  
 (중요)  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)  
 (KB2418240)  
 (중요)  
-[Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
+[Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
 (KB2416473)  
 (중요)  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>
 (KB2416472)  
 (중요)  
 Windows Vista x64 Edition 서비스 팩 1만 해당:  
-[Microsoft .NET Framework 2.0 서비스 팩 1 및 Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=7ad59265-9dca-4731-ac09-46c162c1832a)  
+[Microsoft .NET Framework 2.0 서비스 팩 1 및 Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=7ad59265-9dca-4731-ac09-46c162c1832a)  
 (KB2416469)  
 (중요)  
 Windows Vista x64 Edition 서비스 팩 1만 해당:  
-[Microsoft .NET Framework 2.0 서비스 팩 2 및 Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=ac1c77df-34d5-48d4-9a9d-33dc017ffe93)  
+[Microsoft .NET Framework 2.0 서비스 팩 2 및 Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=ac1c77df-34d5-48d4-9a9d-33dc017ffe93)  
 (KB2416474)  
 (중요)  
 Windows Vista x64 Edition 서비스 팩 2만 해당:  
-[Microsoft .NET Framework 2.0 서비스 팩 2, Microsoft .NET Framework 3.5 및 Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=45aa5666-3454-443c-a224-2076215fef04)  
+[Microsoft .NET Framework 2.0 서비스 팩 2, Microsoft .NET Framework 3.5 및 Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=45aa5666-3454-443c-a224-2076215fef04)  
 (KB2416470)  
 (중요)
 </td>
@@ -944,21 +944,21 @@ Windows Server 2008
 Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=e2e788de-8400-4bf6-b96b-a915154aa20a&displaylang=ko)\*  
+[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=e2e788de-8400-4bf6-b96b-a915154aa20a&displaylang=ko)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=fdfc393e-a54d-44dd-ba45-c2a550ffd2a1&displaylang=ko)\*\*  
+[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=fdfc393e-a54d-44dd-ba45-c2a550ffd2a1&displaylang=ko)\*\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b679fe0c-5498-4fc5-84c8-0cd24b625907&displaylang=ko)\*  
+[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b679fe0c-5498-4fc5-84c8-0cd24b625907&displaylang=ko)\*  
 (KB981322)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[IIS(인터넷 정보 서비스) 7.0](http://www.microsoft.com/downloads/details.aspx?familyid=d798dc8e-ae64-4a1d-abda-f58cf69779d8&displaylang=ko)\*  
+[IIS(인터넷 정보 서비스) 7.0](https://www.microsoft.com/download/details.aspx?familyid=d798dc8e-ae64-4a1d-abda-f58cf69779d8&displaylang=ko)\*  
 (KB2124261)  
 (중요)
 </td>
@@ -969,7 +969,7 @@ IIS ASP:
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Active Directory 및 Active Directory Lightweight Directory Service(AD LDS)](http://www.microsoft.com/downloads/details.aspx?familyid=1452befe-b7b8-4131-b36f-dded2bd16d5e&displaylang=ko)\*  
+[Active Directory 및 Active Directory Lightweight Directory Service(AD LDS)](https://www.microsoft.com/download/details.aspx?familyid=1452befe-b7b8-4131-b36f-dded2bd16d5e&displaylang=ko)\*  
 (KB981550)  
 (중요)
 </td>
@@ -977,28 +977,28 @@ IIS ASP:
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)\*\*  
+[Microsoft .NET Framework 1.1 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)\*\*  
 (KB2416447)  
 (중요)  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)\*\*  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)\*\*  
 (KB2418240)  
 (중요)  
-[Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)\*\*  
+[Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)\*\*  
 (KB2416473)  
 (중요)  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)\*\*<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)\*\*<sup>[1]</sup>
 (KB2416472)  
 (중요)  
 Windows Server 2008만(32비트 시스템용):  
-[Microsoft .NET Framework 2.0 서비스 팩 1 및 Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=7ad59265-9dca-4731-ac09-46c162c1832a)\*\*  
+[Microsoft .NET Framework 2.0 서비스 팩 1 및 Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=7ad59265-9dca-4731-ac09-46c162c1832a)\*\*  
 (KB2416469)  
 (중요)  
 Windows Server 2008만(32비트 시스템용):  
-[Microsoft .NET Framework 2.0 서비스 팩 2 및 Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=ac1c77df-34d5-48d4-9a9d-33dc017ffe93)\*\*  
+[Microsoft .NET Framework 2.0 서비스 팩 2 및 Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=ac1c77df-34d5-48d4-9a9d-33dc017ffe93)\*\*  
 (KB2416474)  
 (중요)  
 Windows Server 2008(32비트 시스템용) 서비스 팩 2만 해당:  
-[Microsoft .NET Framework 2.0 서비스 팩 2, Microsoft .NET Framework 3.5 및 Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=45aa5666-3454-443c-a224-2076215fef04)\*\*  
+[Microsoft .NET Framework 2.0 서비스 팩 2, Microsoft .NET Framework 3.5 및 Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=45aa5666-3454-443c-a224-2076215fef04)\*\*  
 (KB2416470)  
 (중요)
 </td>
@@ -1008,21 +1008,21 @@ Windows Server 2008(32비트 시스템용) 서비스 팩 2만 해당:
 Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=e08d4f49-5a13-4e1d-b0a7-27b314c2edb5&displaylang=ko)\*  
+[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=e08d4f49-5a13-4e1d-b0a7-27b314c2edb5&displaylang=ko)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=1b7af424-6286-4a80-827c-c4df4f92fe43&displaylang=ko)\*\*  
+[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=1b7af424-6286-4a80-827c-c4df4f92fe43&displaylang=ko)\*\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=e1b38b87-24f6-4aaa-afa9-40f4015d6694&displaylang=ko)\*  
+[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=e1b38b87-24f6-4aaa-afa9-40f4015d6694&displaylang=ko)\*  
 (KB981322)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[IIS(인터넷 정보 서비스) 7.0](http://www.microsoft.com/downloads/details.aspx?familyid=e29f01dc-b00d-4c12-a13e-63aa0b09d919&displaylang=ko)\*  
+[IIS(인터넷 정보 서비스) 7.0](https://www.microsoft.com/download/details.aspx?familyid=e29f01dc-b00d-4c12-a13e-63aa0b09d919&displaylang=ko)\*  
 (KB2124261)  
 (중요)
 </td>
@@ -1033,7 +1033,7 @@ IIS ASP:
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Active Directory 및 Active Directory Lightweight Directory Service(AD LDS)](http://www.microsoft.com/downloads/details.aspx?familyid=38eb875f-1869-401b-b7d3-9f18f4ba4f24&displaylang=ko)\*  
+[Active Directory 및 Active Directory Lightweight Directory Service(AD LDS)](https://www.microsoft.com/download/details.aspx?familyid=38eb875f-1869-401b-b7d3-9f18f4ba4f24&displaylang=ko)\*  
 (KB981550)  
 (중요)
 </td>
@@ -1041,32 +1041,32 @@ IIS ASP:
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)\*\*  
+[Microsoft .NET Framework 1.1 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)\*\*  
 (KB2416447)  
 (중요)  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)\*\*  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)\*\*  
 (KB2418240)  
 (중요)  
-[Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)\*\*  
+[Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)\*\*  
 (KB2416473)  
 (중요)  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)\*\*<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)\*\*<sup>[1]</sup>
 (KB2416472)  
 (중요)  
 Windows Server 2008만(x64 기반 시스템용):  
-[Microsoft .NET Framework 2.0 서비스 팩 1 및 Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=7ad59265-9dca-4731-ac09-46c162c1832a)\*\*  
+[Microsoft .NET Framework 2.0 서비스 팩 1 및 Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=7ad59265-9dca-4731-ac09-46c162c1832a)\*\*  
 (KB2416469)  
 (중요)  
 Windows Server 2008만(x64 기반 시스템용):  
-[Microsoft .NET Framework 2.0 서비스 팩 2 및 Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=ac1c77df-34d5-48d4-9a9d-33dc017ffe93)\*\*  
+[Microsoft .NET Framework 2.0 서비스 팩 2 및 Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=ac1c77df-34d5-48d4-9a9d-33dc017ffe93)\*\*  
 (KB2416474)  
 (중요)  
 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2만 해당:  
-[Microsoft .NET Framework 2.0 서비스 팩 2, Microsoft .NET Framework 3.5 및 Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=45aa5666-3454-443c-a224-2076215fef04)\*\*  
+[Microsoft .NET Framework 2.0 서비스 팩 2, Microsoft .NET Framework 3.5 및 Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=45aa5666-3454-443c-a224-2076215fef04)\*\*  
 (KB2416470)  
 (중요)  
 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2만 해당:  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)\*\*  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)\*\*  
 (KB2418240)  
 (중요)
 </td>
@@ -1076,20 +1076,20 @@ Windows Server 2008(x64 기반 시스템용) 서비스 팩 2만 해당:
 Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=098537d5-bf6e-4e04-ad33-1cde697e062f)  
+[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=098537d5-bf6e-4e04-ad33-1cde697e062f)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=ceb856e8-f4a6-4229-bd26-b1a763d7d443)  
+[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=ceb856e8-f4a6-4229-bd26-b1a763d7d443)  
 (KB981322)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[IIS(인터넷 정보 서비스) 7.0](http://www.microsoft.com/downloads/details.aspx?familyid=d595c8d2-90b1-46e4-bb9f-60efd0bf3a02)  
+[IIS(인터넷 정보 서비스) 7.0](https://www.microsoft.com/download/details.aspx?familyid=d595c8d2-90b1-46e4-bb9f-60efd0bf3a02)  
 (KB2124261)  
 (중요)
 </td>
@@ -1106,25 +1106,25 @@ IIS ASP:
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)  
+[Microsoft .NET Framework 1.1 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)  
 (KB2416447)  
 (중요)  
-[Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
+[Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
 (KB2416473)  
 (중요)  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>
 (KB2416472)  
 (중요)  
 Windows Server 2008(Itanium 기반 시스템용)만:  
-[Microsoft .NET Framework 2.0 서비스 팩 1 및 Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=7ad59265-9dca-4731-ac09-46c162c1832a)  
+[Microsoft .NET Framework 2.0 서비스 팩 1 및 Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=7ad59265-9dca-4731-ac09-46c162c1832a)  
 (KB2416469)  
 (중요)  
 Windows Server 2008(Itanium 기반 시스템용)만:  
-[Microsoft .NET Framework 2.0 서비스 팩 2 및 Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=ac1c77df-34d5-48d4-9a9d-33dc017ffe93)  
+[Microsoft .NET Framework 2.0 서비스 팩 2 및 Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=ac1c77df-34d5-48d4-9a9d-33dc017ffe93)  
 (KB2416474)  
 (중요)  
 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2만 해당:  
-[Microsoft .NET Framework 2.0 서비스 팩 2, Microsoft .NET Framework 3.5 및 Microsoft .NET Framework 3.5 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=45aa5666-3454-443c-a224-2076215fef04)  
+[Microsoft .NET Framework 2.0 서비스 팩 2, Microsoft .NET Framework 3.5 및 Microsoft .NET Framework 3.5 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=45aa5666-3454-443c-a224-2076215fef04)  
 (KB2416470)  
 (중요)
 </td>
@@ -1203,7 +1203,7 @@ Windows 7
 Windows 7(32비트 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=34619e9e-1f00-40e4-be6f-5bbf5e3c801b&displaylang=ko)  
+[Windows 7(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=34619e9e-1f00-40e4-be6f-5bbf5e3c801b&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -1214,11 +1214,11 @@ Windows 7(32비트 시스템용)
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[IIS(인터넷 정보 서비스) 7.5](http://www.microsoft.com/downloads/details.aspx?familyid=5b2d42da-4dbc-4fbb-be22-09ca7dec5aa3&displaylang=ko)  
+[IIS(인터넷 정보 서비스) 7.5](https://www.microsoft.com/download/details.aspx?familyid=5b2d42da-4dbc-4fbb-be22-09ca7dec5aa3&displaylang=ko)  
 (KB2124261)  
 (중요)  
 IIS FastCGI:  
-[IIS(인터넷 정보 서비스) 7.5](http://www.microsoft.com/downloads/details.aspx?familyid=c843afd9-b6f2-48de-91cc-1c0d481c2be4&displaylang=ko)  
+[IIS(인터넷 정보 서비스) 7.5](https://www.microsoft.com/download/details.aspx?familyid=c843afd9-b6f2-48de-91cc-1c0d481c2be4&displaylang=ko)  
 (KB2271195)  
 (중요)
 </td>
@@ -1229,7 +1229,7 @@ IIS FastCGI:
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[AD LDS(Active Directory Lightweight Directory Service)](http://www.microsoft.com/downloads/details.aspx?familyid=454fc025-bfa2-4552-9522-3585f523ecb2&displaylang=ko)  
+[AD LDS(Active Directory Lightweight Directory Service)](https://www.microsoft.com/download/details.aspx?familyid=454fc025-bfa2-4552-9522-3585f523ecb2&displaylang=ko)  
 (KB981550)  
 (중요)
 </td>
@@ -1237,10 +1237,10 @@ IIS FastCGI:
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=5e7dcf51-74f1-43cc-aece-0cd5df05ddb7&displaylang=ko)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=5e7dcf51-74f1-43cc-aece-0cd5df05ddb7&displaylang=ko)  
 (KB2416471)  
 (중요)  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6&displaylang=ko)<sup>[1]</sup>
 (KB2416472)  
 (중요)
 </td>
@@ -1274,7 +1274,7 @@ Windows 7(32비트 시스템용) 서비스 팩 1
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>
 (KB2416472)  
 (중요)
 </td>
@@ -1284,7 +1284,7 @@ Windows 7(32비트 시스템용) 서비스 팩 1
 Windows 7(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=dbb747a5-658d-44cf-bd49-425d1700157f)  
+[Windows 7(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=dbb747a5-658d-44cf-bd49-425d1700157f)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -1295,11 +1295,11 @@ Windows 7(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[IIS(인터넷 정보 서비스) 7.5](http://www.microsoft.com/downloads/details.aspx?familyid=66b64374-95e4-4b99-80e6-98dc63cd272b)  
+[IIS(인터넷 정보 서비스) 7.5](https://www.microsoft.com/download/details.aspx?familyid=66b64374-95e4-4b99-80e6-98dc63cd272b)  
 (KB2124261)  
 (중요)  
 IIS FastCGI:  
-[IIS(인터넷 정보 서비스) 7.5](http://www.microsoft.com/downloads/details.aspx?familyid=5f0c0454-cbb6-47ed-9227-98aa45b8cbdb)  
+[IIS(인터넷 정보 서비스) 7.5](https://www.microsoft.com/download/details.aspx?familyid=5f0c0454-cbb6-47ed-9227-98aa45b8cbdb)  
 (KB2271195)  
 (중요)
 </td>
@@ -1310,7 +1310,7 @@ IIS FastCGI:
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[AD LDS(Active Directory Lightweight Directory Service)](http://www.microsoft.com/downloads/details.aspx?familyid=b15ad533-3cf1-4dcf-847c-05ebffb84e26)  
+[AD LDS(Active Directory Lightweight Directory Service)](https://www.microsoft.com/download/details.aspx?familyid=b15ad533-3cf1-4dcf-847c-05ebffb84e26)  
 (KB981550)  
 (중요)
 </td>
@@ -1318,10 +1318,10 @@ IIS FastCGI:
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=5e7dcf51-74f1-43cc-aece-0cd5df05ddb7)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=5e7dcf51-74f1-43cc-aece-0cd5df05ddb7)  
 (KB2416471)  
 (중요)  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>
 (KB2416472) (중요)
 </td>
 </tr>
@@ -1354,7 +1354,7 @@ Windows 7(x64 기반 시스템용) 서비스 팩 1
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>
 (KB2416472) (중요)
 </td>
 </tr>
@@ -1432,7 +1432,7 @@ Windows Server 2008 R2
 Windows Server 2008 R2(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=11e20088-1be2-4166-9c97-234b7e9f1c4f&displaylang=ko)\*  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=11e20088-1be2-4166-9c97-234b7e9f1c4f&displaylang=ko)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -1443,11 +1443,11 @@ Windows Server 2008 R2(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[IIS(인터넷 정보 서비스) 7.5](http://www.microsoft.com/downloads/details.aspx?familyid=21458cce-f67e-4e95-a067-8311afefc261&displaylang=ko)\*  
+[IIS(인터넷 정보 서비스) 7.5](https://www.microsoft.com/download/details.aspx?familyid=21458cce-f67e-4e95-a067-8311afefc261&displaylang=ko)\*  
 (KB2124261)  
 (중요)  
 IIS FastCGI:  
-[IIS(인터넷 정보 서비스) 7.5](http://www.microsoft.com/downloads/details.aspx?familyid=9578b1de-f2c1-4b37-9d82-69e929cab6f3&displaylang=ko)\*  
+[IIS(인터넷 정보 서비스) 7.5](https://www.microsoft.com/download/details.aspx?familyid=9578b1de-f2c1-4b37-9d82-69e929cab6f3&displaylang=ko)\*  
 (KB2271195)  
 (중요)
 </td>
@@ -1458,7 +1458,7 @@ IIS FastCGI:
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Active Directory 및 Active Directory Lightweight Directory Service(AD LDS)](http://www.microsoft.com/downloads/details.aspx?familyid=54f36389-8be4-4a0c-9640-dc32addac9d7&displaylang=ko)\*  
+[Active Directory 및 Active Directory Lightweight Directory Service(AD LDS)](https://www.microsoft.com/download/details.aspx?familyid=54f36389-8be4-4a0c-9640-dc32addac9d7&displaylang=ko)\*  
 (KB981550)  
 (중요)
 </td>
@@ -1466,10 +1466,10 @@ IIS FastCGI:
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=5e7dcf51-74f1-43cc-aece-0cd5df05ddb7)\*  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=5e7dcf51-74f1-43cc-aece-0cd5df05ddb7)\*  
 (KB2416471)  
 (중요)  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>
 (KB2416472)  
 (중요)
 </td>
@@ -1503,7 +1503,7 @@ Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)\*<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)\*<sup>[1]</sup>
 (KB2416472)  
 (중요)
 </td>
@@ -1513,7 +1513,7 @@ Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1
 Windows Server 2008 R2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=d8c635f8-8978-44bf-b457-e07368f08ef4)  
+[Windows Server 2008 R2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=d8c635f8-8978-44bf-b457-e07368f08ef4)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -1524,11 +1524,11 @@ Windows Server 2008 R2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[IIS(인터넷 정보 서비스) 7.5](http://www.microsoft.com/downloads/details.aspx?familyid=3b8f3fd1-1ef4-4e9f-9bce-0c68f10519d1)  
+[IIS(인터넷 정보 서비스) 7.5](https://www.microsoft.com/download/details.aspx?familyid=3b8f3fd1-1ef4-4e9f-9bce-0c68f10519d1)  
 (KB2124261)  
 (중요)  
 IIS FastCGI:  
-[IIS(인터넷 정보 서비스) 7.5](http://www.microsoft.com/downloads/details.aspx?familyid=21adf80d-267f-47cd-9c03-4b4854ba159f)  
+[IIS(인터넷 정보 서비스) 7.5](https://www.microsoft.com/download/details.aspx?familyid=21adf80d-267f-47cd-9c03-4b4854ba159f)  
 (KB2271195)  
 (중요)
 </td>
@@ -1545,10 +1545,10 @@ IIS FastCGI:
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=5e7dcf51-74f1-43cc-aece-0cd5df05ddb7)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=5e7dcf51-74f1-43cc-aece-0cd5df05ddb7)  
 (KB2416471)  
 (중요)  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>
 (KB2416472)  
 (중요)
 </td>
@@ -1582,7 +1582,7 @@ Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>
 (KB2416472)  
 (중요)
 </td>
@@ -1648,12 +1648,12 @@ Microsoft Office 제품군, 시스템 및 구성 요소
 Microsoft Office XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=0b56f85f-d39b-410a-857a-799a5d714de7&displaylang=ko)  
+[Microsoft Office XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=0b56f85f-d39b-410a-857a-799a5d714de7&displaylang=ko)  
 (KB2288608)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook 2002 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=d5e85841-9dea-4776-9e0e-3cd272066f37&displaylang=ko)  
+[Microsoft Outlook 2002 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=d5e85841-9dea-4776-9e0e-3cd272066f37&displaylang=ko)  
 (KB2293422)  
 (긴급)
 </td>
@@ -1663,12 +1663,12 @@ Microsoft Office XP 서비스 팩 3
 Microsoft Office 2003 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2003 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=bb7783b1-b396-4254-b317-f2292b305cfc&displaylang=ko)  
+[Microsoft Office 2003 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=bb7783b1-b396-4254-b317-f2292b305cfc&displaylang=ko)  
 (KB2288613)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook 2003 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=ec8ed81e-05d0-4c20-b5fb-ebc72230a8bd&displaylang=ko)  
+[Microsoft Outlook 2003 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=ec8ed81e-05d0-4c20-b5fb-ebc72230a8bd&displaylang=ko)  
 (KB2293428)  
 (중요)
 </td>
@@ -1678,12 +1678,12 @@ Microsoft Office 2003 서비스 팩 3
 Microsoft Office 2007 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2007 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=44c5bccf-66dd-4796-9089-e6171d8c9785&displaylang=ko)  
+[Microsoft Office 2007 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=44c5bccf-66dd-4796-9089-e6171d8c9785&displaylang=ko)  
 (KB2288621)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook 2007 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=6009d507-135c-4ce8-a830-925134f214dc&displaylang=ko)  
+[Microsoft Outlook 2007 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=6009d507-135c-4ce8-a830-925134f214dc&displaylang=ko)  
 (KB2288953)  
 (중요)
 </td>
@@ -1727,7 +1727,7 @@ Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 
 
 UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit) (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit) (영문)](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Microsoft Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 

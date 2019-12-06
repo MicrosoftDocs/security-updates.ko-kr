@@ -424,46 +424,46 @@ Microsoft Windows 2000
 Microsoft Windows 2000 서비스 팩 4
 </td>
 <td style="border:1px solid black;">
-[Authenticode Signature Verification 5.1](http://www.microsoft.com/downloads/details.aspx?familyid=d7538166-35ee-4c6b-be8c-e83a1fc6cd77&displaylang=ko)  
+[Authenticode Signature Verification 5.1](https://www.microsoft.com/download/details.aspx?familyid=d7538166-35ee-4c6b-be8c-e83a1fc6cd77&displaylang=ko)  
 (KB978601)  
 (긴급)  
-[Cabinet File Viewer Shell Extension 5.1](http://www.microsoft.com/downloads/details.aspx?familyid=13846177-f25f-4dd4-9fe9-ac43e1d4d73d&displaylang=ko)  
+[Cabinet File Viewer Shell Extension 5.1](https://www.microsoft.com/download/details.aspx?familyid=13846177-f25f-4dd4-9fe9-ac43e1d4d73d&displaylang=ko)  
 (KB979309)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=67ccac04-e5c8-4381-9d1a-9b676dd516a6&displaylang=ko)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=67ccac04-e5c8-4381-9d1a-9b676dd516a6&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Server 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=73b3d681-26bb-49c1-849e-1f72484cb978)  
+[Microsoft Windows 2000 Server 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=73b3d681-26bb-49c1-849e-1f72484cb978)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[MPEG Layer-3 코덱](http://www.microsoft.com/downloads/details.aspx?familyid=f6394fc2-b9d0-46cf-9265-a0d4aeb1448f&displaylang=ko)  
+[MPEG Layer-3 코덱](https://www.microsoft.com/download/details.aspx?familyid=f6394fc2-b9d0-46cf-9265-a0d4aeb1448f&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Media Player 9 시리즈](http://www.microsoft.com/downloads/details.aspx?familyid=c0b8b362-a321-4ac9-be98-15c71bb7a043&displaylang=ko)  
+[Windows Media Player 9 시리즈](https://www.microsoft.com/download/details.aspx?familyid=c0b8b362-a321-4ac9-be98-15c71bb7a043&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=c5f4577e-7546-40e9-8bcd-be11c1b260a6&displaylang=ko)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=c5f4577e-7546-40e9-8bcd-be11c1b260a6&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[VBScript 5.1](http://www.microsoft.com/downloads/details.aspx?familyid=421be318-f217-4d12-b7a5-833093189073&displaylang=ko)<sup>[1]</sup>
+[VBScript 5.1](https://www.microsoft.com/download/details.aspx?familyid=421be318-f217-4d12-b7a5-833093189073&displaylang=ko)<sup>[1]</sup>
 (KB981350)  
 (중요)  
-[VBScript 5.6](http://www.microsoft.com/downloads/details.aspx?familyid=421be318-f217-4d12-b7a5-833093189073&displaylang=ko)  
+[VBScript 5.6](https://www.microsoft.com/download/details.aspx?familyid=421be318-f217-4d12-b7a5-833093189073&displaylang=ko)  
 (KB981350)  
 (중요)  
-[VBScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=d5fc47a4-cecb-4817-aafb-45f335061be3&displaylang=ko)  
+[VBScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=d5fc47a4-cecb-4817-aafb-45f335061be3&displaylang=ko)  
 (KB981349)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=88a0e872-01de-495b-8eec-d105a970daa7)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=88a0e872-01de-495b-8eec-d105a970daa7)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -544,51 +544,51 @@ Windows XP
 Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Authenticode Signature Verification 5.1](http://www.microsoft.com/downloads/details.aspx?familyid=2a01ddf0-f3ea-47c8-ada2-e69f6c1b5f96&displaylang=ko)  
+[Authenticode Signature Verification 5.1](https://www.microsoft.com/download/details.aspx?familyid=2a01ddf0-f3ea-47c8-ada2-e69f6c1b5f96&displaylang=ko)  
 (KB978601)  
 (긴급)  
-[Cabinet File Viewer Shell Extension 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=6c3ac102-2107-4726-98be-4fbf6b858bfb)  
+[Cabinet File Viewer Shell Extension 6.0](https://www.microsoft.com/download/details.aspx?familyid=6c3ac102-2107-4726-98be-4fbf6b858bfb)  
 (KB979309)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=dec38c02-3d4a-41c5-8954-e57f56b8fa5b&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=dec38c02-3d4a-41c5-8954-e57f56b8fa5b&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[MPEG Layer-3 코덱](http://www.microsoft.com/downloads/details.aspx?familyid=b1582a74-4a7b-4540-beb1-7c89c86eae87&displaylang=ko)  
+[MPEG Layer-3 코덱](https://www.microsoft.com/download/details.aspx?familyid=b1582a74-4a7b-4540-beb1-7c89c86eae87&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2에 설치된 Windows Media Player 9 시리즈](http://www.microsoft.com/downloads/details.aspx?familyid=5c748c6d-84d1-45a9-8a33-9372eb5504d5&displaylang=ko)  
+[Windows XP 서비스 팩 2에 설치된 Windows Media Player 9 시리즈](https://www.microsoft.com/download/details.aspx?familyid=5c748c6d-84d1-45a9-8a33-9372eb5504d5&displaylang=ko)  
 (긴급)  
-[Windows XP 서비스 팩 3에 설치된 Windows Media Player 9 시리즈](http://www.microsoft.com/downloads/details.aspx?familyid=9e4277b4-2dc5-4163-a6aa-7e07dd32b721&displaylang=ko)  
+[Windows XP 서비스 팩 3에 설치된 Windows Media Player 9 시리즈](https://www.microsoft.com/download/details.aspx?familyid=9e4277b4-2dc5-4163-a6aa-7e07dd32b721&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=142710fd-9cd4-4dd0-aaba-2aace03c008f&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=142710fd-9cd4-4dd0-aaba-2aace03c008f&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-Windows XP 서비스 팩 2의 [VBScript 5.6](http://www.microsoft.com/downloads/details.aspx?familyid=aa8ff157-a7b3-4787-80c9-5bc453f0f1c9&displaylang=ko)  
+Windows XP 서비스 팩 2의 [VBScript 5.6](https://www.microsoft.com/download/details.aspx?familyid=aa8ff157-a7b3-4787-80c9-5bc453f0f1c9&displaylang=ko)  
 (KB981350)  
 (중요)  
-[VBScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=cb21d276-65e9-4c8f-96e3-cf6dc36d0133&displaylang=ko)  
+[VBScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=cb21d276-65e9-4c8f-96e3-cf6dc36d0133&displaylang=ko)  
 (KB981349)  
 (중요)  
-[VBScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=ba7ef6e5-80ba-4281-a611-6e5be008c1b4&displaylang=ko)  
+[VBScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=ba7ef6e5-80ba-4281-a611-6e5be008c1b4&displaylang=ko)  
 (KB981332)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=de447b76-ec89-426b-ac54-3ae3855d1159&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=de447b76-ec89-426b-ac54-3ae3855d1159&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=9dc3e1c2-2e9d-4d86-9fce-446c409ad613&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=9dc3e1c2-2e9d-4d86-9fce-446c409ad613&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -597,48 +597,48 @@ Windows XP 서비스 팩 2의 [VBScript 5.6](http://www.microsoft.com/downloads/
 Windows XP Professional x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Authenticode Signature Verification 5.1](http://www.microsoft.com/downloads/details.aspx?familyid=9bbff00c-f8f4-4a44-98f2-18a868986ae1)  
+[Authenticode Signature Verification 5.1](https://www.microsoft.com/download/details.aspx?familyid=9bbff00c-f8f4-4a44-98f2-18a868986ae1)  
 (KB978601)  
 (긴급)  
-[Cabinet File Viewer Shell Extension 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=e64e487e-2727-4396-b0c9-6eaf000214d2)  
+[Cabinet File Viewer Shell Extension 6.0](https://www.microsoft.com/download/details.aspx?familyid=e64e487e-2727-4396-b0c9-6eaf000214d2)  
 (KB979309)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=c5a21239-a9a3-4ec5-9de8-7d2fc16fc6b8)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=c5a21239-a9a3-4ec5-9de8-7d2fc16fc6b8)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[MPEG Layer-3 코덱](http://www.microsoft.com/downloads/details.aspx?familyid=8afca317-a647-44aa-a771-5d85cd5d62ea)  
+[MPEG Layer-3 코덱](https://www.microsoft.com/download/details.aspx?familyid=8afca317-a647-44aa-a771-5d85cd5d62ea)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=3c0cb02e-3484-4cdf-8c64-c697ad3e2889)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=3c0cb02e-3484-4cdf-8c64-c697ad3e2889)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[VBScript 5.6](http://www.microsoft.com/downloads/details.aspx?familyid=896c738d-4058-440f-8d4f-16c678610cd1)  
+[VBScript 5.6](https://www.microsoft.com/download/details.aspx?familyid=896c738d-4058-440f-8d4f-16c678610cd1)  
 (KB981350)  
 (중요)  
-[VBScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=d7e8b930-8708-4f0b-b22b-961c2cbc2673)  
+[VBScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=d7e8b930-8708-4f0b-b22b-961c2cbc2673)  
 (KB981349)  
 (중요)  
-[VBScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=153fd9c1-0f8e-4492-87d1-f0381e7feb23)  
+[VBScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=153fd9c1-0f8e-4492-87d1-f0381e7feb23)  
 (KB981332)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=4f9a696d-2712-4777-a642-e78a38336e8a)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=4f9a696d-2712-4777-a642-e78a38336e8a)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=d872bd77-f491-4706-8ff5-081ac0bf3d6f)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=d872bd77-f491-4706-8ff5-081ac0bf3d6f)  
 (보통)
 </td>
 </tr>
@@ -716,48 +716,48 @@ Windows Server 2003
 Windows Server 2003 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Authenticode Signature Verification 5.1](http://www.microsoft.com/downloads/details.aspx?familyid=0e7e3deb-f078-4953-9642-675ec69267f2&displaylang=ko)  
+[Authenticode Signature Verification 5.1](https://www.microsoft.com/download/details.aspx?familyid=0e7e3deb-f078-4953-9642-675ec69267f2&displaylang=ko)  
 (KB978601)  
 (긴급)  
-[Cabinet File Viewer Shell Extension 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=7ae9b1d0-0dbe-4abd-b315-10cea4ceccd7)  
+[Cabinet File Viewer Shell Extension 6.0](https://www.microsoft.com/download/details.aspx?familyid=7ae9b1d0-0dbe-4abd-b315-10cea4ceccd7)  
 (KB979309)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=1189304f-d626-426d-960c-a86dc2d2b528&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=1189304f-d626-426d-960c-a86dc2d2b528&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[MPEG Layer-3 코덱](http://www.microsoft.com/downloads/details.aspx?familyid=9f89746c-181e-4177-a851-ec1826e78b6d&displaylang=ko)  
+[MPEG Layer-3 코덱](https://www.microsoft.com/download/details.aspx?familyid=9f89746c-181e-4177-a851-ec1826e78b6d&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=0a7ea2d0-61ce-4b68-ad82-d917b1a56f9d&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=0a7ea2d0-61ce-4b68-ad82-d917b1a56f9d&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[VBScript 5.6](http://www.microsoft.com/downloads/details.aspx?familyid=28b035b8-d56e-4e93-b811-9a82cf1d4ba9&displaylang=ko)  
+[VBScript 5.6](https://www.microsoft.com/download/details.aspx?familyid=28b035b8-d56e-4e93-b811-9a82cf1d4ba9&displaylang=ko)  
 (KB981350)  
 (중요)  
-[VBScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=a142a553-85fc-40e0-9426-8d58f6a4333c&displaylang=ko)  
+[VBScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=a142a553-85fc-40e0-9426-8d58f6a4333c&displaylang=ko)  
 (KB981349)  
 (중요)  
-[VBScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=72754e1b-3d09-4b9d-8794-689c45a37f66&displaylang=ko)  
+[VBScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=72754e1b-3d09-4b9d-8794-689c45a37f66&displaylang=ko)  
 (KB981332)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=f781e9e4-87d4-4243-9d44-256424d75fec&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=f781e9e4-87d4-4243-9d44-256424d75fec&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=cd007a6c-04b3-490c-aff4-d5af3e69d477&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=cd007a6c-04b3-490c-aff4-d5af3e69d477&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -766,48 +766,48 @@ Windows Server 2003 서비스 팩 2
 Windows Server 2003 x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Authenticode Signature Verification 5.1](http://www.microsoft.com/downloads/details.aspx?familyid=99a3f6da-728f-421c-ab41-c4c4751934a4&displaylang=ko)  
+[Authenticode Signature Verification 5.1](https://www.microsoft.com/download/details.aspx?familyid=99a3f6da-728f-421c-ab41-c4c4751934a4&displaylang=ko)  
 (KB978601)  
 (긴급)  
-[Cabinet File Viewer Shell Extension 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=1709fd4e-d7c6-4cbb-8b71-a96b8d6eee58)  
+[Cabinet File Viewer Shell Extension 6.0](https://www.microsoft.com/download/details.aspx?familyid=1709fd4e-d7c6-4cbb-8b71-a96b8d6eee58)  
 (KB979309)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=52e4f66b-b76c-46a1-aeff-74efa21fc743&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=52e4f66b-b76c-46a1-aeff-74efa21fc743&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[MPEG Layer-3 코덱](http://www.microsoft.com/downloads/details.aspx?familyid=b97e7ea1-a163-4ce4-8cbc-5f933773c4b2&displaylang=ko)  
+[MPEG Layer-3 코덱](https://www.microsoft.com/download/details.aspx?familyid=b97e7ea1-a163-4ce4-8cbc-5f933773c4b2&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=1fc66f54-260a-4219-a0b4-056ba9dd0abe&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=1fc66f54-260a-4219-a0b4-056ba9dd0abe&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[VBScript 5.6](http://www.microsoft.com/downloads/details.aspx?familyid=339ddf48-8949-4857-9ef6-1ddcc7c5f8b8&displaylang=ko)  
+[VBScript 5.6](https://www.microsoft.com/download/details.aspx?familyid=339ddf48-8949-4857-9ef6-1ddcc7c5f8b8&displaylang=ko)  
 (KB981350)  
 (중요)  
-[VBScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=a489b4e3-78d2-411b-b27c-5987b8fc91d1&displaylang=ko)  
+[VBScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=a489b4e3-78d2-411b-b27c-5987b8fc91d1&displaylang=ko)  
 (KB981349)  
 (중요)  
-[VBScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=72c3013b-f72f-422b-8a89-2246dea4b378&displaylang=ko)  
+[VBScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=72c3013b-f72f-422b-8a89-2246dea4b378&displaylang=ko)  
 (KB981332)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=644ff070-237b-4a73-b2e2-9fffdafa3927&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=644ff070-237b-4a73-b2e2-9fffdafa3927&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=19cfddfe-e8da-4564-9730-babfae4a3ebb&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=19cfddfe-e8da-4564-9730-babfae4a3ebb&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -816,15 +816,15 @@ Windows Server 2003 x64 Edition 서비스 팩 2
 Windows Server 2003 SP2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Authenticode Signature Verification 5.1](http://www.microsoft.com/downloads/details.aspx?familyid=06832599-1e9b-4792-8c7b-7b5b3a3d6277)  
+[Authenticode Signature Verification 5.1](https://www.microsoft.com/download/details.aspx?familyid=06832599-1e9b-4792-8c7b-7b5b3a3d6277)  
 (KB978601)  
 (긴급)  
-[Cabinet File Viewer Shell Extension 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=811a2b28-655d-4b5d-821e-5a90d556dba3)  
+[Cabinet File Viewer Shell Extension 6.0](https://www.microsoft.com/download/details.aspx?familyid=811a2b28-655d-4b5d-821e-5a90d556dba3)  
 (KB979309)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=b2b6d8b1-63cc-459c-b5fa-1355386273c8)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=b2b6d8b1-63cc-459c-b5fa-1355386273c8)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
@@ -837,23 +837,23 @@ Windows Server 2003 SP2(Itanium 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=8dcb8be8-fb78-4518-aa7e-f8b17f7dfb86)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=8dcb8be8-fb78-4518-aa7e-f8b17f7dfb86)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[VBScript 5.6](http://www.microsoft.com/downloads/details.aspx?familyid=9a8bee82-5f7f-490e-a1eb-481f6d4fc4f5)  
+[VBScript 5.6](https://www.microsoft.com/download/details.aspx?familyid=9a8bee82-5f7f-490e-a1eb-481f6d4fc4f5)  
 (KB981350)  
 (중요)  
-[VBScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=7d542ac6-8a5b-4dd7-8688-2b5feb563636)  
+[VBScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=7d542ac6-8a5b-4dd7-8688-2b5feb563636)  
 (KB981349)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=56c8238d-8b04-4aa5-8719-40550cd7325c)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=56c8238d-8b04-4aa5-8719-40550cd7325c)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=916f1b09-e79e-4347-9fbc-c0cf07de397d)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=916f1b09-e79e-4347-9fbc-c0cf07de397d)  
 (보통)
 </td>
 </tr>
@@ -931,38 +931,38 @@ Windows Vista
 Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Authenticode Signature Verification 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=a52225a7-6005-4f2b-8291-db20558f23f8&displaylang=ko)  
+[Authenticode Signature Verification 6.0](https://www.microsoft.com/download/details.aspx?familyid=a52225a7-6005-4f2b-8291-db20558f23f8&displaylang=ko)  
 (KB978601  
 (긴급)  
-[Cabinet File Viewer Shell Extension 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=6145e2b2-36fd-4360-bd5b-2bd11890fc52)  
+[Cabinet File Viewer Shell Extension 6.0](https://www.microsoft.com/download/details.aspx?familyid=6145e2b2-36fd-4360-bd5b-2bd11890fc52)  
 (KB979309)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=25eeaeb3-c0a3-4a02-9912-acd0342648ba&displaylang=ko)  
+[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=25eeaeb3-c0a3-4a02-9912-acd0342648ba&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[MPEG Layer-3 코덱](http://www.microsoft.com/downloads/details.aspx?familyid=0e7140bb-42d3-48b3-9f4b-d55b17770de8&displaylang=ko)  
+[MPEG Layer-3 코덱](https://www.microsoft.com/download/details.aspx?familyid=0e7140bb-42d3-48b3-9f4b-d55b17770de8&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Vista](http://www.microsoft.com/downloads/details.aspx?familyid=86d7b054-af4f-4d8a-9873-cb5246466374&displaylang=ko)  
+[Windows Vista](https://www.microsoft.com/download/details.aspx?familyid=86d7b054-af4f-4d8a-9873-cb5246466374&displaylang=ko)  
 (중요)  
-[Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=86d7b054-af4f-4d8a-9873-cb5246466374&displaylang=ko)  
+[Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=86d7b054-af4f-4d8a-9873-cb5246466374&displaylang=ko)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[VBScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=ee5c42c6-16bb-48bf-95c2-c188bb17d04b&displaylang=ko)  
+[VBScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=ee5c42c6-16bb-48bf-95c2-c188bb17d04b&displaylang=ko)  
 (KB981349)  
 (심각도 없음<sup>[2]</sup>)  
-[VBScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=f2a37dbf-4a95-4e8d-a474-ecacd9aee690&displaylang=ko)  
+[VBScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=f2a37dbf-4a95-4e8d-a474-ecacd9aee690&displaylang=ko)  
 (KB981332)  
 (심각도 없음<sup>[2]</sup>)
 </td>
@@ -970,7 +970,7 @@ Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=196055a6-15d1-4da8-b33d-501e69bf5176&displaylang=ko)  
+[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=196055a6-15d1-4da8-b33d-501e69bf5176&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -979,38 +979,38 @@ Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2
 Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Authenticode Signature Verification 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=9ba7468c-23a4-4994-9a5a-22e96ef586f3&displaylang=ko)  
+[Authenticode Signature Verification 6.0](https://www.microsoft.com/download/details.aspx?familyid=9ba7468c-23a4-4994-9a5a-22e96ef586f3&displaylang=ko)  
 (KB978601)  
 (긴급)  
-[Cabinet File Viewer Shell Extension 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=5b7efa82-0feb-413a-9f8e-212e7432cd99&displaylang=ko)  
+[Cabinet File Viewer Shell Extension 6.0](https://www.microsoft.com/download/details.aspx?familyid=5b7efa82-0feb-413a-9f8e-212e7432cd99&displaylang=ko)  
 (KB979309)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=394c1caa-97e4-47a3-9aac-a4a88508bd31&displaylang=ko)  
+[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=394c1caa-97e4-47a3-9aac-a4a88508bd31&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[MPEG Layer-3 코덱](http://www.microsoft.com/downloads/details.aspx?familyid=b885aef4-3a5d-4c3e-bef6-5efef2965752&displaylang=ko)  
+[MPEG Layer-3 코덱](https://www.microsoft.com/download/details.aspx?familyid=b885aef4-3a5d-4c3e-bef6-5efef2965752&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition](http://www.microsoft.com/downloads/details.aspx?familyid=7c84aa24-6331-427a-969c-27f7d39db3d7&displaylang=ko)  
+[Windows Vista x64 Edition](https://www.microsoft.com/download/details.aspx?familyid=7c84aa24-6331-427a-969c-27f7d39db3d7&displaylang=ko)  
 (중요)  
-[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=7c84aa24-6331-427a-969c-27f7d39db3d7&displaylang=ko)  
+[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=7c84aa24-6331-427a-969c-27f7d39db3d7&displaylang=ko)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[VBScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=ea5c5e9c-0ecd-47bc-912d-5adc00d1aa21&displaylang=ko)  
+[VBScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=ea5c5e9c-0ecd-47bc-912d-5adc00d1aa21&displaylang=ko)  
 (KB981349)  
 (심각도 없음<sup>[2]</sup>)  
-[VBScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=79093796-4ea9-4c6c-92cc-3fd63c5db918&displaylang=ko)  
+[VBScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=79093796-4ea9-4c6c-92cc-3fd63c5db918&displaylang=ko)  
 (KB981332)  
 (심각도 없음<sup>[2]</sup>)
 </td>
@@ -1018,7 +1018,7 @@ Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=7c1d1622-1b67-438d-aae4-1a3954974a36&displaylang=ko)  
+[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=7c1d1622-1b67-438d-aae4-1a3954974a36&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -1096,45 +1096,45 @@ Windows Server 2008
 Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Authenticode Signature Verification 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=97ffeec8-8b6d-4a30-97b0-4bff2ba5e91d&displaylang=ko)\*  
+[Authenticode Signature Verification 6.0](https://www.microsoft.com/download/details.aspx?familyid=97ffeec8-8b6d-4a30-97b0-4bff2ba5e91d&displaylang=ko)\*  
 (KB978601)  
 (긴급)  
-[Cabinet File Viewer Shell Extension 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=f111735b-68b0-4bcc-9dd8-818a5eca3400)\*  
+[Cabinet File Viewer Shell Extension 6.0](https://www.microsoft.com/download/details.aspx?familyid=f111735b-68b0-4bcc-9dd8-818a5eca3400)\*  
 (KB979309)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=51c9c420-4507-4911-a8f5-82331a696882&displaylang=ko)\*  
+[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=51c9c420-4507-4911-a8f5-82331a696882&displaylang=ko)\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[MPEG Layer-3 코덱](http://www.microsoft.com/downloads/details.aspx?familyid=8e9c04c9-898f-4ed2-949d-f4343cc0d9f6&displaylang=ko)\*\*  
+[MPEG Layer-3 코덱](https://www.microsoft.com/download/details.aspx?familyid=8e9c04c9-898f-4ed2-949d-f4343cc0d9f6&displaylang=ko)\*\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=25e3ce7f-53a0-4049-a65c-011d2143c4c2&displaylang=ko)\*  
+[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=25e3ce7f-53a0-4049-a65c-011d2143c4c2&displaylang=ko)\*  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[VBScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=dbe89813-0a45-463b-928c-1e58f7bb596a&displaylang=ko)\*\*  
+[VBScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=dbe89813-0a45-463b-928c-1e58f7bb596a&displaylang=ko)\*\*  
 (KB981349)  
 (심각도 없음<sup>[2]</sup>)  
-[VBScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=527d6376-efc9-436b-835b-219d38bb28f0&displaylang=ko)\*\*  
+[VBScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=527d6376-efc9-436b-835b-219d38bb28f0&displaylang=ko)\*\*  
 (KB981332)  
 (심각도 없음<sup>[2]</sup>)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=e29ead69-000a-4982-a25c-f3981eda381a&displaylang=ko)\*\*  
+[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=e29ead69-000a-4982-a25c-f3981eda381a&displaylang=ko)\*\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=61ece7bc-e9fa-4ede-ba7d-9e5a4c64b9be&displaylang=ko)\*  
+[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=61ece7bc-e9fa-4ede-ba7d-9e5a4c64b9be&displaylang=ko)\*  
 (보통)
 </td>
 </tr>
@@ -1143,45 +1143,45 @@ Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시�
 Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Authenticode Signature Verification 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=49f9f740-023a-4291-becf-838a1d282321&displaylang=ko)\*  
+[Authenticode Signature Verification 6.0](https://www.microsoft.com/download/details.aspx?familyid=49f9f740-023a-4291-becf-838a1d282321&displaylang=ko)\*  
 (KB978601)  
 (긴급)  
-[Cabinet File Viewer Shell Extension 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=91c08251-0085-44cb-9e9c-9a1a84374caf)\*  
+[Cabinet File Viewer Shell Extension 6.0](https://www.microsoft.com/download/details.aspx?familyid=91c08251-0085-44cb-9e9c-9a1a84374caf)\*  
 (KB979309)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=61c26a1f-c885-4474-9843-204c41628889&displaylang=ko)\*  
+[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=61c26a1f-c885-4474-9843-204c41628889&displaylang=ko)\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[MPEG Layer-3 코덱](http://www.microsoft.com/downloads/details.aspx?familyid=d6f2e1ae-48d3-4d2c-b329-32cff00afee5&displaylang=ko)\*\*  
+[MPEG Layer-3 코덱](https://www.microsoft.com/download/details.aspx?familyid=d6f2e1ae-48d3-4d2c-b329-32cff00afee5&displaylang=ko)\*\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=8b99e54d-955b-4a06-9a04-b2f4596efd72&displaylang=ko)\*  
+[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=8b99e54d-955b-4a06-9a04-b2f4596efd72&displaylang=ko)\*  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[VBScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=9db62357-557d-40cd-9826-b7baa6c9de65&displaylang=ko)\*\*  
+[VBScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=9db62357-557d-40cd-9826-b7baa6c9de65&displaylang=ko)\*\*  
 (KB981349)  
 (심각도 없음<sup>[2]</sup>)  
-[VBScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=0c384dbc-21b7-4cbc-b68f-ced971d9b791&displaylang=ko)\*\*  
+[VBScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=0c384dbc-21b7-4cbc-b68f-ced971d9b791&displaylang=ko)\*\*  
 (KB981332)  
 (심각도 없음<sup>[2]</sup>)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=8f922e64-e3a6-46fe-9a81-b2813ea6a330&displaylang=ko)\*\*  
+[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=8f922e64-e3a6-46fe-9a81-b2813ea6a330&displaylang=ko)\*\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=72e7c7ea-55ef-457b-a03a-49aa9dea2e84&displaylang=ko)\*  
+[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=72e7c7ea-55ef-457b-a03a-49aa9dea2e84&displaylang=ko)\*  
 (보통
 </td>
 </tr>
@@ -1190,15 +1190,15 @@ Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 
 Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Authenticode Signature Verification 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=bd60779a-8bb1-4107-a344-9b09a50e96ff&displaylang=ko)  
+[Authenticode Signature Verification 6.0](https://www.microsoft.com/download/details.aspx?familyid=bd60779a-8bb1-4107-a344-9b09a50e96ff&displaylang=ko)  
 (KB978601)  
 (긴급)  
-[Cabinet File Viewer Shell Extension 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=eb116688-1d6e-4e20-948e-1d347af5d985)  
+[Cabinet File Viewer Shell Extension 6.0](https://www.microsoft.com/download/details.aspx?familyid=eb116688-1d6e-4e20-948e-1d347af5d985)  
 (KB979309)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=bcf8b919-08a9-487f-8dfd-3ca24328c4f3)  
+[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=bcf8b919-08a9-487f-8dfd-3ca24328c4f3)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
@@ -1211,11 +1211,11 @@ Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b1f9746d-61a2-406f-b707-60646bd5b5bb)  
+[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b1f9746d-61a2-406f-b707-60646bd5b5bb)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[VBScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=84c5aaae-9417-42a1-834f-22c1ad46a12f)  
+[VBScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=84c5aaae-9417-42a1-834f-22c1ad46a12f)  
 (KB981349)  
 (심각도 없음<sup>[2]</sup>)
 </td>
@@ -1223,7 +1223,7 @@ Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=8c48302c-a1d6-41bc-ad24-7ce7332d4842)  
+[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=8c48302c-a1d6-41bc-ad24-7ce7332d4842)  
 (보통)
 </td>
 </tr>
@@ -1301,15 +1301,15 @@ Windows 7
 Windows 7(32비트 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Authenticode Signature Verification 6.1](http://www.microsoft.com/downloads/details.aspx?familyid=8d4a6c65-e171-4570-8f3f-118f06910baf&displaylang=ko)  
+[Authenticode Signature Verification 6.1](https://www.microsoft.com/download/details.aspx?familyid=8d4a6c65-e171-4570-8f3f-118f06910baf&displaylang=ko)  
 (KB978601)  
 (긴급)  
-[Cabinet File Viewer Shell Extension 6.1](http://www.microsoft.com/downloads/details.aspx?familyid=f0dbac52-0f0e-40bc-9371-17fa594424d5)  
+[Cabinet File Viewer Shell Extension 6.1](https://www.microsoft.com/download/details.aspx?familyid=f0dbac52-0f0e-40bc-9371-17fa594424d5)  
 (KB979309)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=389184c5-9001-497d-bdf4-81f97ecb617f&displaylang=ko)  
+[Windows 7(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=389184c5-9001-497d-bdf4-81f97ecb617f&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
@@ -1322,11 +1322,11 @@ Windows 7(32비트 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=ff58d80c-33ce-4d9e-aaa5-0b1841458931&displaylang=ko)  
+[Windows 7(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=ff58d80c-33ce-4d9e-aaa5-0b1841458931&displaylang=ko)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[VBScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=c3f76835-0053-4e53-a451-14255e7a4fc0&displaylang=ko)  
+[VBScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=c3f76835-0053-4e53-a451-14255e7a4fc0&displaylang=ko)  
 (KB981332)  
 (심각도 없음<sup>[2]</sup>)
 </td>
@@ -1342,15 +1342,15 @@ Windows 7(32비트 시스템용)
 Windows 7(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Authenticode Signature Verification 6.1](http://www.microsoft.com/downloads/details.aspx?familyid=cf8c6721-05c2-4680-93b4-be36f09c6d15&displaylang=ko)  
+[Authenticode Signature Verification 6.1](https://www.microsoft.com/download/details.aspx?familyid=cf8c6721-05c2-4680-93b4-be36f09c6d15&displaylang=ko)  
 (KB978601)  
 (긴급)  
-[Cabinet File Viewer Shell Extension 6.1](http://www.microsoft.com/downloads/details.aspx?familyid=b23efe7d-bca4-4d49-9104-6ae39dc5daa9)  
+[Cabinet File Viewer Shell Extension 6.1](https://www.microsoft.com/download/details.aspx?familyid=b23efe7d-bca4-4d49-9104-6ae39dc5daa9)  
 (KB979309)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=f3495dae-71f3-421d-a191-d26965f26ad1&displaylang=ko)  
+[Windows 7(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=f3495dae-71f3-421d-a191-d26965f26ad1&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
@@ -1363,11 +1363,11 @@ Windows 7(x64 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=7f1dc055-2ec9-407a-9e69-da12338587e3&displaylang=ko)  
+[Windows 7(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=7f1dc055-2ec9-407a-9e69-da12338587e3&displaylang=ko)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[VBScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=998164b7-4b8c-468b-8d39-f242633c8838&displaylang=ko)  
+[VBScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=998164b7-4b8c-468b-8d39-f242633c8838&displaylang=ko)  
 (KB981332)  
 (심각도 없음<sup>[2]</sup>)
 </td>
@@ -1452,15 +1452,15 @@ Windows Server 2008 R2
 Windows Server 2008 R2(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Authenticode Signature Verification 6.1](http://www.microsoft.com/downloads/details.aspx?familyid=94dfdaae-8464-4de6-a401-7eb70b3bb34f&displaylang=ko)\*  
+[Authenticode Signature Verification 6.1](https://www.microsoft.com/download/details.aspx?familyid=94dfdaae-8464-4de6-a401-7eb70b3bb34f&displaylang=ko)\*  
 (KB978601)  
 (긴급)  
-[Cabinet File Viewer Shell Extension 6.1](http://www.microsoft.com/downloads/details.aspx?familyid=a2979c02-2a80-4b84-bf6c-4798064bdf28)\*  
+[Cabinet File Viewer Shell Extension 6.1](https://www.microsoft.com/download/details.aspx?familyid=a2979c02-2a80-4b84-bf6c-4798064bdf28)\*  
 (KB979309)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=cd1a046e-915d-4904-b753-5a24be10c504&displaylang=ko)\*  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=cd1a046e-915d-4904-b753-5a24be10c504&displaylang=ko)\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
@@ -1473,16 +1473,16 @@ Windows Server 2008 R2(x64 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=28389c1d-2a12-4bef-a59b-726bb6449c8b&displaylang=ko)\*  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=28389c1d-2a12-4bef-a59b-726bb6449c8b&displaylang=ko)\*  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[VBScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=c4039d40-a0c7-4183-ab50-04f690d1c5dc&displaylang=ko)\*\*  
+[VBScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=c4039d40-a0c7-4183-ab50-04f690d1c5dc&displaylang=ko)\*\*  
 (KB981332)  
 (심각도 없음<sup>[2]</sup>)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=eb27cd2b-d514-4405-8650-259a42e35155&displaylang=ko)\*\*  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=eb27cd2b-d514-4405-8650-259a42e35155&displaylang=ko)\*\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -1494,15 +1494,15 @@ Windows Server 2008 R2(x64 기반 시스템용)
 Windows Server 2008 R2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Authenticode Signature Verification 6.1](http://www.microsoft.com/downloads/details.aspx?familyid=40f622d2-48e7-4eb2-9430-bbd218cb5208&displaylang=ko)  
+[Authenticode Signature Verification 6.1](https://www.microsoft.com/download/details.aspx?familyid=40f622d2-48e7-4eb2-9430-bbd218cb5208&displaylang=ko)  
 (KB978601)  
 (긴급)  
-[Cabinet File Viewer Shell Extension 6.1](http://www.microsoft.com/downloads/details.aspx?familyid=5e416d4b-5de7-4688-80c6-245de159e0ce)  
+[Cabinet File Viewer Shell Extension 6.1](https://www.microsoft.com/download/details.aspx?familyid=5e416d4b-5de7-4688-80c6-245de159e0ce)  
 (KB979309)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=541e9e2f-ec1d-42b2-aae5-481c0d435169)  
+[Windows Server 2008 R2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=541e9e2f-ec1d-42b2-aae5-481c0d435169)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
@@ -1515,11 +1515,11 @@ Windows Server 2008 R2(Itanium 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=d4ea3984-5183-47f1-814e-29cb6c90ae06)  
+[Windows Server 2008 R2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=d4ea3984-5183-47f1-814e-29cb6c90ae06)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[VBScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=8174463c-5c5e-4095-90c8-fd1e898d4ba5)  
+[VBScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=8174463c-5c5e-4095-90c8-fd1e898d4ba5)  
 (KB981332)  
 (심각도 없음<sup>[2]</sup>)
 </td>
@@ -1593,12 +1593,12 @@ Microsoft Office 제품군, 시스템 및 구성 요소
 Microsoft Office XP
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Publisher 2002 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=943b3830-70d5-46c5-bffc-1b494434b5f7&displaylang=ko)  
+[Microsoft Office Publisher 2002 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=943b3830-70d5-46c5-bffc-1b494434b5f7&displaylang=ko)  
 (KB980466)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Visio 2002 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=2d563cbc-d8f7-486b-8c54-25d168085376&displaylang=ko)  
+[Microsoft Office Visio 2002 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=2d563cbc-d8f7-486b-8c54-25d168085376&displaylang=ko)  
 (KB979364)  
 (중요)
 </td>
@@ -1608,12 +1608,12 @@ Microsoft Office XP
 Microsoft Office 2003
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Publisher 2003 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=7c2f4610-77bb-4d72-847b-1a06c523b137&displaylang=ko)  
+[Microsoft Office Publisher 2003 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=7c2f4610-77bb-4d72-847b-1a06c523b137&displaylang=ko)  
 (KB980469)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Visio 2003 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=803a7ea0-a9da-46dd-9548-0177d3774be7&displaylang=ko)  
+[Microsoft Office Visio 2003 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=803a7ea0-a9da-46dd-9548-0177d3774be7&displaylang=ko)  
 (KB979356)
 </td>
 </tr>
@@ -1622,12 +1622,12 @@ Microsoft Office 2003
 2007 Microsoft Office System
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Publisher 2007 서비스 팩 1 및 Microsoft Office Publisher 2007 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=10ca2f71-0ab2-4344-b7fd-bbbd6a783a96&displaylang=ko)  
+[Microsoft Office Publisher 2007 서비스 팩 1 및 Microsoft Office Publisher 2007 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=10ca2f71-0ab2-4344-b7fd-bbbd6a783a96&displaylang=ko)  
 (KB980470)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Visio 2007 서비스 팩 1 및 Microsoft Office Visio 2007 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=56fe020f-4444-4a43-aa98-e99a622f6a69&displaylang=ko)  
+[Microsoft Office Visio 2007 서비스 팩 1 및 Microsoft Office Visio 2007 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=56fe020f-4444-4a43-aa98-e99a622f6a69&displaylang=ko)  
 (KB979365)  
 (중요)
 </td>
@@ -1672,7 +1672,7 @@ Microsoft Exchange Server
 Microsoft Exchange Server 2000
 </td>
 <td style="border:1px solid black;">
-[Microsoft Exchange Server 2000 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=e47c90a0-c9c8-43b7-bec7-34107ddde294&displaylang=ko)  
+[Microsoft Exchange Server 2000 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=e47c90a0-c9c8-43b7-bec7-34107ddde294&displaylang=ko)  
 (KB976703)  
 (보통)
 </td>
@@ -1682,7 +1682,7 @@ Microsoft Exchange Server 2000
 Microsoft Exchange Server 2003
 </td>
 <td style="border:1px solid black;">
-[Microsoft Exchange Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=bc8391f8-5335-496b-ad4c-bae38509be4a&displaylang=ko)  
+[Microsoft Exchange Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=bc8391f8-5335-496b-ad4c-bae38509be4a&displaylang=ko)  
 (KB976702)  
 (중요)
 </td>
@@ -1692,10 +1692,10 @@ Microsoft Exchange Server 2003
 Microsoft Exchange Server 2007
 </td>
 <td style="border:1px solid black;">
-[Microsoft Exchange Server 2007 서비스 팩 1(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=6a894b4e-12b6-4a91-9555-d813956b6aac&displaylang=ko)  
+[Microsoft Exchange Server 2007 서비스 팩 1(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=6a894b4e-12b6-4a91-9555-d813956b6aac&displaylang=ko)  
 (KB981407)  
 (심각도 없음<sup>[1]</sup>)  
-[Microsoft Exchange Server 2007 서비스 팩 2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=b8f7f872-16d5-49d6-9867-adc01351c06f&displaylang=ko)  
+[Microsoft Exchange Server 2007 서비스 팩 2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=b8f7f872-16d5-49d6-9867-adc01351c06f&displaylang=ko)  
 (KB981383)  
 (심각도 없음<sup>[1]</sup>)
 </td>
@@ -1705,7 +1705,7 @@ Microsoft Exchange Server 2007
 Microsoft Exchange Server 2010
 </td>
 <td style="border:1px solid black;">
-[Microsoft Exchange Server 2010(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=7dcf2390-dff7-4e3a-acca-03f4d43fb79a&displaylang=ko)  
+[Microsoft Exchange Server 2010(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=7dcf2390-dff7-4e3a-acca-03f4d43fb79a&displaylang=ko)  
 (KB981401)  
 (심각도 없음<sup>[1]</sup>)
 </td>
@@ -1753,7 +1753,7 @@ Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 
 
 **UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)**
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Microsoft Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 

@@ -122,7 +122,7 @@ Microsoft Windows 2000
 Microsoft Windows 2000 서비스 팩 4
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=e0678d14-c1b5-457a-8222-8e7682760ed4&displaylang=ko)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=e0678d14-c1b5-457a-8222-8e7682760ed4&displaylang=ko)  
 (긴급)
 </td>
 </tr>
@@ -152,7 +152,7 @@ Windows XP
 Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=eeafcdc5-df39-4b29-b6f1-7d32b64761e1&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=eeafcdc5-df39-4b29-b6f1-7d32b64761e1&displaylang=ko)  
 (긴급)
 </td>
 </tr>
@@ -161,7 +161,7 @@ Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=26898401-f669-4542-ad93-199ed1fe9a2a)  
+[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=26898401-f669-4542-ad93-199ed1fe9a2a)  
 (긴급)
 </td>
 </tr>
@@ -191,7 +191,7 @@ Windows Server 2003
 Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=588ca8e8-38a9-47ed-9c41-09aaf1022e49&displaylang=ko)  
+[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=588ca8e8-38a9-47ed-9c41-09aaf1022e49&displaylang=ko)  
 (긴급)
 </td>
 </tr>
@@ -200,7 +200,7 @@ Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2
 Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=ee59441c-1e8f-4425-ae8d-dec14e7f13fb&displaylang=ko)  
+[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=ee59441c-1e8f-4425-ae8d-dec14e7f13fb&displaylang=ko)  
 (긴급)
 </td>
 </tr>
@@ -209,7 +209,7 @@ Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 �
 Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=caec9321-fa5b-42f0-9f26-61f673fe6eef)  
+[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=caec9321-fa5b-42f0-9f26-61f673fe6eef)  
 (긴급)
 </td>
 </tr>
@@ -239,7 +239,7 @@ Windows Vista
 Windows Vista 및 Windows Vista 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 및 Windows Vista 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=9179c463-c10a-452a-990f-b7e37cdd889b&displaylang=ko)  
+[Windows Vista 및 Windows Vista 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=9179c463-c10a-452a-990f-b7e37cdd889b&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -248,7 +248,7 @@ Windows Vista 및 Windows Vista 서비스 팩 1
 Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=6b26952e-b59d-4b0f-a52d-025e45ecd233&displaylang=ko)  
+[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=6b26952e-b59d-4b0f-a52d-025e45ecd233&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -278,7 +278,7 @@ Windows Server 2008
 Windows Server 2008 (32비트 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 (32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=7245b411-7c9e-41e5-9841-4c586336086c&displaylang=ko)\*  
+[Windows Server 2008 (32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=7245b411-7c9e-41e5-9841-4c586336086c&displaylang=ko)\*  
 (보통)
 </td>
 </tr>
@@ -287,7 +287,7 @@ Windows Server 2008 (32비트 시스템용)
 Windows Server 2008 (x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 (x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=a241eaad-95a0-442b-978f-f21a6f0c7db4&displaylang=ko)\*  
+[Windows Server 2008 (x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=a241eaad-95a0-442b-978f-f21a6f0c7db4&displaylang=ko)\*  
 (보통)
 </td>
 </tr>
@@ -296,7 +296,7 @@ Windows Server 2008 (x64 기반 시스템용)
 Windows Server 2008 (Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 (Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=ab7c7015-20bb-4a0c-977a-969f4e2a5189)  
+[Windows Server 2008 (Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=ab7c7015-20bb-4a0c-977a-969f4e2a5189)  
 (보통)
 </td>
 </tr>
@@ -339,7 +339,7 @@ Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 
 
 **UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)**
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit) 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit) 5.0](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Microsoft Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 

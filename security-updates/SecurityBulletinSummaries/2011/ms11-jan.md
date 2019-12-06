@@ -140,7 +140,7 @@ Windows XP
 Windows XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Data Access Components 2.8 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=7951fd7b-6b0a-4168-8519-312a62ff3289&displaylang=ko)  
+[Microsoft Data Access Components 2.8 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=7951fd7b-6b0a-4168-8519-312a62ff3289&displaylang=ko)  
 (KB2419632)  
 (긴급)
 </td>
@@ -153,7 +153,7 @@ Windows XP 서비스 팩 3
 Windows XP Professional x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Data Access Components 2.8 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=ce06bfdc-7b0d-4e65-9a13-e009e3a6a9f0)  
+[Microsoft Data Access Components 2.8 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=ce06bfdc-7b0d-4e65-9a13-e009e3a6a9f0)  
 (KB2419635)  
 (긴급)
 </td>
@@ -193,7 +193,7 @@ Windows Server 2003
 Windows Server 2003 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Data Access Components 2.8 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=d451ced7-c9c7-4c41-9d44-8f8929fca390&displaylang=ko)  
+[Microsoft Data Access Components 2.8 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=d451ced7-c9c7-4c41-9d44-8f8929fca390&displaylang=ko)  
 (KB2419635)  
 (중요)
 </td>
@@ -206,7 +206,7 @@ Windows Server 2003 서비스 팩 2
 Windows Server 2003 x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Data Access Components 2.8 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=3f2c8cfa-819e-4fd9-93ba-b687eb2d46fe&displaylang=ko)  
+[Microsoft Data Access Components 2.8 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=3f2c8cfa-819e-4fd9-93ba-b687eb2d46fe&displaylang=ko)  
 (KB2419635)  
 (중요)
 </td>
@@ -219,7 +219,7 @@ Windows Server 2003 x64 Edition 서비스 팩 2
 Windows Server 2003 SP2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Data Access Components 2.8 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=8dbcbb91-464b-4eb3-b7e5-afe82febf8d7)  
+[Microsoft Data Access Components 2.8 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=8dbcbb91-464b-4eb3-b7e5-afe82febf8d7)  
 (KB2419635)  
 (중요)
 </td>
@@ -259,12 +259,12 @@ Windows Vista
 Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Data Access Components 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=13445e4a-099a-4edd-864e-c44f42940500&displaylang=ko)  
+[Windows Data Access Components 6.0](https://www.microsoft.com/download/details.aspx?familyid=13445e4a-099a-4edd-864e-c44f42940500&displaylang=ko)  
 (KB2419640)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=4eeaad20-729c-4594-8853-e4ae55e9d491&displaylang=ko)  
+[Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=4eeaad20-729c-4594-8853-e4ae55e9d491&displaylang=ko)  
 (중요)
 </td>
 </tr>
@@ -273,12 +273,12 @@ Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2
 Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Data Access Components 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=fd6b806e-50d4-4f4d-96e1-7c71fca4c543&displaylang=ko)  
+[Windows Data Access Components 6.0](https://www.microsoft.com/download/details.aspx?familyid=fd6b806e-50d4-4f4d-96e1-7c71fca4c543&displaylang=ko)  
 (KB2419640)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b2839cd0-1958-4a22-9aac-0e0aa8f2b52c&displaylang=ko)  
+[Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b2839cd0-1958-4a22-9aac-0e0aa8f2b52c&displaylang=ko)  
 (중요)
 </td>
 </tr>
@@ -314,7 +314,7 @@ Windows Server 2008
 Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Data Access Components 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=3d0885ac-97b3-46b5-970d-cc810270fba3&displaylang=ko)\*  
+[Windows Data Access Components 6.0](https://www.microsoft.com/download/details.aspx?familyid=3d0885ac-97b3-46b5-970d-cc810270fba3&displaylang=ko)\*  
 (KB2419640)  
 (중요)
 </td>
@@ -327,7 +327,7 @@ Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시�
 Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Data Access Components 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=8f33c57e-343c-4cdb-b667-af18a8779ad2&displaylang=ko)\*  
+[Windows Data Access Components 6.0](https://www.microsoft.com/download/details.aspx?familyid=8f33c57e-343c-4cdb-b667-af18a8779ad2&displaylang=ko)\*  
 (KB2419640)  
 (중요)
 </td>
@@ -340,7 +340,7 @@ Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 
 Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Data Access Components 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=5ecc8180-6baa-4f4b-a392-4b45a30469fc)  
+[Windows Data Access Components 6.0](https://www.microsoft.com/download/details.aspx?familyid=5ecc8180-6baa-4f4b-a392-4b45a30469fc)  
 (KB2419640)  
 (중요)
 </td>
@@ -380,7 +380,7 @@ Windows 7
 Windows 7(32비트 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Data Access Components 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=3dfd4f1c-e7a5-4686-8d2c-b7a5a53c5333&displaylang=ko)  
+[Windows Data Access Components 6.0](https://www.microsoft.com/download/details.aspx?familyid=3dfd4f1c-e7a5-4686-8d2c-b7a5a53c5333&displaylang=ko)  
 (KB2419640)  
 (긴급)
 </td>
@@ -393,7 +393,7 @@ Windows 7(32비트 시스템용)
 Windows 7(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Data Access Components 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=cf30e5c0-811b-4ecd-a6b2-874000d25074&displaylang=ko)  
+[Windows Data Access Components 6.0](https://www.microsoft.com/download/details.aspx?familyid=cf30e5c0-811b-4ecd-a6b2-874000d25074&displaylang=ko)  
 (KB2419640)  
 (긴급)
 </td>
@@ -433,7 +433,7 @@ Windows Server 2008 R2
 Windows Server 2008 R2(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Data Access Components 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=cc9bac5a-3eaa-46fb-9ef4-c511b5f57996&displaylang=ko)\*  
+[Windows Data Access Components 6.0](https://www.microsoft.com/download/details.aspx?familyid=cc9bac5a-3eaa-46fb-9ef4-c511b5f57996&displaylang=ko)\*  
 (KB2419640)  
 (중요)
 </td>
@@ -446,7 +446,7 @@ Windows Server 2008 R2(x64 기반 시스템용)
 Windows Server 2008 R2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Data Access Components 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=ba2612ec-ffad-4cd3-85c6-ba07f70a0d24)  
+[Windows Data Access Components 6.0](https://www.microsoft.com/download/details.aspx?familyid=ba2612ec-ffad-4cd3-85c6-ba07f70a0d24)  
 (KB2419640)  
 (중요)
 </td>
@@ -505,7 +505,7 @@ Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 
 
 UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Microsoft Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 

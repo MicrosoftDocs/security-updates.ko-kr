@@ -788,54 +788,54 @@ Windows XP
 Windows XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=9bf087e7-4487-48bf-84e9-04b816411a0f&displaylang=ko)   
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=9bf087e7-4487-48bf-84e9-04b816411a0f&displaylang=ko)   
 (KB2792100)  
 (긴급)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=4501ef62-7d06-49b7-af86-c84e399e6275&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=4501ef62-7d06-49b7-af86-c84e399e6275&displaylang=ko)  
 (KB2792100)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=2ab64eac-8ecf-4178-9a01-5f10fc2f049e&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=2ab64eac-8ecf-4178-9a01-5f10fc2f049e&displaylang=ko)  
 (KB2792100)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=daed0c2e-bd9a-4685-a5f9-1c01f7fdeccf&displaylang=ko)   
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=daed0c2e-bd9a-4685-a5f9-1c01f7fdeccf&displaylang=ko)   
 (KB2797052)  
 (긴급)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=fd693211-bcc8-4267-9aa1-86bac45e25bf&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=fd693211-bcc8-4267-9aa1-86bac45e25bf&displaylang=ko)  
 (KB2797052)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=e8924d23-f6e2-41bf-9542-f8991d084db9&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=e8924d23-f6e2-41bf-9542-f8991d084db9&displaylang=ko)  
 (KB2797052)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Quartz.dll(DirectShow)](http://www.microsoft.com/downloads/details.aspx?familyid=95f5acea-32a0-42a5-a14d-837edf313984&displaylang=ko)   
+[Quartz.dll(DirectShow)](https://www.microsoft.com/download/details.aspx?familyid=95f5acea-32a0-42a5-a14d-837edf313984&displaylang=ko)   
 (KB2780091)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=3a8ddbab-5999-48b7-9de8-423954f345b6)  
+[Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=3a8ddbab-5999-48b7-9de8-423954f345b6)  
 (KB2802968)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 2.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=eb202940-0ece-4631-83d5-8cf52c7dbf36&displaylang=ko)  
+[Microsoft .NET Framework 2.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=eb202940-0ece-4631-83d5-8cf52c7dbf36&displaylang=ko)  
 (KB2789643)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
 (KB2789642)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=cdaa7282-c354-4d70-938a-a025631205a2&displaylang=ko)  
+[Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=cdaa7282-c354-4d70-938a-a025631205a2&displaylang=ko)  
 (KB2778344)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=9100bf70-8723-4635-9b78-f7c3048a950f&displaylang=ko)  
+[Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=9100bf70-8723-4635-9b78-f7c3048a950f&displaylang=ko)  
 (KB2799494)    
 (중요)
 </td>
@@ -851,29 +851,29 @@ Windows XP 서비스 팩 3
 Windows XP Professional x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=c42347dd-5ec8-4760-a685-2cd7b6bb7bb2)   
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=c42347dd-5ec8-4760-a685-2cd7b6bb7bb2)   
 (KB2792100)  
 (긴급)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=6513176c-e9cb-4863-a228-5bc369135996)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=6513176c-e9cb-4863-a228-5bc369135996)  
 (KB2792100)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=25e15457-ffd2-4466-aff9-1d0830e967d7)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=25e15457-ffd2-4466-aff9-1d0830e967d7)  
 (KB2792100)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=dd9383b9-a6df-44a7-bea9-8f7d088bc488)   
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=dd9383b9-a6df-44a7-bea9-8f7d088bc488)   
 (KB2797052)  
 (긴급)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=b042e717-bf4e-44a1-a1ba-6359bf551e8e)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=b042e717-bf4e-44a1-a1ba-6359bf551e8e)  
 (KB2797052)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=c8618c96-25c0-415b-b147-5713ec5ab5b1)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=c8618c96-25c0-415b-b147-5713ec5ab5b1)  
 (KB2797052)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Quartz.dll(DirectShow)](http://www.microsoft.com/downloads/details.aspx?familyid=06ef35a1-f76f-4e99-a8b2-6b086c7e51be)   
+[Quartz.dll(DirectShow)](https://www.microsoft.com/download/details.aspx?familyid=06ef35a1-f76f-4e99-a8b2-6b086c7e51be)   
 (KB2780091)  
 (긴급)
 </td>
@@ -884,20 +884,20 @@ Windows XP Professional x64 Edition 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 2.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=eb202940-0ece-4631-83d5-8cf52c7dbf36)  
+[Microsoft .NET Framework 2.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=eb202940-0ece-4631-83d5-8cf52c7dbf36)  
 (KB2789643)   
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05)<sup>[1]</sup>
 (KB2789642)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=f72228df-8379-4bd9-b446-cb9505e9d228)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=f72228df-8379-4bd9-b446-cb9505e9d228)  
 (KB2778344)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=9a945336-b037-4ee6-9ea2-dfb885747b97)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=9a945336-b037-4ee6-9ea2-dfb885747b97)  
 (KB2799494)    
 (중요)
 </td>
@@ -988,29 +988,29 @@ Windows Server 2003
 Windows Server 2003 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=35b58c7a-aae3-4445-957a-42ee708d77a5&displaylang=ko)   
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=35b58c7a-aae3-4445-957a-42ee708d77a5&displaylang=ko)   
 (KB2792100)  
 (보통)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=3ee73b80-b8f6-4843-afba-41c7b55faf17&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=3ee73b80-b8f6-4843-afba-41c7b55faf17&displaylang=ko)  
 (KB2792100)  
 (보통)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=d67754e2-7ebd-484d-a008-ed8719e0c72d&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=d67754e2-7ebd-484d-a008-ed8719e0c72d&displaylang=ko)  
 (KB2792100)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=9b96ebfc-93e9-41bb-81f9-35c433ca5479&displaylang=ko)   
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=9b96ebfc-93e9-41bb-81f9-35c433ca5479&displaylang=ko)   
 (KB2797052)  
 (긴급)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=b902617d-1f35-4b17-9a44-235c0d3c27d2&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=b902617d-1f35-4b17-9a44-235c0d3c27d2&displaylang=ko)  
 (KB2797052)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=47ca5d22-b957-4ac9-91e9-c440b0614728&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=47ca5d22-b957-4ac9-91e9-c440b0614728&displaylang=ko)  
 (KB2797052)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Quartz.dll(DirectShow)](http://www.microsoft.com/downloads/details.aspx?familyid=e3b0b928-0f76-4b51-871a-aeda2ee3b7d5&displaylang=ko)   
+[Quartz.dll(DirectShow)](https://www.microsoft.com/download/details.aspx?familyid=e3b0b928-0f76-4b51-871a-aeda2ee3b7d5&displaylang=ko)   
 (KB2780091)  
 (긴급)
 </td>
@@ -1021,20 +1021,20 @@ Windows Server 2003 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 2.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=eb202940-0ece-4631-83d5-8cf52c7dbf36&displaylang=ko)  
+[Microsoft .NET Framework 2.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=eb202940-0ece-4631-83d5-8cf52c7dbf36&displaylang=ko)  
 (KB2789643)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
 (KB2789642)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=8daebdb5-eba2-4685-b781-ead5c2185548&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=8daebdb5-eba2-4685-b781-ead5c2185548&displaylang=ko)  
 (KB2778344)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=c005c0a0-4025-4a07-a76d-c57ed5afbd68&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=c005c0a0-4025-4a07-a76d-c57ed5afbd68&displaylang=ko)  
 (KB2799494)    
 (중요)
 </td>
@@ -1050,29 +1050,29 @@ Windows Server 2003 서비스 팩 2
 Windows Server 2003 x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=075de724-b996-413f-8ff3-74f435d94b9b&displaylang=ko)   
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=075de724-b996-413f-8ff3-74f435d94b9b&displaylang=ko)   
 (KB2792100)  
 (보통)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=a90d6861-7ff6-4501-9200-f72b5a9f1817&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=a90d6861-7ff6-4501-9200-f72b5a9f1817&displaylang=ko)  
 (KB2792100)  
 (보통)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=319a7a93-c03e-4c0b-a5c4-6a4f379d781e&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=319a7a93-c03e-4c0b-a5c4-6a4f379d781e&displaylang=ko)  
 (KB2792100)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=b3ca28b1-9d3c-4df5-b8d7-f31d70f6e714&displaylang=ko)   
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=b3ca28b1-9d3c-4df5-b8d7-f31d70f6e714&displaylang=ko)   
 (KB2797052)  
 (긴급)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=e13c9366-9cb6-4e62-bf6c-a09fe7842463&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=e13c9366-9cb6-4e62-bf6c-a09fe7842463&displaylang=ko)  
 (KB2797052)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=80aab9c7-4511-4d44-b570-c77cdb50e542&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=80aab9c7-4511-4d44-b570-c77cdb50e542&displaylang=ko)  
 (KB2797052)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Quartz.dll(DirectShow)](http://www.microsoft.com/downloads/details.aspx?familyid=493377a4-4ce2-4dd9-ba84-090466248669&displaylang=ko)   
+[Quartz.dll(DirectShow)](https://www.microsoft.com/download/details.aspx?familyid=493377a4-4ce2-4dd9-ba84-090466248669&displaylang=ko)   
 (KB2780091)  
 (긴급)
 </td>
@@ -1083,20 +1083,20 @@ Windows Server 2003 x64 Edition 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 2.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=eb202940-0ece-4631-83d5-8cf52c7dbf36&displaylang=ko)  
+[Microsoft .NET Framework 2.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=eb202940-0ece-4631-83d5-8cf52c7dbf36&displaylang=ko)  
 (KB2789643)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
 (KB2789642)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=e7d03ef2-517b-4442-a968-5aaa300dd2ba&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=e7d03ef2-517b-4442-a968-5aaa300dd2ba&displaylang=ko)  
 (KB2778344)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=dc004424-61f9-49ed-9cb3-b89ed9e98aef&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=dc004424-61f9-49ed-9cb3-b89ed9e98aef&displaylang=ko)  
 (KB2799494)    
 (중요)
 </td>
@@ -1112,23 +1112,23 @@ Windows Server 2003 x64 Edition 서비스 팩 2
 Windows Server 2003 SP2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=92ce1fa1-4b12-4fd5-9a02-21fc9b119fb9)   
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=92ce1fa1-4b12-4fd5-9a02-21fc9b119fb9)   
 (KB2792100)  
 (보통)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=5965ce09-c5d7-4072-bad3-df46f9b76478)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=5965ce09-c5d7-4072-bad3-df46f9b76478)  
 (KB2792100)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=63791740-00e2-4569-967e-36086efe6ca6)   
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=63791740-00e2-4569-967e-36086efe6ca6)   
 (KB2797052)  
 (긴급)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=d1a9b2b2-191c-4ffe-9c8a-8ef641a45eb7)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=d1a9b2b2-191c-4ffe-9c8a-8ef641a45eb7)  
 (KB2797052)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Quartz.dll(DirectShow)](http://www.microsoft.com/downloads/details.aspx?familyid=8e9a09fd-f360-4471-ac89-481dc2935cec)   
+[Quartz.dll(DirectShow)](https://www.microsoft.com/download/details.aspx?familyid=8e9a09fd-f360-4471-ac89-481dc2935cec)   
 (KB2780091)  
 (긴급)
 </td>
@@ -1139,20 +1139,20 @@ Windows Server 2003 SP2(Itanium 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 2.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=eb202940-0ece-4631-83d5-8cf52c7dbf36)  
+[Microsoft .NET Framework 2.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=eb202940-0ece-4631-83d5-8cf52c7dbf36)  
 (KB2789643)  
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05)<sup>[1]</sup>
 (KB2789642)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=2a3039a4-9b46-4db8-a539-07d52bbf1b92)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=2a3039a4-9b46-4db8-a539-07d52bbf1b92)  
 (KB2778344)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=3cad66f1-6651-4948-9579-9df050fdaa1b)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=3cad66f1-6651-4948-9579-9df050fdaa1b)  
 (KB2799494)    
 (중요)
 </td>
@@ -1243,29 +1243,29 @@ Windows Vista
 Windows Vista 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=eea43429-2691-4a31-a640-d74035145d2d&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=eea43429-2691-4a31-a640-d74035145d2d&displaylang=ko)  
 (KB2792100)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=5c195229-8e63-4fff-a304-13c13b2fa132&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=5c195229-8e63-4fff-a304-13c13b2fa132&displaylang=ko)  
 (KB2792100)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=7f7ce868-28ce-497e-882f-3abfdd9b89e8&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=7f7ce868-28ce-497e-882f-3abfdd9b89e8&displaylang=ko)   
 (KB2792100)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=4f946407-cd81-48b5-a279-1ab81388b70b&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=4f946407-cd81-48b5-a279-1ab81388b70b&displaylang=ko)  
 (KB2797052)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=e0cfc24f-293c-4817-a69c-f9cfd514e1c1&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=e0cfc24f-293c-4817-a69c-f9cfd514e1c1&displaylang=ko)  
 (KB2797052)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=4fab0417-5c9a-4e5d-864d-b1b3bee6fc89&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=4fab0417-5c9a-4e5d-864d-b1b3bee6fc89&displaylang=ko)   
 (KB2797052)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Quartz.dll(DirectShow)](http://www.microsoft.com/downloads/details.aspx?familyid=d730eacf-e30a-45aa-89da-dfec5e87906a&displaylang=ko)   
+[Quartz.dll(DirectShow)](https://www.microsoft.com/download/details.aspx?familyid=d730eacf-e30a-45aa-89da-dfec5e87906a&displaylang=ko)   
 (KB2780091)  
 (긴급)
 </td>
@@ -1276,28 +1276,28 @@ Windows Vista 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 2.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b59753f0-b7cb-41c2-9c31-4f2de8356477&displaylang=ko)  
+[Microsoft .NET Framework 2.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b59753f0-b7cb-41c2-9c31-4f2de8356477&displaylang=ko)  
 (KB2789646)   
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
 (KB2789642)    
 (중요)  
-[Microsoft .NET Framework 4.5](http://www.microsoft.com/downloads/details.aspx?familyid=b5cfc358-e5ff-445c-8d43-3f79fead6139&displaylang=ko)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/details.aspx?familyid=b5cfc358-e5ff-445c-8d43-3f79fead6139&displaylang=ko)  
 (KB2789648)   
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=0ff0475c-cc1b-4886-971e-1a71e6b311c3&displaylang=ko)  
+[Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=0ff0475c-cc1b-4886-971e-1a71e6b311c3&displaylang=ko)  
 (KB2778344)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=4de1249f-012e-47cb-ad08-4fd5bddb0879&displaylang=ko)  
+[Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=4de1249f-012e-47cb-ad08-4fd5bddb0879&displaylang=ko)  
 (KB2799494)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=80b766e7-3b7f-4d04-9a80-71864a13df8c&displaylang=ko)  
+[Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=80b766e7-3b7f-4d04-9a80-71864a13df8c&displaylang=ko)  
 (KB2790655)    
 (보통)
 </td>
@@ -1310,29 +1310,29 @@ Windows Vista 서비스 팩 2
 Windows Vista x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=308d99ff-7575-4d70-958f-0d57fd6bffab&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=308d99ff-7575-4d70-958f-0d57fd6bffab&displaylang=ko)  
 (KB2792100)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=d9d4987e-95ad-4246-a52b-7ac859a40e67&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=d9d4987e-95ad-4246-a52b-7ac859a40e67&displaylang=ko)  
 (KB2792100)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=74b370c0-29f5-4acb-a3cd-bd2c2b708bb7&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=74b370c0-29f5-4acb-a3cd-bd2c2b708bb7&displaylang=ko)   
 (KB2792100)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=6ffb3215-1c90-4eb2-9143-0866efc98374&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=6ffb3215-1c90-4eb2-9143-0866efc98374&displaylang=ko)  
 (KB2797052)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=649dbf4e-654b-48a2-bd35-2df7f34fbb56&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=649dbf4e-654b-48a2-bd35-2df7f34fbb56&displaylang=ko)  
 (KB2797052)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=44fbe00c-eeb4-4a80-a934-7ce58c02d6ec&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=44fbe00c-eeb4-4a80-a934-7ce58c02d6ec&displaylang=ko)   
 (KB2797052)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Quartz.dll(DirectShow)](http://www.microsoft.com/downloads/details.aspx?familyid=4cd6b10c-b310-4aee-bbca-f23049c14455&displaylang=ko)   
+[Quartz.dll(DirectShow)](https://www.microsoft.com/download/details.aspx?familyid=4cd6b10c-b310-4aee-bbca-f23049c14455&displaylang=ko)   
 (KB2780091)  
 (긴급)
 </td>
@@ -1343,28 +1343,28 @@ Windows Vista x64 Edition 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 2.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b59753f0-b7cb-41c2-9c31-4f2de8356477&displaylang=ko)  
+[Microsoft .NET Framework 2.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b59753f0-b7cb-41c2-9c31-4f2de8356477&displaylang=ko)  
 (KB2789646)   
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
 (KB2789642)    
 (중요)  
-[Microsoft .NET Framework 4.5](http://www.microsoft.com/downloads/details.aspx?familyid=b5cfc358-e5ff-445c-8d43-3f79fead6139&displaylang=ko)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/details.aspx?familyid=b5cfc358-e5ff-445c-8d43-3f79fead6139&displaylang=ko)  
 (KB2789648)   
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=e5043a08-a9e4-422b-8455-80a5091d38b9&displaylang=ko)  
+[Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=e5043a08-a9e4-422b-8455-80a5091d38b9&displaylang=ko)  
 (KB2778344)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=448ac43a-0a6f-4049-be2b-c853b5dbfab3&displaylang=ko)  
+[Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=448ac43a-0a6f-4049-be2b-c853b5dbfab3&displaylang=ko)  
 (KB2799494)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=92bad797-5b66-422c-a096-8070d02bb8b2&displaylang=ko)  
+[Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=92bad797-5b66-422c-a096-8070d02bb8b2&displaylang=ko)  
 (KB2790655)    
 (보통)
 </td>
@@ -1452,29 +1452,29 @@ Windows Server 2008
 Windows Server 2008(32비트 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=71c805ed-a68b-4d3e-97ca-922557cfbf67&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=71c805ed-a68b-4d3e-97ca-922557cfbf67&displaylang=ko)  
 (KB2792100)  
 (보통)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=775ea105-4a71-4b7b-9dc0-50f1eecab96d&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=775ea105-4a71-4b7b-9dc0-50f1eecab96d&displaylang=ko)  
 (KB2792100)  
 (보통)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=ccdf8abc-9657-4aff-8d73-4824a558c168&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=ccdf8abc-9657-4aff-8d73-4824a558c168&displaylang=ko)   
 (KB2792100)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=d432acb3-10a0-4f4c-a793-381aedd4bdd1&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=d432acb3-10a0-4f4c-a793-381aedd4bdd1&displaylang=ko)  
 (KB2797052)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=b91ce04a-a464-4388-9386-54dd2815b8dd&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=b91ce04a-a464-4388-9386-54dd2815b8dd&displaylang=ko)  
 (KB2797052)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=58f0810c-f253-4740-ac9f-75b8a4506b06&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=58f0810c-f253-4740-ac9f-75b8a4506b06&displaylang=ko)   
 (KB2797052)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Quartz.dll(DirectShow)](http://www.microsoft.com/downloads/details.aspx?familyid=86cc3b51-818a-49a6-abab-488ac316e021&displaylang=ko)   
+[Quartz.dll(DirectShow)](https://www.microsoft.com/download/details.aspx?familyid=86cc3b51-818a-49a6-abab-488ac316e021&displaylang=ko)   
 (KB2780091)  
 (긴급)
 </td>
@@ -1485,28 +1485,28 @@ Windows Server 2008(32비트 시스템용) 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 2.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b59753f0-b7cb-41c2-9c31-4f2de8356477&displaylang=ko)  
+[Microsoft .NET Framework 2.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b59753f0-b7cb-41c2-9c31-4f2de8356477&displaylang=ko)  
 (KB2789646)   
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
 (KB2789642)    
 (중요)  
-[Microsoft .NET Framework 4.5](http://www.microsoft.com/downloads/details.aspx?familyid=b5cfc358-e5ff-445c-8d43-3f79fead6139&displaylang=ko)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/details.aspx?familyid=b5cfc358-e5ff-445c-8d43-3f79fead6139&displaylang=ko)  
 (KB2789648)   
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=850e319f-dd6e-4480-86c3-a5129f084817&displaylang=ko)  
+[Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=850e319f-dd6e-4480-86c3-a5129f084817&displaylang=ko)  
 (KB2778344)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=6d7a74c8-de4b-4bcb-8b3f-581858d0776b&displaylang=ko)  
+[Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=6d7a74c8-de4b-4bcb-8b3f-581858d0776b&displaylang=ko)  
 (KB2799494)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=c24aa6f3-82a5-4b1f-adc8-4aece948161c&displaylang=ko)  
+[Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=c24aa6f3-82a5-4b1f-adc8-4aece948161c&displaylang=ko)  
 (KB2790655)    
 (중요)
 </td>
@@ -1519,29 +1519,29 @@ Windows Server 2008(32비트 시스템용) 서비스 팩 2
 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=de1b96b7-a5ac-4a39-9808-c00c6b1a4325&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=de1b96b7-a5ac-4a39-9808-c00c6b1a4325&displaylang=ko)  
 (KB2792100)  
 (보통)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=e5775802-e529-4894-b1cf-2839948706c2&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=e5775802-e529-4894-b1cf-2839948706c2&displaylang=ko)  
 (KB2792100)  
 (보통)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=51df1e78-f014-4492-8a3d-83b3c821458b&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=51df1e78-f014-4492-8a3d-83b3c821458b&displaylang=ko)   
 (KB2792100)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=152f90b3-efae-42e6-a845-59052383a8a0&displaylang=ko)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=152f90b3-efae-42e6-a845-59052383a8a0&displaylang=ko)  
 (KB2797052)  
 (긴급)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=304ac41e-b4e5-4bf8-94d2-f2bd9a07bcff&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=304ac41e-b4e5-4bf8-94d2-f2bd9a07bcff&displaylang=ko)  
 (KB2797052)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=7b85336a-d3f7-4077-b6eb-55b3042f5335&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=7b85336a-d3f7-4077-b6eb-55b3042f5335&displaylang=ko)   
 (KB2797052)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Quartz.dll(DirectShow)](http://www.microsoft.com/downloads/details.aspx?familyid=fe239f9b-d986-4828-a01d-8abd494037ec&displaylang=ko)   
+[Quartz.dll(DirectShow)](https://www.microsoft.com/download/details.aspx?familyid=fe239f9b-d986-4828-a01d-8abd494037ec&displaylang=ko)   
 (KB2780091)  
 (긴급)
 </td>
@@ -1552,28 +1552,28 @@ Windows Server 2008(x64 기반 시스템용) 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 2.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b59753f0-b7cb-41c2-9c31-4f2de8356477&displaylang=ko)  
+[Microsoft .NET Framework 2.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b59753f0-b7cb-41c2-9c31-4f2de8356477&displaylang=ko)  
 (KB2789646)   
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
 (KB2789642)    
 (중요)  
-[Microsoft .NET Framework 4.5](http://www.microsoft.com/downloads/details.aspx?familyid=b5cfc358-e5ff-445c-8d43-3f79fead6139&displaylang=ko)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/details.aspx?familyid=b5cfc358-e5ff-445c-8d43-3f79fead6139&displaylang=ko)  
 (KB2789648)   
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=8978769b-447b-4b01-848a-cbcdf692f17a&displaylang=ko)  
+[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=8978769b-447b-4b01-848a-cbcdf692f17a&displaylang=ko)  
 (KB2778344)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=c9fbb7cc-c33b-4af9-8416-9d16015e79c1&displaylang=ko)  
+[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=c9fbb7cc-c33b-4af9-8416-9d16015e79c1&displaylang=ko)  
 (KB2799494)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=2738fbe4-2163-4e77-82e6-208a7a08a70c&displaylang=ko)  
+[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=2738fbe4-2163-4e77-82e6-208a7a08a70c&displaylang=ko)  
 (KB2790655)    
 (중요)
 </td>
@@ -1586,17 +1586,17 @@ Windows Server 2008(x64 기반 시스템용) 서비스 팩 2
 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=61c1964f-9307-4128-9470-bcb20e07856b)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=61c1964f-9307-4128-9470-bcb20e07856b)  
 (KB2792100)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=1a2af9dc-e9a7-477e-9943-8132eb7fea81)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=1a2af9dc-e9a7-477e-9943-8132eb7fea81)  
 (KB2797052)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Quartz.dll(DirectShow)](http://www.microsoft.com/downloads/details.aspx?familyid=4b3e48e3-0dbe-449b-9bca-0ba8bbdcbab0)   
+[Quartz.dll(DirectShow)](https://www.microsoft.com/download/details.aspx?familyid=4b3e48e3-0dbe-449b-9bca-0ba8bbdcbab0)   
 (KB2780091)  
 (긴급)
 </td>
@@ -1607,25 +1607,25 @@ Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 2.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b59753f0-b7cb-41c2-9c31-4f2de8356477)  
+[Microsoft .NET Framework 2.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b59753f0-b7cb-41c2-9c31-4f2de8356477)  
 (KB2789646)   
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05)<sup>[1]</sup>
 (KB2789642)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=0f84e24c-43f4-4851-932c-8849171b2505)  
+[Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=0f84e24c-43f4-4851-932c-8849171b2505)  
 (KB2778344)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=f3e18038-b8a1-4eba-9542-8396903a3709)  
+[Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=f3e18038-b8a1-4eba-9542-8396903a3709)  
 (KB2799494)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=c269c175-f47c-456a-9360-f38bbdfd7ed0)  
+[Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=c269c175-f47c-456a-9360-f38bbdfd7ed0)  
 (KB2790655)    
 (중요)
 </td>
@@ -1713,18 +1713,18 @@ Windows 7
 Windows 7(32비트 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=4df9414b-02da-4254-ab29-5091151e2900&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=4df9414b-02da-4254-ab29-5091151e2900&displaylang=ko)  
 (KB2792100)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=b21bd7b3-2eb8-433a-b6c2-8243c5128038&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=b21bd7b3-2eb8-433a-b6c2-8243c5128038&displaylang=ko)   
 (KB2792100)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=d7d64177-deec-4fd3-9716-b7816fe3c623&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=d7d64177-deec-4fd3-9716-b7816fe3c623&displaylang=ko)  
 (KB2797052)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=04a101c6-d553-426f-b3cd-412eefeec580&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=04a101c6-d553-426f-b3cd-412eefeec580&displaylang=ko)   
 (KB2797052)  
 (긴급)
 </td>
@@ -1738,30 +1738,30 @@ Windows 7(32비트 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=3b25dd48-053d-4d9e-9774-905c66c3aca9&displaylang=ko)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=3b25dd48-053d-4d9e-9774-905c66c3aca9&displaylang=ko)  
 (KB2789644)    
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
 (KB2789642)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=631adede-ba0f-461f-85e1-82b60a7efec1&displaylang=ko)  
+[Windows 7(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=631adede-ba0f-461f-85e1-82b60a7efec1&displaylang=ko)  
 (KB2778344)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=912ac2e1-e737-43fb-acc8-a01a918a8475&displaylang=ko)  
+[Windows 7(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=912ac2e1-e737-43fb-acc8-a01a918a8475&displaylang=ko)  
 (KB2799494)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=cb4270c4-cec5-49e0-a56b-97539d6352a0&displaylang=ko)  
+[Windows 7(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=cb4270c4-cec5-49e0-a56b-97539d6352a0&displaylang=ko)  
 (KB2790655)    
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=d4d02ef9-b0a4-46a3-ad92-7508aa26ad3b&displaylang=ko)  
+[Windows 7(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=d4d02ef9-b0a4-46a3-ad92-7508aa26ad3b&displaylang=ko)  
 (KB2790113)    
 (중요)
 </td>
@@ -1771,18 +1771,18 @@ Windows 7(32비트 시스템용)
 Windows 7(32비트 시스템용) 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=4df9414b-02da-4254-ab29-5091151e2900&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=4df9414b-02da-4254-ab29-5091151e2900&displaylang=ko)  
 (KB2792100)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=b21bd7b3-2eb8-433a-b6c2-8243c5128038&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=b21bd7b3-2eb8-433a-b6c2-8243c5128038&displaylang=ko)   
 (KB2792100)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=d7d64177-deec-4fd3-9716-b7816fe3c623&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=d7d64177-deec-4fd3-9716-b7816fe3c623&displaylang=ko)  
 (KB2797052)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=04a101c6-d553-426f-b3cd-412eefeec580&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=04a101c6-d553-426f-b3cd-412eefeec580&displaylang=ko)   
 (KB2797052)  
 (긴급)
 </td>
@@ -1796,33 +1796,33 @@ Windows 7(32비트 시스템용) 서비스 팩 1
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=0da657e5-161d-46bc-a2b7-7c4696e37062&displaylang=ko)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=0da657e5-161d-46bc-a2b7-7c4696e37062&displaylang=ko)  
 (KB2789645)    
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
 (KB2789642)    
 (중요)  
-[Microsoft .NET Framework 4.5](http://www.microsoft.com/downloads/details.aspx?familyid=b5cfc358-e5ff-445c-8d43-3f79fead6139&displaylang=ko)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/details.aspx?familyid=b5cfc358-e5ff-445c-8d43-3f79fead6139&displaylang=ko)  
 (KB2789648)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=631adede-ba0f-461f-85e1-82b60a7efec1&displaylang=ko)  
+[Windows 7(32비트 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=631adede-ba0f-461f-85e1-82b60a7efec1&displaylang=ko)  
 (KB2778344)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=912ac2e1-e737-43fb-acc8-a01a918a8475&displaylang=ko)  
+[Windows 7(32비트 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=912ac2e1-e737-43fb-acc8-a01a918a8475&displaylang=ko)  
 (KB2799494)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=cb4270c4-cec5-49e0-a56b-97539d6352a0&displaylang=ko)  
+[Windows 7(32비트 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=cb4270c4-cec5-49e0-a56b-97539d6352a0&displaylang=ko)  
 (KB2790655)    
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=d4d02ef9-b0a4-46a3-ad92-7508aa26ad3b&displaylang=ko)  
+[Windows 7(32비트 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=d4d02ef9-b0a4-46a3-ad92-7508aa26ad3b&displaylang=ko)  
 (KB2790113)    
 (중요)
 </td>
@@ -1832,18 +1832,18 @@ Windows 7(32비트 시스템용) 서비스 팩 1
 Windows 7(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=6ef9cbf9-d131-420d-b566-6b0f94f2e1c1&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=6ef9cbf9-d131-420d-b566-6b0f94f2e1c1&displaylang=ko)  
 (KB2792100)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=4b2402ff-035a-47c4-b982-00d428eab379&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=4b2402ff-035a-47c4-b982-00d428eab379&displaylang=ko)   
 (KB2792100)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=d503795a-b1a3-48dc-b1e6-27628aeb150a&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=d503795a-b1a3-48dc-b1e6-27628aeb150a&displaylang=ko)  
 (KB2797052)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=36eb59be-6703-40c0-b01c-0fffb1456719&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=36eb59be-6703-40c0-b01c-0fffb1456719&displaylang=ko)   
 (KB2797052)  
 (긴급)
 </td>
@@ -1857,30 +1857,30 @@ Windows 7(x64 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=3b25dd48-053d-4d9e-9774-905c66c3aca9&displaylang=ko)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=3b25dd48-053d-4d9e-9774-905c66c3aca9&displaylang=ko)  
 (KB2789644)    
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
 (KB2789642)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=8dab3aca-fde1-4bd9-b82a-e4805a2e8d39&displaylang=ko)  
+[Windows 7(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=8dab3aca-fde1-4bd9-b82a-e4805a2e8d39&displaylang=ko)  
 (KB2778344)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=0d1601cc-fb76-4276-bf0b-a46b7f8055ae&displaylang=ko)  
+[Windows 7(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=0d1601cc-fb76-4276-bf0b-a46b7f8055ae&displaylang=ko)  
 (KB2799494)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=5d93cb19-7854-4b49-9743-8d6a11be2dd6&displaylang=ko)  
+[Windows 7(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=5d93cb19-7854-4b49-9743-8d6a11be2dd6&displaylang=ko)  
 (KB2790655)    
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=77277398-c5b4-4ba4-8425-465710b0bef2&displaylang=ko)  
+[Windows 7(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=77277398-c5b4-4ba4-8425-465710b0bef2&displaylang=ko)  
 (KB2790113)    
 (중요)
 </td>
@@ -1890,18 +1890,18 @@ Windows 7(x64 기반 시스템용)
 Windows 7(x64 기반 시스템용) 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=6ef9cbf9-d131-420d-b566-6b0f94f2e1c1&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=6ef9cbf9-d131-420d-b566-6b0f94f2e1c1&displaylang=ko)  
 (KB2792100)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=4b2402ff-035a-47c4-b982-00d428eab379&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=4b2402ff-035a-47c4-b982-00d428eab379&displaylang=ko)   
 (KB2792100)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=d503795a-b1a3-48dc-b1e6-27628aeb150a&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=d503795a-b1a3-48dc-b1e6-27628aeb150a&displaylang=ko)  
 (KB2797052)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=36eb59be-6703-40c0-b01c-0fffb1456719&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=36eb59be-6703-40c0-b01c-0fffb1456719&displaylang=ko)   
 (KB2797052)  
 (긴급)
 </td>
@@ -1915,33 +1915,33 @@ Windows 7(x64 기반 시스템용) 서비스 팩 1
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=0da657e5-161d-46bc-a2b7-7c4696e37062&displaylang=ko)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=0da657e5-161d-46bc-a2b7-7c4696e37062&displaylang=ko)  
 (KB2789645)    
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
 (KB2789642)    
 (중요)  
-[Microsoft .NET Framework 4.5](http://www.microsoft.com/downloads/details.aspx?familyid=b5cfc358-e5ff-445c-8d43-3f79fead6139&displaylang=ko)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/details.aspx?familyid=b5cfc358-e5ff-445c-8d43-3f79fead6139&displaylang=ko)  
 (KB2789648)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=8dab3aca-fde1-4bd9-b82a-e4805a2e8d39&displaylang=ko)  
+[Windows 7(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=8dab3aca-fde1-4bd9-b82a-e4805a2e8d39&displaylang=ko)  
 (KB2778344)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=0d1601cc-fb76-4276-bf0b-a46b7f8055ae&displaylang=ko)  
+[Windows 7(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=0d1601cc-fb76-4276-bf0b-a46b7f8055ae&displaylang=ko)  
 (KB2799494)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=5d93cb19-7854-4b49-9743-8d6a11be2dd6&displaylang=ko)  
+[Windows 7(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=5d93cb19-7854-4b49-9743-8d6a11be2dd6&displaylang=ko)  
 (KB2790655)    
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=77277398-c5b4-4ba4-8425-465710b0bef2&displaylang=ko)  
+[Windows 7(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=77277398-c5b4-4ba4-8425-465710b0bef2&displaylang=ko)  
 (KB2790113)    
 (중요)
 </td>
@@ -2026,18 +2026,18 @@ Windows Server 2008 R2
 Windows Server 2008 R2(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=e7b455a3-6a44-430c-a7d1-30c03ef7f141&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=e7b455a3-6a44-430c-a7d1-30c03ef7f141&displaylang=ko)  
 (KB2792100)  
 (보통)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=7e9d97f2-c006-4e5a-bc80-10450069b8c5&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=7e9d97f2-c006-4e5a-bc80-10450069b8c5&displaylang=ko)   
 (KB2792100)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=7a36109b-f1e2-4cde-9ede-9f7449c5412c&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=7a36109b-f1e2-4cde-9ede-9f7449c5412c&displaylang=ko)  
 (KB2797052)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=be2fd20a-4c37-47a6-a322-e16acd99db2c&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=be2fd20a-4c37-47a6-a322-e16acd99db2c&displaylang=ko)   
 (KB2797052)  
 (긴급)
 </td>
@@ -2048,35 +2048,35 @@ Windows Server 2008 R2(x64 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=aadb2003-ed7b-46ee-afd0-33cec4ac39b4&displaylang=ko)  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=aadb2003-ed7b-46ee-afd0-33cec4ac39b4&displaylang=ko)  
 (KB2790978)   
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=3b25dd48-053d-4d9e-9774-905c66c3aca9&displaylang=ko)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=3b25dd48-053d-4d9e-9774-905c66c3aca9&displaylang=ko)  
 (KB2789644)    
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
 (KB2789642)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=ca5a8735-1568-454d-8b4c-b83107eac036&displaylang=ko)  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=ca5a8735-1568-454d-8b4c-b83107eac036&displaylang=ko)  
 (KB2778344)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=201e6d1f-425b-406e-84a1-37cee035dddb&displaylang=ko)  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=201e6d1f-425b-406e-84a1-37cee035dddb&displaylang=ko)  
 (KB2799494)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=01284b28-043a-4e27-b363-c1e641164a01&displaylang=ko)  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=01284b28-043a-4e27-b363-c1e641164a01&displaylang=ko)  
 (KB2790655)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=97241fdb-991d-4411-8fe1-ea56172360ab&displaylang=ko)  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=97241fdb-991d-4411-8fe1-ea56172360ab&displaylang=ko)  
 (KB2790113)    
 (중요)
 </td>
@@ -2086,18 +2086,18 @@ Windows Server 2008 R2(x64 기반 시스템용)
 Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=e7b455a3-6a44-430c-a7d1-30c03ef7f141&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=e7b455a3-6a44-430c-a7d1-30c03ef7f141&displaylang=ko)  
 (KB2792100)  
 (보통)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=7e9d97f2-c006-4e5a-bc80-10450069b8c5&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=7e9d97f2-c006-4e5a-bc80-10450069b8c5&displaylang=ko)   
 (KB2792100)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=7a36109b-f1e2-4cde-9ede-9f7449c5412c&displaylang=ko)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=7a36109b-f1e2-4cde-9ede-9f7449c5412c&displaylang=ko)  
 (KB2797052)  
 (긴급)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=be2fd20a-4c37-47a6-a322-e16acd99db2c&displaylang=ko)   
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=be2fd20a-4c37-47a6-a322-e16acd99db2c&displaylang=ko)   
 (KB2797052)  
 (긴급)
 </td>
@@ -2108,38 +2108,38 @@ Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=aadb2003-ed7b-46ee-afd0-33cec4ac39b4&displaylang=ko)  
+[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=aadb2003-ed7b-46ee-afd0-33cec4ac39b4&displaylang=ko)  
 (KB2790978)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=0da657e5-161d-46bc-a2b7-7c4696e37062&displaylang=ko)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=0da657e5-161d-46bc-a2b7-7c4696e37062&displaylang=ko)  
 (KB2789645)    
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
 (KB2789642)    
 (중요)  
-[Microsoft .NET Framework 4.5](http://www.microsoft.com/downloads/details.aspx?familyid=b5cfc358-e5ff-445c-8d43-3f79fead6139&displaylang=ko)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/details.aspx?familyid=b5cfc358-e5ff-445c-8d43-3f79fead6139&displaylang=ko)  
 (KB2789648)   
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=ca5a8735-1568-454d-8b4c-b83107eac036&displaylang=ko)  
+[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=ca5a8735-1568-454d-8b4c-b83107eac036&displaylang=ko)  
 (KB2778344)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=201e6d1f-425b-406e-84a1-37cee035dddb&displaylang=ko)  
+[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=201e6d1f-425b-406e-84a1-37cee035dddb&displaylang=ko)  
 (KB2799494)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=01284b28-043a-4e27-b363-c1e641164a01&displaylang=ko)  
+[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=01284b28-043a-4e27-b363-c1e641164a01&displaylang=ko)  
 (KB2790655)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=97241fdb-991d-4411-8fe1-ea56172360ab&displaylang=ko)  
+[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=97241fdb-991d-4411-8fe1-ea56172360ab&displaylang=ko)  
 (KB2790113)    
 (중요)
 </td>
@@ -2149,12 +2149,12 @@ Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1
 Windows Server 2008 R2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=c1eb941e-833d-46f0-bf65-d9701d67bc20)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=c1eb941e-833d-46f0-bf65-d9701d67bc20)  
 (KB2792100)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=c2e1c1b3-5b75-47cf-91d5-82d413b358e6)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=c2e1c1b3-5b75-47cf-91d5-82d413b358e6)  
 (KB2797052)  
 (긴급)
 </td>
@@ -2165,35 +2165,35 @@ Windows Server 2008 R2(Itanium 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=8e37196c-2f43-457d-8d87-336d8775c0bf)  
+[Windows Server 2008 R2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=8e37196c-2f43-457d-8d87-336d8775c0bf)  
 (KB2790978)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=3b25dd48-053d-4d9e-9774-905c66c3aca9)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=3b25dd48-053d-4d9e-9774-905c66c3aca9)  
 (KB2789644)    
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05)<sup>[1]</sup>
 (KB2789642)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=99320f36-1481-446c-bc3e-d33fcfd1f2c1)  
+[Windows Server 2008 R2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=99320f36-1481-446c-bc3e-d33fcfd1f2c1)  
 (KB2778344)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=9f0b132a-8616-49cd-8927-393f35d0cf21)  
+[Windows Server 2008 R2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=9f0b132a-8616-49cd-8927-393f35d0cf21)  
 (KB2799494)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=e1be5dea-dd13-42b5-a37f-4bcd828cc65f)  
+[Windows Server 2008 R2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=e1be5dea-dd13-42b5-a37f-4bcd828cc65f)  
 (KB2790655)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=9fbc37dd-53ec-4de1-b1c1-9761a8f83ab8)  
+[Windows Server 2008 R2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=9fbc37dd-53ec-4de1-b1c1-9761a8f83ab8)  
 (KB2790113)    
 (중요)
 </td>
@@ -2203,12 +2203,12 @@ Windows Server 2008 R2(Itanium 기반 시스템용)
 Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=c1eb941e-833d-46f0-bf65-d9701d67bc20)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=c1eb941e-833d-46f0-bf65-d9701d67bc20)  
 (KB2792100)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=c2e1c1b3-5b75-47cf-91d5-82d413b358e6)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=c2e1c1b3-5b75-47cf-91d5-82d413b358e6)  
 (KB2797052)  
 (긴급)
 </td>
@@ -2219,35 +2219,35 @@ Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=8e37196c-2f43-457d-8d87-336d8775c0bf)  
+[Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=8e37196c-2f43-457d-8d87-336d8775c0bf)  
 (KB2790978)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=0da657e5-161d-46bc-a2b7-7c4696e37062)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=0da657e5-161d-46bc-a2b7-7c4696e37062)  
 (KB2789645)    
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05)<sup>[1]</sup>
 (KB2789642)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=99320f36-1481-446c-bc3e-d33fcfd1f2c1)  
+[Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=99320f36-1481-446c-bc3e-d33fcfd1f2c1)  
 (KB2778344)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=9f0b132a-8616-49cd-8927-393f35d0cf21)  
+[Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=9f0b132a-8616-49cd-8927-393f35d0cf21)  
 (KB2799494)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=e1be5dea-dd13-42b5-a37f-4bcd828cc65f)  
+[Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=e1be5dea-dd13-42b5-a37f-4bcd828cc65f)  
 (KB2790655)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=9fbc37dd-53ec-4de1-b1c1-9761a8f83ab8)  
+[Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=9fbc37dd-53ec-4de1-b1c1-9761a8f83ab8)  
 (KB2790113)    
 (중요)
 </td>
@@ -2332,12 +2332,12 @@ Windows 8
 Windows 8(32비트 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 10](http://www.microsoft.com/downloads/details.aspx?familyid=7966de38-c6a6-4137-8b7e-8ccd3306521a&displaylang=ko)   
+[Internet Explorer 10](https://www.microsoft.com/download/details.aspx?familyid=7966de38-c6a6-4137-8b7e-8ccd3306521a&displaylang=ko)   
 (KB2792100)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 10](http://www.microsoft.com/downloads/details.aspx?familyid=0389b515-59bf-4733-aab4-ffb822efdbea&displaylang=ko)   
+[Internet Explorer 10](https://www.microsoft.com/download/details.aspx?familyid=0389b515-59bf-4733-aab4-ffb822efdbea&displaylang=ko)   
 (KB2797052)  
 (긴급)
 </td>
@@ -2351,25 +2351,25 @@ Windows 8(32비트 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=639674a0-12a3-4185-9858-b2a31ed2f014&displaylang=ko)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=639674a0-12a3-4185-9858-b2a31ed2f014&displaylang=ko)  
 (KB2789650)    
 (중요)  
-[Microsoft .NET Framework 4.5](http://www.microsoft.com/downloads/details.aspx?familyid=27d83684-d4f7-4fe0-a54d-25a3d2009be0&displaylang=ko)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/details.aspx?familyid=27d83684-d4f7-4fe0-a54d-25a3d2009be0&displaylang=ko)  
 (KB2789649)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 8(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=d5395864-1822-4151-a10c-f6a036f8853f&displaylang=ko)  
+[Windows 8(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=d5395864-1822-4151-a10c-f6a036f8853f&displaylang=ko)  
 (KB2778344)    
 (심각도 없음<sup>[2]</sup>)
 </td>
 <td style="border:1px solid black;">
-[Windows 8(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=5b74e5b3-7b8d-4669-b403-c776e70bf072&displaylang=ko)  
+[Windows 8(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=5b74e5b3-7b8d-4669-b403-c776e70bf072&displaylang=ko)  
 (KB2799494)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 8(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=e7739ba6-9c62-4180-a095-47fdb6c741e9&displaylang=ko)  
+[Windows 8(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=e7739ba6-9c62-4180-a095-47fdb6c741e9&displaylang=ko)  
 (KB2790655)    
 (보통)
 </td>
@@ -2382,12 +2382,12 @@ Windows 8(32비트 시스템용)
 Windows 8(64비트 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 10](http://www.microsoft.com/downloads/details.aspx?familyid=d6720d21-269b-4605-b95e-573bc327afd9&displaylang=ko)   
+[Internet Explorer 10](https://www.microsoft.com/download/details.aspx?familyid=d6720d21-269b-4605-b95e-573bc327afd9&displaylang=ko)   
 (KB2792100)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 10](http://www.microsoft.com/downloads/details.aspx?familyid=c1859853-d43f-4497-b212-e6a4daa43485&displaylang=ko)   
+[Internet Explorer 10](https://www.microsoft.com/download/details.aspx?familyid=c1859853-d43f-4497-b212-e6a4daa43485&displaylang=ko)   
 (KB2797052)  
 (긴급)
 </td>
@@ -2401,25 +2401,25 @@ Windows 8(64비트 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=639674a0-12a3-4185-9858-b2a31ed2f014&displaylang=ko)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=639674a0-12a3-4185-9858-b2a31ed2f014&displaylang=ko)  
 (KB2789650)    
 (중요)  
-[Microsoft .NET Framework 4.5](http://www.microsoft.com/downloads/details.aspx?familyid=27d83684-d4f7-4fe0-a54d-25a3d2009be0&displaylang=ko)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/details.aspx?familyid=27d83684-d4f7-4fe0-a54d-25a3d2009be0&displaylang=ko)  
 (KB2789649)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 8(64비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=79aaaa3a-747a-4320-9fd2-5f4a6de3d13c&displaylang=ko)  
+[Windows 8(64비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=79aaaa3a-747a-4320-9fd2-5f4a6de3d13c&displaylang=ko)  
 (KB2778344)    
 (심각도 없음<sup>[2]</sup>)
 </td>
 <td style="border:1px solid black;">
-[Windows 8(64비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=a41a2b38-5e5c-48bc-8727-e19402519f12&displaylang=ko)  
+[Windows 8(64비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=a41a2b38-5e5c-48bc-8727-e19402519f12&displaylang=ko)  
 (KB2799494)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 8(64비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=dd2042b8-c784-4dfc-8fca-61905693cda5&displaylang=ko)  
+[Windows 8(64비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=dd2042b8-c784-4dfc-8fca-61905693cda5&displaylang=ko)  
 (KB2790655)    
 (보통)
 </td>
@@ -2507,12 +2507,12 @@ Windows Server 2012
 Windows Server 2012
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 10](http://www.microsoft.com/downloads/details.aspx?familyid=8e3fdcd0-ab75-4500-aac7-7ecb4f39fca7&displaylang=ko)   
+[Internet Explorer 10](https://www.microsoft.com/download/details.aspx?familyid=8e3fdcd0-ab75-4500-aac7-7ecb4f39fca7&displaylang=ko)   
 (KB2792100)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 10](http://www.microsoft.com/downloads/details.aspx?familyid=3b39813e-5ee2-412e-b1f1-a16617a70f43&displaylang=ko)   
+[Internet Explorer 10](https://www.microsoft.com/download/details.aspx?familyid=3b39813e-5ee2-412e-b1f1-a16617a70f43&displaylang=ko)   
 (KB2797052)  
 (긴급)
 </td>
@@ -2523,30 +2523,30 @@ Windows Server 2012
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2012](http://www.microsoft.com/downloads/details.aspx?familyid=b284296a-1db5-47dc-af2c-bf55d0ad09e6&displaylang=ko)  
+[Windows Server 2012](https://www.microsoft.com/download/details.aspx?familyid=b284296a-1db5-47dc-af2c-bf55d0ad09e6&displaylang=ko)  
 (KB2790978)   
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=639674a0-12a3-4185-9858-b2a31ed2f014&displaylang=ko)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=639674a0-12a3-4185-9858-b2a31ed2f014&displaylang=ko)  
 (KB2789650)    
 (중요)  
-[Microsoft .NET Framework 4.5](http://www.microsoft.com/downloads/details.aspx?familyid=27d83684-d4f7-4fe0-a54d-25a3d2009be0&displaylang=ko)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/details.aspx?familyid=27d83684-d4f7-4fe0-a54d-25a3d2009be0&displaylang=ko)  
 (KB2789649)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2012](http://www.microsoft.com/downloads/details.aspx?familyid=aac38d33-fad6-4060-bad4-61cf7c059af9&displaylang=ko)  
+[Windows Server 2012](https://www.microsoft.com/download/details.aspx?familyid=aac38d33-fad6-4060-bad4-61cf7c059af9&displaylang=ko)  
 (KB2778344)    
 (심각도 없음<sup>[2]</sup>)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2012](http://www.microsoft.com/downloads/details.aspx?familyid=4e427f56-436e-43d0-b4f8-eee8427b3741&displaylang=ko)  
+[Windows Server 2012](https://www.microsoft.com/download/details.aspx?familyid=4e427f56-436e-43d0-b4f8-eee8427b3741&displaylang=ko)  
 (KB2799494)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2012](http://www.microsoft.com/downloads/details.aspx?familyid=f74a104d-4749-4dd5-b144-2e4ce9c284a2&displaylang=ko)  
+[Windows Server 2012](https://www.microsoft.com/download/details.aspx?familyid=f74a104d-4749-4dd5-b144-2e4ce9c284a2&displaylang=ko)  
 (KB2790655)    
 (중요)
 </td>
@@ -2772,17 +2772,17 @@ Windows Server 2008(32비트 시스템용) 서비스 팩 2(Server Core 설치)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=850e319f-dd6e-4480-86c3-a5129f084817&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=850e319f-dd6e-4480-86c3-a5129f084817&displaylang=ko)(Server Core 설치)  
 (KB2778344)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=6d7a74c8-de4b-4bcb-8b3f-581858d0776b&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=6d7a74c8-de4b-4bcb-8b3f-581858d0776b&displaylang=ko)(Server Core 설치)  
 (KB2799494)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=c24aa6f3-82a5-4b1f-adc8-4aece948161c&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=c24aa6f3-82a5-4b1f-adc8-4aece948161c&displaylang=ko)(Server Core 설치)  
 (KB2790655)    
 (중요)
 </td>
@@ -2813,17 +2813,17 @@ Windows Server 2008(x64 기반 시스템용) 서비스 팩 2(Server Core 설치)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=8978769b-447b-4b01-848a-cbcdf692f17a&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=8978769b-447b-4b01-848a-cbcdf692f17a&displaylang=ko)(Server Core 설치)  
 (KB2778344)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=c9fbb7cc-c33b-4af9-8416-9d16015e79c1&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=c9fbb7cc-c33b-4af9-8416-9d16015e79c1&displaylang=ko)(Server Core 설치)  
 (KB2799494)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=2738fbe4-2163-4e77-82e6-208a7a08a70c&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=2738fbe4-2163-4e77-82e6-208a7a08a70c&displaylang=ko)(Server Core 설치)  
 (KB2790655)    
 (중요)
 </td>
@@ -2848,32 +2848,32 @@ Windows Server 2008 R2(x64 기반 시스템용)(Server Core 설치)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=aadb2003-ed7b-46ee-afd0-33cec4ac39b4&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=aadb2003-ed7b-46ee-afd0-33cec4ac39b4&displaylang=ko)(Server Core 설치)  
 (KB2790978)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=3b25dd48-053d-4d9e-9774-905c66c3aca9&displaylang=ko)(Server Core 설치)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=3b25dd48-053d-4d9e-9774-905c66c3aca9&displaylang=ko)(Server Core 설치)  
 (KB2789644)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=ca5a8735-1568-454d-8b4c-b83107eac036&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=ca5a8735-1568-454d-8b4c-b83107eac036&displaylang=ko)(Server Core 설치)  
 (KB2778344)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=201e6d1f-425b-406e-84a1-37cee035dddb&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=201e6d1f-425b-406e-84a1-37cee035dddb&displaylang=ko)(Server Core 설치)  
 (KB2799494)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=01284b28-043a-4e27-b363-c1e641164a01&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=01284b28-043a-4e27-b363-c1e641164a01&displaylang=ko)(Server Core 설치)  
 (KB2790655)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=97241fdb-991d-4411-8fe1-ea56172360ab&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008 R2(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=97241fdb-991d-4411-8fe1-ea56172360ab&displaylang=ko)(Server Core 설치)  
 (KB2790113)    
 (중요)
 </td>
@@ -2895,38 +2895,38 @@ Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1(Server Core 설�
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=aadb2003-ed7b-46ee-afd0-33cec4ac39b4&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=aadb2003-ed7b-46ee-afd0-33cec4ac39b4&displaylang=ko)(Server Core 설치)  
 (KB2790978)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=0da657e5-161d-46bc-a2b7-7c4696e37062&displaylang=ko)(Server Core 설치)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=0da657e5-161d-46bc-a2b7-7c4696e37062&displaylang=ko)(Server Core 설치)  
 (KB2789645)    
 (중요)  
-[Microsoft .NET Framework 4](http://www.microsoft.com/downloads/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/details.aspx?familyid=182f4d35-f18b-4485-be22-43becbd3cc05&displaylang=ko)<sup>[1]</sup>
 (Server Core 설치)(KB2789642)  
 (중요)  
-[Microsoft .NET Framework 4.5](http://www.microsoft.com/downloads/details.aspx?familyid=b5cfc358-e5ff-445c-8d43-3f79fead6139&displaylang=ko)(Server Core 설치)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/details.aspx?familyid=b5cfc358-e5ff-445c-8d43-3f79fead6139&displaylang=ko)(Server Core 설치)  
 (KB2789648)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=ca5a8735-1568-454d-8b4c-b83107eac036&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=ca5a8735-1568-454d-8b4c-b83107eac036&displaylang=ko)(Server Core 설치)  
 (KB2778344)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=201e6d1f-425b-406e-84a1-37cee035dddb&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=201e6d1f-425b-406e-84a1-37cee035dddb&displaylang=ko)(Server Core 설치)  
 (KB2799494)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=01284b28-043a-4e27-b363-c1e641164a01&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=01284b28-043a-4e27-b363-c1e641164a01&displaylang=ko)(Server Core 설치)  
 (KB2790655)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=97241fdb-991d-4411-8fe1-ea56172360ab&displaylang=ko)(Server Core 설치)  
+[Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=97241fdb-991d-4411-8fe1-ea56172360ab&displaylang=ko)(Server Core 설치)  
 (KB2790113)    
 (중요)
 </td>
@@ -2948,30 +2948,30 @@ Windows Server 2012(Server Core 설치)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2012](http://www.microsoft.com/downloads/details.aspx?familyid=b284296a-1db5-47dc-af2c-bf55d0ad09e6&displaylang=ko)(Server Core 설치)  
+[Windows Server 2012](https://www.microsoft.com/download/details.aspx?familyid=b284296a-1db5-47dc-af2c-bf55d0ad09e6&displaylang=ko)(Server Core 설치)  
 (KB2790978)   
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=639674a0-12a3-4185-9858-b2a31ed2f014&displaylang=ko)(Server Core 설치)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=639674a0-12a3-4185-9858-b2a31ed2f014&displaylang=ko)(Server Core 설치)  
 (KB2789650)    
 (중요)  
-[Microsoft .NET Framework 4.5](http://www.microsoft.com/downloads/details.aspx?familyid=27d83684-d4f7-4fe0-a54d-25a3d2009be0&displaylang=ko)(Server Core 설치)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/details.aspx?familyid=27d83684-d4f7-4fe0-a54d-25a3d2009be0&displaylang=ko)(Server Core 설치)  
 (KB2789649)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2012](http://www.microsoft.com/downloads/details.aspx?familyid=aac38d33-fad6-4060-bad4-61cf7c059af9&displaylang=ko)(Server Core 설치)  
+[Windows Server 2012](https://www.microsoft.com/download/details.aspx?familyid=aac38d33-fad6-4060-bad4-61cf7c059af9&displaylang=ko)(Server Core 설치)  
 (KB2778344)    
 (심각도 없음<sup>[2]</sup>)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2012](http://www.microsoft.com/downloads/details.aspx?familyid=4e427f56-436e-43d0-b4f8-eee8427b3741&displaylang=ko)(Server Core 설치)  
+[Windows Server 2012](https://www.microsoft.com/download/details.aspx?familyid=4e427f56-436e-43d0-b4f8-eee8427b3741&displaylang=ko)(Server Core 설치)  
 (KB2799494)    
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2012](http://www.microsoft.com/downloads/details.aspx?familyid=f74a104d-4749-4dd5-b144-2e4ce9c284a2&displaylang=ko)(Server Core 설치)  
+[Windows Server 2012](https://www.microsoft.com/download/details.aspx?familyid=f74a104d-4749-4dd5-b144-2e4ce9c284a2&displaylang=ko)(Server Core 설치)  
 (KB2790655)    
 (중요)
 </td>
@@ -3031,7 +3031,7 @@ Microsoft SharePoint Server
 Microsoft Exchange Server 2007 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Exchange Server 2007 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=316a1aff-b72d-4d96-8ee5-bd86b0e29e6f&displaylang=ko)   
+[Microsoft Exchange Server 2007 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=316a1aff-b72d-4d96-8ee5-bd86b0e29e6f&displaylang=ko)   
 (KB2788321)   
 (긴급)
 </td>
@@ -3044,7 +3044,7 @@ Microsoft Exchange Server 2007 서비스 팩 3
 Microsoft Exchange Server 2010 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Exchange Server 2010 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=498e7612-73b5-4e28-99a4-b3157ac69932&displaylang=ko)   
+[Microsoft Exchange Server 2010 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=498e7612-73b5-4e28-99a4-b3157ac69932&displaylang=ko)   
 (KB2746164)   
 (긴급)
 </td>
@@ -3087,7 +3087,7 @@ Microsoft FAST Search Server 2010 for SharePoint 서비스 팩 1
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Advanced Filter Pack](http://www.microsoft.com/downloads/details.aspx?familyid=0ae86754-69a8-4c82-855c-2ee2b7887fa5&displaylang=ko)<sup>[1]</sup>   
+[Advanced Filter Pack](https://www.microsoft.com/download/details.aspx?familyid=0ae86754-69a8-4c82-855c-2ee2b7887fa5&displaylang=ko)<sup>[1]</sup>   
 (KB2553234)  
 (중요)
 </td>
@@ -3137,13 +3137,13 @@ Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 
 
 참고 System Management Server 2003은 2010년 1월 12일자로 메인스트림 지원이 종료되었습니다. 제품 지원 기간에 대한 자세한 내용을 보려면 [Microsoft 지원 기간](http://go.microsoft.com/fwlink/?linkid=21742) 웹 사이트를 참조하십시오. SMS의 차기 릴리스인 System Center Configuration Manager를 지금 사용할 수 있습니다(이전 섹션의 System Center Configuration Manager 참조).
 
-관리자가 SMS 2003을 사용하여 보안 업데이트를 배포하는 방법에 대한 자세한 내용은 [Microsoft Systems Management Server 2003의 시나리오 및 절차: 소프트웨어 배포 및 패치 관리](http://www.microsoft.com/downloads/details.aspx?familyid=32f2bb4c-42f8-4b8d-844f-2553fd78049f)(영문)를 참조하십시오. SMS에 대한 자세한 내용을 보려면 [Microsoft Systems Management Server TechCenter](http://technet.microsoft.com/systemcenter/bb545936)(영문)를 방문하십시오.
+관리자가 SMS 2003을 사용하여 보안 업데이트를 배포하는 방법에 대한 자세한 내용은 [Microsoft Systems Management Server 2003의 시나리오 및 절차: 소프트웨어 배포 및 패치 관리](https://www.microsoft.com/download/details.aspx?familyid=32f2bb4c-42f8-4b8d-844f-2553fd78049f)(영문)를 참조하십시오. SMS에 대한 자세한 내용을 보려면 [Microsoft Systems Management Server TechCenter](http://technet.microsoft.com/systemcenter/bb545936)(영문)를 방문하십시오.
 
 참고 SMS는 Microsoft Baseline Security Analyzer를 사용하여 보안 공지 업데이트 검색 및 배포에 대한 다양한 지원을 제공합니다. 일부 소프트웨어 업데이트는 이러한 도구로 검색하지 못할 수도 있습니다. 이러한 경우 관리자는 SMS의 인벤토리 기능을 사용하여 특정 시스템을 대상으로 업데이트를 수행할 수 있습니다. 이 절차에 대한 자세한 내용은 [SMS 소프트웨어 배포 기능을 사용한 소프트웨어 업데이트 배포](http://go.microsoft.com/fwlink/?linkid=33341)(영문)를 참조하십시오. 일부 보안 업데이트 작업을 수행하려면 관리자 권한이 필요하며 컴퓨터를 다시 시작해야 할 수 있습니다. 관리자는 [SMS 2003 Administration Feature Pack](http://www.microsoft.com/downloads/en/details.aspx?familyid=7bd3a16e-1899-4e0b-bb99-1320e816167d)(영문)에서 제공되는 Elevated Rights Deployment Tool을 사용하여 이러한 업데이트를 설치할 수 있습니다.
 
 UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971)(영문)에 포함된 [UCE(Update Compatibility Evaluator)](http://technet.microsoft.com/library/cc749197)(영문) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971)(영문)에 포함된 [UCE(Update Compatibility Evaluator)](http://technet.microsoft.com/library/cc749197)(영문) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 

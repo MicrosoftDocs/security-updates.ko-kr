@@ -182,7 +182,7 @@ Windows XP 서비스 팩 3
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[ADAM(Active Directory Application Mode)(영문)](http://www.microsoft.com/downloads/details.aspx?familyid=8c7c21c5-677d-4a5d-8f2b-8ca7691b6b00&displaylang=ko)(KB2616310)  
+[ADAM(Active Directory Application Mode)(영문)](https://www.microsoft.com/download/details.aspx?familyid=8c7c21c5-677d-4a5d-8f2b-8ca7691b6b00&displaylang=ko)(KB2616310)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -258,10 +258,10 @@ Windows Server 2003 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Active Directory(영문)](http://www.microsoft.com/downloads/details.aspx?familyid=08b27ce7-c32e-41e4-ad04-481c5eab17a7&display=ko&displaylang=ko)  
+[Active Directory(영문)](https://www.microsoft.com/download/details.aspx?familyid=08b27ce7-c32e-41e4-ad04-481c5eab17a7&display=ko&displaylang=ko)  
 (KB2601626)  
 (중요)  
-[ADAM(Active Directory Application Mode)(영문)](http://www.microsoft.com/downloads/details.aspx?familyid=8c7c21c5-677d-4a5d-8f2b-8ca7691b6b00&displaylang=ko)  
+[ADAM(Active Directory Application Mode)(영문)](https://www.microsoft.com/download/details.aspx?familyid=8c7c21c5-677d-4a5d-8f2b-8ca7691b6b00&displaylang=ko)  
 (KB2616310)  
 (중요)
 </td>
@@ -280,10 +280,10 @@ Windows Server 2003 x64 Edition 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Active Directory(영문)](http://www.microsoft.com/downloads/details.aspx?familyid=08b27ce7-c32e-41e4-ad04-481c5eab17a7&displaylang=ko)  
+[Active Directory(영문)](https://www.microsoft.com/download/details.aspx?familyid=08b27ce7-c32e-41e4-ad04-481c5eab17a7&displaylang=ko)  
 (KB2601626)  
 (중요)  
-[ADAM(Active Directory Application Mode)(영문)](http://www.microsoft.com/downloads/details.aspx?familyid=8c7c21c5-677d-4a5d-8f2b-8ca7691b6b00&displaylang=ko)  
+[ADAM(Active Directory Application Mode)(영문)](https://www.microsoft.com/download/details.aspx?familyid=8c7c21c5-677d-4a5d-8f2b-8ca7691b6b00&displaylang=ko)  
 (KB2616310)  
 (중요)
 </td>
@@ -302,7 +302,7 @@ Windows Server 2003 SP2(Itanium 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Active Directory(영문)](http://www.microsoft.com/downloads/details.aspx?familyid=08b27ce7-c32e-41e4-ad04-481c5eab17a7)  
+[Active Directory(영문)](https://www.microsoft.com/download/details.aspx?familyid=08b27ce7-c32e-41e4-ad04-481c5eab17a7)  
 (KB2601626)  
 (중요)
 </td>
@@ -354,15 +354,15 @@ Windows Vista
 Windows Vista 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=fc3fe87c-2493-431d-a904-dec9310f6042&displaylang=ko)  
+[Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=fc3fe87c-2493-431d-a904-dec9310f6042&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=e08266d8-fffa-40bf-b8f6-10a65ee27524&displaylang=ko)  
+[Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=e08266d8-fffa-40bf-b8f6-10a65ee27524&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[AD LDS(Active Directory Lightweight Directory Service)(영문)](http://www.microsoft.com/downloads/details.aspx?familyid=2bd602cf-ae0d-4790-a5d0-6133fd7d01a0&displaylang=ko)  
+[AD LDS(Active Directory Lightweight Directory Service)(영문)](https://www.microsoft.com/download/details.aspx?familyid=2bd602cf-ae0d-4790-a5d0-6133fd7d01a0&displaylang=ko)  
 (KB2601626)  
 (중요)
 </td>
@@ -375,15 +375,15 @@ Windows Vista 서비스 팩 2
 Windows Vista x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=042c1a8f-834d-4eed-8a59-9e030ccc6d39&displaylang=ko)  
+[Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=042c1a8f-834d-4eed-8a59-9e030ccc6d39&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=4f2365ed-d50e-44d9-b859-1ec54d3b4d38&displaylang=ko)  
+[Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=4f2365ed-d50e-44d9-b859-1ec54d3b4d38&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[AD LDS(Active Directory Lightweight Directory Service)(영문)](http://www.microsoft.com/downloads/details.aspx?familyid=783521ad-5c50-4194-a582-4e5a1c9999e7&displaylang=ko)  
+[AD LDS(Active Directory Lightweight Directory Service)(영문)](https://www.microsoft.com/download/details.aspx?familyid=783521ad-5c50-4194-a582-4e5a1c9999e7&displaylang=ko)  
 (KB2601626)  
 (중요)
 </td>
@@ -435,15 +435,15 @@ Windows Server 2008
 Windows Server 2008(32비트 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=79382bf2-d2cb-42ea-92dc-64f949353521&displaylang=ko)\*  
+[Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=79382bf2-d2cb-42ea-92dc-64f949353521&displaylang=ko)\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=f82dc413-668c-4ca8-a8c8-db74f05346bc&displaylang=ko)\*\*  
+[Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=f82dc413-668c-4ca8-a8c8-db74f05346bc&displaylang=ko)\*\*  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Active Directory 및 Active Directory Lightweight Directory Service(AD LDS)(영문)](http://www.microsoft.com/downloads/details.aspx?familyid=b5688923-3914-4f6c-8bc9-036fb4870cc6&displaylang=ko)\*  
+[Active Directory 및 Active Directory Lightweight Directory Service(AD LDS)(영문)](https://www.microsoft.com/download/details.aspx?familyid=b5688923-3914-4f6c-8bc9-036fb4870cc6&displaylang=ko)\*  
 (KB2601626)  
 (중요)
 </td>
@@ -456,15 +456,15 @@ Windows Server 2008(32비트 시스템용) 서비스 팩 2
 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=71ff3a89-d7ad-4dda-9e59-fab54b21bd5d&displaylang=ko)\*  
+[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=71ff3a89-d7ad-4dda-9e59-fab54b21bd5d&displaylang=ko)\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=06ad5637-56a1-4478-aaa0-063e877503c9&displaylang=ko)\*\*  
+[Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=06ad5637-56a1-4478-aaa0-063e877503c9&displaylang=ko)\*\*  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Active Directory 및 Active Directory Lightweight Directory Service(AD LDS)(영문)](http://www.microsoft.com/downloads/details.aspx?familyid=51f47181-08f6-4de1-80e5-253355675965&displaylang=ko)\*  
+[Active Directory 및 Active Directory Lightweight Directory Service(AD LDS)(영문)](https://www.microsoft.com/download/details.aspx?familyid=51f47181-08f6-4de1-80e5-253355675965&displaylang=ko)\*  
 (KB2601626)  
 (중요)
 </td>
@@ -477,11 +477,11 @@ Windows Server 2008(x64 기반 시스템용) 서비스 팩 2
 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b1c0cb05-c284-49b1-ae4f-92813fdf520f)  
+[Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b1c0cb05-c284-49b1-ae4f-92813fdf520f)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=2de5de74-e643-4045-9c22-ff95b0dbcafc)  
+[Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=2de5de74-e643-4045-9c22-ff95b0dbcafc)  
 (보통)
 </td>
 <td style="border:1px solid black;">
@@ -535,20 +535,20 @@ Windows 7
 Windows 7(32비트 시스템용) 및 Windows 7(32비트 시스템용) 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용) 및 Windows 7(32비트 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=4ddb4c2a-bada-49b0-ad78-e07e7e11ced7&displaylang=ko)  
+[Windows 7(32비트 시스템용) 및 Windows 7(32비트 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=4ddb4c2a-bada-49b0-ad78-e07e7e11ced7&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용) 및 Windows 7(32비트 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=2307fa93-8e45-4841-a5a9-7e89960712f9&displaylang=ko)  
+[Windows 7(32비트 시스템용) 및 Windows 7(32비트 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=2307fa93-8e45-4841-a5a9-7e89960712f9&displaylang=ko)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[AD LDS(Active Directory Lightweight Directory Service)(영문)](http://www.microsoft.com/downloads/details.aspx?familyid=b06f9f55-e3b2-4705-83d0-1b9f5de9d378&displaylang=ko)  
+[AD LDS(Active Directory Lightweight Directory Service)(영문)](https://www.microsoft.com/download/details.aspx?familyid=b06f9f55-e3b2-4705-83d0-1b9f5de9d378&displaylang=ko)  
 (KB2601626)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(32비트 시스템용) 및 Windows 7(32비트 시스템용) 서비스 팩 1(영문)](http://www.microsoft.com/downloads/details.aspx?familyid=156c1bd9-55bc-482c-874b-61998d1ef153&displaylang=ko)  
+[Windows 7(32비트 시스템용) 및 Windows 7(32비트 시스템용) 서비스 팩 1(영문)](https://www.microsoft.com/download/details.aspx?familyid=156c1bd9-55bc-482c-874b-61998d1ef153&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -557,20 +557,20 @@ Windows 7(32비트 시스템용) 및 Windows 7(32비트 시스템용) 서비스 
 Windows 7(x64 기반 시스템용) 및 Windows 7(x64 기반 시스템용) 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용) 및 Windows 7(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=05eef5d7-acf6-46e4-abfc-dc83f0a7cae5&displaylang=ko)  
+[Windows 7(x64 기반 시스템용) 및 Windows 7(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=05eef5d7-acf6-46e4-abfc-dc83f0a7cae5&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용) 및 Windows 7(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=62603d18-1b21-400c-8eba-202193182960&displaylang=ko)  
+[Windows 7(x64 기반 시스템용) 및 Windows 7(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=62603d18-1b21-400c-8eba-202193182960&displaylang=ko)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[AD LDS(Active Directory Lightweight Directory Service)(영문)](http://www.microsoft.com/downloads/details.aspx?familyid=790f1d99-96a5-438d-b433-895b692912ce&displaylang=ko)  
+[AD LDS(Active Directory Lightweight Directory Service)(영문)](https://www.microsoft.com/download/details.aspx?familyid=790f1d99-96a5-438d-b433-895b692912ce&displaylang=ko)  
 (KB2601626)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows 7(x64 기반 시스템용) 및 Windows 7(x64 기반 시스템용) 서비스 팩 1(영문)](http://www.microsoft.com/downloads/details.aspx?familyid=5c7db930-5495-43f0-928c-d586ac9e80d0&displaylang=ko)  
+[Windows 7(x64 기반 시스템용) 및 Windows 7(x64 기반 시스템용) 서비스 팩 1(영문)](https://www.microsoft.com/download/details.aspx?familyid=5c7db930-5495-43f0-928c-d586ac9e80d0&displaylang=ko)  
 (보통)
 </td>
 </tr>
@@ -618,20 +618,20 @@ Windows Server 2008 R2
 Windows Server 2008 R2(x64 기반 시스템용) 및 Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용) 및 Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=3f9f74a6-e984-4aab-837c-ef7286e7305f&displaylang=ko)\*  
+[Windows Server 2008 R2(x64 기반 시스템용) 및 Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=3f9f74a6-e984-4aab-837c-ef7286e7305f&displaylang=ko)\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용) 및 Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=c9cf6a22-f9ab-427a-9b16-33c60baaabb5&displaylang=ko)\*\*  
+[Windows Server 2008 R2(x64 기반 시스템용) 및 Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=c9cf6a22-f9ab-427a-9b16-33c60baaabb5&displaylang=ko)\*\*  
 (낮음)
 </td>
 <td style="border:1px solid black;">
-[Active Directory 및 Active Directory Lightweight Directory Service(AD LDS)(영문)](http://www.microsoft.com/downloads/details.aspx?familyid=cc1e99af-fc67-400b-a82c-171f8c4d1ac9&displaylang=ko)\*  
+[Active Directory 및 Active Directory Lightweight Directory Service(AD LDS)(영문)](https://www.microsoft.com/download/details.aspx?familyid=cc1e99af-fc67-400b-a82c-171f8c4d1ac9&displaylang=ko)\*  
 (KB2601626)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(x64 기반 시스템용) 및 Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1(영문)](http://www.microsoft.com/downloads/details.aspx?familyid=5d810dae-5c52-4155-b5c2-163d27be6e78&displaylang=ko)\*\*\*  
+[Windows Server 2008 R2(x64 기반 시스템용) 및 Windows Server 2008 R2(x64 기반 시스템용) 서비스 팩 1(영문)](https://www.microsoft.com/download/details.aspx?familyid=5d810dae-5c52-4155-b5c2-163d27be6e78&displaylang=ko)\*\*\*  
 (보통)
 </td>
 </tr>
@@ -640,18 +640,18 @@ Windows Server 2008 R2(x64 기반 시스템용) 및 Windows Server 2008 R2(x64 �
 Windows Server 2008 R2(Itanium 기반 시스템용) 및 Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용) 및 Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=b20bfcbd-a515-4074-b56e-b82539fe5bad)  
+[Windows Server 2008 R2(Itanium 기반 시스템용) 및 Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=b20bfcbd-a515-4074-b56e-b82539fe5bad)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용) 및 Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=012777f5-51f2-4944-91af-a9c79b8081a1)  
+[Windows Server 2008 R2(Itanium 기반 시스템용) 및 Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=012777f5-51f2-4944-91af-a9c79b8081a1)  
 (낮음)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2(Itanium 기반 시스템용) 및 Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1(영문)](http://www.microsoft.com/downloads/details.aspx?familyid=395819e2-1028-44b7-ace4-ca754b1a7543)  
+[Windows Server 2008 R2(Itanium 기반 시스템용) 및 Windows Server 2008 R2(Itanium 기반 시스템용) 서비스 팩 1(영문)](https://www.microsoft.com/download/details.aspx?familyid=395819e2-1028-44b7-ace4-ca754b1a7543)  
 (보통)
 </td>
 </tr>
@@ -710,7 +710,7 @@ Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 
 
 UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)(영문)](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator)(영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)(영문)](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator)(영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Microsoft Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 

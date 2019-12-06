@@ -131,10 +131,10 @@ Microsoft Windows 2000
 Microsoft Windows 2000 서비스 팩 4
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 5.5 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=661f5de3-a593-4961-8e8d-2777797eb5c5&displaylang=ko)  
+[Microsoft Outlook Express 5.5 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=661f5de3-a593-4961-8e8d-2777797eb5c5&displaylang=ko)  
 (KB978542)  
 (긴급)  
-[Microsoft Outlook Express 6 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=cda75174-b535-4559-a52d-b5ec3a1df349&displaylang=ko)  
+[Microsoft Outlook Express 6 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=cda75174-b535-4559-a52d-b5ec3a1df349&displaylang=ko)  
 (KB978542)  
 (긴급)
 </td>
@@ -165,10 +165,10 @@ Windows XP
 Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](http://www.microsoft.com/downloads/details.aspx?familyid=99707c3d-a3cb-47da-b38e-8ae0227fd703&displaylang=ko)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/details.aspx?familyid=99707c3d-a3cb-47da-b38e-8ae0227fd703&displaylang=ko)  
 (KB978542)  
 (긴급)  
-[Windows Live Mail](http://www.microsoft.com/downloads/details.aspx?familyid=99707c3d-a3cb-47da-b38e-8ae0227fd703&displaylang=ko)<sup>[1]</sup>
+[Windows Live Mail](https://www.microsoft.com/download/details.aspx?familyid=99707c3d-a3cb-47da-b38e-8ae0227fd703&displaylang=ko)<sup>[1]</sup>
 (KB978542)  
 (중요)
 </td>
@@ -178,10 +178,10 @@ Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 Windows XP Professional x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](http://www.microsoft.com/downloads/details.aspx?familyid=44bc97bb-6f76-4c96-af72-69daaea80fff)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/details.aspx?familyid=44bc97bb-6f76-4c96-af72-69daaea80fff)  
 (KB978542)  
 (긴급)  
-[Windows Live Mail](http://www.microsoft.com/downloads/details.aspx?familyid=44bc97bb-6f76-4c96-af72-69daaea80fff)<sup>[1]</sup>
+[Windows Live Mail](https://www.microsoft.com/download/details.aspx?familyid=44bc97bb-6f76-4c96-af72-69daaea80fff)<sup>[1]</sup>
 (KB978542)  
 (중요)
 </td>
@@ -212,7 +212,7 @@ Windows Server 2003
 Windows Server 2003 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](http://www.microsoft.com/downloads/details.aspx?familyid=eb9742fc-0934-4b38-9ec4-3597fc71ec00&displaylang=ko)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/details.aspx?familyid=eb9742fc-0934-4b38-9ec4-3597fc71ec00&displaylang=ko)  
 (KB978542)  
 (긴급)
 </td>
@@ -222,7 +222,7 @@ Windows Server 2003 서비스 팩 2
 Windows Server 2003 x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](http://www.microsoft.com/downloads/details.aspx?familyid=5678515a-97ea-4e00-8700-d3f2fcdc0efc&displaylang=ko)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/details.aspx?familyid=5678515a-97ea-4e00-8700-d3f2fcdc0efc&displaylang=ko)  
 (KB978542)  
 (긴급)
 </td>
@@ -232,7 +232,7 @@ Windows Server 2003 x64 Edition 서비스 팩 2
 Windows Server 2003 SP2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](http://www.microsoft.com/downloads/details.aspx?familyid=60ef635b-cb6d-402f-b904-e69b519d797f&displaylang=ko)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/details.aspx?familyid=60ef635b-cb6d-402f-b904-e69b519d797f&displaylang=ko)  
 (KB978542)  
 (긴급)
 </td>
@@ -263,10 +263,10 @@ Windows Vista
 Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Mail](http://www.microsoft.com/downloads/details.aspx?familyid=a970c869-24fe-4ef4-b189-7a6bac2411f1&displaylang=ko)  
+[Windows Mail](https://www.microsoft.com/download/details.aspx?familyid=a970c869-24fe-4ef4-b189-7a6bac2411f1&displaylang=ko)  
 (KB978542)  
 (긴급)  
-[Windows Live Mail](http://www.microsoft.com/downloads/details.aspx?familyid=a970c869-24fe-4ef4-b189-7a6bac2411f1&displaylang=ko)<sup>[1]</sup>
+[Windows Live Mail](https://www.microsoft.com/download/details.aspx?familyid=a970c869-24fe-4ef4-b189-7a6bac2411f1&displaylang=ko)<sup>[1]</sup>
 (KB978542)  
 (중요)
 </td>
@@ -276,10 +276,10 @@ Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2
 Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Mail](http://www.microsoft.com/downloads/details.aspx?familyid=9a7853b5-4f9f-4467-9530-eea2efd504a5&displaylang=ko)  
+[Windows Mail](https://www.microsoft.com/download/details.aspx?familyid=9a7853b5-4f9f-4467-9530-eea2efd504a5&displaylang=ko)  
 (KB978542)  
 (긴급)  
-[Windows Live Mail](http://www.microsoft.com/downloads/details.aspx?familyid=9a7853b5-4f9f-4467-9530-eea2efd504a5&displaylang=ko)<sup>[1]</sup>
+[Windows Live Mail](https://www.microsoft.com/download/details.aspx?familyid=9a7853b5-4f9f-4467-9530-eea2efd504a5&displaylang=ko)<sup>[1]</sup>
 (KB978542)  
 (중요)
 </td>
@@ -310,10 +310,10 @@ Windows Server 2008
 Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Mail](http://www.microsoft.com/downloads/details.aspx?familyid=5f77a640-247c-4ed2-9fca-4b7344f4dc7c&displaylang=ko)\*\*  
+[Windows Mail](https://www.microsoft.com/download/details.aspx?familyid=5f77a640-247c-4ed2-9fca-4b7344f4dc7c&displaylang=ko)\*\*  
 (KB978542)  
 (긴급)  
-[Windows Live Mail](http://www.microsoft.com/downloads/details.aspx?familyid=5f77a640-247c-4ed2-9fca-4b7344f4dc7c&displaylang=ko)\*\*<sup>[1]</sup>
+[Windows Live Mail](https://www.microsoft.com/download/details.aspx?familyid=5f77a640-247c-4ed2-9fca-4b7344f4dc7c&displaylang=ko)\*\*<sup>[1]</sup>
 (KB978542)  
 (중요)
 </td>
@@ -323,10 +323,10 @@ Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시�
 Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Mail](http://www.microsoft.com/downloads/details.aspx?familyid=b0eab011-5847-44e4-bc0d-5c5355e1e8d0&displaylang=ko)\*\*  
+[Windows Mail](https://www.microsoft.com/download/details.aspx?familyid=b0eab011-5847-44e4-bc0d-5c5355e1e8d0&displaylang=ko)\*\*  
 (KB978542)  
 (긴급)  
-[Windows Live Mail](http://www.microsoft.com/downloads/details.aspx?familyid=b0eab011-5847-44e4-bc0d-5c5355e1e8d0&displaylang=ko)\*\*<sup>[1]</sup>
+[Windows Live Mail](https://www.microsoft.com/download/details.aspx?familyid=b0eab011-5847-44e4-bc0d-5c5355e1e8d0&displaylang=ko)\*\*<sup>[1]</sup>
 (KB978542)  
 (중요)
 </td>
@@ -336,10 +336,10 @@ Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 
 Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Mail](http://www.microsoft.com/downloads/details.aspx?familyid=da01ae82-895e-4739-916f-a63b9095a076)  
+[Windows Mail](https://www.microsoft.com/download/details.aspx?familyid=da01ae82-895e-4739-916f-a63b9095a076)  
 (KB978542)  
 (긴급)  
-[Windows Live Mail](http://www.microsoft.com/downloads/details.aspx?familyid=da01ae82-895e-4739-916f-a63b9095a076)<sup>[1]</sup>
+[Windows Live Mail](https://www.microsoft.com/download/details.aspx?familyid=da01ae82-895e-4739-916f-a63b9095a076)<sup>[1]</sup>
 (KB978542)  
 (중요)
 </td>
@@ -370,7 +370,7 @@ Windows 7
 Windows 7(32비트 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Live Mail](http://www.microsoft.com/downloads/details.aspx?familyid=1f0c17be-ba4c-4a1c-b9c3-8ac368800947&displaylang=ko)<sup>[1]</sup>
+[Windows Live Mail](https://www.microsoft.com/download/details.aspx?familyid=1f0c17be-ba4c-4a1c-b9c3-8ac368800947&displaylang=ko)<sup>[1]</sup>
 (KB978542)  
 (중요)
 </td>
@@ -380,7 +380,7 @@ Windows 7(32비트 시스템용)
 Windows 7(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Live Mail](http://www.microsoft.com/downloads/details.aspx?familyid=a70f15e1-512c-44ca-a308-928e237ac0ce&displaylang=ko)<sup>[1]</sup>
+[Windows Live Mail](https://www.microsoft.com/download/details.aspx?familyid=a70f15e1-512c-44ca-a308-928e237ac0ce&displaylang=ko)<sup>[1]</sup>
 (KB978542)  
 (중요)
 </td>
@@ -411,7 +411,7 @@ Windows Server 2008 R2
 Windows Server 2008 R2(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Live Mail](http://www.microsoft.com/downloads/details.aspx?familyid=e2e25c02-38ce-4868-a01a-39fc7d2a4150&displaylang=ko)\*\* <sup>[1]</sup>
+[Windows Live Mail](https://www.microsoft.com/download/details.aspx?familyid=e2e25c02-38ce-4868-a01a-39fc7d2a4150&displaylang=ko)\*\* <sup>[1]</sup>
 (KB978542)  
 (중요)
 </td>
@@ -421,7 +421,7 @@ Windows Server 2008 R2(x64 기반 시스템용)
 Windows Server 2008 R2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Live Mail](http://www.microsoft.com/downloads/details.aspx?familyid=53ed1055-b5ee-4fde-9550-f8b401916467)<sup>[1]</sup>
+[Windows Live Mail](https://www.microsoft.com/download/details.aspx?familyid=53ed1055-b5ee-4fde-9550-f8b401916467)<sup>[1]</sup>
 (KB978542)  
 (중요)
 </td>
@@ -473,7 +473,7 @@ Microsoft Office 제품군, 시스템 및 구성 요소
 Microsoft Office XP
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=72c23b0f-4e24-4334-bc8a-334adc8bc42b&displaylang=ko)<sup>[1]</sup>   
+[Microsoft Office XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=72c23b0f-4e24-4334-bc8a-334adc8bc42b&displaylang=ko)<sup>[1]</sup>   
 (KB976380)  
 (중요)
 </td>
@@ -483,7 +483,7 @@ Microsoft Office XP
 Microsoft Office 2003
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2003 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=f8eac9bc-8389-4ac8-8b29-9a8180d9fd34&displaylang=ko)<sup>[1]</sup>   
+[Microsoft Office 2003 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=f8eac9bc-8389-4ac8-8b29-9a8180d9fd34&displaylang=ko)<sup>[1]</sup>   
 (KB976382)  
 (중요)
 </td>
@@ -493,7 +493,7 @@ Microsoft Office 2003
 2007 Microsoft Office System
 </td>
 <td style="border:1px solid black;">
-[2007 Microsoft Office System 서비스 팩 1 및 2007 Microsoft Office System 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=160ad53e-6475-4550-90c2-444e4abea730&displaylang=ko)   
+[2007 Microsoft Office System 서비스 팩 1 및 2007 Microsoft Office System 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=160ad53e-6475-4550-90c2-444e4abea730&displaylang=ko)   
 (KB976321)  
 (중요)
 </td>
@@ -543,7 +543,7 @@ Microsoft Visual Basic for Applications
 Microsoft Visual Basic for Applications
 </td>
 <td style="border:1px solid black;">
-[Microsoft Visual Basic for Applications](http://www.microsoft.com/downloads/details.aspx?familyid=436a8a66-352e-44d1-a610-c825083ad24a&displaylang=ko)<sup>[1]</sup>
+[Microsoft Visual Basic for Applications](https://www.microsoft.com/download/details.aspx?familyid=436a8a66-352e-44d1-a610-c825083ad24a&displaylang=ko)<sup>[1]</sup>
 (KB974945)  
 (긴급)
 </td>
@@ -604,7 +604,7 @@ Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 
 
 **UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)**
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Microsoft Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 

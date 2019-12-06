@@ -211,15 +211,15 @@ Microsoft Windows 2000 서비스 팩 4
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Server 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=365a8dff-2383-42f6-b567-e545461fd135&displaylang=ko)  
+[Microsoft Windows 2000 Server 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=365a8dff-2383-42f6-b567-e545461fd135&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=45db8bb1-c81b-4d3f-a658-74f5fa445f81&displaylang=ko)  
+[Microsoft Windows 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=45db8bb1-c81b-4d3f-a658-74f5fa445f81&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Server 서비스 팩 4의 Active Directory](http://www.microsoft.com/downloads/details.aspx?familyid=297158cf-374c-45d9-b213-978e1f54d244&displaylang=ko)  
+[Microsoft Windows 2000 Server 서비스 팩 4의 Active Directory](https://www.microsoft.com/download/details.aspx?familyid=297158cf-374c-45d9-b213-978e1f54d244&displaylang=ko)  
 (KB973037)  
 (중요)
 </td>
@@ -274,11 +274,11 @@ Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=916abdad-44b7-4f9d-986a-0c3558fb8e06&displaylang=ko)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=916abdad-44b7-4f9d-986a-0c3558fb8e06&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[ADAM(Active Directory Application Mode)](http://www.microsoft.com/downloads/details.aspx?familyid=cbe09780-f288-457a-b254-58c9c8744055&displaylang=ko)  
+[ADAM(Active Directory Application Mode)](https://www.microsoft.com/download/details.aspx?familyid=cbe09780-f288-457a-b254-58c9c8744055&displaylang=ko)  
 (KB973039)  
 (중요)
 </td>
@@ -294,11 +294,11 @@ Windows XP Professional x64 Edition 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=1d0464c6-5ed8-4064-887e-618a2db09236)  
+[Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=1d0464c6-5ed8-4064-887e-618a2db09236)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[ADAM(Active Directory Application Mode)](http://www.microsoft.com/downloads/details.aspx?familyid=b65ddf36-a02d-4aa2-9b4f-7416dbf59e2a)  
+[ADAM(Active Directory Application Mode)](https://www.microsoft.com/download/details.aspx?familyid=b65ddf36-a02d-4aa2-9b4f-7416dbf59e2a)  
 (KB973039)  
 (중요)
 </td>
@@ -353,14 +353,14 @@ Windows Server 2003 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=5cd62750-e269-44ae-8c7c-c335e8545b9a&displaylang=ko)  
+[Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=5cd62750-e269-44ae-8c7c-c335e8545b9a&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Active Directory](http://www.microsoft.com/downloads/details.aspx?familyid=28f1c494-4e16-43b6-93d2-49e15f142ac9&displaylang=ko)  
+[Active Directory](https://www.microsoft.com/download/details.aspx?familyid=28f1c494-4e16-43b6-93d2-49e15f142ac9&displaylang=ko)  
 (KB973037)  
 (중요)  
-[ADAM(Active Directory Application Mode)](http://www.microsoft.com/downloads/details.aspx?familyid=44cb9029-4b19-4bad-8fc9-3efe285adb0e&displaylang=ko)  
+[ADAM(Active Directory Application Mode)](https://www.microsoft.com/download/details.aspx?familyid=44cb9029-4b19-4bad-8fc9-3efe285adb0e&displaylang=ko)  
 (KB973039)  
 (중요)
 </td>
@@ -376,14 +376,14 @@ Windows Server 2003 x64 Edition 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=04a7f817-f330-4003-8b25-d3e744905b12&displaylang=ko)  
+[Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=04a7f817-f330-4003-8b25-d3e744905b12&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Active Directory](http://www.microsoft.com/downloads/details.aspx?familyid=509aeec0-112b-44ab-8686-43f381b61940&displaylang=ko)  
+[Active Directory](https://www.microsoft.com/download/details.aspx?familyid=509aeec0-112b-44ab-8686-43f381b61940&displaylang=ko)  
 (KB973037)  
 (중요)  
-[ADAM(Active Directory Application Mode)](http://www.microsoft.com/downloads/details.aspx?familyid=87f2109e-5129-467c-930f-70af31ebf5de&displaylang=ko)  
+[ADAM(Active Directory Application Mode)](https://www.microsoft.com/download/details.aspx?familyid=87f2109e-5129-467c-930f-70af31ebf5de&displaylang=ko)  
 (KB973039)  
 (중요)
 </td>
@@ -399,11 +399,11 @@ Windows Server 2003 SP2(Itanium 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=b95daac0-4c99-47a4-b0ca-9429997ea3d9)  
+[Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=b95daac0-4c99-47a4-b0ca-9429997ea3d9)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Active Directory](http://www.microsoft.com/downloads/details.aspx?familyid=040e691b-1ef0-4b73-bef7-a1d77b84b0ca)  
+[Active Directory](https://www.microsoft.com/download/details.aspx?familyid=040e691b-1ef0-4b73-bef7-a1d77b84b0ca)  
 (KB973037)  
 (중요)
 </td>
@@ -452,14 +452,14 @@ Windows Vista
 Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=ebf0c294-cd99-445a-a741-78253e47189f&displaylang=ko)  
+[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=ebf0c294-cd99-445a-a741-78253e47189f&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=54562103-1d99-42d7-8f7f-c0cbcdce90db&displaylang=ko)  
+[Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=54562103-1d99-42d7-8f7f-c0cbcdce90db&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -471,14 +471,14 @@ Windows Vista, Windows Vista 서비스 팩 1 및 Windows Vista 서비스 팩 2
 Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=d9645fc9-f524-43f1-8b8c-94b3b4312158&displaylang=ko)  
+[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=d9645fc9-f524-43f1-8b8c-94b3b4312158&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=fcb87cc8-6fd7-4f16-93d6-552999462fb1&displaylang=ko)  
+[Windows Vista x64 Edition, Windows Vista x64 Edition 서비스 팩 1 및 Windows Vista x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=fcb87cc8-6fd7-4f16-93d6-552999462fb1&displaylang=ko)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -529,18 +529,18 @@ Windows Server 2008
 Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=d6a60883-b103-459a-a91b-cd6ed946cefe&displaylang=ko)\*  
+[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=d6a60883-b103-459a-a91b-cd6ed946cefe&displaylang=ko)\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=b97d48de-0f6d-4bca-b990-acf543fdb8b7&displaylang=ko)\*  
+[Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=b97d48de-0f6d-4bca-b990-acf543fdb8b7&displaylang=ko)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Active Directory 및 AD LDS(Active Directory Lightweight Directory Service)](http://www.microsoft.com/downloads/details.aspx?familyid=701abf15-7f93-41de-8d09-13404fd79a7e&displaylang=ko)\*  
+[Active Directory 및 AD LDS(Active Directory Lightweight Directory Service)](https://www.microsoft.com/download/details.aspx?familyid=701abf15-7f93-41de-8d09-13404fd79a7e&displaylang=ko)\*  
 (KB973037)  
 (중요)
 </td>
@@ -550,18 +550,18 @@ Windows Server 2008(32비트 시스템용) 및 Windows Server 2008(32비트 시�
 Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=3dde1587-42d3-438f-8344-696a5657b9b1&displaylang=ko)\*  
+[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=3dde1587-42d3-438f-8344-696a5657b9b1&displaylang=ko)\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=0e2b8607-10fa-406a-96a5-18290f479c48&displaylang=ko)\*  
+[Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=0e2b8607-10fa-406a-96a5-18290f479c48&displaylang=ko)\*  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Active Directory 및 AD LDS(Active Directory Lightweight Directory Service)](http://www.microsoft.com/downloads/details.aspx?familyid=17f5f9e0-5869-41da-9b3b-6e67540af1f0&displaylang=ko)\*  
+[Active Directory 및 AD LDS(Active Directory Lightweight Directory Service)](https://www.microsoft.com/download/details.aspx?familyid=17f5f9e0-5869-41da-9b3b-6e67540af1f0&displaylang=ko)\*  
 (KB973037)  
 (중요)
 </td>
@@ -571,14 +571,14 @@ Windows Server 2008(x64 기반 시스템용) 및 Windows Server 2008(x64 기반 
 Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=841a027f-22fa-42de-93b3-57a3fe92a1d3)  
+[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=841a027f-22fa-42de-93b3-57a3fe92a1d3)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=28eba3f3-99a5-424c-bc8d-a718c716699e)  
+[Windows Server 2008(Itanium 기반 시스템용) 및 Windows Server 2008(Itanium 기반 시스템용) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=28eba3f3-99a5-424c-bc8d-a718c716699e)  
 (중요)
 </td>
 <td style="border:1px solid black;">
@@ -636,12 +636,12 @@ Microsoft Office 제품군, 시스템 및 구성 요소
 Microsoft Office XP
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel 2002 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=5672c8fc-8509-4962-ad86-ebc0f2575043&displaylang=ko)  
+[Microsoft Office Excel 2002 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=5672c8fc-8509-4962-ad86-ebc0f2575043&displaylang=ko)  
 (KB973471)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Word 2002 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=0369fae5-958b-4eba-83a4-9c07e701c273&displaylang=ko)  
+[Microsoft Office Word 2002 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=0369fae5-958b-4eba-83a4-9c07e701c273&displaylang=ko)  
 (KB973444)  
 (중요)
 </td>
@@ -651,12 +651,12 @@ Microsoft Office XP
 Microsoft Office 2003
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel 2003 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=6a6a0f5d-17dc-4a34-b9a0-0774aa287ba5&displaylang=ko)  
+[Microsoft Office Excel 2003 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=6a6a0f5d-17dc-4a34-b9a0-0774aa287ba5&displaylang=ko)  
 (KB973475)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Word 2003 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=6b77bc62-bcbb-4b9a-97d1-a49ca0582e54&displaylang=ko)  
+[Microsoft Office Word 2003 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=6b77bc62-bcbb-4b9a-97d1-a49ca0582e54&displaylang=ko)  
 (KB973443)  
 (중요)
 </td>
@@ -666,7 +666,7 @@ Microsoft Office 2003
 2007 Microsoft Office System
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel 2007 서비스 팩 1 및 Microsoft Office Excel 2007 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=322b24ca-aff6-4ca0-acf1-440cae0f9693&displaylang=ko)<sup>[1]</sup>
+[Microsoft Office Excel 2007 서비스 팩 1 및 Microsoft Office Excel 2007 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=322b24ca-aff6-4ca0-acf1-440cae0f9693&displaylang=ko)<sup>[1]</sup>
 (KB973593)  
 (중요)
 </td>
@@ -706,12 +706,12 @@ Microsoft Office for Mac
 Microsoft Office 2004 for Mac
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2004 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=8f115b1c-1e28-4ecf-937c-99c4b60c7c8e)  
+[Microsoft Office 2004 for Mac](https://www.microsoft.com/download/details.aspx?familyid=8f115b1c-1e28-4ecf-937c-99c4b60c7c8e)  
 (KB976830)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2004 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=8f115b1c-1e28-4ecf-937c-99c4b60c7c8e)  
+[Microsoft Office 2004 for Mac](https://www.microsoft.com/download/details.aspx?familyid=8f115b1c-1e28-4ecf-937c-99c4b60c7c8e)  
 (KB976830)  
 (중요)
 </td>
@@ -721,12 +721,12 @@ Microsoft Office 2004 for Mac
 Microsoft Office 2008 for Mac
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2008 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=b84fe57d-ddda-451e-9ead-69e10aee7928)  
+[Microsoft Office 2008 for Mac](https://www.microsoft.com/download/details.aspx?familyid=b84fe57d-ddda-451e-9ead-69e10aee7928)  
 (KB976828)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2008 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=b84fe57d-ddda-451e-9ead-69e10aee7928)  
+[Microsoft Office 2008 for Mac](https://www.microsoft.com/download/details.aspx?familyid=b84fe57d-ddda-451e-9ead-69e10aee7928)  
 (KB976828)  
 (중요)
 </td>
@@ -736,12 +736,12 @@ Microsoft Office 2008 for Mac
 Open XML File Format Converter for Mac
 </td>
 <td style="border:1px solid black;">
-[Open XML File Format Converter for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=4dd4bc05-1217-497e-8f65-4347f2544ed6)  
+[Open XML File Format Converter for Mac](https://www.microsoft.com/download/details.aspx?familyid=4dd4bc05-1217-497e-8f65-4347f2544ed6)  
 (KB976831)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Open XML File Format Converter for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=4dd4bc05-1217-497e-8f65-4347f2544ed6)  
+[Open XML File Format Converter for Mac](https://www.microsoft.com/download/details.aspx?familyid=4dd4bc05-1217-497e-8f65-4347f2544ed6)  
 (KB976831)  
 (중요)
 </td>
@@ -778,7 +778,7 @@ Open XML File Format Converter for Mac
 Microsoft Office Excel Viewer 2003
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel Viewer 2003 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=19151e22-5642-456c-bd39-298574369cdb&displaylang=ko)  
+[Microsoft Office Excel Viewer 2003 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=19151e22-5642-456c-bd39-298574369cdb&displaylang=ko)  
 (KB973484)  
 (중요)
 </td>
@@ -791,7 +791,7 @@ Microsoft Office Excel Viewer 2003
 Microsoft Office Excel Viewer
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel Viewer 서비스 팩 1 및 Microsoft Office Excel Viewer 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=fb36df5e-ebef-46bf-9edd-67f2c76dbdb3&displaylang=ko)  
+[Microsoft Office Excel Viewer 서비스 팩 1 및 Microsoft Office Excel Viewer 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=fb36df5e-ebef-46bf-9edd-67f2c76dbdb3&displaylang=ko)  
 (KB973707)  
 (중요)
 </td>
@@ -807,7 +807,7 @@ Microsoft Office Word Viewer 2003
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Word Viewer 2003 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=4cc5e6c5-7efb-4180-9a9b-0788115c91e1&displaylang=ko)  
+[Microsoft Office Word Viewer 2003 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=4cc5e6c5-7efb-4180-9a9b-0788115c91e1&displaylang=ko)  
 (KB973866)  
 (중요)
 </td>
@@ -820,7 +820,7 @@ Microsoft Office Word Viewer
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Word Viewer](http://www.microsoft.com/downloads/details.aspx?familyid=4cc5e6c5-7efb-4180-9a9b-0788115c91e1&displaylang=ko)  
+[Microsoft Office Word Viewer](https://www.microsoft.com/download/details.aspx?familyid=4cc5e6c5-7efb-4180-9a9b-0788115c91e1&displaylang=ko)  
 (KB973866)  
 (중요)
 </td>
@@ -830,7 +830,7 @@ Microsoft Office Word Viewer
 Word, Excel, PowerPoint 2007 파일 형식용 Microsoft Office 호환 기능 팩
 </td>
 <td style="border:1px solid black;">
-[Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 1용 Microsoft Office 호환 기능 팩 및 Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 2용 Microsoft Office 호환 기능 팩](http://www.microsoft.com/downloads/details.aspx?familyid=c4c92d2e-e87d-446f-8d3e-8f4be10c70aa&displaylang=ko)  
+[Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 1용 Microsoft Office 호환 기능 팩 및 Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 2용 Microsoft Office 호환 기능 팩](https://www.microsoft.com/download/details.aspx?familyid=c4c92d2e-e87d-446f-8d3e-8f4be10c70aa&displaylang=ko)  
 (KB973704)  
 (중요)
 </td>
@@ -842,7 +842,7 @@ Word, Excel, PowerPoint 2007 파일 형식용 Microsoft Office 호환 기능 팩
  
 **MS09-067 참고 사항**
 
-<sup>[1]</sup>Microsoft Office Excel 2007 서비스 팩 1 및 Microsoft Office Excel 2007 서비스 팩 2를 사용하는 고객은 이 보안 공지에서 설명한 취약점으로부터 보호하기 위해 보안 업데이트 패키지 KB973593과 함께 [Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 1용 Microsoft Office 호환 기능 팩 및 Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 2용 Microsoft Office 호환 기능 팩](http://www.microsoft.com/downloads/details.aspx?familyid=?...?)(KB973704)에 대한 보안 업데이트를 설치해야 합니다.
+<sup>[1]</sup>Microsoft Office Excel 2007 서비스 팩 1 및 Microsoft Office Excel 2007 서비스 팩 2를 사용하는 고객은 이 보안 공지에서 설명한 취약점으로부터 보호하기 위해 보안 업데이트 패키지 KB973593과 함께 [Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 1용 Microsoft Office 호환 기능 팩 및 Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 2용 Microsoft Office 호환 기능 팩](https://www.microsoft.com/download/details.aspx?familyid=?...?)(KB973704)에 대한 보안 업데이트를 설치해야 합니다.
 
 검색, 배포 도구 및 지침
 -----------------------
@@ -879,7 +879,7 @@ Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 
 
 **UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)**
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit)](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Microsoft Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 

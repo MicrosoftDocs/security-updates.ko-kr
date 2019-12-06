@@ -165,7 +165,7 @@ Windows XP
 Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=8cd902ec-e018-4b61-80f9-825d973f998e&displaylang=ko)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=8cd902ec-e018-4b61-80f9-825d973f998e&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
@@ -177,7 +177,7 @@ Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=dd3e2236-9cc0-478e-a46c-981ef685c0e3)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=dd3e2236-9cc0-478e-a46c-981ef685c0e3)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
@@ -216,14 +216,14 @@ Windows Server 2003
 Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=e52aa1fd-e694-4322-b3ff-6abc1b4a16fe&displaylang=ko)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=e52aa1fd-e694-4322-b3ff-6abc1b4a16fe&displaylang=ko)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2000 Desktop Engine(WMSDE)](http://www.microsoft.com/downloads/details.aspx?familyid=218809d6-a9fb-408b-a34d-ab2ac786994c)  
+[Microsoft SQL Server 2000 Desktop Engine(WMSDE)](https://www.microsoft.com/download/details.aspx?familyid=218809d6-a9fb-408b-a34d-ab2ac786994c)  
 (KB960082)  
 (중요)  
-[Windows Internal Database(WYukon) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=16925be5-98d0-446b-9bbc-d9a2d335c69e&displaylang=ko)  
+[Windows Internal Database(WYukon) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=16925be5-98d0-446b-9bbc-d9a2d335c69e&displaylang=ko)  
 (KB960089)  
 (중요)
 </td>
@@ -233,14 +233,14 @@ Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2
 Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=edbf1566-b96b-4c7d-98fe-b15f8e766792&displaylang=ko)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=edbf1566-b96b-4c7d-98fe-b15f8e766792&displaylang=ko)  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2000 Desktop Engine(WMSDE)](http://www.microsoft.com/downloads/details.aspx?familyid=218809d6-a9fb-408b-a34d-ab2ac786994c&displaylang=ko)  
+[Microsoft SQL Server 2000 Desktop Engine(WMSDE)](https://www.microsoft.com/download/details.aspx?familyid=218809d6-a9fb-408b-a34d-ab2ac786994c&displaylang=ko)  
 (KB960082)  
 (중요)  
-[Windows Internal Database(WYukon) x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=05c5c265-cfd7-4364-b323-77650b7f1e67&displaylang=ko)  
+[Windows Internal Database(WYukon) x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=05c5c265-cfd7-4364-b323-77650b7f1e67&displaylang=ko)  
 (KB960089)  
 (중요)
 </td>
@@ -250,7 +250,7 @@ Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 �
 Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=5ce78797-d1c0-40d4-84e1-1004389833be)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=5ce78797-d1c0-40d4-84e1-1004389833be)  
 (보통)
 </td>
 <td style="border:1px solid black;">
@@ -289,7 +289,7 @@ Windows Vista
 Windows Vista 및 Windows Vista 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=5f9fa4b6-85a4-43bc-b84f-6bd847799650&displaylang=ko)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=5f9fa4b6-85a4-43bc-b84f-6bd847799650&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
@@ -301,7 +301,7 @@ Windows Vista 및 Windows Vista 서비스 팩 1
 Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=e9a8c94b-b9d2-4d64-855f-b5f02ce3dfb5&displaylang=ko)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=e9a8c94b-b9d2-4d64-855f-b5f02ce3dfb5&displaylang=ko)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
@@ -340,11 +340,11 @@ Windows Server 2008
 Windows Server 2008(32비트 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=2491dbf2-7cd3-44f1-bfad-77e6f760a25c&displaylang=ko)\*\*  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=2491dbf2-7cd3-44f1-bfad-77e6f760a25c&displaylang=ko)\*\*  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows Internal Database(WYukon) 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=16925be5-98d0-446b-9bbc-d9a2d335c69e&displaylang=ko)\*  
+[Windows Internal Database(WYukon) 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=16925be5-98d0-446b-9bbc-d9a2d335c69e&displaylang=ko)\*  
 (KB960089)  
 (중요)
 </td>
@@ -354,11 +354,11 @@ Windows Server 2008(32비트 시스템용)
 Windows Server 2008(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=794373cc-2dce-4ef5-af50-7804c622c230&displaylang=ko)\*\*  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=794373cc-2dce-4ef5-af50-7804c622c230&displaylang=ko)\*\*  
 (보통)
 </td>
 <td style="border:1px solid black;">
-[Windows Internal Database(WYukon) x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=05c5c265-cfd7-4364-b323-77650b7f1e67&displaylang=ko)\*  
+[Windows Internal Database(WYukon) x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=05c5c265-cfd7-4364-b323-77650b7f1e67&displaylang=ko)\*  
 (KB960089)  
 (중요)
 </td>
@@ -368,7 +368,7 @@ Windows Server 2008(x64 기반 시스템용)
 Windows Server 2008(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=11985325-4b33-4077-82cf-6afc7a71c510)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=11985325-4b33-4077-82cf-6afc7a71c510)  
 (보통)
 </td>
 <td style="border:1px solid black;">
@@ -424,7 +424,7 @@ Microsoft Exchange Server
 Microsoft Exchange 2000 Server
 </td>
 <td style="border:1px solid black;">
-[2004년 8월에 릴리스된 업데이트 롤업이 설치된 Microsoft Exchange 2000 Server 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=805dc856-ea60-477d-be40-6ac535a7e7e5)  
+[2004년 8월에 릴리스된 업데이트 롤업이 설치된 Microsoft Exchange 2000 Server 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=805dc856-ea60-477d-be40-6ac535a7e7e5)  
 (KB959897)  
 (긴급)
 </td>
@@ -434,7 +434,7 @@ Microsoft Exchange 2000 Server
 Microsoft Exchange Server 2003
 </td>
 <td style="border:1px solid black;">
-[Microsoft Exchange Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=1d9f0956-88bd-4e13-a86b-b1c8d4782f71&displaylang=ko)\*  
+[Microsoft Exchange Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=1d9f0956-88bd-4e13-a86b-b1c8d4782f71&displaylang=ko)\*  
 (KB959897)  
 (긴급)
 </td>
@@ -444,7 +444,7 @@ Microsoft Exchange Server 2003
 Microsoft Exchange Server 2007
 </td>
 <td style="border:1px solid black;">
-[Microsoft Exchange Server 2007 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=93cb3f66-ae72-4356-bdbf-35029cff6df1&displaylang=ko)\*\*  
+[Microsoft Exchange Server 2007 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=93cb3f66-ae72-4356-bdbf-35029cff6df1&displaylang=ko)\*\*  
 (KB959241)  
 (긴급)
 </td>
@@ -454,7 +454,7 @@ Microsoft Exchange Server 2007
 Microsoft Exchange Server MAPI Client and Collaboration Data Objects 1.2.1
 </td>
 <td style="border:1px solid black;">
-[Microsoft Exchange Server MAPI Client and Collaboration Data Objects 1.2.1](http://www.microsoft.com/downloads/details.aspx?familyid=e17e7f31-079a-43a9-bff2-0a110307611e&displaylang=ko)\*\*  
+[Microsoft Exchange Server MAPI Client and Collaboration Data Objects 1.2.1](https://www.microsoft.com/download/details.aspx?familyid=e17e7f31-079a-43a9-bff2-0a110307611e&displaylang=ko)\*\*  
 (긴급)
 </td>
 </tr>
@@ -504,11 +504,11 @@ SQL Server 2000 서비스 팩 4
 </td>
 <td style="border:1px solid black;">
 GDR 업데이트:  
-[SQL Server 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=d5bb816a-6e1a-47cb-92be-51c565ee184c&displaylang=ko)  
+[SQL Server 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=d5bb816a-6e1a-47cb-92be-51c565ee184c&displaylang=ko)  
 (KB960082)  
 (중요)  
 QFE 업데이트:  
-[SQL Server 2000 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=a93f3cfe-18c9-4218-a551-13bf415e418a&displaylang=ko)  
+[SQL Server 2000 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=a93f3cfe-18c9-4218-a551-13bf415e418a&displaylang=ko)  
 (KB960083)  
 (중요)
 </td>
@@ -519,11 +519,11 @@ SQL Server 2000 Itanium 기반 에디션 서비스 팩 4
 </td>
 <td style="border:1px solid black;">
 GDR 업데이트:  
-[SQL Server 2000 Itanium 기반 에디션 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=d5bb816a-6e1a-47cb-92be-51c565ee184c)  
+[SQL Server 2000 Itanium 기반 에디션 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=d5bb816a-6e1a-47cb-92be-51c565ee184c)  
 (KB960082)  
 (중요)  
 QFE 업데이트:  
-[SQL Server 2000 Itanium 기반 에디션 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=a93f3cfe-18c9-4218-a551-13bf415e418a)  
+[SQL Server 2000 Itanium 기반 에디션 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=a93f3cfe-18c9-4218-a551-13bf415e418a)  
 (KB960083)  
 (중요)
 </td>
@@ -534,11 +534,11 @@ SQL Server 2005 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
 GDR 업데이트:  
-[SQL Server 2005 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=5dfb7998-0316-40e5-9fc5-7a1afc18e15e&displaylang=ko)  
+[SQL Server 2005 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=5dfb7998-0316-40e5-9fc5-7a1afc18e15e&displaylang=ko)  
 (KB960089)  
 (중요)  
 QFE 업데이트:  
-[SQL Server 2005 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=aa2b82ca-e94e-4491-8639-f0749b1a0f3a&displaylang=ko)  
+[SQL Server 2005 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=aa2b82ca-e94e-4491-8639-f0749b1a0f3a&displaylang=ko)  
 (KB960090)  
 (중요)
 </td>
@@ -549,11 +549,11 @@ SQL Server 2005 x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
 GDR 업데이트:  
-[SQL Server 2005 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=5dfb7998-0316-40e5-9fc5-7a1afc18e15e&displaylang=ko)  
+[SQL Server 2005 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=5dfb7998-0316-40e5-9fc5-7a1afc18e15e&displaylang=ko)  
 (KB960089)  
 (중요)  
 QFE 업데이트:  
-[SQL Server 2005 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=aa2b82ca-e94e-4491-8639-f0749b1a0f3a&displaylang=ko)  
+[SQL Server 2005 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=aa2b82ca-e94e-4491-8639-f0749b1a0f3a&displaylang=ko)  
 (KB960090)  
 (중요)
 </td>
@@ -564,11 +564,11 @@ SQL Server 2005 SP2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
 GDR 업데이트:  
-[SQL Server 2005 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=5dfb7998-0316-40e5-9fc5-7a1afc18e15e)  
+[SQL Server 2005 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=5dfb7998-0316-40e5-9fc5-7a1afc18e15e)  
 (KB960089)  
 (중요)  
 QFE 업데이트:  
-[SQL Server 2005 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=aa2b82ca-e94e-4491-8639-f0749b1a0f3a)  
+[SQL Server 2005 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=aa2b82ca-e94e-4491-8639-f0749b1a0f3a)  
 (KB960090)  
 (중요)
 </td>
@@ -579,11 +579,11 @@ Microsoft SQL Server 2000 Desktop Engine(MSDE 2000) 서비스 팩 4
 </td>
 <td style="border:1px solid black;">
 GDR 업데이트:  
-[Microsoft SQL Server 2000 Desktop Engine(MSDE 2000) 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=d5bb816a-6e1a-47cb-92be-51c565ee184c&displaylang=ko)  
+[Microsoft SQL Server 2000 Desktop Engine(MSDE 2000) 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=d5bb816a-6e1a-47cb-92be-51c565ee184c&displaylang=ko)  
 (KB960082)  
 (중요)  
 QFE 업데이트:  
-[Microsoft SQL Server 2000 Desktop Engine(MSDE 2000) 서비스 팩 4](http://www.microsoft.com/downloads/details.aspx?familyid=a93f3cfe-18c9-4218-a551-13bf415e418a&displaylang=ko)  
+[Microsoft SQL Server 2000 Desktop Engine(MSDE 2000) 서비스 팩 4](https://www.microsoft.com/download/details.aspx?familyid=a93f3cfe-18c9-4218-a551-13bf415e418a&displaylang=ko)  
 (KB960083)  
 (중요)
 </td>
@@ -594,11 +594,11 @@ SQL Server 2005 Express Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
 GDR 업데이트:  
-[SQL Server 2005 Express Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=5dfb7998-0316-40e5-9fc5-7a1afc18e15e&displaylang=ko)  
+[SQL Server 2005 Express Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=5dfb7998-0316-40e5-9fc5-7a1afc18e15e&displaylang=ko)  
 (KB960089)  
 (중요)  
 QFE 업데이트:  
-[SQL Server 2005 Express Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=aa2b82ca-e94e-4491-8639-f0749b1a0f3a&displaylang=ko)  
+[SQL Server 2005 Express Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=aa2b82ca-e94e-4491-8639-f0749b1a0f3a&displaylang=ko)  
 (KB960090)  
 (중요)
 </td>
@@ -609,11 +609,11 @@ QFE 업데이트:
 </td>
 <td style="border:1px solid black;">
 GDR 업데이트:  
-[고급 서비스가 포함된 SQL Server 2005 Express Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=5dfb7998-0316-40e5-9fc5-7a1afc18e15e&displaylang=ko)  
+[고급 서비스가 포함된 SQL Server 2005 Express Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=5dfb7998-0316-40e5-9fc5-7a1afc18e15e&displaylang=ko)  
 (KB960089)  
 (중요)  
 QFE 업데이트:  
-[고급 서비스가 포함된 SQL Server 2005 Express Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=aa2b82ca-e94e-4491-8639-f0749b1a0f3a&displaylang=ko)  
+[고급 서비스가 포함된 SQL Server 2005 Express Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=aa2b82ca-e94e-4491-8639-f0749b1a0f3a&displaylang=ko)  
 (KB960090)  
 (중요)
 </td>
@@ -661,7 +661,7 @@ Microsoft Office Visio
 Microsoft Office Visio 2002
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Visio 2002 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=a30cef3f-9eaf-45bd-9a25-4b65302362cb&displaylang=ko)  
+[Microsoft Office Visio 2002 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=a30cef3f-9eaf-45bd-9a25-4b65302362cb&displaylang=ko)  
 (KB955654)  
 (중요)
 </td>
@@ -671,7 +671,7 @@ Microsoft Office Visio 2002
 Microsoft Office Visio 2003
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Visio 2003 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=c9cb589e-1a37-485d-8402-7f42bcd7a1a9&displaylang=ko)  
+[Microsoft Office Visio 2003 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=c9cb589e-1a37-485d-8402-7f42bcd7a1a9&displaylang=ko)  
 (KB955655)  
 (중요)
 </td>
@@ -681,7 +681,7 @@ Microsoft Office Visio 2003
 Microsoft Office Visio 2007
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Visio 2007 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=4b711e89-8de2-4f17-8afc-691e0604ff82&displaylang=ko)  
+[Microsoft Office Visio 2007 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=4b711e89-8de2-4f17-8afc-691e0604ff82&displaylang=ko)  
 (KB957831)  
 (중요)
 </td>
@@ -722,7 +722,7 @@ Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 
 
 **UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)**
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit) 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit) 5.0](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Microsoft Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 

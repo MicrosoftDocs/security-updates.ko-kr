@@ -136,24 +136,24 @@ Microsoft Windows 2000 서비스 팩 4
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=a860d2d9-653d-4ddb-bbff-323d3ccdb866)  
+[Microsoft Internet Explorer 6 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=a860d2d9-653d-4ddb-bbff-323d3ccdb866)  
 (KB938464)  
 (긴급)  
-[Microsoft .NET Framework 1.0 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=c7cbcd19-acc1-4a89-adfa-99b2f431510d)  
+[Microsoft .NET Framework 1.0 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=c7cbcd19-acc1-4a89-adfa-99b2f431510d)  
 (KB947739)  
 (심각도 없음)  
-[Microsoft .NET Framework 1.1 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=6013f866-3ea1-4672-b1bf-e516204c3a7a)  
+[Microsoft .NET Framework 1.1 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=6013f866-3ea1-4672-b1bf-e516204c3a7a)  
 (KB947742)  
 (심각도 없음)  
-[Microsoft .NET Framework 2.0](http://www.microsoft.com/downloads/details.aspx?familyid=7f1cd013-2c4b-4582-9114-cb840a96124a)  
+[Microsoft .NET Framework 2.0](https://www.microsoft.com/download/details.aspx?familyid=7f1cd013-2c4b-4582-9114-cb840a96124a)  
 (KB947746)  
 (심각도 없음)  
-[Microsoft .NET Framework 2.0 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=215b73a3-46ab-44a8-a0fb-6d37bd1c39b8)  
+[Microsoft .NET Framework 2.0 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=215b73a3-46ab-44a8-a0fb-6d37bd1c39b8)  
 (KB947748)  
 (심각도 없음)
 </td>
 <td style="border:1px solid black;">
-[Windows Media 인코더 9 시리즈](http://www.microsoft.com/downloads/details.aspx?familyid=0cabfbc0-db5d-4a6a-a4cd-e6df89ac2b25)  
+[Windows Media 인코더 9 시리즈](https://www.microsoft.com/download/details.aspx?familyid=0cabfbc0-db5d-4a6a-a4cd-e6df89ac2b25)  
 (긴급)
 </td>
 </tr>
@@ -195,15 +195,15 @@ Windows XP
 Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Windows Media Player 11](http://www.microsoft.com/downloads/details.aspx?familyid=d5891180-5dd1-49ec-bcc6-3030a544202c)  
+[Windows Media Player 11](https://www.microsoft.com/download/details.aspx?familyid=d5891180-5dd1-49ec-bcc6-3030a544202c)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=e0bd6fbe-f46e-4961-9a79-49ec77d39439)  
+[Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=e0bd6fbe-f46e-4961-9a79-49ec77d39439)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Media 인코더 9 시리즈](http://www.microsoft.com/downloads/details.aspx?familyid=57bcb3c2-49d3-4f18-8d03-36abd03d7403)  
+[Windows Media 인코더 9 시리즈](https://www.microsoft.com/download/details.aspx?familyid=57bcb3c2-49d3-4f18-8d03-36abd03d7403)  
 (긴급)
 </td>
 </tr>
@@ -212,17 +212,17 @@ Windows XP 서비스 팩 2 및 Windows XP 서비스 팩 3
 Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Windows Media Player 11](http://www.microsoft.com/downloads/details.aspx?familyid=caf8a45e-a9f8-4e91-98fd-87eddbeae64c)  
+[Windows Media Player 11](https://www.microsoft.com/download/details.aspx?familyid=caf8a45e-a9f8-4e91-98fd-87eddbeae64c)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=c5d26771-1f49-4bbf-902c-bf92e527cadb)  
+[Windows XP Professional x64 Edition 및 Windows XP Professional x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=c5d26771-1f49-4bbf-902c-bf92e527cadb)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Media 인코더 9 시리즈](http://www.microsoft.com/downloads/details.aspx?familyid=18efea9e-b103-46de-90d9-5e295854cec3)  
+[Windows Media 인코더 9 시리즈](https://www.microsoft.com/download/details.aspx?familyid=18efea9e-b103-46de-90d9-5e295854cec3)  
 (긴급)  
-[Windows Media 인코더 9 시리즈 x64 Edition](http://www.microsoft.com/downloads/details.aspx?familyid=ebc1737c-6e78-4244-a1b2-a56d031f16e9)  
+[Windows Media 인코더 9 시리즈 x64 Edition](https://www.microsoft.com/download/details.aspx?familyid=ebc1737c-6e78-4244-a1b2-a56d031f16e9)  
 (긴급)
 </td>
 </tr>
@@ -267,11 +267,11 @@ Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=ac03f138-eca4-46e1-9782-e811820e547f)  
+[Windows Server 2003 서비스 팩 1 및 Windows Server 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=ac03f138-eca4-46e1-9782-e811820e547f)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Media 인코더 9 시리즈](http://www.microsoft.com/downloads/details.aspx?familyid=54ce1080-94cf-4e4f-8e09-a7dbab2757c5)  
+[Windows Media 인코더 9 시리즈](https://www.microsoft.com/download/details.aspx?familyid=54ce1080-94cf-4e4f-8e09-a7dbab2757c5)  
 (보통)
 </td>
 </tr>
@@ -283,13 +283,13 @@ Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 �
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=93f1451b-5b62-47e5-8f0c-b720b957999a)  
+[Windows Server 2003 x64 Edition 및 Windows Server 2003 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=93f1451b-5b62-47e5-8f0c-b720b957999a)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Media 인코더 9 시리즈](http://www.microsoft.com/downloads/details.aspx?familyid=c83011cd-90b8-494c-9cad-fa055e101992)  
+[Windows Media 인코더 9 시리즈](https://www.microsoft.com/download/details.aspx?familyid=c83011cd-90b8-494c-9cad-fa055e101992)  
 (보통)  
-[Windows Media 인코더 9 시리즈 x64 Edition](http://www.microsoft.com/downloads/details.aspx?familyid=d8f1b782-136b-443f-b5f2-63aa4d1fd94a)  
+[Windows Media 인코더 9 시리즈 x64 Edition](https://www.microsoft.com/download/details.aspx?familyid=d8f1b782-136b-443f-b5f2-63aa4d1fd94a)  
 (보통)
 </td>
 </tr>
@@ -301,7 +301,7 @@ Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=14e99f8a-cdd4-40d7-8cfc-73ae6bd6dfad)  
+[Windows Server 2003 SP1(Itanium 기반 시스템용) 및 Windows Server 2003 SP2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=14e99f8a-cdd4-40d7-8cfc-73ae6bd6dfad)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
@@ -346,15 +346,15 @@ Windows Vista
 Windows Vista 및 Windows Vista 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Windows Media Player 11](http://www.microsoft.com/downloads/details.aspx?familyid=2f4118fd-1ffb-46da-b922-cd4ca4f9d84e)  
+[Windows Media Player 11](https://www.microsoft.com/download/details.aspx?familyid=2f4118fd-1ffb-46da-b922-cd4ca4f9d84e)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 및 Windows Vista 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=16f3ad21-ed77-4c32-93df-3b650b2b32a5)  
+[Windows Vista 및 Windows Vista 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=16f3ad21-ed77-4c32-93df-3b650b2b32a5)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Media 인코더 9 시리즈](http://www.microsoft.com/downloads/details.aspx?familyid=99beebc4-553a-46f8-8245-e3d932306c93)  
+[Windows Media 인코더 9 시리즈](https://www.microsoft.com/download/details.aspx?familyid=99beebc4-553a-46f8-8245-e3d932306c93)  
 (긴급)
 </td>
 </tr>
@@ -363,17 +363,17 @@ Windows Vista 및 Windows Vista 서비스 팩 1
 Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Windows Media Player 11](http://www.microsoft.com/downloads/details.aspx?familyid=334352e7-d41f-494f-866d-f1f1745ffd17)  
+[Windows Media Player 11](https://www.microsoft.com/download/details.aspx?familyid=334352e7-d41f-494f-866d-f1f1745ffd17)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=aa47d016-f5c9-4586-8876-f1f4f255f54d)  
+[Windows Vista x64 Edition 및 Windows Vista x64 Edition 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=aa47d016-f5c9-4586-8876-f1f4f255f54d)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Media 인코더 9 시리즈](http://www.microsoft.com/downloads/details.aspx?familyid=99beebc4-553a-46f8-8245-e3d932306c93)  
+[Windows Media 인코더 9 시리즈](https://www.microsoft.com/download/details.aspx?familyid=99beebc4-553a-46f8-8245-e3d932306c93)  
 (긴급)  
-[Windows Media 인코더 9 시리즈 x64 Edition](http://www.microsoft.com/downloads/details.aspx?familyid=54d1279a-7f26-4727-a39d-5505bcd4fc53)  
+[Windows Media 인코더 9 시리즈 x64 Edition](https://www.microsoft.com/download/details.aspx?familyid=54d1279a-7f26-4727-a39d-5505bcd4fc53)  
 (긴급)
 </td>
 </tr>
@@ -415,15 +415,15 @@ Windows Server 2008
 Windows Server 2008(32비트 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Media Player 11](http://www.microsoft.com/downloads/details.aspx?familyid=72fc6028-6af4-44ec-8d2a-28c53807d6bc)\*  
+[Windows Media Player 11](https://www.microsoft.com/download/details.aspx?familyid=72fc6028-6af4-44ec-8d2a-28c53807d6bc)\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(32비트 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=23bd3be5-cc66-46f8-9420-49d65d8afe1d)\*  
+[Windows Server 2008(32비트 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=23bd3be5-cc66-46f8-9420-49d65d8afe1d)\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Media 인코더 9 시리즈](http://www.microsoft.com/downloads/details.aspx?familyid=5434ca66-5a6b-4517-92fb-72dea0a172ec)\*  
+[Windows Media 인코더 9 시리즈](https://www.microsoft.com/download/details.aspx?familyid=5434ca66-5a6b-4517-92fb-72dea0a172ec)\*  
 (보통)
 </td>
 </tr>
@@ -432,17 +432,17 @@ Windows Server 2008(32비트 시스템용)
 Windows Server 2008(x64 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
-[Windows Media Player 11](http://www.microsoft.com/downloads/details.aspx?familyid=3906512b-26db-473e-b522-3883ff34a21c)\*  
+[Windows Media Player 11](https://www.microsoft.com/download/details.aspx?familyid=3906512b-26db-473e-b522-3883ff34a21c)\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(x64 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=7f1e0f05-6c9d-4ad1-9b19-50ee4fa7bd7e)\*  
+[Windows Server 2008(x64 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=7f1e0f05-6c9d-4ad1-9b19-50ee4fa7bd7e)\*  
 (긴급)
 </td>
 <td style="border:1px solid black;">
-[Windows Media 인코더 9 시리즈](http://www.microsoft.com/downloads/details.aspx?familyid=5434ca66-5a6b-4517-92fb-72dea0a172ec)\*  
+[Windows Media 인코더 9 시리즈](https://www.microsoft.com/download/details.aspx?familyid=5434ca66-5a6b-4517-92fb-72dea0a172ec)\*  
 (보통)  
-[Windows Media 인코더 9 시리즈 x64 Edition](http://www.microsoft.com/downloads/details.aspx?familyid=e30f9427-26d0-4e86-b9b8-bc637c3b5734)\*  
+[Windows Media 인코더 9 시리즈 x64 Edition](https://www.microsoft.com/download/details.aspx?familyid=e30f9427-26d0-4e86-b9b8-bc637c3b5734)\*  
 (보통)
 </td>
 </tr>
@@ -454,7 +454,7 @@ Windows Server 2008(Itanium 기반 시스템용)
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=5159bdba-3825-4816-a2be-ab035332b9e2)  
+[Windows Server 2008(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=5159bdba-3825-4816-a2be-ab035332b9e2)  
 (긴급)
 </td>
 <td style="border:1px solid black;">
@@ -510,12 +510,12 @@ Microsoft Office 제품군, 시스템 및 구성 요소
 Microsoft Office XP 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=ef3de64c-fc17-4500-9da4-a3bba97fda6d)  
+[Microsoft Office XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=ef3de64c-fc17-4500-9da4-a3bba97fda6d)  
 (KB953405)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office XP 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=ef3de64c-fc17-4500-9da4-a3bba97fda6d)  
+[Microsoft Office XP 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=ef3de64c-fc17-4500-9da4-a3bba97fda6d)  
 (KB953405)  
 (중요)
 </td>
@@ -525,18 +525,18 @@ Microsoft Office XP 서비스 팩 3
 Microsoft Office 2003 서비스 팩 2 및 Microsoft Office 2003 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=e9f8e309-d721-4bab-b485-5eede8d49eb8)  
+[Microsoft Office 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=e9f8e309-d721-4bab-b485-5eede8d49eb8)  
 (KB954478)  
 (중요)  
-[Microsoft Office 2003 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?displaylang=ko&familyid=e9f8e309-d721-4bab-b485-5eede8d49eb8)  
+[Microsoft Office 2003 서비스 팩 3](https://www.microsoft.com/download/details.aspx?displaylang=ko&familyid=e9f8e309-d721-4bab-b485-5eede8d49eb8)  
 (KB954478)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2003 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=e670ad22-d3c1-41f7-ba30-6a67139feaa3)  
+[Microsoft Office 2003 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=e670ad22-d3c1-41f7-ba30-6a67139feaa3)  
 (KB953404)  
 (중요)  
-[Microsoft Office 2003 서비스 팩 3](http://www.microsoft.com/downloads/details.aspx?familyid=e670ad22-d3c1-41f7-ba30-6a67139feaa3)  
+[Microsoft Office 2003 서비스 팩 3](https://www.microsoft.com/download/details.aspx?familyid=e670ad22-d3c1-41f7-ba30-6a67139feaa3)  
 (KB953404)  
 (중요)
 </td>
@@ -546,18 +546,18 @@ Microsoft Office 2003 서비스 팩 2 및 Microsoft Office 2003 서비스 팩 3
 2007 Microsoft Office 시스템 및 2007 Microsoft Office 시스템 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[2007 Microsoft Office System](http://www.microsoft.com/downloads/details.aspx?familyid=4b656fe8-6253-490c-a81a-e4e8f0bb58d2)  
+[2007 Microsoft Office System](https://www.microsoft.com/download/details.aspx?familyid=4b656fe8-6253-490c-a81a-e4e8f0bb58d2)  
 (KB954326)  
 (중요)  
-[2007 Microsoft Office System 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?displaylang=ko&familyid=4b656fe8-6253-490c-a81a-e4e8f0bb58d2)  
+[2007 Microsoft Office System 서비스 팩 1](https://www.microsoft.com/download/details.aspx?displaylang=ko&familyid=4b656fe8-6253-490c-a81a-e4e8f0bb58d2)  
 (KB954326)  
 (중요)
 </td>
 <td style="border:1px solid black;">
-[2007 Microsoft Office System](http://www.microsoft.com/downloads/details.aspx?familyid=fb457536-26c5-428b-97e4-1fc13718266e)  
+[2007 Microsoft Office System](https://www.microsoft.com/download/details.aspx?familyid=fb457536-26c5-428b-97e4-1fc13718266e)  
 (KB951944)  
 (중요)  
-[2007 Microsoft Office System 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=fb457536-26c5-428b-97e4-1fc13718266e)  
+[2007 Microsoft Office System 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=fb457536-26c5-428b-97e4-1fc13718266e)  
 (KB951944)  
 (중요)
 </td>
@@ -594,7 +594,7 @@ Microsoft Office 2003 서비스 팩 2 및 Microsoft Office 2003 서비스 팩 3
 Microsoft Office Project 2002 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Project 2002 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?displaylang=ko&familyid=ef3de64c-fc17-4500-9da4-a3bba97fda6d)  
+[Microsoft Office Project 2002 서비스 팩 1](https://www.microsoft.com/download/details.aspx?displaylang=ko&familyid=ef3de64c-fc17-4500-9da4-a3bba97fda6d)  
 (KB953405)\*  
 (중요)
 </td>
@@ -607,7 +607,7 @@ Microsoft Office Project 2002 서비스 팩 1
 Microsoft Visio 2002 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Visio 2002 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=a6d9d3ef-f087-4f61-9ec1-522b7d4b9c48)  
+[Microsoft Visio 2002 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=a6d9d3ef-f087-4f61-9ec1-522b7d4b9c48)  
 (KB954479)  
 (중요)
 </td>
@@ -620,7 +620,7 @@ Microsoft Visio 2002 서비스 팩 2
 Microsoft Office Word Viewer, Microsoft Word Viewer 2003, Microsoft Word Viewer 2003 서비스 팩 3, Microsoft Office Excel Viewer 2003, Microsoft Office Excel Viewer 2003 서비스 팩 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Word Viewer, Microsoft Word Viewer 2003, Microsoft Word Viewer 2003 서비스 팩 3, Microsoft Office Excel Viewer 2003, Microsoft Office Excel Viewer 2003 서비스 팩 3, Microsoft Visio 2003 Viewer](http://www.microsoft.com/downloads/details.aspx?displaylang=ko&familyid=e9f8e309-d721-4bab-b485-5eede8d49eb8)  
+[Microsoft Office Word Viewer, Microsoft Word Viewer 2003, Microsoft Word Viewer 2003 서비스 팩 3, Microsoft Office Excel Viewer 2003, Microsoft Office Excel Viewer 2003 서비스 팩 3, Microsoft Visio 2003 Viewer](https://www.microsoft.com/download/details.aspx?displaylang=ko&familyid=e9f8e309-d721-4bab-b485-5eede8d49eb8)  
 (KB954478)\*\*  
 (중요)
 </td>
@@ -633,7 +633,7 @@ Microsoft Office Word Viewer, Microsoft Word Viewer 2003, Microsoft Word Viewer 
 Microsoft Office PowerPoint Viewer 2003
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office PowerPoint Viewer 2003](http://www.microsoft.com/downloads/details.aspx?displaylang=ko&familyid=cd503f08-1831-45ff-bdf4-dd918ca40505)  
+[Microsoft Office PowerPoint Viewer 2003](https://www.microsoft.com/download/details.aspx?displaylang=ko&familyid=cd503f08-1831-45ff-bdf4-dd918ca40505)  
 (KB956500)  
 (중요)
 </td>
@@ -646,7 +646,7 @@ Microsoft Office PowerPoint Viewer 2003
 Microsoft Office Excel Viewer, Microsoft Office PowerPoint Viewer 2007, Microsoft Office PowerPoint Viewer 2007 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel Viewer, Microsoft Office PowerPoint Viewer 2007, Microsoft Office PowerPoint Viewer 2007 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?displaylang=ko&familyid=4b656fe8-6253-490c-a81a-e4e8f0bb58d2)  
+[Microsoft Office Excel Viewer, Microsoft Office PowerPoint Viewer 2007, Microsoft Office PowerPoint Viewer 2007 서비스 팩 1](https://www.microsoft.com/download/details.aspx?displaylang=ko&familyid=4b656fe8-6253-490c-a81a-e4e8f0bb58d2)  
 (KB954326)\*\*\*  
 (중요)
 </td>
@@ -659,7 +659,7 @@ Microsoft Office Excel Viewer, Microsoft Office PowerPoint Viewer 2007, Microsof
 Word, Excel, PowerPoint 2007 파일 형식용 Microsoft Office 호환 기능 팩 및 Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 1용 Microsoft Office 호환 기능 팩
 </td>
 <td style="border:1px solid black;">
-[Word, Excel, PowerPoint 2007 파일 형식용 Microsoft Office 호환 기능 팩 및 Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 1용 Microsoft Office 호환 기능 팩](http://www.microsoft.com/downloads/details.aspx?familyid=4b656fe8-6253-490c-a81a-e4e8f0bb58d2)  
+[Word, Excel, PowerPoint 2007 파일 형식용 Microsoft Office 호환 기능 팩 및 Word, Excel, PowerPoint 2007 파일 형식 서비스 팩 1용 Microsoft Office 호환 기능 팩](https://www.microsoft.com/download/details.aspx?familyid=4b656fe8-6253-490c-a81a-e4e8f0bb58d2)  
 (KB954326)\*\*\*  
 (중요)
 </td>
@@ -672,7 +672,7 @@ Word, Excel, PowerPoint 2007 파일 형식용 Microsoft Office 호환 기능 팩
 Microsoft Expression Web 및 Microsoft Expression Web 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Expression Web 및 Microsoft Expression Web 2](http://www.microsoft.com/downloads/details.aspx?familyid=4b656fe8-6253-490c-a81a-e4e8f0bb58d2)  
+[Microsoft Expression Web 및 Microsoft Expression Web 2](https://www.microsoft.com/download/details.aspx?familyid=4b656fe8-6253-490c-a81a-e4e8f0bb58d2)  
 (KB954326)\*\*\*  
 (중요)
 </td>
@@ -685,7 +685,7 @@ Microsoft Expression Web 및 Microsoft Expression Web 2
 Microsoft Office Groove 2007 및 Microsoft Office Groove 2007 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Groove 2007 및 Microsoft Office Groove 2007 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=4b656fe8-6253-490c-a81a-e4e8f0bb58d2)  
+[Microsoft Office Groove 2007 및 Microsoft Office Groove 2007 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=4b656fe8-6253-490c-a81a-e4e8f0bb58d2)  
 (KB954326)\*\*\*  
 (중요)
 </td>
@@ -698,7 +698,7 @@ Microsoft Office Groove 2007 및 Microsoft Office Groove 2007 서비스 팩 1
 Microsoft Works
 </td>
 <td style="border:1px solid black;">
-[Microsoft Works 8](http://www.microsoft.com/downloads/details.aspx?familyid=eb0d224e-a517-40d9-9fc6-2345fa12a841)  
+[Microsoft Works 8](https://www.microsoft.com/download/details.aspx?familyid=eb0d224e-a517-40d9-9fc6-2345fa12a841)  
 (KB956483)  
 (중요)
 </td>
@@ -711,7 +711,7 @@ Microsoft Works
 Microsoft Digital Image Suite 2006
 </td>
 <td style="border:1px solid black;">
-[Microsoft Digital Image Suite 2006](http://www.microsoft.com/downloads/details.aspx?familyid=04afd760-8173-4069-9e82-d3bf053d9eae)  
+[Microsoft Digital Image Suite 2006](https://www.microsoft.com/download/details.aspx?familyid=04afd760-8173-4069-9e82-d3bf053d9eae)  
 (KB955992)  
 (긴급)
 </td>
@@ -727,10 +727,10 @@ Microsoft Office OneNote 2007
 해당 사항 없음
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office OneNote 2007](http://www.microsoft.com/downloads/details.aspx?familyid=8ac3576c-7873-4ac6-8bbc-033f6a7bb395)  
+[Microsoft Office OneNote 2007](https://www.microsoft.com/download/details.aspx?familyid=8ac3576c-7873-4ac6-8bbc-033f6a7bb395)  
 (KB950130)  
 (긴급)  
-[Microsoft Office OneNote 2007 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=8ac3576c-7873-4ac6-8bbc-033f6a7bb395)  
+[Microsoft Office OneNote 2007 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=8ac3576c-7873-4ac6-8bbc-033f6a7bb395)  
 (KB950130)  
 (긴급)
 </td>
@@ -783,7 +783,7 @@ SQL Server 2000 Reporting Services 서비스 팩 2
 GDR 업데이트:  
 해당 사항 없음  
 QFE 업데이트:  
-[SQL Server 2000 Reporting Services 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=5f9e7f78-7439-414b-a9dc-a779b89427db)  
+[SQL Server 2000 Reporting Services 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=5f9e7f78-7439-414b-a9dc-a779b89427db)  
 (KB954609)  
 (긴급)
 </td>
@@ -794,11 +794,11 @@ SQL Server 2005 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
 GDR 업데이트:  
-[SQL Server 2005 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=4603c722-2468-4adb-b945-2ed0458b8f47)  
+[SQL Server 2005 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=4603c722-2468-4adb-b945-2ed0458b8f47)  
 (KB954606)  
 (긴급)  
 QFE 업데이트:  
-[SQL Server 2005 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=5148b887-f323-4adb-9721-61e1c0cfd213)  
+[SQL Server 2005 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=5148b887-f323-4adb-9721-61e1c0cfd213)  
 (KB954607)  
 (긴급)
 </td>
@@ -809,11 +809,11 @@ SQL Server 2005 x64 Edition 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
 GDR 업데이트:  
-[SQL Server 2005 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=4603c722-2468-4adb-b945-2ed0458b8f47)  
+[SQL Server 2005 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=4603c722-2468-4adb-b945-2ed0458b8f47)  
 (KB954606)  
 (긴급)  
 QFE 업데이트:  
-[SQL Server 2005 x64 Edition 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=5148b887-f323-4adb-9721-61e1c0cfd213)  
+[SQL Server 2005 x64 Edition 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=5148b887-f323-4adb-9721-61e1c0cfd213)  
 (KB954607)  
 (긴급)
 </td>
@@ -824,11 +824,11 @@ SQL Server 2005 서비스 팩 2(Itanium 기반 시스템용)
 </td>
 <td style="border:1px solid black;">
 GDR 업데이트:  
-[SQL Server 2005 서비스 팩 2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=4603c722-2468-4adb-b945-2ed0458b8f47)  
+[SQL Server 2005 서비스 팩 2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=4603c722-2468-4adb-b945-2ed0458b8f47)  
 (KB954606)  
 (긴급)  
 QFE 업데이트:  
-[SQL Server 2005 서비스 팩 2(Itanium 기반 시스템용)](http://www.microsoft.com/downloads/details.aspx?familyid=5148b887-f323-4adb-9721-61e1c0cfd213)  
+[SQL Server 2005 서비스 팩 2(Itanium 기반 시스템용)](https://www.microsoft.com/download/details.aspx?familyid=5148b887-f323-4adb-9721-61e1c0cfd213)  
 (KB954607)  
 (긴급)
 </td>
@@ -873,7 +873,7 @@ Microsoft Visual Studio
 Microsoft Visual Studio .NET 2002 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Microsoft Visual Studio .NET 2002 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=7848a652-4025-44bb-9c98-37a078b56d01)  
+[Microsoft Visual Studio .NET 2002 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=7848a652-4025-44bb-9c98-37a078b56d01)  
 (KB947736)  
 (심각도 없음)
 </td>
@@ -883,7 +883,7 @@ Microsoft Visual Studio .NET 2002 서비스 팩 1
 Microsoft Visual Studio .NET 2003 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Microsoft Visual Studio .NET 2003 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=9bc1e8f8-6c30-4aa0-90f5-fbb0ad5fd90e)  
+[Microsoft Visual Studio .NET 2003 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=9bc1e8f8-6c30-4aa0-90f5-fbb0ad5fd90e)  
 (KB947737)  
 (심각도 없음)
 </td>
@@ -893,7 +893,7 @@ Microsoft Visual Studio .NET 2003 서비스 팩 1
 Microsoft Visual Studio 2005 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-[Microsoft Visual Studio 2005 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=a7bf790b-3249-4ee8-9440-fa911ebbc08a)  
+[Microsoft Visual Studio 2005 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=a7bf790b-3249-4ee8-9440-fa911ebbc08a)  
 (KB947738)  
 (심각도 없음)
 </td>
@@ -903,7 +903,7 @@ Microsoft Visual Studio 2005 서비스 팩 1
 Microsoft Visual Studio 2008
 </td>
 <td style="border:1px solid black;">
-[Microsoft Visual Studio 2008](http://www.microsoft.com/downloads/details.aspx?familyid=a8c80b29-6d00-4949-a005-5d706122919a)  
+[Microsoft Visual Studio 2008](https://www.microsoft.com/download/details.aspx?familyid=a8c80b29-6d00-4949-a005-5d706122919a)  
 (KB952241)  
 (심각도 없음)
 </td>
@@ -913,7 +913,7 @@ Microsoft Visual Studio 2008
 Microsoft Report Viewer 2005 서비스 팩 1 재배포 가능 패키지
 </td>
 <td style="border:1px solid black;">
-[Microsoft Report Viewer 2005 서비스 팩 1 재배포 가능 패키지](http://www.microsoft.com/downloads/details.aspx?familyid=82833f27-081d-4b72-83ef-2836360a904d)  
+[Microsoft Report Viewer 2005 서비스 팩 1 재배포 가능 패키지](https://www.microsoft.com/download/details.aspx?familyid=82833f27-081d-4b72-83ef-2836360a904d)  
 (KB954765)  
 (긴급)
 </td>
@@ -923,7 +923,7 @@ Microsoft Report Viewer 2005 서비스 팩 1 재배포 가능 패키지
 Microsoft Report Viewer 2008 재배포 가능 패키지
 </td>
 <td style="border:1px solid black;">
-[Microsoft Report Viewer 2008 재배포 가능 패키지](http://www.microsoft.com/downloads/details.aspx?familyid=6ae0aa19-3e6c-474c-9d57-05b2347456b1)  
+[Microsoft Report Viewer 2008 재배포 가능 패키지](https://www.microsoft.com/download/details.aspx?familyid=6ae0aa19-3e6c-474c-9d57-05b2347456b1)  
 (KB954766)  
 (긴급)
 </td>
@@ -933,7 +933,7 @@ Microsoft Report Viewer 2008 재배포 가능 패키지
 Microsoft Visual FoxPro 8.0 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-Microsoft Windows 2000 서비스 팩 4에 설치된 [Microsoft Visual FoxPro 8.0 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=1f4371b9-b8be-4455-94d2-2304ee340543)  
+Microsoft Windows 2000 서비스 팩 4에 설치된 [Microsoft Visual FoxPro 8.0 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=1f4371b9-b8be-4455-94d2-2304ee340543)  
 (KB955368)  
 (심각도 없음)
 </td>
@@ -943,7 +943,7 @@ Microsoft Windows 2000 서비스 팩 4에 설치된 [Microsoft Visual FoxPro 8.0
 Microsoft Visual FoxPro 9.0 서비스 팩 1
 </td>
 <td style="border:1px solid black;">
-Microsoft Windows 2000 서비스 팩 4에 설치된 [Microsoft Visual FoxPro 9.0 서비스 팩 1](http://www.microsoft.com/downloads/details.aspx?familyid=49b21e30-722d-446e-9020-aceb3870db69)  
+Microsoft Windows 2000 서비스 팩 4에 설치된 [Microsoft Visual FoxPro 9.0 서비스 팩 1](https://www.microsoft.com/download/details.aspx?familyid=49b21e30-722d-446e-9020-aceb3870db69)  
 (KB955369)  
 (심각도 없음)
 </td>
@@ -953,7 +953,7 @@ Microsoft Windows 2000 서비스 팩 4에 설치된 [Microsoft Visual FoxPro 9.0
 Microsoft Visual FoxPro 9.0 서비스 팩 2
 </td>
 <td style="border:1px solid black;">
-Microsoft Windows 2000 서비스 팩 4에 설치된 [Microsoft Visual FoxPro 9.0 서비스 팩 2](http://www.microsoft.com/downloads/details.aspx?familyid=36957f47-9d8b-477d-bd60-5959e5a2eafa)  
+Microsoft Windows 2000 서비스 팩 4에 설치된 [Microsoft Visual FoxPro 9.0 서비스 팩 2](https://www.microsoft.com/download/details.aspx?familyid=36957f47-9d8b-477d-bd60-5959e5a2eafa)  
 (KB955370)  
 (심각도 없음)
 </td>
@@ -963,7 +963,7 @@ Microsoft Windows 2000 서비스 팩 4에 설치된 [Microsoft Visual FoxPro 9.0
 Microsoft Platform SDK 재배포 가능 파일: GDI+
 </td>
 <td style="border:1px solid black;">
-[Microsoft Platform SDK 재배포 가능 파일: GDI+](http://www.microsoft.com/downloads/details.aspx?familyid=6a63ab9c-df12-4d41-933c-be590feaa05a)  
+[Microsoft Platform SDK 재배포 가능 파일: GDI+](https://www.microsoft.com/download/details.aspx?familyid=6a63ab9c-df12-4d41-933c-be590feaa05a)  
 (심각도 없음)
 </td>
 </tr>
@@ -1007,7 +1007,7 @@ Microsoft Forefront Security
 Microsoft Forefront Client Security 1.0
 </td>
 <td style="border:1px solid black;">
-Microsoft Windows 2000 서비스 팩 4에 설치된 [Microsoft Forefront Client Security 1.0](http://www.microsoft.com/downloads/details.aspx?familyid=1eb1a79f-44ca-499e-90bb-ac51894e9d1e)  
+Microsoft Windows 2000 서비스 팩 4에 설치된 [Microsoft Forefront Client Security 1.0](https://www.microsoft.com/download/details.aspx?familyid=1eb1a79f-44ca-499e-90bb-ac51894e9d1e)  
 (KB957177)  
 (중요)
 </td>
@@ -1049,7 +1049,7 @@ Microsoft Systems Management Server(SMS)는 기업에서 업데이트 관리를 
 
 **UCE(Update Compatibility Evaluator) 및 ACT(Application Compatibility Toolkit)**
 
-업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit) 5.0 (영문)](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
+업데이트는 응용 프로그램을 실행하는 데 필요한 같은 파일 및 레지스트리 설정에 기록하는 경우가 많습니다. 이에 따라 비호환성이 발생하고 보안 업데이트 배포 시간이 길어질 수 있습니다. [ACT(Application Compatibility Toolkit) 5.0 (영문)](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)에 포함된 [UCE(Update Compatibility Evaluator) (영문)](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 구성 요소를 사용하면 설치된 응용 프로그램에 대한 Windows 업데이트 테스트 및 유효성 검사를 능률화할 수 있습니다.
 
 ACT(Application Compatibility Toolkit)에는 Microsoft Windows Vista, Windows Update, Microsoft 보안 업데이트 또는 Windows Internet Explorer의 새 버전을 사용자 환경에 배포하기 전에 응용 프로그램 호환성 문제점을 평가 및 완화하는 데 필요한 도구와 설명서가 들어 있습니다.
 
